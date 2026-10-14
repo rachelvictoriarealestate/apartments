@@ -1,0 +1,122 @@
+{
+ "alexan": {
+  "address": "700 E 11th St, Austin, TX",
+  "lat": 30.271046,
+  "lng": -97.733819
+ },
+ "river": {
+  "address": "700 River St, Austin, TX",
+  "lat": 30.25791,
+  "lng": -97.738547
+ },
+ "bowie": {
+  "address": "311 Bowie St, Austin, TX",
+  "lat": 30.269209,
+  "lng": -97.753002
+ },
+ "quincy": {
+  "address": "91 Red River St, Austin, TX",
+  "lat": 30.260801,
+  "lng": -97.738843
+ },
+ "skyline": {
+  "address": "1300 Spyglass Dr, Austin, TX",
+  "lat": 30.261235,
+  "lng": -97.786682
+ },
+ "colorado": {
+  "address": "415 Colorado St, Austin, TX",
+  "lat": 30.267087,
+  "lng": -97.744243
+ },
+ "a2nd": {
+  "address": "421 W 3rd St, Austin, TX",
+  "lat": 30.266283,
+  "lng": -97.748064
+ },
+ "a300": {
+  "address": "300 N Lamar Blvd, Austin, TX",
+  "lat": 30.269694,
+  "lng": -97.756218
+ },
+ "ass": {
+  "address": "1620 E Riverside Dr, Austin, TX",
+  "lat": 30.245262,
+  "lng": -97.730132
+ },
+ "adt": {
+  "address": "201 Lavaca St, Austin, TX",
+  "lat": 30.265295,
+  "lng": -97.746281
+ },
+ "gables": {
+  "address": "115 Sandra Muraida Way, Austin, TX",
+  "lat": 30.268115,
+  "lng": -97.754476
+ },
+ "hanover": {
+  "address": "215 Brazos St, Austin, TX",
+  "lat": 30.264521,
+  "lng": -97.742299
+ },
+ "clark": {
+  "address": "1301 W 5th St, Austin, TX",
+  "lat": 30.271758,
+  "lng": -97.760077
+ },
+ "waller": {
+  "address": "1104 Sabine St, Austin, TX",
+  "lat": 30.271043,
+  "lng": -97.734389
+ },
+ "rio404": {
+  "address": "404 Rio Grande St, Austin, TX",
+  "lat": 30.268678,
+  "lng": -97.750944
+ },
+ "elle": {
+  "address": "300 West Ave, Austin, TX",
+  "lat": 30.268108,
+  "lng": -97.751644
+ },
+ "northshore": {
+  "address": "110 San Antonio St, Austin, TX",
+  "lat": 30.265301,
+  "lng": -97.749512
+ },
+ "monarch": {
+  "address": "801 W 5th St, Austin, TX",
+  "lat": 30.269092,
+  "lng": -97.751835
+ },
+ "windsorlake": {
+  "address": "43 Rainey St, Austin, TX",
+  "lat": 30.255982,
+  "lng": -97.739515
+ },
+ "gablesrs": {
+  "address": "401 Guadalupe St, Austin, TX",
+  "lat": 30.267412,
+  "lng": -97.74666
+ },
+ "gablestower": {
+  "address": "111 Sandra Muraida Way, Austin, TX",
+  "lat": 30.267461,
+  "lng": -97.754239
+ },
+ "corazon": {
+  "address": "1000 E 5th St, Austin, TX",
+  "lat": 30.264495,
+  "lng": -97.732564
+ },
+ "saltillo": {
+  "address": "1211 E 5th St, Austin, TX",
+  "lat": 30.263284,
+  "lng": -97.731753
+ },
+ "skyhouse": {
+  "address": "51 Rainey St, Austin, TX",
+  "lat": 30.257295,
+  "lng": -97.739221
+ }
+}

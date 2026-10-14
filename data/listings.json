@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T19:24:33.216Z",
+ "updated": "2026-10-14T19:38:51.852Z",
  "communities": [
   {
    "id": "alexan",
@@ -11,7 +11,9 @@
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": "2026-10-14T18:11:59.146Z",
    "count": 7,
-   "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://alexanwaterloo.com/floorplans/\", waiting until \"domcontentloaded\"\n"
+   "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://alexanwaterloo.com/floorplans/\", waiting until \"domcontentloaded\"\n",
+   "lat": 30.271046,
+   "lng": -97.733819
   },
   {
    "id": "river",
@@ -23,7 +25,9 @@
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": "2026-10-14T18:11:59.146Z",
    "count": 21,
-   "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://700river.com/floorplans/\", waiting until \"domcontentloaded\"\n"
+   "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://700river.com/floorplans/\", waiting until \"domcontentloaded\"\n",
+   "lat": 30.25791,
+   "lng": -97.738547
   },
   {
    "id": "bowie",
@@ -35,7 +39,9 @@
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": "2026-10-14T18:11:59.146Z",
    "count": 15,
-   "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://liveatbowie.com/floorplans/\", waiting until \"domcontentloaded\"\n"
+   "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://liveatbowie.com/floorplans/\", waiting until \"domcontentloaded\"\n",
+   "lat": 30.269209,
+   "lng": -97.753002
   },
   {
    "id": "quincy",
@@ -47,7 +53,9 @@
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": "2026-10-14T18:11:59.146Z",
    "count": 11,
-   "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://quincyatx.com/floorplans/\", waiting until \"domcontentloaded\"\n"
+   "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://quincyatx.com/floorplans/\", waiting until \"domcontentloaded\"\n",
+   "lat": 30.260801,
+   "lng": -97.738843
   },
   {
    "id": "skyline",
@@ -59,7 +67,9 @@
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": "2026-10-13T17:00:00.000Z",
    "count": 9,
-   "error": "Site blocks automated visitors"
+   "error": "Site blocks automated visitors",
+   "lat": 30.261235,
+   "lng": -97.786682
   },
   {
    "id": "colorado",
@@ -70,7 +80,9 @@
    "status": "ok",
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": "2026-10-14T18:38:14.330Z",
-   "count": 11
+   "count": 11,
+   "lat": 30.267087,
+   "lng": -97.744243
   },
   {
    "id": "a2nd",
@@ -81,7 +93,9 @@
    "status": "ok",
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": "2026-10-14T18:38:14.330Z",
-   "count": 5
+   "count": 5,
+   "lat": 30.266283,
+   "lng": -97.748064
   },
   {
    "id": "a300",
@@ -92,7 +106,9 @@
    "status": "ok",
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": "2026-10-14T18:38:14.330Z",
-   "count": 7
+   "count": 7,
+   "lat": 30.269694,
+   "lng": -97.756218
   },
   {
    "id": "ass",
@@ -103,7 +119,9 @@
    "status": "ok",
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": "2026-10-14T18:38:14.330Z",
-   "count": 9
+   "count": 9,
+   "lat": 30.245262,
+   "lng": -97.730132
   },
   {
    "id": "adt",
@@ -114,7 +132,9 @@
    "status": "ok",
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": "2026-10-14T18:38:14.330Z",
-   "count": 5
+   "count": 5,
+   "lat": 30.265295,
+   "lng": -97.746281
   },
   {
    "id": "gables",
@@ -125,7 +145,9 @@
    "status": "ok",
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": "2026-10-14T18:38:14.330Z",
-   "count": 2
+   "count": 2,
+   "lat": 30.268115,
+   "lng": -97.754476
   },
   {
    "id": "hanover",
@@ -137,7 +159,9 @@
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": null,
    "count": 0,
-   "error": "Site blocks automated visitors"
+   "error": "Site blocks automated visitors",
+   "lat": 30.264521,
+   "lng": -97.742299
   },
   {
    "id": "clark",
@@ -148,7 +172,9 @@
    "status": "ok",
    "checked": "2026-10-14T18:38:14.330Z",
    "lastGood": "2026-10-14T18:38:14.330Z",
-   "count": 7
+   "count": 7,
+   "lat": 30.271758,
+   "lng": -97.760077
   },
   {
    "id": "waller",
@@ -159,7 +185,9 @@
    "status": "ok",
    "checked": "2026-10-14T19:24:33.216Z",
    "lastGood": "2026-10-14T19:24:33.216Z",
-   "count": 16
+   "count": 16,
+   "lat": 30.271043,
+   "lng": -97.734389
   },
   {
    "id": "rio404",
@@ -167,7 +195,9 @@
    "area": "West Downtown",
    "priceType": "total",
    "url": "https://www.404riogrande.com/floorplans/",
-   "status": "pending"
+   "status": "pending",
+   "lat": 30.268678,
+   "lng": -97.750944
   },
   {
    "id": "elle",
@@ -175,7 +205,9 @@
    "area": "West Downtown",
    "priceType": "total",
    "url": "https://www.ellewestave.com/floorplans/",
-   "status": "pending"
+   "status": "pending",
+   "lat": 30.268108,
+   "lng": -97.751644
   },
   {
    "id": "northshore",
@@ -183,7 +215,9 @@
    "area": "Downtown · Lakefront",
    "priceType": "total",
    "url": "https://www.northshoreaustin.com/floorplans/",
-   "status": "pending"
+   "status": "pending",
+   "lat": 30.265301,
+   "lng": -97.749512
   },
   {
    "id": "monarch",
@@ -194,7 +228,9 @@
    "status": "ok",
    "checked": "2026-10-14T19:24:33.216Z",
    "lastGood": "2026-10-14T19:24:33.216Z",
-   "count": 4
+   "count": 4,
+   "lat": 30.269092,
+   "lng": -97.751835
   },
   {
    "id": "windsorlake",
@@ -205,7 +241,9 @@
    "status": "ok",
    "checked": "2026-10-14T19:24:33.216Z",
    "lastGood": "2026-10-14T19:24:33.216Z",
-   "count": 8
+   "count": 8,
+   "lat": 30.255982,
+   "lng": -97.739515
   },
   {
    "id": "gablesrs",
@@ -216,7 +254,9 @@
    "status": "ok",
    "checked": "2026-10-14T19:24:33.216Z",
    "lastGood": "2026-10-14T19:24:33.216Z",
-   "count": 4
+   "count": 4,
+   "lat": 30.267412,
+   "lng": -97.74666
   },
   {
    "id": "gablestower",
@@ -227,7 +267,9 @@
    "status": "ok",
    "checked": "2026-10-14T19:24:33.216Z",
    "lastGood": "2026-10-14T19:24:33.216Z",
-   "count": 2
+   "count": 2,
+   "lat": 30.267461,
+   "lng": -97.754239
   },
   {
    "id": "corazon",
@@ -236,9 +278,11 @@
    "priceType": "total",
    "url": "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans",
    "status": "ok",
-   "checked": "2026-10-14T19:24:33.216Z",
-   "lastGood": "2026-10-14T19:24:33.216Z",
-   "count": 5
+   "checked": "2026-10-14T19:38:51.852Z",
+   "lastGood": "2026-10-14T19:38:51.852Z",
+   "count": 5,
+   "lat": 30.264495,
+   "lng": -97.732564
   },
   {
    "id": "saltillo",
@@ -249,7 +293,9 @@
    "note": "2 beds seen from $2,286",
    "status": "manual",
    "checked": "2026-10-14T19:24:33.216Z",
-   "count": 0
+   "count": 0,
+   "lat": 30.263284,
+   "lng": -97.731753
   },
   {
    "id": "skyhouse",
@@ -260,7 +306,9 @@
    "note": "2 beds seen from $3,136",
    "status": "manual",
    "checked": "2026-10-14T19:24:33.216Z",
-   "count": 0
+   "count": 0,
+   "lat": 30.257295,
+   "lng": -97.739221
   }
  ],
  "listings": [

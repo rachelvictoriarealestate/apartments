@@ -1,0 +1,255 @@
+{
+ "checked": "2026-10-14T19:11:43.259Z",
+ "results": [
+  {
+   "id": "skyhouse",
+   "name": "SkyHouse Austin",
+   "area": "Rainey Street",
+   "url": "https://www.simpsonpropertygroup.com/apartments/austin-texas/skyhouse-austin-rainey-street-downtown/apartment-floor-plans",
+   "finalUrl": "https://www.simpsonpropertygroup.com/apartments/austin-texas/skyhouse-austin-rainey-street-downtown/apartment-floor-plans",
+   "http": 403,
+   "platform": "simpson",
+   "status": "blocked",
+   "note": "Site blocks automated visitors"
+  },
+  {
+   "id": "windsorlake",
+   "name": "Windsor on the Lake",
+   "area": "Rainey Street",
+   "url": "https://www.windsorcommunities.com/properties/windsor-on-the-lake/floorplans/",
+   "finalUrl": "https://www.windsorcommunities.com/properties/windsor-on-the-lake/floorplans/",
+   "http": 200,
+   "platform": "rentcafe",
+   "status": "readable",
+   "priceCount": 17,
+   "twoBedFrom": 4836.14,
+   "note": "Prices visible"
+  },
+  {
+   "id": "paseo",
+   "name": "Paseo",
+   "area": "Rainey Street",
+   "url": "https://www.paseoaustin.com/",
+   "status": "error",
+   "note": "page.goto: net::ERR_CONNECTION_CLOSED at https://www.paseoaustin.com/"
+  },
+  {
+   "id": "travis",
+   "name": "The Travis",
+   "area": "Rainey Street · Lakefront",
+   "url": "https://www.thetravisaustin.com/",
+   "status": "error",
+   "note": "page.goto: net::ERR_CONNECTION_CLOSED at https://www.thetravisaustin.com/"
+  },
+  {
+   "id": "monarch",
+   "name": "The Monarch by Windsor",
+   "area": "Market District · West 5th",
+   "url": "https://www.windsorcommunities.com/properties/the-monarch-by-windsor/floorplans/",
+   "finalUrl": "https://www.windsorcommunities.com/properties/the-monarch-by-windsor/floorplans/",
+   "http": 200,
+   "platform": "rentcafe",
+   "status": "readable",
+   "priceCount": 8,
+   "twoBedFrom": 3984.14,
+   "note": "Prices visible"
+  },
+  {
+   "id": "elle",
+   "name": "Elle West Ave",
+   "area": "West Downtown",
+   "url": "https://www.ellewestave.com/floorplans/",
+   "finalUrl": "https://www.ellewestave.com/floorplans/",
+   "http": 200,
+   "platform": "jonah",
+   "status": "readable",
+   "priceCount": 5,
+   "twoBedFrom": null,
+   "note": "Prices visible"
+  },
+  {
+   "id": "rio404",
+   "name": "404 Rio Grande",
+   "area": "West Downtown",
+   "url": "https://www.404riogrande.com/floorplans/",
+   "finalUrl": "https://www.404riogrande.com/floorplans/",
+   "http": 200,
+   "platform": "jonah",
+   "status": "readable",
+   "priceCount": 4,
+   "twoBedFrom": 3476,
+   "note": "Prices visible"
+  },
+  {
+   "id": "sixg",
+   "name": "Residences at 6G",
+   "area": "West Downtown",
+   "url": "https://www.residencesat6g.com/",
+   "status": "error",
+   "note": "page.goto: net::ERR_CONNECTION_CLOSED at https://www.residencesat6g.com/"
+  },
+  {
+   "id": "hanoverrs",
+   "name": "Hanover Republic Square",
+   "area": "Warehouse District",
+   "url": "https://www.hanoverrepublicsquare.com/austin/hanover-republic-square/conventional/",
+   "finalUrl": "https://www.hanoverrepublicsquare.com/austin/hanover-republic-square/conventional/",
+   "http": 403,
+   "platform": "unknown",
+   "status": "blocked",
+   "note": "Site blocks automated visitors"
+  },
+  {
+   "id": "gablesrs",
+   "name": "Gables Republic Square",
+   "area": "Warehouse District",
+   "url": "https://www.gables.com/community/1104750",
+   "finalUrl": "https://www.gables.com/community/1104750",
+   "http": 200,
+   "platform": "rentcafe",
+   "status": "readable",
+   "priceCount": 8,
+   "twoBedFrom": 4075.21,
+   "note": "Prices visible"
+  },
+  {
+   "id": "gablestower",
+   "name": "Gables Park Tower",
+   "area": "Downtown · Seaholm",
+   "url": "https://www.gables.com/community/528448",
+   "finalUrl": "https://www.gables.com/community/528448",
+   "http": 200,
+   "platform": "rentcafe",
+   "status": "readable",
+   "priceCount": 6,
+   "twoBedFrom": 4261.75,
+   "note": "Prices visible"
+  },
+  {
+   "id": "northshore",
+   "name": "Northshore",
+   "area": "Downtown · Lakefront",
+   "url": "https://www.northshoreaustin.com/floorplans/",
+   "finalUrl": "https://www.northshoreaustin.com/floorplans/",
+   "http": 200,
+   "platform": "jonah",
+   "status": "readable",
+   "priceCount": 3,
+   "twoBedFrom": null,
+   "note": "Prices visible"
+  },
+  {
+   "id": "ashton",
+   "name": "The Ashton",
+   "area": "Downtown · Lakefront",
+   "url": "https://www.theashtonaustin.com/",
+   "status": "error",
+   "note": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.theashtonaustin.com/"
+  },
+  {
+   "id": "whitley",
+   "name": "The Whitley",
+   "area": "Downtown · 2nd Street",
+   "url": "https://www.thewhitleyaustin.com/",
+   "status": "error",
+   "note": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.thewhitleyaustin.com/"
+  },
+  {
+   "id": "sienna",
+   "name": "Sienna at the Thompson",
+   "area": "Downtown · Sixth Street",
+   "url": "https://www.siennaatthethompson.com/",
+   "status": "error",
+   "note": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.siennaatthethompson.com/"
+  },
+  {
+   "id": "beverly",
+   "name": "The Beverly at Medical Center",
+   "area": "Downtown · Red River",
+   "url": "https://www.thebeverlyaustin.com/floorplans",
+   "finalUrl": "https://www.thebeverlyaustin.com/floorplans",
+   "http": 403,
+   "platform": "unknown",
+   "status": "blocked",
+   "note": "Site blocks automated visitors"
+  },
+  {
+   "id": "waller",
+   "name": "The Waller",
+   "area": "Downtown · Waterloo",
+   "url": "https://www.greystar.com/properties/austin-tx/the-waller/floorplans",
+   "finalUrl": "https://www.greystar.com/the-waller-austin-tx/p_20583",
+   "http": 200,
+   "platform": "rentcafe",
+   "status": "readable",
+   "priceCount": 78,
+   "twoBedFrom": null,
+   "note": "Prices visible"
+  },
+  {
+   "id": "fifthcommons",
+   "name": "5th Street Commons",
+   "area": "Clarksville · West End",
+   "url": "https://www.greystar.com/properties/austin-tx/5th-street-commons-apartments/floorplans",
+   "finalUrl": "https://www.greystar.com/5th-street-commons-apartments-austin-tx/p_11765",
+   "http": 200,
+   "platform": "rentcafe",
+   "status": "no-prices",
+   "note": "Page loads but shows no prices here"
+  },
+  {
+   "id": "corazon",
+   "name": "Corazon",
+   "area": "East Downtown",
+   "url": "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans",
+   "finalUrl": "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans?xdtid=4ab9731d-e672-4755-82b2-28c105b61954#/",
+   "http": 200,
+   "platform": "rentcafe",
+   "status": "readable",
+   "priceCount": 6,
+   "twoBedFrom": null,
+   "note": "Prices visible"
+  },
+  {
+   "id": "saltillo",
+   "name": "Residences at Saltillo",
+   "area": "East Downtown · Plaza Saltillo",
+   "url": "https://residencesatsaltillo.securecafe.com/onlineleasing/residences-at-saltillo/floorplans.aspx",
+   "finalUrl": "https://residencesatsaltillo.securecafe.com/onlineleasing/residences-at-saltillo/floorplans.aspx",
+   "http": 403,
+   "platform": "rentcafe",
+   "status": "blocked",
+   "note": "Site blocks automated visitors"
+  },
+  {
+   "id": "arnold",
+   "name": "The Arnold",
+   "area": "East Downtown · East 6th",
+   "url": "https://www.thearnoldaustin.com/",
+   "status": "error",
+   "note": "page.goto: Timeout 45000ms exceeded."
+  },
+  {
+   "id": "catherine",
+   "name": "The Catherine",
+   "area": "Bouldin Creek · South 1st",
+   "url": "https://thecatherineaustin.com/floorplans",
+   "finalUrl": "https://thecatherineaustin.com/floorplans",
+   "http": 200,
+   "platform": "sightmap",
+   "status": "no-prices",
+   "note": "Page loads but shows no prices here"
+  },
+  {
+   "id": "lamarunion",
+   "name": "Lamar Union",
+   "area": "Zilker · South Lamar",
+   "url": "https://www.lamarunion.com/floorplans",
+   "finalUrl": "https://www.lamarunion.com/floorplans",
+   "http": 403,
+   "platform": "unknown",
+   "status": "blocked",
+   "note": "Site blocks automated visitors"
+  }
+ ]
+}

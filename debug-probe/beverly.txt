@@ -1,0 +1,11 @@
+URL https://www.thebeverlyaustin.com/floorplans
+HTTP 403
+
+www.thebeverlyaustin.com
+Performing security verification
+
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+
+Ray ID: a4a8e07d3ff2cb8a
+Performance and Security by Cloudflare
+Privacy

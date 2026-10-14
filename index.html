@@ -383,14 +383,14 @@ function updateMap(rows) {
   }
   const pts = [];
   for (const e of byC.values()) {
-    const m = L.marker([e.c.lat, e.c.lng], { icon: L.divIcon({ className: "pin" + (e.saved ? " saved" : ""), html: `<span>${shortMoney(e.min)}</span>`, iconSize: null }), keyboard: true, title: e.c.name });
+    const m = L.marker([e.c.lat, e.c.lng], { icon: L.divIcon({ className: "pin" + (e.saved ? " saved" : ""), html: `<span>${shortMoney(e.min)}</span>`, iconSize: null }), keyboard: true, title: e.c.name, riseOnHover: true });
     m.bindPopup(`<b>${esc(e.c.name)}</b><br>${esc(e.c.area)}<br>From ${shortMoney(e.min)} · ${e.n} ${e.n === 1 ? "option" : "options"}<br><button data-goto="${esc(e.c.id)}">See listings</button>`);
     m.addTo(pinLayer); pts.push([e.c.lat, e.c.lng]);
   }
   for (const c of (DATA && DATA.manual) || []) {
     if (c.lat == null) continue;
     const id = c.id + "|by hand|";
-    const m = L.marker([c.lat, c.lng], { icon: L.divIcon({ className: "pin manual" + (saved.has(id) ? " saved" : ""), html: `<span>Ask Rachel</span>`, iconSize: null }), title: c.name });
+    const m = L.marker([c.lat, c.lng], { icon: L.divIcon({ className: "pin manual" + (saved.has(id) ? " saved" : ""), html: `<span>Ask Rachel</span>`, iconSize: null }), title: c.name, riseOnHover: true });
     m.bindPopup(`<b>${esc(c.name)}</b><br>${esc(c.area)}<br>${esc(c.note || "Rachel checks this one by hand")}<br><button data-goto="${esc(c.id)}">See it</button>`);
     m.addTo(pinLayer); pts.push([c.lat, c.lng]);
   }

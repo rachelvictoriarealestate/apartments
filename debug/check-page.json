@@ -8,6 +8,11 @@
    "count: ok",
    "click pin: ok",
    "popup: ok",
+   "save pick: ok",
+   "open send: ok",
+   "fill form: ok",
+   "send: ok",
+   "status: ok",
    "width: ok",
    "shot: ok"
   ],
@@ -24,6 +29,7 @@
   ],
   "count": "11 apartments · 11 floorplans · 6 communities",
   "popup": "The Waller\nDowntown · Waterloo\nFrom $3,440 · 2 options\nSee listings",
+  "sendStatus": "Sent! I'll be in touch soon, Test.",
   "scrollWidth": 1280,
   "errors": []
  },

@@ -1,0 +1,12 @@
+{
+  "name": "apartments",
+  "private": true,
+  "type": "module",
+  "description": "Daily apartment availability for Rachel Victoria's clients",
+  "scripts": {
+    "refresh": "node scrape/run.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.48.2"
+  }
+}

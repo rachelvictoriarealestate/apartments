@@ -1,0 +1,402 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Rachel Victoria Apartment Search</title>
+<meta name="description" content="Live availability at Austin apartment communities. Save the floorplans you like and send them to Rachel.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: one scanning column of floorplan cards (image + unit rows) under a sticky filter bar; saved picks collect in a bottom tray. */
+:root{
+  --bg:#F4F6F5; --surface:#FFFFFF; --ink:#18201E; --muted:#5B6764; --line:#DCE2DF; --wash:#EEF2F0;
+  --accent:#1D6A5E; --accent-ink:#FFFFFF; --accent-soft:#E2EFEC;
+  --heart:#C2410C; --special:#8A5A00; --special-soft:#FBF1DC;
+  --display:"Young Serif", Georgia, "Times New Roman", serif;
+  --body:"Figtree", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#111715; --surface:#19211F; --ink:#E7EEEB; --muted:#9AA8A4; --line:#2B3633; --wash:#141C1A;
+  --accent:#5FBFAE; --accent-ink:#0D1513; --accent-soft:#1E3330;
+  --heart:#F08A5D; --special:#E8B755; --special-soft:#2E2715; color-scheme:dark}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
+img{max-width:100%}
+[hidden]{display:none!important}
+.wrap{max-width:900px;margin:0 auto;padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px))}
+header{padding-block:32px 20px}
+.eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+h1{font-family:var(--display);font-weight:400;font-size:clamp(28px,5vw,40px);line-height:1.1;margin:6px 0 10px;text-wrap:balance}
+.lede{color:var(--muted);max-width:62ch;margin:0}
+.lede strong{color:var(--ink);font-weight:600}
+.filters{position:sticky;top:env(safe-area-inset-top, 0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding-block:12px}
+.frow{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:flex-end}
+.fgroup{display:flex;flex-direction:column;gap:4px;min-width:0}
+.fgroup label,.fgroup .lbl{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font:inherit;font-size:14px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:6px 12px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+select,input[type=number],input[type=date],input[type=text],input[type=email],textarea{font:inherit;font-size:14px;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:7px 10px;max-width:100%}
+input[type=number]{width:120px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.count{font-size:13px;color:var(--muted);margin:14px 0 6px}
+.list{display:flex;flex-direction:column;gap:12px;padding-bottom:120px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.chead{display:grid;grid-template-columns:132px 1fr auto;gap:14px;padding:14px 16px;align-items:start}
+.thumb{width:132px;aspect-ratio:4/3;background:var(--wash);border-radius:8px;display:flex;align-items:center;justify-content:center;overflow:hidden;cursor:zoom-in;border:0;padding:0}
+.thumb img{width:100%;height:100%;object-fit:contain;background:#fff}
+.thumb.none{cursor:default;color:var(--muted);font-size:12px;text-align:center;padding:8px}
+.cmain{min-width:0}
+.comm{font-weight:700;font-size:16px}
+.area{color:var(--muted);font-size:13px}
+.spec{font-size:14px;margin-top:4px}
+.plan{font-family:var(--mono);font-size:13px;background:var(--accent-soft);color:var(--accent);padding:1px 6px;border-radius:4px;margin-right:6px}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.tag{font-size:12px;font-weight:600;padding:2px 8px;border-radius:999px;background:var(--special-soft);color:var(--special)}
+.tag.stale{background:var(--wash);color:var(--muted)}
+.from{text-align:right;font-variant-numeric:tabular-nums}
+.from .p{font-family:var(--display);font-size:22px;line-height:1.1}
+.from .l{font-size:12px;color:var(--muted)}
+.units{border-top:1px solid var(--line)}
+.urow{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:12px;align-items:center;padding:9px 16px;border-top:1px solid var(--line);font-variant-numeric:tabular-nums}
+.urow:first-child{border-top:0}
+.uid{font-weight:600}
+.usub{font-size:13px;color:var(--muted)}
+.uprice{text-align:right}
+.uprice b{font-size:16px}
+.uprice span{display:block;font-size:12px;color:var(--muted)}
+.now{color:var(--accent);font-weight:600}
+.more{font:inherit;font-size:14px;font-weight:600;color:var(--accent);background:none;border:0;padding:10px 16px;cursor:pointer;width:100%;text-align:left;border-top:1px solid var(--line)}
+.cfoot{display:flex;justify-content:flex-end;padding:8px 16px;border-top:1px solid var(--line);background:var(--wash)}
+.cfoot a{color:var(--accent);font-weight:600;font-size:14px;text-decoration:none}
+.cfoot a:hover{text-decoration:underline}
+.heart{font:inherit;font-size:13px;font-weight:600;display:inline-flex;align-items:center;gap:5px;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;padding:5px 10px;cursor:pointer;white-space:nowrap}
+.heart svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:2}
+.heart[aria-pressed="true"]{border-color:var(--heart);color:var(--heart)}
+.heart[aria-pressed="true"] svg{fill:var(--heart);stroke:var(--heart)}
+.empty{padding:32px 0;color:var(--muted);text-align:center}
+.tray{position:fixed;left:0;right:0;bottom:0;z-index:10;background:var(--surface);border-top:1px solid var(--line);box-shadow:0 -6px 20px rgba(0,0,0,.08);padding-bottom:env(safe-area-inset-bottom, 0px)}
+.tray .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:12px}
+.tray .n{font-weight:600}
+.btn{font:inherit;font-weight:700;font-size:15px;border:0;border-radius:10px;padding:10px 16px;background:var(--accent);color:var(--accent-ink);cursor:pointer;text-decoration:none;display:inline-block}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.sheet{position:fixed;inset:0;z-index:20;background:rgba(10,15,14,.5);display:flex;align-items:flex-end;justify-content:center}
+.panel{background:var(--surface);width:100%;max-width:640px;max-height:92%;overflow:auto;border-radius:16px 16px 0 0;padding:20px max(16px, env(safe-area-inset-right, 0px)) calc(20px + env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px))}
+.panel h2{font-family:var(--display);font-weight:400;font-size:24px;margin:0 0 4px}
+.panel p{color:var(--muted);margin:0 0 14px}
+.form{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.form .full{grid-column:1 / -1}
+.form label{font-size:12px;font-weight:600;color:var(--muted);display:block;margin-bottom:3px}
+.form input,.form textarea{width:100%}
+textarea{resize:vertical;min-height:64px}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.picklist{list-style:none;margin:14px 0;padding:0;border:1px solid var(--line);border-radius:8px;max-height:200px;overflow:auto}
+.picklist li{display:flex;justify-content:space-between;gap:10px;padding:8px 12px;border-top:1px solid var(--line);font-size:14px}
+.picklist li:first-child{border-top:0}
+.picklist button{font:inherit;font-size:12px;color:var(--muted);background:none;border:0;cursor:pointer;text-decoration:underline}
+.row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.status{font-size:14px;min-height:1.3em;margin-top:10px}
+.status.ok{color:var(--accent);font-weight:600}
+.status.err{color:var(--heart)}
+pre.msg{white-space:pre-wrap;word-break:break-word;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:12px;font-family:var(--body);font-size:13px;max-height:200px;overflow:auto}
+.lightbox{position:fixed;inset:0;z-index:30;background:rgba(10,15,14,.85);display:flex;align-items:center;justify-content:center;padding:max(16px, env(safe-area-inset-top, 0px)) max(16px, env(safe-area-inset-right, 0px)) max(16px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px));cursor:zoom-out}
+.lightbox img{max-height:100%;max-width:100%;background:#fff;border-radius:8px}
+footer{color:var(--muted);font-size:12px;padding-block:8px 24px;max-width:70ch}
+@media (max-width:600px){
+  .chead{grid-template-columns:96px 1fr}
+  .thumb{width:96px}
+  .from{grid-column:1 / -1;text-align:left;display:flex;gap:8px;align-items:baseline}
+  .urow{grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"id heart" "price price"}
+  .urow .uinfo{grid-area:id}.urow .heart{grid-area:heart}.urow .uprice{grid-area:price;text-align:left}
+  .uprice span{display:inline;margin-left:6px}
+  .form{grid-template-columns:1fr}
+}
+@media (prefers-reduced-motion:no-preference){.heart,.chip{transition:background .15s,color .15s,border-color .15s}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Rachel Victoria · Austin rentals</div>
+    <h1>Find your next apartment</h1>
+    <p class="lede">Live availability pulled straight from each community's own website every morning. Save the apartments you like, then send your picks to me. <strong>No account needed.</strong></p>
+  </header>
+</div>
+
+<div class="filters">
+  <div class="wrap">
+    <div class="frow">
+      <div class="fgroup">
+        <span class="lbl" id="bedsLbl">Bedrooms</span>
+        <div class="chips" role="group" aria-labelledby="bedsLbl" id="beds">
+          <button class="chip" data-b="0" aria-pressed="false">Studio</button>
+          <button class="chip" data-b="1" aria-pressed="false">1 bed</button>
+          <button class="chip" data-b="2" aria-pressed="false">2 bed</button>
+          <button class="chip" data-b="3" aria-pressed="false">3 bed</button>
+        </div>
+      </div>
+      <div class="fgroup"><label for="maxp">Max per month</label><input type="number" id="maxp" inputmode="numeric" step="100" min="0" placeholder="Any"></div>
+      <div class="fgroup"><label for="area">Area</label><select id="area"><option value="">All areas</option></select></div>
+      <div class="fgroup"><label for="movein">Move in by</label><input type="date" id="movein"></div>
+      <div class="fgroup"><label for="sort">Sort</label>
+        <select id="sort"><option value="price">Price: low to high</option><option value="sqft">Size: largest first</option><option value="soon">Soonest move-in</option><option value="community">Community</option></select>
+      </div>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="count" id="count" aria-live="polite">Loading today's availability…</div>
+  <div class="list" id="list"></div>
+  <footer id="foot">Prices and availability come from each community's website and change daily. I'll confirm the current price, specials, and fees before we tour. "Total monthly" includes base rent plus required monthly fees; "Starting at" is the community's advertised rent.</footer>
+</main>
+
+<div class="tray">
+  <div class="wrap">
+    <span class="n" id="trayN">No favorites yet</span>
+    <button class="btn" id="openSend" disabled>Send my picks</button>
+  </div>
+</div>
+
+<div class="sheet" id="sheet" hidden>
+  <div class="panel" role="dialog" aria-modal="true" aria-labelledby="sendTitle">
+    <h2 id="sendTitle">Send your picks to Rachel</h2>
+    <p>I'll check current pricing on each and reach out to set up tours.</p>
+    <form class="form" id="sendForm" novalidate>
+      <div><label for="fname">Your name</label><input type="text" id="fname" autocomplete="name" required></div>
+      <div><label for="femail">Your email</label><input type="email" id="femail" autocomplete="email" required></div>
+      <div><label for="fphone">Phone (optional)</label><input type="text" id="fphone" autocomplete="tel" inputmode="tel"></div>
+      <div><label for="fwhen">Ideal move-in</label><input type="text" id="fwhen" placeholder="e.g. early December"></div>
+      <div class="full"><label for="fnote">Anything else I should know?</label><textarea id="fnote" placeholder="Parking, pets, must-haves, tour availability…"></textarea></div>
+      <div class="hp" aria-hidden="true"><label for="fweb">Website</label><input type="text" id="fweb" tabindex="-1" autocomplete="off"></div>
+    </form>
+    <ul class="picklist" id="picklist"></ul>
+    <div class="row" id="sendRow">
+      <button class="btn" id="sendBtn" type="button">Send to Rachel</button>
+      <button class="btn ghost" id="closeSend" type="button">Back</button>
+    </div>
+    <div class="status" id="status" role="status"></div>
+    <div id="fallback" hidden>
+      <p>You can also copy your list and email it to <b style="user-select:all">rachelvictoriarealestate@gmail.com</b>.</p>
+      <pre class="msg" id="msg"></pre>
+      <div class="row"><button class="btn ghost" id="copyBtn" type="button">Copy my list</button><a class="btn ghost" id="mailBtn" href="#">Open in email</a></div>
+    </div>
+  </div>
+</div>
+
+<div class="lightbox" id="lightbox" hidden><img id="lbImg" alt=""></div>
+
+<script>
+// ---- Settings ----
+// Paste the Google Apps Script web app URL here once it's set up (see README). Leave "" to use copy/email instead.
+const SEND_URL = "";
+const RACHEL_EMAIL = "rachelvictoriarealestate@gmail.com";
+// ------------------
+
+const $ = (s) => document.querySelector(s);
+const money = (n) => "$" + Math.round(n).toLocaleString("en-US");
+const bedTxt = (b) => (b === 0 ? "Studio" : b == null ? "" : b + " bed");
+const fmtDate = (d) => new Date(d + "T12:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric" });
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const availText = (a) => (a === "now" ? "Available now" : a ? "Available " + fmtDate(a) : "Ask for move-in date");
+const availKey = (a) => (a === "now" ? "0000" : a || "9999");
+
+let DATA = null, COMM = {}, ROWS = [];
+let saved = new Set();
+try { saved = new Set(JSON.parse(localStorage.getItem("rv-saved") || "[]")); } catch (e) {}
+const persist = () => { try { localStorage.setItem("rv-saved", JSON.stringify([...saved])); } catch (e) {} };
+const state = { beds: new Set(), max: null, area: "", movein: "", sort: "price" };
+const expanded = new Set();
+
+fetch("data/listings.json", { cache: "no-store" })
+  .then((r) => r.json())
+  .then((d) => {
+    DATA = d;
+    d.communities.forEach((c) => (COMM[c.id] = c));
+    ROWS = d.listings.filter((r) => COMM[r.c]).map((r) => ({ ...r, id: [r.c, r.plan, r.unit || ""].join("|") }));
+    // drop saved picks that no longer exist
+    const ids = new Set(ROWS.map((r) => r.id));
+    saved = new Set([...saved].filter((id) => ids.has(id)));
+    persist();
+    [...new Set(d.communities.filter((c) => c.count).map((c) => c.area))].sort().forEach((a) => {
+      const o = document.createElement("option"); o.value = a; o.textContent = a; $("#area").appendChild(o);
+    });
+    const up = new Date(d.updated);
+    $("#foot").insertAdjacentText("afterbegin", "Updated " + up.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" }) + ". ");
+    render();
+  })
+  .catch(() => { $("#count").textContent = "Availability couldn't load. Please refresh the page in a minute."; });
+
+function passes(r) {
+  if (state.beds.size && !state.beds.has(r.beds)) return false;
+  if (state.max && r.price > state.max) return false;
+  if (state.area && COMM[r.c].area !== state.area) return false;
+  if (state.movein && r.available && r.available !== "now" && r.available > state.movein) return false;
+  return true;
+}
+
+function render() {
+  const rows = ROWS.filter(passes);
+  const groups = new Map();
+  for (const r of rows) {
+    const k = r.c + "|" + r.plan;
+    if (!groups.has(k)) groups.set(k, { key: k, c: r.c, plan: r.plan, rows: [] });
+    groups.get(k).rows.push(r);
+  }
+  const list = [...groups.values()];
+  list.forEach((g) => {
+    g.rows.sort((a, b) => a.price - b.price || availKey(a.available).localeCompare(availKey(b.available)));
+    g.min = g.rows[0].price;
+    g.sqft = Math.max(...g.rows.map((r) => r.sqft || 0));
+    g.soon = g.rows.map((r) => availKey(r.available)).sort()[0];
+  });
+  if (state.sort === "price") list.sort((a, b) => a.min - b.min);
+  else if (state.sort === "sqft") list.sort((a, b) => b.sqft - a.sqft);
+  else if (state.sort === "soon") list.sort((a, b) => a.soon.localeCompare(b.soon) || a.min - b.min);
+  else list.sort((a, b) => COMM[a.c].name.localeCompare(COMM[b.c].name) || a.min - b.min);
+
+  const nComm = new Set(list.map((g) => g.c)).size;
+  $("#count").textContent = `${rows.length} apartments · ${list.length} floorplans · ${nComm} ${nComm === 1 ? "community" : "communities"}`;
+  $("#list").innerHTML = list.length ? list.map(card).join("") : `<div class="empty">Nothing matches yet. Try a higher budget, another area, or a later move-in date.</div>`;
+  updateTray();
+}
+
+function heartBtn(id) {
+  const on = saved.has(id);
+  return `<button class="heart" data-id="${esc(id)}" aria-pressed="${on}" aria-label="${on ? "Remove from" : "Save to"} my picks"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.6-9.2C.9 8.4 3 4.5 6.7 4.5c2.1 0 3.6 1.2 4.3 2.4h2c.7-1.2 2.2-2.4 4.3-2.4 3.7 0 5.8 3.9 4.3 7.3C19.5 16.4 12 21 12 21z"/></svg>${on ? "Saved" : "Save"}</button>`;
+}
+
+function unitRow(r, pt) {
+  const label = r.unit ? "Apt #" + r.unit : r.units ? `${r.units} ${r.units === 1 ? "unit" : "units"} available` : "Units available";
+  const sub = [r.sqft ? r.sqft.toLocaleString() + " sq ft" : "", availText(r.available)].filter(Boolean);
+  const range = r.priceHigh && r.priceHigh !== r.price ? money(r.price) + "–" + money(r.priceHigh) : money(r.price);
+  const extra = [pt === "total" ? "total monthly" : "starting at", r.base ? "base " + money(r.base) : "", r.lease ? r.lease + "-mo lease" : ""].filter(Boolean).join(" · ");
+  return `<div class="urow"><div class="uinfo"><div class="uid">${esc(label)}</div><div class="usub">${sub.map((s) => (s === "Available now" ? `<span class="now">${s}</span>` : esc(s))).join(" · ")}</div></div>
+    <div class="uprice"><b>${range}</b><span>${extra}</span></div>${heartBtn(r.id)}</div>`;
+}
+
+function card(g) {
+  const c = COMM[g.c], r0 = g.rows[0];
+  const img = g.rows.find((r) => r.image)?.image;
+  const special = g.rows.find((r) => r.special)?.special;
+  const thumb = img
+    ? `<button class="thumb" data-img="${esc(img)}" aria-label="Enlarge ${esc(g.plan)} floorplan"><img src="${esc(img)}" alt="${esc(c.name)} ${esc(g.plan)} floorplan" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('none');this.parentNode.innerHTML='Floorplan on community site'"></button>`
+    : `<div class="thumb none">Floorplan on community site</div>`;
+  const sqfts = [...new Set(g.rows.map((r) => r.sqft).filter(Boolean))].sort((a, b) => a - b);
+  const sq = sqfts.length ? (sqfts.length > 1 ? sqfts[0].toLocaleString() + "–" + sqfts.at(-1).toLocaleString() : sqfts[0].toLocaleString()) + " sq ft" : "";
+  const stale = c.status === "stale" && c.lastGood ? `<span class="tag stale">Prices from ${new Date(c.lastGood).toLocaleDateString("en-US", { month: "short", day: "numeric" })}</span>` : "";
+  const showAll = expanded.has(g.key) || g.rows.length <= 3;
+  const visible = showAll ? g.rows : g.rows.slice(0, 3);
+  return `<article class="card">
+    <div class="chead">${thumb}
+      <div class="cmain"><div class="comm">${esc(c.name)}</div><div class="area">${esc(c.area)}</div>
+        <div class="spec"><span class="plan">${esc(g.plan)}</span>${[bedTxt(r0.beds), r0.baths != null ? r0.baths + " bath" : "", sq].filter(Boolean).join(" · ")}</div>
+        <div class="tags">${special ? `<span class="tag">${esc(special)}</span>` : ""}${stale}</div></div>
+      <div class="from"><div class="p">${money(g.min)}</div><div class="l">${c.priceType === "total" ? "total monthly" : "starting at"}${g.rows.length > 1 ? `<br>${g.rows.length} options` : ""}</div></div>
+    </div>
+    <div class="units">${visible.map((r) => unitRow(r, c.priceType)).join("")}</div>
+    ${showAll ? "" : `<button class="more" data-key="${esc(g.key)}">Show all ${g.rows.length} apartments</button>`}
+    <div class="cfoot"><a href="${esc(r0.url)}" target="_blank" rel="noopener">See it on ${esc(c.name)}'s site ↗</a></div>
+  </article>`;
+}
+
+function updateTray() {
+  const n = saved.size;
+  $("#trayN").textContent = n ? `${n} favorite${n === 1 ? "" : "s"} saved` : "No favorites yet";
+  $("#openSend").disabled = !n;
+}
+
+function picks() {
+  return ROWS.filter((r) => saved.has(r.id)).map((r) => {
+    const c = COMM[r.c];
+    return {
+      community: c.name, area: c.area, plan: r.plan, unit: r.unit || "",
+      layout: [bedTxt(r.beds), r.baths != null ? r.baths + " ba" : "", r.sqft ? r.sqft.toLocaleString() + " sq ft" : ""].filter(Boolean).join(" / "),
+      price: (r.priceHigh && r.priceHigh !== r.price ? money(r.price) + "–" + money(r.priceHigh) : money(r.price)) + "/mo" + (c.priceType === "total" ? " total" : ""),
+      available: availText(r.available), url: r.url,
+    };
+  });
+}
+
+function plainMessage() {
+  const p = picks(), v = (id) => $(id).value.trim();
+  const lines = [`Hi Rachel! Here are the apartments I'd like to see${v("#fname") ? " — " + v("#fname") : ""}.`, ""];
+  p.forEach((x, i) => lines.push(`${i + 1}. ${x.community} — ${x.plan}${x.unit ? " #" + x.unit : ""} (${x.layout}) ${x.price} · ${x.available}`));
+  lines.push("");
+  if (v("#fwhen")) lines.push("Move-in: " + v("#fwhen"));
+  if (v("#femail")) lines.push("Email: " + v("#femail"));
+  if (v("#fphone")) lines.push("Phone: " + v("#fphone"));
+  if (v("#fnote")) lines.push("Notes: " + v("#fnote"));
+  return lines.join("\n").trim();
+}
+
+function renderPicklist() {
+  $("#picklist").innerHTML = picks().map((x, i) => {
+    const id = ROWS.filter((r) => saved.has(r.id))[i].id;
+    return `<li><span>${esc(x.community)} · ${esc(x.plan)}${x.unit ? " #" + esc(x.unit) : ""} · ${esc(x.price)}</span><button data-remove="${esc(id)}">Remove</button></li>`;
+  }).join("");
+}
+
+function showFallback() {
+  $("#fallback").hidden = false;
+  const m = plainMessage();
+  $("#msg").textContent = m;
+  $("#mailBtn").href = "mailto:" + RACHEL_EMAIL + "?subject=" + encodeURIComponent("My apartment picks" + ($("#fname").value.trim() ? " — " + $("#fname").value.trim() : "")) + "&body=" + encodeURIComponent(m);
+}
+
+async function send() {
+  const name = $("#fname").value.trim(), email = $("#femail").value.trim();
+  const st = $("#status");
+  if (!name || !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) { st.className = "status err"; st.textContent = "Please add your name and a valid email so I can reach you."; return; }
+  if (!SEND_URL) { st.className = "status"; st.textContent = ""; showFallback(); return; }
+  $("#sendBtn").disabled = true; st.className = "status"; st.textContent = "Sending…";
+  try {
+    const res = await fetch(SEND_URL, { method: "POST", headers: { "Content-Type": "text/plain;charset=utf-8" },
+      body: JSON.stringify({ name, email, phone: $("#fphone").value.trim(), moveIn: $("#fwhen").value.trim(), note: $("#fnote").value.trim(), website: $("#fweb").value, picks: picks() }) });
+    const out = await res.json();
+    if (!out.ok) throw new Error(out.error || "not sent");
+    st.className = "status ok"; st.textContent = `Sent! I'll be in touch soon, ${name.split(" ")[0]}.`;
+    $("#sendRow").hidden = true;
+  } catch (e) {
+    $("#sendBtn").disabled = false;
+    st.className = "status err"; st.textContent = "That didn't go through. You can copy your list below and email it to me instead.";
+    showFallback();
+  }
+}
+
+// ---- events ----
+$("#beds").addEventListener("click", (e) => { const b = e.target.closest(".chip"); if (!b) return; const v = +b.dataset.b; state.beds.has(v) ? state.beds.delete(v) : state.beds.add(v); b.setAttribute("aria-pressed", state.beds.has(v)); render(); });
+$("#maxp").addEventListener("input", (e) => { state.max = +e.target.value || null; render(); });
+$("#area").addEventListener("change", (e) => { state.area = e.target.value; render(); });
+$("#movein").addEventListener("change", (e) => { state.movein = e.target.value; render(); });
+$("#sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
+$("#list").addEventListener("click", (e) => {
+  const h = e.target.closest(".heart");
+  if (h) { const id = h.dataset.id; saved.has(id) ? saved.delete(id) : saved.add(id); persist(); render(); return; }
+  const m = e.target.closest(".more");
+  if (m) { expanded.add(m.dataset.key); render(); return; }
+  const t = e.target.closest(".thumb[data-img]");
+  if (t) { $("#lbImg").src = t.dataset.img; $("#lightbox").hidden = false; }
+});
+$("#lightbox").addEventListener("click", () => ($("#lightbox").hidden = true));
+$("#openSend").addEventListener("click", () => { renderPicklist(); $("#status").textContent = ""; $("#fallback").hidden = true; $("#sendRow").hidden = false; $("#sendBtn").disabled = false; $("#sheet").hidden = false; $("#fname").focus(); });
+$("#closeSend").addEventListener("click", () => ($("#sheet").hidden = true));
+$("#sheet").addEventListener("click", (e) => { if (e.target.id === "sheet") $("#sheet").hidden = true; });
+$("#picklist").addEventListener("click", (e) => { const b = e.target.closest("[data-remove]"); if (!b) return; saved.delete(b.dataset.remove); persist(); render(); renderPicklist(); if (!saved.size) $("#sheet").hidden = true; });
+$("#sendBtn").addEventListener("click", send);
+$("#sendForm").addEventListener("submit", (e) => { e.preventDefault(); send(); });
+$("#sendForm").addEventListener("input", () => { if (!$("#fallback").hidden) showFallback(); });
+$("#copyBtn").addEventListener("click", () => {
+  const fallback = () => { const r = document.createRange(); r.selectNodeContents($("#msg")); const s = getSelection(); s.removeAllRanges(); s.addRange(r); $("#status").textContent = "Your list is selected. Copy it and paste it into an email to Rachel."; };
+  try { navigator.clipboard.writeText(plainMessage()).then(() => { $("#status").className = "status ok"; $("#status").textContent = "Copied. Paste it into an email to Rachel."; }, fallback); } catch (err) { fallback(); }
+});
+document.addEventListener("keydown", (e) => { if (e.key === "Escape") { $("#sheet").hidden = true; $("#lightbox").hidden = true; } });
+</script>
+</body>
+</html>

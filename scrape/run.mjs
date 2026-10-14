@@ -16,7 +16,12 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const today = new Date();
 
 async function open(page, url) {
-  await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
+  try {
+    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
+  } catch (e) {
+    await sleep(20000); // one gentle retry after a pause
+    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
+  }
   try { await page.waitForLoadState("networkidle", { timeout: 8000 }); } catch {}
   await page.evaluate(async () => {
     for (let i = 0; i < 8; i++) { window.scrollBy(0, 1800); await new Promise((r) => setTimeout(r, 200)); }
@@ -73,7 +78,7 @@ async function readJonah(page, c, log) {
     const info = P.jonahCard(card.text);
     if (!info.price) continue; // "Contact Us" = nothing available right now
     const name = info.name || parts[1].toUpperCase();
-    await sleep(PAUSE_MS);
+    await sleep(PAUSE_MS * 2); // these four sites share one host, so go slower
     await open(page, card.href);
     const detail = await allText(page);
     log.push("=== PLAN " + card.href + "\n" + detail);

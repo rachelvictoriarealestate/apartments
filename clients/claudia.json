@@ -1,0 +1,65 @@
+{
+  "slug": "claudia",
+  "name": "Claudia",
+  "title": "Your downtown apartment search",
+  "intro": "Downtown 2-bedrooms within your $3,700 all-in budget, refreshed every morning from each building's own website. Save the ones you like and send them to me, and I'll confirm pricing and set up tours.",
+  "filters": {
+    "beds": [
+      2
+    ],
+    "max": 3700,
+    "movein": "2026-12-31"
+  },
+  "communities": [
+    "alexan",
+    "bowie",
+    "quincy",
+    "river",
+    "colorado",
+    "a2nd",
+    "a300",
+    "adt",
+    "gables",
+    "clark",
+    "waller",
+    "rio404",
+    "elle",
+    "northshore",
+    "monarch",
+    "windsorlake",
+    "gablesrs",
+    "gablestower",
+    "corazon"
+  ],
+  "manual": [
+    "saltillo",
+    "skyhouse"
+  ],
+  "picks": [
+    {
+      "c": "waller",
+      "plan": "T-08",
+      "note": "Steps from Waterloo Park, with a good amount of space for the price."
+    },
+    {
+      "c": "alexan",
+      "plan": "B3",
+      "note": "One of the roomiest 2-beds downtown in your range, right by Waterloo Park."
+    },
+    {
+      "c": "a300",
+      "plan": "C4A",
+      "note": "Lots of space for well under budget at the west edge of downtown. Garage parking included."
+    },
+    {
+      "c": "rio404",
+      "plan": "",
+      "note": "West Downtown, a short walk to the Warehouse District and 2nd Street."
+    }
+  ],
+  "flags": {
+    "bowie": "Advertised rent only. Required fees aren't included, so this may land over $3,700 all-in.",
+    "a300": "At the west edge of downtown (Lamar & 3rd).",
+    "clark": "Just west of downtown on W 5th."
+  }
+}

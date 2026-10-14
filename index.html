@@ -78,6 +78,10 @@ input[type=number]{width:120px}
 .heart svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:2}
 .heart[aria-pressed="true"]{border-color:var(--heart);color:var(--heart)}
 .heart[aria-pressed="true"] svg{fill:var(--heart);stroke:var(--heart)}
+.sec{font-family:var(--display);font-weight:400;font-size:22px;margin:22px 0 8px}
+#picksSec .list,#manualSec .list{padding-bottom:0}
+.pnote{margin-top:8px;font-size:14px;background:var(--accent-soft);color:var(--ink);border-radius:8px;padding:6px 10px}
+.flag{margin-top:8px;font-size:13px;color:var(--special)}
 .empty{padding:32px 0;color:var(--muted);text-align:center}
 .tray{position:fixed;left:0;right:0;bottom:0;z-index:10;background:var(--surface);border-top:1px solid var(--line);box-shadow:0 -6px 20px rgba(0,0,0,.08);padding-bottom:env(safe-area-inset-bottom, 0px)}
 .tray .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:12px}
@@ -123,9 +127,9 @@ footer{color:var(--muted);font-size:12px;padding-block:8px 24px;max-width:70ch}
 
 <div class="wrap">
   <header>
-    <div class="eyebrow">Rachel Victoria · Austin rentals</div>
-    <h1>Find your next apartment</h1>
-    <p class="lede">Live availability pulled straight from each community's own website every morning. Save the apartments you like, then send your picks to me. <strong>No account needed.</strong></p>
+    <div class="eyebrow" id="eyebrow">Rachel Victoria · Austin rentals</div>
+    <h1 id="title">Find your next apartment</h1>
+    <p class="lede" id="intro">Live availability pulled straight from each community's own website every morning. Save the apartments you like, then send your picks to me. <strong>No account needed.</strong></p>
   </header>
 </div>
 
@@ -152,8 +156,11 @@ footer{color:var(--muted);font-size:12px;padding-block:8px 24px;max-width:70ch}
 </div>
 
 <main class="wrap">
+  <section id="picksSec" hidden><h2 class="sec">Rachel's picks for you</h2><div class="list" id="picksList"></div></section>
+  <h2 class="sec" id="allHead" hidden>Everything that fits</h2>
   <div class="count" id="count" aria-live="polite">Loading today's availability…</div>
   <div class="list" id="list"></div>
+  <section id="manualSec" hidden><h2 class="sec">Also worth a look</h2><p class="lede">These buildings don't allow automated price checks, so I look them up by hand. Save one and I'll send you current options.</p><div class="list" id="manualList"></div></section>
   <footer id="foot">Prices and availability come from each community's website and change daily. I'll confirm the current price, specials, and fees before we tour. "Total monthly" includes base rent plus required monthly fees; "Starting at" is the community's advertised rent.</footer>
 </main>
 
@@ -210,13 +217,25 @@ const availKey = (a) => (a === "now" ? "0000" : a || "9999");
 let DATA = null, COMM = {}, ROWS = [];
 let saved = new Set();
 try { saved = new Set(JSON.parse(localStorage.getItem("rv-saved") || "[]")); } catch (e) {}
-const persist = () => { try { localStorage.setItem("rv-saved", JSON.stringify([...saved])); } catch (e) {} };
+const persist = () => { try { localStorage.setItem(SAVE_KEY(), JSON.stringify([...saved])); } catch (e) {} };
 const state = { beds: new Set(), max: null, area: "", movein: "", sort: "price" };
 const expanded = new Set();
 
-fetch("data/listings.json", { cache: "no-store" })
-  .then((r) => r.json())
-  .then((d) => {
+// A client page lives at /c/<name>/ and reads its settings from clients/<name>.json.
+const slugM = location.pathname.match(/\/c\/([a-z0-9-]+)\/?/);
+const BASE = slugM ? "../../" : "";
+let CLIENT = null;
+const getJSON = (u) => fetch(u, { cache: "no-store" }).then((r) => { if (!r.ok) throw new Error(u); return r.json(); });
+Promise.all([getJSON(BASE + "data/listings.json"), slugM ? getJSON(BASE + "clients/" + slugM[1] + ".json") : null])
+  .then(([d, client]) => {
+    CLIENT = client;
+    if (CLIENT) {
+      const allow = new Set(CLIENT.communities || []);
+      d.listings = d.listings.filter((r) => allow.has(r.c));
+      d.manual = d.communities.filter((c) => (CLIENT.manual || []).includes(c.id));
+      d.communities = d.communities.filter((c) => allow.has(c.id));
+      setupClient();
+    }
     DATA = d;
     d.communities.forEach((c) => (COMM[c.id] = c));
     // Hide a community whose last good read is more than 7 days old, so clients never see outdated listings.
@@ -224,7 +243,7 @@ fetch("data/listings.json", { cache: "no-store" })
     ROWS = d.listings.filter((r) => fresh(COMM[r.c])).map((r) => ({ ...r, id: [r.c, r.plan, r.unit || ""].join("|") }));
     // drop saved picks that no longer exist
     const ids = new Set(ROWS.map((r) => r.id));
-    saved = new Set([...saved].filter((id) => ids.has(id)));
+    saved = new Set([...saved].filter((id) => ids.has(id) || id.includes("|by hand|")));
     persist();
     [...new Set(d.communities.filter((c) => c.count).map((c) => c.area))].sort().forEach((a) => {
       const o = document.createElement("option"); o.value = a; o.textContent = a; $("#area").appendChild(o);
@@ -232,10 +251,51 @@ fetch("data/listings.json", { cache: "no-store" })
     const up = new Date(d.updated);
     $("#foot").insertAdjacentText("afterbegin", "Updated " + up.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" }) + ". ");
     render();
+    renderClientExtras();
   })
   .catch(() => { $("#count").textContent = "Availability couldn't load. Please refresh the page in a minute."; });
 
+const SAVE_KEY = () => "rv-saved" + (CLIENT ? "-" + CLIENT.slug : "");
+
+function setupClient() {
+  document.title = CLIENT.name + "'s Apartment Search · Rachel Victoria";
+  $("#eyebrow").textContent = "Rachel Victoria · For " + CLIENT.name;
+  $("#title").textContent = CLIENT.title || "Your apartment search";
+  $("#intro").textContent = CLIENT.intro || "";
+  const f = CLIENT.filters || {};
+  (f.beds || []).forEach((b) => { state.beds.add(b); const chip = document.querySelector(`.chip[data-b="${b}"]`); if (chip) chip.setAttribute("aria-pressed", "true"); });
+  if (f.max) { state.max = f.max; $("#maxp").value = f.max; }
+  if (f.movein) { state.movein = f.movein; $("#movein").value = f.movein; }
+  try { saved = new Set(JSON.parse(localStorage.getItem(SAVE_KEY()) || "[]")); } catch (e) {}
+  $("#fname").value = CLIENT.name;
+  $("#allHead").hidden = false;
+}
+
+function renderClientExtras() {
+  if (!CLIENT) return;
+  const picks = (CLIENT.picks || []).map((p) => {
+    const rows = ROWS.filter((r) => r.c === p.c && (!p.plan || r.plan === p.plan)).sort((a, b) => a.price - b.price);
+    return rows.length ? { p, rows } : null;
+  }).filter(Boolean);
+  $("#picksSec").hidden = !picks.length;
+  $("#picksList").innerHTML = picks.map(({ p, rows }) => {
+    const g = { key: "pick|" + p.c + "|" + (p.plan || rows[0].plan), c: p.c, plan: p.plan || rows[0].plan, rows: rows.filter((r) => r.plan === (p.plan || rows[0].plan)) };
+    g.min = g.rows[0].price;
+    return card(g, p.note);
+  }).join("");
+  const man = (DATA.manual || []);
+  $("#manualSec").hidden = !man.length;
+  $("#manualList").innerHTML = man.map((c) => {
+    const id = c.id + "|by hand|";
+    if (!ROWS.find((r) => r.id === id)) ROWS.push({ id, c: c.id, plan: "by hand", beds: null, baths: null, sqft: null, unit: null, price: 0, url: c.url, manual: true });
+    COMM[c.id] = COMM[c.id] || c;
+    return `<article class="card"><div class="chead" style="grid-template-columns:1fr auto"><div class="cmain"><div class="comm">${esc(c.name)}</div><div class="area">${esc(c.area)}</div>${c.note ? `<div class="spec">${esc(c.note)}</div>` : ""}</div>${heartBtn(id)}</div><div class="cfoot"><a href="${esc(c.url)}" target="_blank" rel="noopener">See it on ${esc(c.name)}'s site ↗</a></div></article>`;
+  }).join("");
+  updateTray();
+}
+
 function passes(r) {
+  if (r.manual) return false;
   if (state.beds.size && !state.beds.has(r.beds)) return false;
   if (state.max && r.price > state.max) return false;
   if (state.area && COMM[r.c].area !== state.area) return false;
@@ -265,7 +325,8 @@ function render() {
 
   const nComm = new Set(list.map((g) => g.c)).size;
   $("#count").textContent = `${rows.length} apartments · ${list.length} floorplans · ${nComm} ${nComm === 1 ? "community" : "communities"}`;
-  $("#list").innerHTML = list.length ? list.map(card).join("") : `<div class="empty">Nothing matches yet. Try a higher budget, another area, or a later move-in date.</div>`;
+  $("#list").innerHTML = list.length ? list.map((g) => card(g)).join("") : `<div class="empty">Nothing matches yet. Try a higher budget, another area, or a later move-in date.</div>`;
+  if (CLIENT && DATA) renderClientExtras();
   updateTray();
 }
 
@@ -283,8 +344,9 @@ function unitRow(r, pt) {
     <div class="uprice"><b>${range}</b><span>${extra}</span></div>${heartBtn(r.id)}</div>`;
 }
 
-function card(g) {
+function card(g, pickNote) {
   const c = COMM[g.c], r0 = g.rows[0];
+  const flag = CLIENT && CLIENT.flags && CLIENT.flags[g.c];
   const img = g.rows.find((r) => r.image)?.image;
   const special = g.rows.find((r) => r.special)?.special;
   const thumb = img
@@ -299,7 +361,8 @@ function card(g) {
     <div class="chead">${thumb}
       <div class="cmain"><div class="comm">${esc(c.name)}</div><div class="area">${esc(c.area)}</div>
         <div class="spec"><span class="plan">${esc(g.plan)}</span>${[bedTxt(r0.beds), r0.baths != null ? r0.baths + " bath" : "", sq].filter(Boolean).join(" · ")}</div>
-        <div class="tags">${special ? `<span class="tag">${esc(special)}</span>` : ""}${stale}</div></div>
+        <div class="tags">${special ? `<span class="tag">${esc(special)}</span>` : ""}${stale}</div>
+        ${pickNote ? `<div class="pnote">${esc(pickNote)}</div>` : ""}${flag ? `<div class="flag">${esc(flag)}</div>` : ""}</div>
       <div class="from"><div class="p">${money(g.min)}</div><div class="l">${c.priceType === "total" ? "total monthly" : "starting at"}${g.rows.length > 1 ? `<br>${g.rows.length} options` : ""}</div></div>
     </div>
     <div class="units">${visible.map((r) => unitRow(r, c.priceType)).join("")}</div>
@@ -317,6 +380,7 @@ function updateTray() {
 function picks() {
   return ROWS.filter((r) => saved.has(r.id)).map((r) => {
     const c = COMM[r.c];
+    if (r.manual) return { community: c.name, area: c.area, plan: "Current options (Rachel to check)", unit: "", layout: "", price: "Rachel checks", available: "", url: r.url };
     return {
       community: c.name, area: c.area, plan: r.plan, unit: r.unit || "",
       layout: [bedTxt(r.beds), r.baths != null ? r.baths + " ba" : "", r.sqft ? r.sqft.toLocaleString() + " sq ft" : ""].filter(Boolean).join(" / "),
@@ -360,7 +424,7 @@ async function send() {
   $("#sendBtn").disabled = true; st.className = "status"; st.textContent = "Sending…";
   try {
     const res = await fetch(SEND_URL, { method: "POST", headers: { "Content-Type": "text/plain;charset=utf-8" },
-      body: JSON.stringify({ name, email, phone: $("#fphone").value.trim(), moveIn: $("#fwhen").value.trim(), note: $("#fnote").value.trim(), website: $("#fweb").value, picks: picks() }) });
+      body: JSON.stringify({ name, email, phone: $("#fphone").value.trim(), moveIn: $("#fwhen").value.trim(), note: $("#fnote").value.trim(), website: $("#fweb").value, client: CLIENT ? CLIENT.slug : "", picks: picks() }) });
     const out = await res.json();
     if (!out.ok) throw new Error(out.error || "not sent");
     st.className = "status ok"; st.textContent = `Sent! I'll be in touch soon, ${name.split(" ")[0]}.`;
@@ -378,7 +442,7 @@ $("#maxp").addEventListener("input", (e) => { state.max = +e.target.value || nul
 $("#area").addEventListener("change", (e) => { state.area = e.target.value; render(); });
 $("#movein").addEventListener("change", (e) => { state.movein = e.target.value; render(); });
 $("#sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
-$("#list").addEventListener("click", (e) => {
+document.querySelector("main").addEventListener("click", (e) => {
   const h = e.target.closest(".heart");
   if (h) { const id = h.dataset.id; saved.has(id) ? saved.delete(id) : saved.add(id); persist(); render(); return; }
   const m = e.target.closest(".more");

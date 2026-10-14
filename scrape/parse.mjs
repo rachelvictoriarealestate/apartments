@@ -193,3 +193,49 @@ export function gablesBeds(text) {
   }
   return out;
 }
+
+// ---------- Windsor Communities (Monarch, Windsor on the Lake) ----------
+// "Unit 911 B2F 2 Bed 2 Bath 1,400 ft2 Avail. Now $3,984.14 /mo $3,646 Base Rent 14 Mo."
+export function windsorUnits(text, today) {
+  const t = flat(text);
+  const re = /Unit\s+([\w-]{1,8})\s+([A-Z0-9][\w-]{0,8})\s+(Studio|\d)\s*(?:Bed)?s?\s+([\d.]+)\s*Baths?\s+([\d,]{3,6})\s*ft2\s+Avail\.?\s+(Now|[A-Z][a-z]{2}\.?\s+\d{1,2}(?:,?\s*\d{4})?)\s+\$([\d,]+(?:\.\d+)?)\s*\/\s*mo\s+\$([\d,]+(?:\.\d+)?)\s*Base\s+Rent\s+(\d{1,2})\s*Mo/gi;
+  const out = [];
+  const seen = new Set();
+  for (const m of t.matchAll(re)) {
+    if (seen.has(m[1])) continue;
+    seen.add(m[1]);
+    out.push({ unit: m[1], plan: m[2], beds: /studio/i.test(m[3]) ? 0 : +m[3], baths: +m[4], sqft: num(m[5]), available: parseDate(m[6], today), price: num(m[7]), base: num(m[8]), lease: +m[9] });
+  }
+  return out;
+}
+
+// ---------- Greystar (The Waller) ----------
+// "T-11 373 sq. ft. Studio 1 $1,950 – $2,095 Base rent from $1,745 Unit 1911 Available November 7th, 2026
+//  13 month leasefrom$1,950 Base rent from $1,745 Show 10 available"
+export function greystarPlans(text, today) {
+  const t = flat(text);
+  const re = /([A-Z][\w-]{0,8})\s+([\d,]{3,5})\s*sq\.?\s*ft\.?\s+(Studio|\d)\s+([\d.]+)\s+\$([\d,]+)(?:\s*[–-]\s*\$([\d,]+))?\s+Base rent from\s+\$([\d,]+)\s+Unit\s+([\w-]+)\s+Available\s+(Now|[A-Z][a-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s*\d{4})\s+(\d{1,2})\s*month lease\s*from\s*\$([\d,]+)(?:\s+Base rent from\s+\$[\d,]+)?(?:\s+Show\s+(\d+)\s+available)?/gi;
+  const out = [];
+  const seen = new Set();
+  for (const m of t.matchAll(re)) {
+    if (seen.has(m[1])) continue;
+    seen.add(m[1]);
+    out.push({ name: m[1], sqft: num(m[2]), beds: /studio/i.test(m[3]) ? 0 : +m[3], baths: +m[4], price: num(m[5]), priceHigh: num(m[6]), base: num(m[7]), unit: m[8], available: parseDate(m[9], today), lease: +m[10], units: m[12] ? +m[12] : 1 });
+  }
+  return out;
+}
+
+// ---------- G5 sites (Corazon) ----------
+// "A2 1 Bed 1 Bath 730 Sq.Ft Total Rent + Mandatory Fees $2,039 Base Rent $1,865 ... VIEW 7 APARTMENTS"
+export function g5Plans(text) {
+  const t = flat(text);
+  const re = /([A-Z][\w-]{0,8})\s+(Studio|\d\s*Beds?)\s+([\d.]+)\s*Baths?\s+([\d,]{3,5})\s*Sq\.?\s*Ft\.?\s+Total Rent \+ Mandatory Fees\s+\$([\d,]+(?:\.\d+)?)\s+Base Rent\s+\$([\d,]+(?:\.\d+)?)[\s\S]{0,200}?VIEW\s+(\d+)\s+APARTMENTS?/gi;
+  const out = [];
+  const seen = new Set();
+  for (const m of t.matchAll(re)) {
+    if (seen.has(m[1])) continue;
+    seen.add(m[1]);
+    out.push({ name: m[1], beds: /studio/i.test(m[2]) ? 0 : +m[2].match(/\d/)[0], baths: +m[3], sqft: num(m[4]), price: num(m[5]), base: num(m[6]), units: +m[7] });
+  }
+  return out;
+}

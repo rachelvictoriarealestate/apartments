@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 11 * * *"   # every day at 11:00 UTC (6 a.m. Central in summer, 5 a.m. in winter)
   workflow_dispatch:        # "Run workflow" button on the Actions tab
+    inputs:
+      only:
+        description: "Only these communities (comma-separated ids). Leave blank for all."
+        required: false
+        default: ""
   push:
     branches: [main]
 
@@ -29,7 +34,7 @@ jobs:
           node-version: 20
       - run: npm install --no-audit --no-fund
       - run: npx playwright install --with-deps chromium
-      - run: node scrape/run.mjs
+      - run: node scrape/run.mjs ${{ github.event.inputs.only }}
       - name: Save new data
         run: |
           git config user.name "apartment-refresh"
@@ -49,7 +54,9 @@ jobs:
         with:
           ref: main
       - name: Keep only the website files
-        run: mkdir _site && cp -r index.html data _site/
+        run: |
+          mkdir _site && cp -r index.html data clients _site/
+          for f in clients/*.json; do slug=$(basename "$f" .json); mkdir -p "_site/c/$slug"; cp index.html "_site/c/$slug/index.html"; done
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

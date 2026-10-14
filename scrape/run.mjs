@@ -11,7 +11,7 @@ import { robotsAllows } from "./robots.mjs";
 const OUT = "data/listings.json";
 const DEBUG_DIR = "debug";
 const PAUSE_MS = 2000; // pause between page loads so we never hammer a site
-const only = process.argv[2]; // optional: node scrape/run.mjs quincy
+const only = process.argv[2] ? process.argv[2].split(",") : null; // optional: node scrape/run.mjs waller,monarch
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const today = new Date();
@@ -183,6 +183,39 @@ async function readGables(page, c, log) {
   return P.gablesBeds(text).map((p) => ({ plan: p.name, beds: p.beds, baths: null, sqft: null, unit: null, price: p.price, available: null, url: c.url, image: null, special: "" }));
 }
 
+async function readWindsor(page, c, log) {
+  await open(page, c.url);
+  // Windsor shows a few homes at a time; press "Load more" while it's there.
+  for (let i = 0; i < 8; i++) {
+    const more = page.getByRole("button", { name: /load more|show more|view more/i }).first();
+    if (!(await more.isVisible().catch(() => false))) break;
+    await more.click().catch(() => {});
+    await sleep(1500);
+  }
+  const text = await pageText(page);
+  log.push("=== LIST " + c.url + "\n" + text);
+  const special = P.findSpecial(text);
+  return P.windsorUnits(text, today).map((x) => ({ plan: x.plan, beds: x.beds, baths: x.baths, sqft: x.sqft, unit: x.unit, price: x.price, base: x.base, lease: x.lease, available: x.available, url: c.url, image: null, special }));
+}
+
+async function readGreystar(page, c, log) {
+  await open(page, c.url);
+  const text = await pageText(page);
+  log.push("=== LIST " + c.url + "\n" + text);
+  const special = P.findSpecial(text);
+  return P.greystarPlans(text, today).map((p) => ({ plan: p.name, beds: p.beds, baths: p.baths, sqft: p.sqft, unit: p.unit, units: p.units, price: p.price, base: p.base, lease: p.lease, available: p.available, url: c.url, image: null, special }));
+}
+
+async function readG5(page, c, log) {
+  await open(page, c.url);
+  const all = page.getByText(/view all floor plans/i).first();
+  if (await all.isVisible().catch(() => false)) { await all.click().catch(() => {}); await sleep(2500); }
+  const text = await pageText(page);
+  log.push("=== LIST " + page.url() + "\n" + text);
+  const special = P.findSpecial(text);
+  return P.g5Plans(text).map((p) => ({ plan: p.name, beds: p.beds, baths: p.baths, sqft: p.sqft, unit: null, units: p.units, price: p.price, base: p.base, lease: 12, available: null, url: c.url, image: null, special }));
+}
+
 // Sites that only show listings after their scripts run. First run saves the page text
 // so a proper reader can be written for each; until then they return nothing.
 async function readGeneric(page, c, log) {
@@ -192,7 +225,7 @@ async function readGeneric(page, c, log) {
   return [];
 }
 
-const READERS = { jonah: readJonah, rentcafe: readRentCafe, leaseleads: readLeaseLeads, amli: readAmli, repli360: readRepli, gables: readGables, generic: readGeneric };
+const READERS = { jonah: readJonah, rentcafe: readRentCafe, leaseleads: readLeaseLeads, amli: readAmli, repli360: readRepli, gables: readGables, windsor: readWindsor, greystar: readGreystar, g5: readG5, generic: readGeneric };
 
 // ---------------- main ----------------
 
@@ -214,7 +247,12 @@ async function main() {
   for (const c of COMMUNITIES) {
     const prevRows = previous.listings.filter((r) => r.c === c.id);
     const prevMeta = previous.communities.find((x) => x.id === c.id) || {};
-    if (only && c.id !== only) { listings.push(...prevRows); communities.push(prevMeta.id ? prevMeta : { ...pick(c), status: "pending" }); continue; }
+    if (only && !only.includes(c.id)) { listings.push(...prevRows); communities.push(prevMeta.id ? prevMeta : { ...pick(c), status: "pending" }); continue; }
+    if (c.manual) {
+      // Rachel checks these by hand; they appear on client pages without live prices.
+      communities.push({ ...pick(c), status: "manual", note: c.note || "", checked: today.toISOString(), count: 0 });
+      continue;
+    }
     if (c.blocked) {
       // This site blocks automated visitors. Respect that: don't visit, keep any earlier data until it expires.
       listings.push(...prevRows);
@@ -253,7 +291,7 @@ async function main() {
 }
 
 function pick(c) {
-  return { id: c.id, name: c.name, area: c.area, priceType: c.priceType, url: c.url };
+  return { id: c.id, name: c.name, area: c.area, priceType: c.priceType, url: c.url, ...(c.note ? { note: c.note } : {}) };
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

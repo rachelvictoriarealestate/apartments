@@ -393,7 +393,9 @@ function picks() {
 function plainMessage() {
   const p = picks(), v = (id) => $(id).value.trim();
   const lines = [`Hi Rachel! Here are the apartments I'd like to see${v("#fname") ? " — " + v("#fname") : ""}.`, ""];
-  p.forEach((x, i) => lines.push(`${i + 1}. ${x.community} — ${x.plan}${x.unit ? " #" + x.unit : ""} (${x.layout}) ${x.price} · ${x.available}`));
+  p.forEach((x, i) => lines.push(x.layout
+    ? `${i + 1}. ${x.community} — ${x.plan}${x.unit ? " #" + x.unit : ""} (${x.layout}) ${x.price} · ${x.available}`
+    : `${i + 1}. ${x.community} — please send me current options`));
   lines.push("");
   if (v("#fwhen")) lines.push("Move-in: " + v("#fwhen"));
   if (v("#femail")) lines.push("Email: " + v("#femail"));

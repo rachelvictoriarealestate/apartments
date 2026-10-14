@@ -1,0 +1,27 @@
+// Communities researched for downtown and nearby areas (Oct 2026), not yet part of the daily refresh.
+// The probe (scrape/probe.mjs) checks each once so Rachel can choose which to add.
+export const CANDIDATES = [
+  { id: "skyhouse",     name: "SkyHouse Austin",            area: "Rainey Street",                url: "https://www.simpsonpropertygroup.com/apartments/austin-texas/skyhouse-austin-rainey-street-downtown/apartment-floor-plans" },
+  { id: "windsorlake",  name: "Windsor on the Lake",        area: "Rainey Street",                url: "https://www.windsorcommunities.com/properties/windsor-on-the-lake/floorplans/" },
+  { id: "paseo",        name: "Paseo",                      area: "Rainey Street",                url: "https://www.paseoaustin.com/" },
+  { id: "travis",       name: "The Travis",                 area: "Rainey Street · Lakefront",    url: "https://www.thetravisaustin.com/" },
+  { id: "monarch",      name: "The Monarch by Windsor",     area: "Market District · West 5th",   url: "https://www.windsorcommunities.com/properties/the-monarch-by-windsor/floorplans/" },
+  { id: "elle",         name: "Elle West Ave",              area: "West Downtown",                url: "https://www.ellewestave.com/floorplans/" },
+  { id: "rio404",       name: "404 Rio Grande",             area: "West Downtown",                url: "https://www.404riogrande.com/floorplans/" },
+  { id: "sixg",         name: "Residences at 6G",           area: "West Downtown",                url: "https://www.residencesat6g.com/" },
+  { id: "hanoverrs",    name: "Hanover Republic Square",    area: "Warehouse District",           url: "https://www.hanoverrepublicsquare.com/austin/hanover-republic-square/conventional/" },
+  { id: "gablesrs",     name: "Gables Republic Square",     area: "Warehouse District",           url: "https://www.gables.com/community/1104750" },
+  { id: "gablestower",  name: "Gables Park Tower",          area: "Downtown · Seaholm",           url: "https://www.gables.com/community/528448" },
+  { id: "northshore",   name: "Northshore",                 area: "Downtown · Lakefront",         url: "https://www.northshoreaustin.com/floorplans/" },
+  { id: "ashton",       name: "The Ashton",                 area: "Downtown · Lakefront",         url: "https://www.theashtonaustin.com/" },
+  { id: "whitley",      name: "The Whitley",                area: "Downtown · 2nd Street",        url: "https://www.thewhitleyaustin.com/" },
+  { id: "sienna",       name: "Sienna at the Thompson",     area: "Downtown · Sixth Street",      url: "https://www.siennaatthethompson.com/" },
+  { id: "beverly",      name: "The Beverly at Medical Center", area: "Downtown · Red River",      url: "https://www.thebeverlyaustin.com/floorplans" },
+  { id: "waller",       name: "The Waller",                 area: "Downtown · Waterloo",          url: "https://www.greystar.com/properties/austin-tx/the-waller/floorplans" },
+  { id: "fifthcommons", name: "5th Street Commons",         area: "Clarksville · West End",       url: "https://www.greystar.com/properties/austin-tx/5th-street-commons-apartments/floorplans" },
+  { id: "corazon",      name: "Corazon",                    area: "East Downtown",                url: "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans" },
+  { id: "saltillo",     name: "Residences at Saltillo",     area: "East Downtown · Plaza Saltillo", url: "https://residencesatsaltillo.securecafe.com/onlineleasing/residences-at-saltillo/floorplans.aspx" },
+  { id: "arnold",       name: "The Arnold",                 area: "East Downtown · East 6th",     url: "https://www.thearnoldaustin.com/" },
+  { id: "catherine",    name: "The Catherine",              area: "Bouldin Creek · South 1st",    url: "https://thecatherineaustin.com/floorplans" },
+  { id: "lamarunion",   name: "Lamar Union",                area: "Zilker · South Lamar",         url: "https://www.lamarunion.com/floorplans" },
+];

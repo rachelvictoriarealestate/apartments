@@ -6,6 +6,7 @@ import { chromium } from "playwright";
 import fs from "node:fs/promises";
 import { COMMUNITIES } from "./communities.mjs";
 import * as P from "./parse.mjs";
+import { robotsAllows } from "./robots.mjs";
 
 const OUT = "data/listings.json";
 const DEBUG_DIR = "debug";
@@ -16,6 +17,7 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const today = new Date();
 
 async function open(page, url) {
+  if (!(await robotsAllows(url))) throw new Error("Site asks automated programs not to visit " + new URL(url).pathname);
   try {
     await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
   } catch (e) {

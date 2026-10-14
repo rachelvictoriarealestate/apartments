@@ -22,6 +22,18 @@ for (const [w, name] of [[1280, "desk"], [390, "phone"]]) {
     await pg.waitForTimeout(800);
     r.popup = await step("popup", () => pg.locator(".leaflet-popup-content").innerText({ timeout: 3000 }));
   }
+  if (process.env.SEND_TEST === "1" && name === "desk") {
+    await step("save pick", () => pg.locator("#list .heart").first().click({ timeout: 5000 }));
+    await step("open send", () => pg.click("#openSend"));
+    await step("fill form", async () => {
+      await pg.fill("#fname", "Test from Claude");
+      await pg.fill("#femail", "rachelvictoriarealestate@gmail.com");
+      await pg.fill("#fnote", "Test pick to confirm Send my picks works. No action needed.");
+    });
+    await step("send", () => pg.click("#sendBtn"));
+    await pg.waitForTimeout(8000);
+    r.sendStatus = await step("status", () => pg.locator("#status").innerText());
+  }
   r.scrollWidth = await step("width", () => pg.evaluate(() => document.documentElement.scrollWidth));
   await step("shot", () => pg.screenshot({ path: `debug/check-${name}.png` }));
   r.errors = errs;

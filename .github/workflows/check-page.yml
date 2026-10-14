@@ -7,6 +7,10 @@ on:
         description: "Page to check"
         required: false
         default: "https://rachelvictoriarealestate.github.io/apartments/c/claudia/"
+      send_test:
+        description: "Also send one test pick (1 = yes)"
+        required: false
+        default: "0"
 
 permissions:
   contents: write
@@ -23,6 +27,8 @@ jobs:
       - run: npm install --no-audit --no-fund
       - run: npx playwright install --with-deps chromium
       - run: node scrape/check-page.mjs "${{ github.event.inputs.url }}"
+        env:
+          SEND_TEST: ${{ github.event.inputs.send_test }}
       - name: Save screenshots
         if: always()
         run: |

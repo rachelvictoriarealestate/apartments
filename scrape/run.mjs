@@ -7,6 +7,7 @@ import fs from "node:fs/promises";
 import { COMMUNITIES } from "./communities.mjs";
 import * as P from "./parse.mjs";
 import { robotsAllows } from "./robots.mjs";
+import { geocodeAll } from "./geocode.mjs";
 
 const OUT = "data/listings.json";
 const DEBUG_DIR = "debug";
@@ -284,6 +285,9 @@ async function main() {
     await sleep(PAUSE_MS);
   }
   await browser.close();
+
+  const geo = await geocodeAll(COMMUNITIES);
+  for (const m of communities) if (geo[m.id]) { m.lat = geo[m.id].lat; m.lng = geo[m.id].lng; }
 
   await fs.mkdir("data", { recursive: true });
   await fs.writeFile(OUT, JSON.stringify({ updated: today.toISOString(), communities, listings }, null, 1));

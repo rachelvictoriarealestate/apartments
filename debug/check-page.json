@@ -1,0 +1,58 @@
+[
+ {
+  "name": "desk",
+  "steps": [
+   "load: ok",
+   "leaflet: ok",
+   "pins: ok",
+   "count: ok",
+   "click pin: ok",
+   "popup: ok",
+   "width: ok",
+   "shot: ok"
+  ],
+  "leaflet": true,
+  "pins": [
+   "$3,453",
+   "$3,613",
+   "$2,339",
+   "$3,503",
+   "$3,440",
+   "$3,263",
+   "Ask Rachel",
+   "Ask Rachel"
+  ],
+  "count": "11 apartments · 11 floorplans · 6 communities",
+  "popup": "The Waller\nDowntown · Waterloo\nFrom $3,440 · 2 options\nSee listings",
+  "scrollWidth": 1280,
+  "errors": []
+ },
+ {
+  "name": "phone",
+  "steps": [
+   "load: ok",
+   "leaflet: ok",
+   "pins: ok",
+   "count: ok",
+   "click pin: ok",
+   "popup: ok",
+   "width: ok",
+   "shot: ok"
+  ],
+  "leaflet": true,
+  "pins": [
+   "$3,453",
+   "$3,613",
+   "$2,339",
+   "$3,503",
+   "$3,440",
+   "$3,263",
+   "Ask Rachel",
+   "Ask Rachel"
+  ],
+  "count": "11 apartments · 11 floorplans · 6 communities",
+  "popup": "The Waller\nDowntown · Waterloo\nFrom $3,440 · 2 options\nSee listings",
+  "scrollWidth": 390,
+  "errors": []
+ }
+]

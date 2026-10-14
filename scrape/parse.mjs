@@ -31,7 +31,7 @@ export function parseDate(s, today = new Date()) {
 export function parseLayout(t) {
   t = flat(t);
   let beds = null;
-  if (/\bstudio\b/i.test(t)) beds = 0;
+  if (/studio/i.test(t)) beds = 0;
   else {
     const b = t.match(/(\d)\s*(?:bed|br\b|bedroom)/i);
     if (b) beds = +b[1];
@@ -130,11 +130,11 @@ export function leaseleadsUnits(text, today) {
 //  Total Monthly Price Starting at $2,751.49/mo. (Base Rent $2,689)"
 export function amliPlans(text, today) {
   const t = flat(text);
-  const re = /([A-Z][A-Za-z0-9' -]{0,40}?)\s+(?:Den\/Office\s+|Townhome\s+)?(\d+)\s+Available\s+Units?\s+Bed\s+(Studio|\d+)\s+Bath\s+([\d.]+)\s+SQFT\s+(\d{3,5})(?:\s+(\d{3,5}))?\s+Available\s+(Now|\d{1,2}\/\d{1,2}\/\d{4})\s+Total\s+Monthly\s+Price\s+Starting\s+at\s+\$([\d,]+(?:\.\d+)?)\s*\/mo\.?\s*\(Base\s+Rent\s+\$([\d,]+(?:\.\d+)?)\)/g;
+  const re = /([A-Z][A-Za-z0-9' -]{0,40}?)\s+(?:Den\/Office\s+|Townhome\s+)?(\d+)\s+Available\s+Units?\s+Bed\s+(Studio|\d+)\s+Bath\s+([\d.]+)\s+SQFT\s+(\d{3,5})(?:\s+(\d{3,5}))?\s+Available\s+(Now|\d{1,2}\/\d{1,2}\/\d{4})\s+Total\s+Monthly\s+Price\s+Starting\s+at\s+\$([\d,]+(?:\.\d+)?)\s*\/mo\.?\s*\(Base\s+Rent\s+\$([\d,]+(?:\.\d+)?)\)/gi;
   const out = [];
   const seen = new Set();
   for (const m of t.matchAll(re)) {
-    const name = m[1].replace(/^.*?Virtual Tours\s+/i, "").trim();
+    const name = m[1].replace(/^.*?Virtual Tours\s+/i, "").replace(/^(?:Get Pricing|Contact Office)\s+/i, "").trim();
     if (!name || seen.has(name) || +m[2] === 0) continue;
     seen.add(name);
     out.push({
@@ -148,6 +148,48 @@ export function amliPlans(text, today) {
       price: num(m[8]),
       base: num(m[9]),
     });
+  }
+  return out;
+}
+
+// ---------- Repli360 (The Clark) ----------
+// "1C ONE BEDROOM | 1 BATH | 641 - 671 SQFT | 3 UNITS AVAILABLE Starting $2,657 * Wednesday October 21 2026
+//  *Includes all required monthly fees Base Rent Starting From $2,580"
+const WORD_BEDS = { STUDIO: 0, ONE: 1, TWO: 2, THREE: 3, FOUR: 4 };
+export function repliPlans(text, today) {
+  const t = flat(text);
+  const re = /(?:^|\s)([0-9A-Z][\w]{0,5}(?:\s*-\s*AFFORDABLE)?)\s+(STUDIO|ONE BEDROOMS?|TWO BEDROOMS?|THREE BEDROOMS?|FOUR BEDROOMS?)\s*\|\s*([\d.]+)\s*BATHS?\s*\|\s*([\d,]+)(?:\s*-\s*([\d,]+))?\s*SQFT\s*\|\s*(\d+)\s*UNITS?\s*AVAILABLE\s+Starting\s+\$([\d,]+(?:\.\d+)?)\s*\*?\s*(.*?)\s*\*Includes[^$]*?Base Rent Starting From\s*\$([\d,]+(?:\.\d+)?)/g;
+  const out = [];
+  for (const m of t.matchAll(re)) {
+    const affordable = /AFFORDABLE/i.test(m[1]);
+    out.push({
+      name: m[1].replace(/\s*-\s*AFFORDABLE/i, "").trim(),
+      affordable,
+      beds: WORD_BEDS[m[2].split(" ")[0].toUpperCase()],
+      baths: +m[3],
+      sqft: num(m[4]),
+      sqftHigh: num(m[5]),
+      units: +m[6],
+      price: num(m[7]),
+      available: parseDate(m[8], today),
+      base: num(m[9]),
+    });
+  }
+  return out;
+}
+
+// ---------- Gables (bedroom-level "starting from" only) ----------
+// "1 Bedroom Total Monthly Cost of Rental Starting From: $2,237.75*"
+export function gablesBeds(text) {
+  const t = flat(text);
+  const re = /(Studio|\d\s*Bedroom)\s+Total Monthly Cost of Rental Starting From:?\s*\$([\d,]+(?:\.\d+)?)/gi;
+  const out = [];
+  const seen = new Set();
+  for (const m of t.matchAll(re)) {
+    const beds = /studio/i.test(m[1]) ? 0 : +m[1].match(/\d/)[0];
+    if (seen.has(beds)) continue;
+    seen.add(beds);
+    out.push({ name: beds === 0 ? "Studio" : beds + " Bedroom", beds, price: num(m[2]) });
   }
   return out;
 }

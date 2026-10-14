@@ -17,14 +17,21 @@ const today = new Date();
 
 async function open(page, url) {
   await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
-  try { await page.waitForLoadState("networkidle", { timeout: 15000 }); } catch {}
+  try { await page.waitForLoadState("networkidle", { timeout: 8000 }); } catch {}
   await page.evaluate(async () => {
-    for (let i = 0; i < 15; i++) { window.scrollBy(0, 1400); await new Promise((r) => setTimeout(r, 250)); }
+    for (let i = 0; i < 8; i++) { window.scrollBy(0, 1800); await new Promise((r) => setTimeout(r, 200)); }
     window.scrollTo(0, 0);
   });
-  await sleep(1200);
+  await sleep(600);
 }
 const pageText = (page) => page.evaluate(() => document.body.innerText || "");
+// All text on the page, including panels that are hidden until clicked (e.g. "Check Availability").
+const allText = (page) => page.evaluate(() => {
+  const w = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, { acceptNode: (n) => (/^(SCRIPT|STYLE|NOSCRIPT|TEMPLATE)$/.test(n.parentNode.nodeName) ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT) });
+  const parts = [];
+  while (w.nextNode()) { const v = w.currentNode.nodeValue.trim(); if (v) parts.push(v); }
+  return parts.join("\n");
+});
 
 // Anchors matching `selector`, each with the text of the nearest ancestor that contains `mustMatch`.
 const cards = (page, selector, mustMatch) =>
@@ -68,11 +75,12 @@ async function readJonah(page, c, log) {
     const name = info.name || parts[1].toUpperCase();
     await sleep(PAUSE_MS);
     await open(page, card.href);
-    const detail = await pageText(page);
+    const detail = await allText(page);
     log.push("=== PLAN " + card.href + "\n" + detail);
     const image = await planImage(page, parts[1]);
     const units = P.jonahUnits(detail, today);
-    const base = { plan: name, beds: info.beds, baths: info.baths, url: card.href, image, special: info.special || special };
+    const lay = info.beds != null ? info : { ...info, ...P.parseLayout(detail) };
+    const base = { plan: name, beds: lay.beds, baths: lay.baths ?? info.baths, url: card.href, image, special: info.special || special };
     if (units.length) {
       for (const x of units) rows.push({ ...base, unit: x.unit, sqft: x.sqft || info.sqft, price: x.price, base: x.base, lease: x.lease, available: x.available });
     } else {
@@ -148,6 +156,26 @@ async function readAmli(page, c, log) {
   return rows;
 }
 
+async function readRepli(page, c, log) {
+  await open(page, c.url);
+  await sleep(3000);
+  const text = await pageText(page);
+  log.push("=== LIST " + c.url + "\n" + text);
+  const special = P.findSpecial(text);
+  return P.repliPlans(text, today).map((p) => ({
+    plan: p.name, beds: p.beds, baths: p.baths, sqft: p.sqft, unit: null, units: p.units, price: p.price, base: p.base,
+    available: p.available, url: c.url, image: null, special: p.affordable ? "Income-restricted" : special,
+  }));
+}
+
+async function readGables(page, c, log) {
+  await open(page, c.url);
+  await sleep(2000);
+  const text = await pageText(page);
+  log.push("=== LIST " + c.url + "\n" + text);
+  return P.gablesBeds(text).map((p) => ({ plan: p.name, beds: p.beds, baths: null, sqft: null, unit: null, price: p.price, available: null, url: c.url, image: null, special: "" }));
+}
+
 // Sites that only show listings after their scripts run. First run saves the page text
 // so a proper reader can be written for each; until then they return nothing.
 async function readGeneric(page, c, log) {
@@ -157,7 +185,7 @@ async function readGeneric(page, c, log) {
   return [];
 }
 
-const READERS = { jonah: readJonah, rentcafe: readRentCafe, leaseleads: readLeaseLeads, amli: readAmli, generic: readGeneric };
+const READERS = { jonah: readJonah, rentcafe: readRentCafe, leaseleads: readLeaseLeads, amli: readAmli, repli360: readRepli, gables: readGables, generic: readGeneric };
 
 // ---------------- main ----------------
 
@@ -180,6 +208,13 @@ async function main() {
     const prevRows = previous.listings.filter((r) => r.c === c.id);
     const prevMeta = previous.communities.find((x) => x.id === c.id) || {};
     if (only && c.id !== only) { listings.push(...prevRows); communities.push(prevMeta.id ? prevMeta : { ...pick(c), status: "pending" }); continue; }
+    if (c.blocked) {
+      // This site blocks automated visitors. Respect that: don't visit, keep any earlier data until it expires.
+      listings.push(...prevRows);
+      communities.push({ ...pick(c), status: prevRows.length ? "stale" : "blocked", checked: today.toISOString(), lastGood: prevMeta.lastGood || null, count: prevRows.length, error: "Site blocks automated visitors" });
+      console.log(`– ${c.name}: skipped (site blocks automated visitors)`);
+      continue;
+    }
     const page = await context.newPage();
     const log = [];
     let rows = [];

@@ -219,7 +219,9 @@ fetch("data/listings.json", { cache: "no-store" })
   .then((d) => {
     DATA = d;
     d.communities.forEach((c) => (COMM[c.id] = c));
-    ROWS = d.listings.filter((r) => COMM[r.c]).map((r) => ({ ...r, id: [r.c, r.plan, r.unit || ""].join("|") }));
+    // Hide a community whose last good read is more than 7 days old, so clients never see outdated listings.
+    const fresh = (c) => c && (c.status === "ok" || (c.lastGood && Date.now() - new Date(c.lastGood) < 7 * 864e5));
+    ROWS = d.listings.filter((r) => fresh(COMM[r.c])).map((r) => ({ ...r, id: [r.c, r.plan, r.unit || ""].join("|") }));
     // drop saved picks that no longer exist
     const ids = new Set(ROWS.map((r) => r.id));
     saved = new Set([...saved].filter((id) => ids.has(id)));

@@ -457,15 +457,18 @@ Monthly
 Fee	Amount	 
 Bike Locker	$40 - $50	Optional
 Garage	$125	Optional
-Parking Space Tax
+Parking Space Tax 
 	$10.31	Optional
 Pet Rent	$25	Optional
 Reserved Parking	$250	Optional
 Trash Admin Fee	$2.50	Required
-Trash Average
-	$4.01	Optional
-Water/Sewer Average
-	$42.85	Optional
+Trash Average 
+	$4.01	Required
+(Varies by Usage)
+
+Water/Sewer Average 
+	$42.85	Required
+(Varies by Usage)
 
 Prices may vary by unit and are subject to change. 2 pet maximum per household.
 

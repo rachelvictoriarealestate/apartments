@@ -283,12 +283,16 @@ Pet Deposit	$250	Optional
 Pet Fee	$300	Optional
 Monthly
 Fee	Amount	 
-Central Cooling/HVAC Average
-	$119.09	Optional
-Electricity Average
-	$36.66	Optional
+Central Cooling/HVAC Average 
+	$119.09	Required
+(Varies by Usage)
+
+Electricity Average 
+	$36.66	Required
+(Varies by Usage)
+
 Garage	$125	Optional
-Parking Space Tax
+Parking Space Tax 
 	$10.31	Optional
 Pet Rent	$25	Optional
 Reserved Parking	$250	Optional
@@ -296,8 +300,9 @@ Resident Services Fee	$50	Required
 Storage (varies by size)	$50 - $150	Optional
 Trash Admin Fee	$2.50	Required
 Trash Fee	$9.99	Required
-Water/Sewer/City Fee Average
-	$68.16	Optional
+Water/Sewer/City Fee Average 
+	$68.16	Required
+(Varies by Usage)
 
 Prices may vary by unit and are subject to change. 2 pet maximum per household.
 

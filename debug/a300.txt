@@ -739,10 +739,13 @@ Pet Rent	$25	Optional
 Reserved Parking	$40	Optional
 Storage (varies by size)	$50	Optional
 Trash Admin Fee	$2.50	Required
-Trash Average
-	$26.26	Optional
-Water/Sewer Average
-	$46.15	Optional
+Trash Average 
+	$26.26	Required
+(Varies by Usage)
+
+Water/Sewer Average 
+	$46.15	Required
+(Varies by Usage)
 
 Prices may vary by unit and are subject to change. 2 pet maximum per household.
 

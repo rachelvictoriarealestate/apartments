@@ -1,4 +1,4 @@
-=== LIST https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans?xdtid=4a29e164-0da4-4617-bc1a-dff1d8063c48#/
+=== LIST https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans?xdtid=88f2c683-7271-49d8-a767-0f979b124470#/
 ___
 MENU
 RESIDENT PORTAL
@@ -58,7 +58,7 @@ All prices are based on 12 month lease term
 
 Estimated price does not include non-optional fees.
 
-VIEW 5 APARTMENTS
+VIEW 4 APARTMENTS
 
 A2
 
@@ -67,16 +67,16 @@ A2
 730 Sq.Ft
 
 Total Rent + Mandatory Fees
-$2,039
+$2,079
 
 Base Rent
-$1,865
+$1,905
 
 All prices are based on 12 month lease term
 
 Estimated price does not include non-optional fees.
 
-VIEW 7 APARTMENTS
+VIEW 6 APARTMENTS
 
 A4
 
@@ -85,10 +85,10 @@ A4
 765 Sq.Ft
 
 Total Rent + Mandatory Fees
-$2,127
+$2,349
 
 Base Rent
-$1,953
+$2,175
 
 All prices are based on 12 month lease term
 
@@ -103,10 +103,10 @@ A3
 845 Sq.Ft
 
 Total Rent + Mandatory Fees
-$2,192
+$2,232
 
 Base Rent
-$2,018
+$2,058
 
 All prices are based on 12 month lease term
 

@@ -141,9 +141,9 @@ Available
 
 Total Monthly Price Starting at
 
-$2,574.50/mo.
+$2,615.50/mo.
 
-(Base Rent $2,572)
+(Base Rent $2,613)
 
 Get Pricing
 
@@ -177,9 +177,9 @@ Available
 
 Total Monthly Price Starting at
 
-$2,622.50/mo.
+$2,647.50/mo.
 
-(Base Rent $2,620)
+(Base Rent $2,645)
 
 Get Pricing
 
@@ -465,13 +465,13 @@ SQFT
 
 Available
 
-10/16/2026
+Now
 
 Total Monthly Price Starting at
 
-$2,338.50/mo.
+$2,321.50/mo.
 
-(Base Rent $2,336)
+(Base Rent $2,319)
 
 Get Pricing
 
@@ -503,9 +503,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,602.50/mo.
+$2,584.50/mo.
 
-(Base Rent $2,600)
+(Base Rent $2,582)
 
 Get Pricing
 
@@ -537,9 +537,9 @@ Available
 
 Total Monthly Price Starting at
 
-$2,750.50/mo.
+$2,751.50/mo.
 
-(Base Rent $2,748)
+(Base Rent $2,749)
 
 Get Pricing
 
@@ -569,9 +569,9 @@ Available
 
 Total Monthly Price Starting at
 
-$3,661.50/mo.
+$3,635.50/mo.
 
-(Base Rent $3,659)
+(Base Rent $3,633)
 
 Get Pricing
 

@@ -66,9 +66,9 @@ B5
 2 Bath
 1,588 ft2
 Avail. Now
-$4,820.14
+$4,819.14
 /mo
-$4,689 Base Rent
+$4,688 Base Rent
 10 Mo.
 Special
 Unit
@@ -78,9 +78,9 @@ B5
 2 Bath
 1,588 ft2
 Avail. Now
-$4,780.14
+$4,779.14
 /mo
-$4,649 Base Rent
+$4,648 Base Rent
 10 Mo.
 Special
 Unit
@@ -90,9 +90,9 @@ PH1
 2 Bath
 1,460 ft2
 Avail. Now
-$4,940.14
+$4,939.14
 /mo
-$4,809 Base Rent
+$4,808 Base Rent
 10 Mo.
 Special
 Unit
@@ -102,33 +102,9 @@ A1A
 1 Bath
 667 ft2
 Avail. Now
-$2,403.14
+$2,385.14
 /mo
-$2,272 Base Rent
-10 Mo.
-Special
-Unit
-3201
-PH3
-3 Bed
-2.5 Bath
-2,654 ft2
-Avail. Oct 16
-$6,867.14
-/mo
-$6,736 Base Rent
-10 Mo.
-Special
-Unit
-1009
-A9
-1 Bed
-1 Bath
-1,051 ft2
-Avail. Oct 20
-$2,967.14
-/mo
-$2,836 Base Rent
+$2,254 Base Rent
 10 Mo.
 Special
 Unit
@@ -138,9 +114,33 @@ A1A
 1 Bath
 662 ft2
 Avail. Oct 21
-$2,402.14
+$2,384.14
 /mo
-$2,271 Base Rent
+$2,253 Base Rent
+10 Mo.
+Special
+Unit
+1009
+A9
+1 Bed
+1 Bath
+1,051 ft2
+Avail. Oct 23
+$2,949.14
+/mo
+$2,818 Base Rent
+10 Mo.
+Special
+Unit
+3201
+PH3
+3 Bed
+2.5 Bath
+2,654 ft2
+Avail. Oct 23
+$6,853.14
+/mo
+$6,722 Base Rent
 10 Mo.
 Special
 Unit
@@ -150,9 +150,9 @@ B4
 2 Bath
 1,527 ft2
 Avail. Oct 27
-$4,733.14
+$4,732.14
 /mo
-$4,602 Base Rent
+$4,601 Base Rent
 9 Mo.
 1
 2
@@ -489,7 +489,7 @@ Required
 No
 Costs overview footnotes
 
-Date: October 15, 2026
+Date: October 16, 2026
 
 All pricing set forth above is current, but is subject to change at any time prior to submitting your application. You may be required to pay a security deposit and/or a credit risk premium, the amount of which may vary based on your credit and lease/mortgage history (and other criteria), but will not exceed any legal maximum. Some charges may not apply to affordable housing units. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application.
 

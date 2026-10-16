@@ -47,7 +47,7 @@ Clear
 
 Total Monthly Leasing Price includes base rent, and both mandatory and optional customer-selected charges, but excludes variable, usage-based, annual and one-time charges. Final amounts depend on the completed application, lease term, and move-in date.
 
-4 Homes
+3 Homes
 17 Plans
 Sort by
 Available Date (Soonest)
@@ -58,9 +58,9 @@ B2F
 2 Bath
 1,400 ft2
 Avail. Now
-$4,033.14
+$4,030.14
 /mo
-$3,695 Base Rent
+$3,692 Base Rent
 14 Mo.
 Unit
 1810
@@ -69,20 +69,9 @@ A1D
 1 Bath
 888 ft2
 Avail. Oct 30
-$3,339.14
+$3,368.14
 /mo
-$3,001 Base Rent
-15 Mo.
-Unit
-801
-A6
-1 Bed
-1 Bath
-1,105 ft2
-Avail. Nov 30
-$3,339.14
-/mo
-$3,001 Base Rent
+$3,030 Base Rent
 15 Mo.
 Unit
 2308
@@ -91,9 +80,9 @@ B1R
 2 Bath
 1,374 ft2
 Avail. Dec 18
-$4,312.14
+$4,309.14
 /mo
-$3,974 Base Rent
+$3,971 Base Rent
 15 Mo.
 Floor:
 1
@@ -458,7 +447,7 @@ Required
 No
 Costs overview footnotes
 
-Date: October 15, 2026
+Date: October 16, 2026
 
 All pricing set forth above is current, but is subject to change at any time prior to submitting your application. You may be required to pay a security deposit and/or a credit risk premium, the amount of which may vary based on your credit and lease/mortgage history (and other criteria), but will not exceed any legal maximum. Some charges may not apply to affordable housing units. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application.
 

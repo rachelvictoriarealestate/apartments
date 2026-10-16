@@ -139,7 +139,7 @@ Floor
 1 avail
 Floor
 35
-4 avail
+3 avail
 Floor
 36
 5 avail
@@ -289,7 +289,7 @@ Utility - Vacant Cost Recovery
 	Usage-Based (Utilities)	Per Occurrence	Per Occurrence	Situational
 Utility - Vacant Processing Fee 
 	$50.00	Per Occurrence	Per Occurrence	Situational
-Date of Issuance: 10/15/2026
+Date of Issuance: 10/16/2026
 All fees paid to property unless indicated by ⮂ symbol. Unless a fee is explicitly identified as refundable, all fees are non-refundable. Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
 Price varies based on floor plan type/size. ↩
 Price varies based on amount of coverage. Estimated cost is $18.75. ↩
@@ -567,6 +567,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -974,6 +976,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -1396,6 +1400,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -1825,6 +1831,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -2213,6 +2221,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -2634,6 +2644,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -3022,6 +3034,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -3437,6 +3451,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -3854,6 +3870,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -4248,6 +4266,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -4676,6 +4696,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -5077,6 +5099,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -5484,6 +5508,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -5885,6 +5911,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -6286,6 +6314,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -6728,6 +6758,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -7116,6 +7148,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -7504,6 +7538,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -7899,6 +7935,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -8287,6 +8325,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon
@@ -8685,6 +8725,8 @@ Fri
 13
 Sat
 14
+Sun
+15
 October
 Sun
 Mon

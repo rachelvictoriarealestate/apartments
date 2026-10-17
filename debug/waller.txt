@@ -102,7 +102,7 @@ Available November 1st, 2026
 
 Base rent from $2,045
 
-Show 5 available
+Show 4 available
 T-10
 
 562
@@ -142,7 +142,7 @@ Available Now
 
 Base rent from $2,260
 
-Show 4 available
+Show 3 available
 T-07
 
 672
@@ -290,7 +290,7 @@ sq. ft.
 2
 2
 
-$3,630 – $3,690
+$3,630
 
 Base rent from $3,425
 
@@ -301,7 +301,6 @@ Available Now
 
 Base rent from $3,425
 
-Show 2 available
 T-02
 
 1198

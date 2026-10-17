@@ -765,11 +765,17 @@ B5
 1,503 Sq. Ft.
 STARTING FROM
 $7,850/month
-ONLY 1 LEFT
+ONLY 2 LEFT
 UNIT
 4414
 STARTING FROM
 $7,850 /month
+AVAILABLE
+Now
+UNIT
+4514
+STARTING FROM
+$7,969 /month
 AVAILABLE
 Now
 UNITS
@@ -778,7 +784,7 @@ APPLY NOW
 SCHEDULE A TOUR
 Units
 Move-In Date
-1 Unit Available
+2 Units Available
 UNIT
 4414
 STARTING FROM
@@ -798,6 +804,24 @@ Open Floor Plan Image
 Open Floor Plan Unit Virtual Tour
 APPLY NOW
 VIEW UNIT TOUR
+UNIT
+4514
+STARTING FROM
+$7,969 /month
+AVAILABLE
+Now
+SIZE
+1,503 Sq. Ft.
+BEDS
+2
+BATHS
+2
+Open Floor Plan Unit Special
+Open Property Sightmap
+Open Floor Plan Unit Video
+Open Floor Plan Image
+Open Floor Plan Unit Virtual Tour
+APPLY NOW
 More Floor Plans
 PH1
 2 BEDS

@@ -69,9 +69,9 @@ A1D
 1 Bath
 888 ft2
 Avail. Oct 30
-$3,372.14
+$3,379.14
 /mo
-$3,034 Base Rent
+$3,041 Base Rent
 15 Mo.
 Unit
 2308
@@ -447,7 +447,7 @@ Required
 No
 Costs overview footnotes
 
-Date: October 17, 2026
+Date: October 18, 2026
 
 All pricing set forth above is current, but is subject to change at any time prior to submitting your application. You may be required to pay a security deposit and/or a credit risk premium, the amount of which may vary based on your credit and lease/mortgage history (and other criteria), but will not exceed any legal maximum. Some charges may not apply to affordable housing units. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application.
 

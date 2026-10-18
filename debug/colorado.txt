@@ -407,7 +407,7 @@ A5
 STARTING FROM
 $4,309
 /month
-ONLY 2 LEFT
+ONLY 1 LEFT
 VIEW FLOOR PLAN
 VIEW FLOOR PLAN TOUR
 
@@ -484,19 +484,13 @@ A5
 994 Sq. Ft.
 STARTING FROM
 $4,309/month
-ONLY 2 LEFT
+ONLY 1 LEFT
 UNIT
 2410
 STARTING FROM
 $4,309 /month
 AVAILABLE
 November 28th, 2026
-UNIT
-3010
-STARTING FROM
-$4,574 /month
-AVAILABLE
-December 19th, 2026
 UNITS
 View Availability
 APPLY NOW
@@ -510,25 +504,6 @@ STARTING FROM
 $4,309 /month
 AVAILABLE
 November 28th, 2026
-SIZE
-994 Sq. Ft.
-BEDS
-1
-BATHS
-1
-Open Floor Plan Unit Special
-Open Property Sightmap
-Open Floor Plan Unit Video
-Open Floor Plan Image
-Open Floor Plan Unit Virtual Tour
-APPLY NOW
-VIEW UNIT TOUR
-UNIT
-3010
-STARTING FROM
-$4,574 /month
-AVAILABLE
-December 19th, 2026
 SIZE
 994 Sq. Ft.
 BEDS

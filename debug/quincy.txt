@@ -1,11 +1,9 @@
 === LIST https://quincyatx.com/floorplans/
 Your Privacy Choices
 
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use. To learn more about our privacy practices review our Privacy Policy. Please review your choices.
+We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use. To learn more about our privacy practices review our Privacy Policy.
 
-Accept All
-Customize Settings
-Reject All
+I understand
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
 Skip to main content
@@ -204,7 +202,7 @@ Lease Violation Fee
 Non-Sufficient Funds Fee	$30.00	Per Occurrence	Situational
 Transfer Fee 
 	$500.00 - $2,000.00	Per Occurrence	Situational
-Date of Issuance: 10/17/2026
+Date of Issuance: 10/18/2026
 Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
  Download PDF
 The Quincy
@@ -232,15 +230,6 @@ Site Map
 === PLAN https://quincyatx.com/floorplans/s1/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -496,6 +485,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -548,15 +539,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -616,15 +598,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/s2/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -880,6 +853,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -932,15 +907,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -1000,15 +966,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/s4/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -1280,6 +1237,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -1332,15 +1291,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -1400,15 +1350,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/s3/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -1681,6 +1622,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -1733,15 +1676,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -1801,15 +1735,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a2c/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -2073,6 +1998,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -2125,15 +2052,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -2193,15 +2111,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a3c/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -2465,6 +2374,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -2517,15 +2428,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -2585,15 +2487,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a3a/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -2858,6 +2751,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -2910,15 +2805,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -2978,15 +2864,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a3b/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -3243,6 +3120,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -3295,15 +3174,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -3363,15 +3233,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a4a/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -3627,6 +3488,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -3679,15 +3542,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -3747,15 +3601,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a4b/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -4011,6 +3856,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -4063,15 +3910,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -4131,15 +3969,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a5/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -4395,6 +4224,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -4447,15 +4278,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -4515,15 +4337,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/b2/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -4779,6 +4592,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -4831,15 +4646,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -4899,15 +4705,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/b3a/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -5164,6 +4961,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -5216,15 +5015,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -5284,15 +5074,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/b3b/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -5549,6 +5330,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -5601,15 +5384,6 @@ Sat
 7
 Choose a Time
 Tuesday, October 20, 2026
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm

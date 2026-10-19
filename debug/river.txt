@@ -121,7 +121,7 @@ Floor
 4 avail
 Floor
 29
-3 avail
+2 avail
 Floor
 30
 2 avail
@@ -289,7 +289,7 @@ Utility - Vacant Cost Recovery
 	Usage-Based (Utilities)	Per Occurrence	Per Occurrence	Situational
 Utility - Vacant Processing Fee 
 	$50.00	Per Occurrence	Per Occurrence	Situational
-Date of Issuance: 10/18/2026
+Date of Issuance: 10/19/2026
 All fees paid to property unless indicated by ⮂ symbol. Unless a fee is explicitly identified as refundable, all fees are non-refundable. Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
 Price varies based on floor plan type/size. ↩
 Price varies based on amount of coverage. Estimated cost is $18.75. ↩
@@ -513,8 +513,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -573,6 +571,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -624,9 +624,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -922,8 +923,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -982,6 +981,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -1033,9 +1034,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -1346,8 +1348,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -1406,6 +1406,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -1457,9 +1459,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -1729,13 +1732,6 @@ $4,243.52 - $4,368.52 /mo*
 18 months
 $3,986 Base Rent
 Available Nov 07
-#2912
-Floor 29
-914 sq. ft.
-$4,393.52 - $4,518.52 /mo*
-18 months
-$4,136 Base Rent
-Available Nov 07
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
 Write your
@@ -1770,8 +1766,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -1830,6 +1824,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -1881,9 +1877,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -2160,8 +2157,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -2220,6 +2215,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -2271,9 +2268,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -2583,8 +2581,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -2643,6 +2639,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -2694,9 +2692,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -3000,8 +2999,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -3060,6 +3057,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -3111,9 +3110,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -3419,8 +3419,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -3479,6 +3477,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -3530,9 +3530,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -3815,8 +3816,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -3875,6 +3874,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -3926,9 +3927,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -4245,8 +4247,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -4305,6 +4305,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -4356,9 +4358,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -4641,8 +4644,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -4701,6 +4702,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -4752,9 +4755,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -5050,8 +5054,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -5110,6 +5112,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -5161,9 +5165,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -5453,8 +5458,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -5513,6 +5516,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -5564,9 +5569,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -5856,8 +5862,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -5916,6 +5920,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -5967,9 +5973,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -6307,8 +6314,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -6367,6 +6372,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -6418,9 +6425,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -6697,8 +6705,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -6757,6 +6763,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -6808,9 +6816,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -7087,8 +7096,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -7147,6 +7154,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -7198,9 +7207,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -7484,8 +7494,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -7544,6 +7552,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -7595,9 +7605,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -7874,8 +7885,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -7934,6 +7943,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -7985,9 +7996,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back
@@ -8274,8 +8286,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-19
 Tue
 20
 Wed
@@ -8334,6 +8344,8 @@ Mon
 16
 Tue
 17
+Wed
+18
 October
 Sun
 Mon
@@ -8385,9 +8397,10 @@ Sat
 6
 7
 Choose a Time
-Monday, October 19, 2026
-9:00 am
-1:30 pm
+Tuesday, October 20, 2026
+10:00 am
+1:00 pm
+2:30 pm
 Next
 Select Your Tour
 Back

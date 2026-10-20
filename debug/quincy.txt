@@ -1,9 +1,11 @@
 === LIST https://quincyatx.com/floorplans/
 Your Privacy Choices
 
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use. To learn more about our privacy practices review our Privacy Policy.
+We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use. To learn more about our privacy practices review our Privacy Policy. Please review your choices.
 
-I understand
+Accept All
+Customize Settings
+Reject All
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
 Skip to main content
@@ -93,7 +95,7 @@ Floor
 1 avail
 Floor
 23
-1 avail
+0 avail
 Floor
 24
 1 avail
@@ -129,8 +131,8 @@ Studio
 
 Floor Plan layout: S1
 
-$1,558 /mo*
-15 months$1,395 Base Rent
+$1,644 /mo*
+15 months$1,481 Base Rent
 
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 
@@ -202,7 +204,7 @@ Lease Violation Fee
 Non-Sufficient Funds Fee	$30.00	Per Occurrence	Situational
 Transfer Fee 
 	$500.00 - $2,000.00	Per Occurrence	Situational
-Date of Issuance: 10/18/2026
+Date of Issuance: 10/19/2026
 Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
  Download PDF
 The Quincy
@@ -280,9 +282,9 @@ Studio
 1 bath
 382 sq. ft.
 Only 1 left!
-$1,558 /mo*
+$1,644 /mo*
 15 months
-$1,395 Base Rent
+$1,481 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -390,9 +392,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 12
 382 sq. ft.
-$1,558 /mo*
+$1,644 /mo*
 15 months
-$1,395 Base Rent
+$1,481 Base Rent
 Available Nov 26
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -427,8 +429,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -538,7 +538,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -795,8 +795,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -906,7 +904,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -1015,10 +1013,10 @@ S4
 Studio
 1 bath
 519 sq. ft.
-Only 3 left!
-$1,956 - $2,489 /mo*
+Only 2 left!
+$2,073 - $2,577 /mo*
 16 months
-$1,793 - $2,326 Base Rent
+$1,910 - $2,414 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -1122,29 +1120,21 @@ Message
 Submit
 Thank you, {first_name}!
 We got your message! Thanks for reaching out. You'll hear from us soon.
-#2303
-Building 1
-Floor 23
-519 sq. ft.
-$1,956 /mo*
-16 months
-$1,793 Base Rent
-Available Now
 #1603
 Building 1
 Floor 16
 415 sq. ft.
-$1,985 /mo*
+$2,073 /mo*
 16 months
-$1,822 Base Rent
+$1,910 Base Rent
 Available Nov 01
 #3003
 Building 1
 Floor 30
 519 sq. ft.
-$2,489 /mo*
+$2,577 /mo*
 16 months
-$2,326 Base Rent
+$2,414 Base Rent
 Available Nov 01
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1179,8 +1169,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -1290,7 +1278,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -1400,9 +1388,9 @@ Studio
 1 bath
 551 sq. ft.
 Only 3 left!
-$1,716 - $1,900 /mo*
+$1,802 - $1,986 /mo*
 16 months
-$1,553 - $1,737 Base Rent
+$1,639 - $1,823 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -1511,25 +1499,25 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 15
 551 sq. ft.
-$1,716 /mo*
+$1,802 /mo*
 16 months
-$1,553 Base Rent
+$1,639 Base Rent
 Available Nov 30
 #2609
 Building 1
 Floor 26
 551 sq. ft.
-$1,900 /mo*
+$1,986 /mo*
 16 months
-$1,737 Base Rent
+$1,823 Base Rent
 Available Dec 31
 #2509
 Building 1
 Floor 25
 551 sq. ft.
-$1,867 /mo*
+$1,953 /mo*
 15 months
-$1,704 Base Rent
+$1,790 Base Rent
 Available Jan 03
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1564,8 +1552,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -1675,7 +1661,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -1785,9 +1771,9 @@ A2C
 1 bath
 756 sq. ft.
 Only 2 left!
-$3,126 - $3,141 /mo*
+$3,014 - $3,029 /mo*
 16 months
-$2,963 - $2,978 Base Rent
+$2,851 - $2,866 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -1895,17 +1881,17 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 15
 756 sq. ft.
-$3,126 /mo*
+$3,014 /mo*
 16 months
-$2,963 Base Rent
+$2,851 Base Rent
 Available Nov 13
 #1718
 Building 1
 Floor 17
 756 sq. ft.
-$3,141 /mo*
+$3,029 /mo*
 16 months
-$2,978 Base Rent
+$2,866 Base Rent
 Available Nov 19
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1940,8 +1926,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -2051,7 +2035,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -2316,8 +2300,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -2427,7 +2409,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -2693,8 +2675,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -2804,7 +2784,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -3062,8 +3042,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -3173,7 +3151,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -3430,8 +3408,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -3541,7 +3517,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -3798,8 +3774,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -3909,7 +3883,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -4166,8 +4140,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -4277,7 +4249,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -4387,9 +4359,9 @@ B2
 2 bath
 1096 sq. ft.
 Only 1 left!
-$4,879 /mo*
+$4,819 /mo*
 16 months
-$4,716 Base Rent
+$4,656 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -4497,9 +4469,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 30
 1096 sq. ft.
-$4,879 /mo*
+$4,819 /mo*
 16 months
-$4,716 Base Rent
+$4,656 Base Rent
 Available Dec 13
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -4534,8 +4506,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -4645,7 +4615,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -4755,9 +4725,9 @@ B3A
 2 bath
 1190 sq. ft.
 Only 1 left!
-$4,559 /mo*
+$4,499 /mo*
 13 months
-$4,396 Base Rent
+$4,336 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -4866,9 +4836,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 25
 1190 sq. ft.
-$4,559 /mo*
+$4,499 /mo*
 13 months
-$4,396 Base Rent
+$4,336 Base Rent
 Available Nov 05
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -4903,8 +4873,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -5014,7 +4982,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm
@@ -5124,9 +5092,9 @@ B3B
 2 bath
 1210 sq. ft.
 Only 1 left!
-$4,561 /mo*
+$4,500 /mo*
 16 months
-$4,398 Base Rent
+$4,337 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -5235,9 +5203,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 22
 1210 sq. ft.
-$4,561 /mo*
+$4,500 /mo*
 16 months
-$4,398 Base Rent
+$4,337 Base Rent
 Available Dec 27
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -5272,8 +5240,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-20
 Wed
 21
 Thu
@@ -5383,7 +5349,7 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 20, 2026
+Wednesday, October 21, 2026
 2:30 pm
 3:00 pm
 3:30 pm

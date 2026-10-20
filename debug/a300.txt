@@ -27,7 +27,7 @@ AMLI 300 Apartments
 
 AMLI 300
 
-(123)
+(122)
 
 300 N. Lamar Blvd.
 Austin, TX 78703
@@ -187,6 +187,28 @@ Square footage & measurements are approximate, and floor plan details may vary.
 
 Virtual Tours
 
+A4
+
+0 AVAILABLE UNITS
+
+Bed
+
+1
+
+Bath
+
+1
+
+SQFT
+
+803
+
+Contact Office
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
 A1
 
 0 AVAILABLE UNITS
@@ -204,28 +226,6 @@ SQFT
 561
 
 691
-
-Contact Office
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
-A4
-
-0 AVAILABLE UNITS
-
-Bed
-
-1
-
-Bath
-
-1
-
-SQFT
-
-803
 
 Contact Office
 
@@ -469,9 +469,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,321.50/mo.
+$2,304.50/mo.
 
-(Base Rent $2,319)
+(Base Rent $2,302)
 
 Get Pricing
 
@@ -503,9 +503,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,584.50/mo.
+$2,566.50/mo.
 
-(Base Rent $2,582)
+(Base Rent $2,564)
 
 Get Pricing
 
@@ -537,9 +537,9 @@ Available
 
 Total Monthly Price Starting at
 
-$2,751.50/mo.
+$2,752.50/mo.
 
-(Base Rent $2,749)
+(Base Rent $2,750)
 
 Get Pricing
 
@@ -569,9 +569,9 @@ Available
 
 Total Monthly Price Starting at
 
-$3,635.50/mo.
+$3,610.50/mo.
 
-(Base Rent $3,633)
+(Base Rent $3,608)
 
 Get Pricing
 

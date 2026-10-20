@@ -94,7 +94,7 @@ Virtual Tours
 
 Holly
 
-4 AVAILABLE UNITS
+3 AVAILABLE UNITS
 
 Bed
 
@@ -110,13 +110,13 @@ SQFT
 
 Available
 
-Now
+10/31/2026
 
 Total Monthly Price Starting at
 
-$2,871.49/mo.
+$2,867.49/mo.
 
-(Base Rent $2,809)
+(Base Rent $2,805)
 
 Get Pricing
 
@@ -142,13 +142,13 @@ SQFT
 
 Available
 
-10/20/2026
+Now
 
 Total Monthly Price Starting at
 
-$3,080.49/mo.
+$3,076.49/mo.
 
-(Base Rent $3,018)
+(Base Rent $3,014)
 
 Get Pricing
 

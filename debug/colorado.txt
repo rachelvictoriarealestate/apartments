@@ -483,8 +483,14 @@ B2
 2 Bathrooms 
 1,255 Sq. Ft.
 STARTING FROM
-$5,559/month
-ONLY 1 LEFT
+$5,119/month
+ONLY 2 LEFT
+UNIT
+2521
+STARTING FROM
+$5,119 /month
+AVAILABLE
+December 18th, 2026
 UNIT
 4021
 STARTING FROM
@@ -498,6 +504,25 @@ SCHEDULE A TOUR
 Units
 Move-In Date
 Available on November 7th, 2026
+UNIT
+2521
+STARTING FROM
+$5,119 /month
+AVAILABLE
+December 18th, 2026
+SIZE
+1,255 Sq. Ft.
+BEDS
+2
+BATHS
+2
+Open Floor Plan Unit Special
+Open Property Sightmap
+Open Floor Plan Unit Video
+Open Floor Plan Image
+Open Floor Plan Unit Virtual Tour
+APPLY NOW
+VIEW UNIT TOUR
 UNIT
 4021
 STARTING FROM

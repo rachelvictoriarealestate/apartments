@@ -54,7 +54,7 @@ Clear
 
 Total Monthly Leasing Price includes base rent, and both mandatory and optional customer-selected charges, but excludes variable, usage-based, annual and one-time charges. Final amounts depend on the completed application, lease term, and move-in date.
 
-9 Homes
+10 Homes
 28 Plans
 Sort by
 Available Date (Soonest)
@@ -66,9 +66,9 @@ B5
 2 Bath
 1,588 ft2
 Avail. Now
-$4,873.14
+$4,871.14
 /mo
-$4,742 Base Rent
+$4,740 Base Rent
 10 Mo.
 Special
 Unit
@@ -78,9 +78,9 @@ B5
 2 Bath
 1,588 ft2
 Avail. Now
-$4,833.14
+$4,831.14
 /mo
-$4,702 Base Rent
+$4,700 Base Rent
 10 Mo.
 Special
 Unit
@@ -90,9 +90,9 @@ PH1
 2 Bath
 1,460 ft2
 Avail. Now
-$4,993.14
+$4,991.14
 /mo
-$4,862 Base Rent
+$4,860 Base Rent
 10 Mo.
 Special
 Unit
@@ -138,9 +138,9 @@ B4
 2 Bath
 1,527 ft2
 Avail. Oct 27
-$4,711.14
+$4,708.14
 /mo
-$4,580 Base Rent
+$4,577 Base Rent
 9 Mo.
 Special
 Unit
@@ -150,16 +150,16 @@ A3
 1 Bath
 767 ft2
 Avail. Dec 10
-$2,118.14
+$2,112.14
 /mo
-$1,987 Base Rent
+$1,981 Base Rent
 9 Mo.
 1
 2
 Floor:
 2
 
-Total Monthly Leasing Price includes base rent, and both mandatory and optional customer-selected charges, but excludes variable, usage-based, annual and one-time charges. Final amounts depend on the completed application, lease term, and move-in date. A monthly credit risk premium may apply based on credit, lease/mortgage history, and other criteria. Prices apply to new residents only and are subject to application and lease terms. Some charges may not apply to affordable housing units. All pricing, availability, deposits, and specials are subject to change at any time. Minimum lease terms and occupancy rules may apply. Liability insurance and utility activation may be required. Square footage and features are approximate. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application. For more information on applicable charges, visit the Costs Overview section. Resident Selection Criteria
+Total Monthly Leasing Price includes base rent, and both mandatory and optional customer-selected charges, but excludes variable, usage-based, annual and one-time charges. Estimated utility amounts are based on prior year average. Actual charges vary based on usage, season, household size, occupancy, sq. ft., changes in provider vendor, rates and other factors. Prices and final amounts apply to new residents and depend on the completed application, lease term, and move-in date. A monthly credit risk premium may apply based on credit, lease/mortgage history, and other criteria. Some charges may not apply to affordable housing units. Pricing, availability, deposits, and specials are subject to change at any time. Minimum lease terms and occupancy rules may apply. Square footage and features are approximate. Contact us to request a copy of the lease and applicable addenda before submitting your application. For more information on applicable charges, visit the Costs Overview section. Resident Selection Criteria
 
 Costs Overview
 Print
@@ -489,7 +489,7 @@ Required
 No
 Costs overview footnotes
 
-Date: October 20, 2026
+Date: October 21, 2026
 
 All pricing set forth above is current, but is subject to change at any time prior to submitting your application. You may be required to pay a security deposit and/or a credit risk premium, the amount of which may vary based on your credit and lease/mortgage history (and other criteria), but will not exceed any legal maximum. Some charges may not apply to affordable housing units. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application.
 

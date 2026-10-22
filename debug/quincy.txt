@@ -86,7 +86,7 @@ Floor
 0 avail
 Floor
 20
-2 avail
+3 avail
 Floor
 21
 0 avail
@@ -142,71 +142,9 @@ Everything, Clearly Outlined
 
 This guide walks through potential move-in and monthly costs beyond rent, helping you understand the full picture before you move forward.
 
-Monthly
-Monthly
-Name	Amount	Frequency / Due At	Requirement
-Amenity Fee	$75.00	Monthly	Required
-Boiler Management Fee 
-	$14.00	Monthly	Required
-Electric 
-	Varies	Monthly	Required
-Garage Parking (Open) 
-	$175.00	Monthly	Optional
-Garage Parking (Reserved) 
-	$250.00	Monthly	Optional
-Gas Admin Fee	$3.00	Monthly	Required
-Gas Utility	Usage Based	Monthly	Required
-Governmental Services Admin Fee	$3.00	Monthly	Required
-Internet	$55.00	Monthly	Required
-Pest Control Admin Fee	$3.00	Monthly	Required
-Pest Control Service	$7.00	Monthly	Required
-Pet Rent 
-	$35.00	Monthly	Optional
-Storage 
-	$150.00	Monthly	Optional
-Trash Admin Fee	$3.00	Monthly	Required
-Trash Removal	Varies	Monthly	Required
-Water/Sewer	Usage Based	Monthly	Required
-Application
-Application
-Name	Amount	Frequency / Due At	Requirement
-Administrative Fee	$400.00	One-Time / Application	Required
-Application Fee 
-	$50.00	One-Time / Application	Required
-Move In
-Move In
-Name	Amount	Frequency / Due At	Requirement
-Pet Deposit (Refundable) 
-	$200.00	One-Time / Move-In	Optional
-Pet Fee (Nonrefundable) 
-	$400.00	One-Time / Move-In	Optional
-Security Deposit 
-	$500.00 - $1,000.00	One-Time / Move-In	Required
-Move Out
-Move Out
-Name	Amount	Frequency / Due At	Requirement
-Move-Out Expense 
-	Varies	One-Time / Move-Out	Required
-Situational
-Situational
-Name	Amount	Frequency / Due At	Requirement
-Additional Access Devices 
-	$25.00 - $150.00	Per Occurrence	Situational
-Annual Pet Screening 
-	$30.00	Per Occurrence	Situational
-Early Termination (% of Rent)	200.00% of Base Rent	Per Occurrence	Situational
-Guest Suite Rental 
-	Varies	One-Time	Situational
-Insufficient Notice Penalty (% of Rent)	85.00% of Base Rent	Per Occurrence	Situational
-Late Rent Fee (% of Rent)	10.00% of Base Rent	Per Occurrence	Situational
-Lease Violation Fee 
-	Varies	Per Occurrence	Situational
-Non-Sufficient Funds Fee	$30.00	Per Occurrence	Situational
-Transfer Fee 
-	$500.00 - $2,000.00	Per Occurrence	Situational
-Date of Issuance: 10/20/2026
-Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
- Download PDF
+Where bold luxury meets inner grit.
+Schedule a Tour
+Lease Now
 The Quincy
 91 Red River St.
 Austin, TX 78701
@@ -481,6 +419,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -535,11 +479,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -850,6 +789,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -904,11 +849,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -1020,9 +960,9 @@ Studio
 1 bath
 519 sq. ft.
 Only 2 left!
-$2,073 - $2,577 /mo*
-16 months
-$1,910 - $2,414 Base Rent
+$2,052 - $2,550 /mo*
+15 months
+$1,889 - $2,387 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -1130,17 +1070,17 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 16
 415 sq. ft.
-$2,073 /mo*
-16 months
-$1,910 Base Rent
+$2,052 /mo*
+15 months
+$1,889 Base Rent
 Available Nov 01
 #3003
 Building 1
 Floor 30
 519 sq. ft.
-$2,577 /mo*
-16 months
-$2,414 Base Rent
+$2,550 /mo*
+15 months
+$2,387 Base Rent
 Available Nov 01
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1227,6 +1167,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -1281,11 +1227,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -1613,6 +1554,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -1667,11 +1614,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -1783,9 +1725,9 @@ A2C
 1 bath
 756 sq. ft.
 Only 2 left!
-$3,014 - $3,029 /mo*
+$3,114 - $3,129 /mo*
 16 months
-$2,851 - $2,866 Base Rent
+$2,951 - $2,966 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -1893,17 +1835,17 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 15
 756 sq. ft.
-$3,014 /mo*
+$3,114 /mo*
 16 months
-$2,851 Base Rent
+$2,951 Base Rent
 Available Nov 13
 #1718
 Building 1
 Floor 17
 756 sq. ft.
-$3,029 /mo*
+$3,129 /mo*
 16 months
-$2,866 Base Rent
+$2,966 Base Rent
 Available Nov 19
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1990,6 +1932,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -2044,11 +1992,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -2367,6 +2310,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -2421,11 +2370,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -2536,10 +2480,10 @@ A3A
 1 bed
 1 bath
 775 sq. ft.
-Only 2 left!
-$3,061 - $3,108 /mo*
+Only 3 left!
+$3,033 - $3,108 /mo*
 16 months
-$2,898 - $2,945 Base Rent
+$2,870 - $2,945 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -2652,6 +2596,14 @@ $3,108 /mo*
 16 months
 $2,945 Base Rent
 Available Oct 30
+#2005
+Building 1
+Floor 20
+775 sq. ft.
+$3,033 /mo*
+16 months
+$2,870 Base Rent
+Available Nov 06
 #2405
 Building 1
 Floor 24
@@ -2745,6 +2697,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -2799,11 +2757,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -3123,6 +3076,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -3177,11 +3136,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -3500,6 +3454,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -3554,11 +3514,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -3869,6 +3824,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -3923,11 +3884,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -4238,6 +4194,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -4292,11 +4254,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -4408,9 +4365,9 @@ B2
 2 bath
 1096 sq. ft.
 Only 1 left!
-$4,819 /mo*
+$4,763 /mo*
 16 months
-$4,656 Base Rent
+$4,600 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -4518,10 +4475,10 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 30
 1096 sq. ft.
-$4,819 /mo*
+$4,763 /mo*
 16 months
-$4,656 Base Rent
-Available Dec 13
+$4,600 Base Rent
+Available Dec 03
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
 Where bold luxury meets inner grit.
@@ -4607,6 +4564,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -4661,11 +4624,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -4777,9 +4735,9 @@ B3A
 2 bath
 1190 sq. ft.
 Only 1 left!
-$4,499 /mo*
+$4,443 /mo*
 13 months
-$4,336 Base Rent
+$4,280 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -4888,9 +4846,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 25
 1190 sq. ft.
-$4,499 /mo*
+$4,443 /mo*
 13 months
-$4,336 Base Rent
+$4,280 Base Rent
 Available Nov 05
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -4977,6 +4935,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -5031,11 +4995,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm
@@ -5147,9 +5106,9 @@ B3B
 2 bath
 1210 sq. ft.
 Only 1 left!
-$4,500 /mo*
+$4,444 /mo*
 16 months
-$4,337 Base Rent
+$4,281 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -5258,9 +5217,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 22
 1210 sq. ft.
-$4,500 /mo*
+$4,444 /mo*
 16 months
-$4,337 Base Rent
+$4,281 Base Rent
 Available Dec 27
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -5347,6 +5306,12 @@ Tue
 17
 Wed
 18
+Thu
+19
+Fri
+20
+Sat
+21
 October
 Sun
 Mon
@@ -5401,11 +5366,6 @@ Choose a Time
 Saturday, October 24, 2026
 10:30 am
 11:00 am
-11:30 am
-12:00 pm
-12:30 pm
-1:00 pm
-1:30 pm
 2:00 pm
 2:30 pm
 3:00 pm

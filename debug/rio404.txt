@@ -26,7 +26,7 @@ Floor
 0 avail
 Floor
 3
-2 avail
+1 avail
 Floor
 4
 2 avail

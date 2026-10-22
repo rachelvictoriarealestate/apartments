@@ -60,42 +60,6 @@ Sort by
 Available Date (Soonest)
 Special
 Unit
-2602
-B5
-2 Bed
-2 Bath
-1,588 ft2
-Avail. Now
-$4,871.14
-/mo
-$4,740 Base Rent
-10 Mo.
-Special
-Unit
-2202
-B5
-2 Bed
-2 Bath
-1,588 ft2
-Avail. Now
-$4,831.14
-/mo
-$4,700 Base Rent
-10 Mo.
-Special
-Unit
-2903
-PH1
-2 Bed
-2 Bath
-1,460 ft2
-Avail. Now
-$4,991.14
-/mo
-$4,860 Base Rent
-10 Mo.
-Special
-Unit
 1203
 A1A
 1 Bed
@@ -108,12 +72,48 @@ $2,207 Base Rent
 10 Mo.
 Special
 Unit
+2602
+B5
+2 Bed
+2 Bath
+1,588 ft2
+Avail. Now
+$4,870.14
+/mo
+$4,739 Base Rent
+10 Mo.
+Special
+Unit
+2202
+B5
+2 Bed
+2 Bath
+1,588 ft2
+Avail. Now
+$4,830.14
+/mo
+$4,699 Base Rent
+10 Mo.
+Special
+Unit
+2903
+PH1
+2 Bed
+2 Bath
+1,460 ft2
+Avail. Now
+$4,990.14
+/mo
+$4,859 Base Rent
+10 Mo.
+Special
+Unit
 1003
 A1A
 1 Bed
 1 Bath
 662 ft2
-Avail. Oct 21
+Avail. Now
 $2,318.14
 /mo
 $2,187 Base Rent
@@ -150,9 +150,9 @@ A3
 1 Bath
 767 ft2
 Avail. Dec 10
-$2,112.14
+$2,108.14
 /mo
-$1,981 Base Rent
+$1,977 Base Rent
 9 Mo.
 1
 2
@@ -489,7 +489,7 @@ Required
 No
 Costs overview footnotes
 
-Date: October 21, 2026
+Date: October 22, 2026
 
 All pricing set forth above is current, but is subject to change at any time prior to submitting your application. You may be required to pay a security deposit and/or a credit risk premium, the amount of which may vary based on your credit and lease/mortgage history (and other criteria), but will not exceed any legal maximum. Some charges may not apply to affordable housing units. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application.
 

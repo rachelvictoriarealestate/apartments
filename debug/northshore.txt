@@ -611,9 +611,9 @@ Virtual Tour
 1 bath
 615 sq. ft.
 Only 2 left!
-$2,940 - $3,011 /mo*
+$2,926 - $3,011 /mo*
 14 months
-$2,849 - $2,920 Base Rent
+$2,835 - $2,920 Base Rent
 2D
 3D
 Virtual Tour
@@ -624,9 +624,9 @@ Open Scheduler
 Building 1
 Floor 8
 615 sq. ft.
-$2,940 /mo*
+$2,926 /mo*
 14 months
-$2,849 Base Rent
+$2,835 Base Rent
 Available Now
 #0829
 Building 1
@@ -1035,9 +1035,9 @@ Open Scheduler
 Building 1
 Floor 10
 764 sq. ft.
-$2,973 /mo*
+$2,965 /mo*
 14 months
-$2,882 Base Rent
+$2,874 Base Rent
 Available Now
 #0823
 Building 1
@@ -1187,7 +1187,7 @@ Floor 10
 $3,401 /mo*
 14 months
 $3,310 Base Rent
-Available Oct 22
+Available Now
 #1140
 Building 1
 Floor 11

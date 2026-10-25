@@ -102,7 +102,7 @@ Floor
 0 avail
 Floor
 24
-1 avail
+2 avail
 Floor
 25
 4 avail
@@ -174,15 +174,6 @@ Site Map
 === PLAN https://quincyatx.com/floorplans/s1/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -434,6 +425,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -543,15 +538,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/s2/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -803,6 +789,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -912,15 +902,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/s4/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -1180,6 +1161,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -1289,15 +1274,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/s3/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -1566,6 +1542,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -1675,15 +1655,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a1a/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -1733,10 +1704,10 @@ A1A
 1 bed
 1 bath
 621 sq. ft.
-Only 1 left!
-$2,067 /mo*
+Only 2 left!
+$2,053 - $2,067 /mo*
 16 months
-$1,904 Base Rent
+$1,890 - $1,904 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -1849,6 +1820,14 @@ $2,067 /mo*
 16 months
 $1,904 Base Rent
 Available Now
+#2407
+Building 1
+Floor 24
+621 sq. ft.
+$2,053 /mo*
+15 months
+$1,890 Base Rent
+Available Jan 05
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
 Where bold luxury meets inner grit.
@@ -1936,6 +1915,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -2045,15 +2028,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a2c/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -2313,6 +2287,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -2422,15 +2400,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a3c/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -2690,6 +2659,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -2799,15 +2772,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a3a/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -3083,6 +3047,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -3192,15 +3160,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a3b/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -3461,6 +3420,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -3570,15 +3533,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a4a/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -3838,6 +3792,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -3947,15 +3905,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a4b/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -4207,6 +4156,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -4316,15 +4269,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/a5/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -4576,6 +4520,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -4685,15 +4633,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/b2/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -4945,6 +4884,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -5054,15 +4997,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/b3a/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -5315,6 +5249,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon
@@ -5424,15 +5362,6 @@ Schedule a Tour
 === PLAN https://quincyatx.com/floorplans/b3b/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Office Hours
@@ -5685,6 +5614,10 @@ Sat
 21
 Sun
 22
+Mon
+23
+Tue
+24
 October
 Sun
 Mon

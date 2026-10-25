@@ -54,7 +54,7 @@ Floor
 3 avail
 Floor
 16
-1 avail
+2 avail
 Floor
 17
 0 avail
@@ -69,7 +69,7 @@ Floor
 3 avail
 Floor
 21
-2 avail
+3 avail
 Floor
 22
 2 avail
@@ -279,9 +279,16 @@ A5b
 1 bed
 1 bath
 872 sq. ft.
-Starting at $3,248
+Starting at $3,082
 Book a Tour
 Check Availability
+#1606
+Floor 16
+872 sq. ft.
+Starting at $3,082
+Available Nov 09
+View on Map
+Lease Now
 #2106
 Floor 21
 872 sq. ft.
@@ -689,7 +696,7 @@ Lease Now
 #2610
 Floor 26
 534 sq. ft.
-Starting at $2,049
+Starting at $2,063
 Available Nov 04
 View on Map
 Lease Now
@@ -698,10 +705,17 @@ Lease Now
 Starting at $2,063
 Available Nov 13
 Lease Now
+#2111
+Floor 21
+534 sq. ft.
+Starting at $2,228
+Available Nov 16
+View on Map
+Lease Now
 #1211
 Floor 12
 534 sq. ft.
-Starting at $2,244
+Starting at $2,064
 Available Nov 28
 View on Map
 Lease Now
@@ -1333,78 +1347,6 @@ I Agree
 How We Use Your Data
 Contact Us
 
-=== PLAN https://liveatbowie.com/floorplans/s1/
-Skip to main content
-×
-Pet Policy
-We welcome all your furry friends at The Bowie. Some pet restrictions apply. Call us for more information!
-.cls-1{fill:#fff;}
-Home
-Amenities
-Floorplans
-Neighborhood
-Gallery
-Residents
-Contact
-Find Your Home
-Book a Tour
-Home
-Amenities
-Floorplans
-Neighborhood
-Gallery
-Residents
-Contact
-Find Your Home
-311 Bowie Street
-|
-Austin, TX 78703
-Call us at
-(512) 643-8239
-Book a Tour
-Find Your Home
-Studio, 1, 2, & 3-Bedroom Floor Plans in Austin
-« Back
-« Back
-S1
-Studio
-1 bath
-448 sq. ft.
-Starting at $1,683
-Book a Tour
-Check Availability
-#1404
-448 sq. ft.
-Starting at $1,683
-Available Nov 17
-Lease Now
-Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
-A place to call home.
-Floorplans
-Book a Tour
-The Bowie
-311 Bowie Street
-Austin, TX 78703
-Call us at
-(512) 643-8239
-Pet Policy
-Home
-Amenities
-Floorplans
-Neighborhood
-Gallery
-Residents
-Contact
-© Copyright 2026 The Bowie. All Rights Reserved.
-Privacy Policy
-Disclosures & Licenses
-Site Map
-.st0{fill:#4A4A4A;}
-This site uses cookies to improve your browsing experience. By using our site you agree to our use of cookies.
-I Agree
-How We Use Your Data
-Contact Us
-
 === PLAN https://liveatbowie.com/floorplans/a3/
 Skip to main content
 ×
@@ -1609,7 +1551,7 @@ Book a Tour
 Check Availability
 #2115
 1168 sq. ft.
-Starting at $3,912
+Starting at $3,920
 Available Now
 View Virtual Tour
 Lease Now

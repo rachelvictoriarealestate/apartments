@@ -52,7 +52,7 @@ Floor
 0 avail
 Floor
 7
-4 avail
+3 avail
 Floor
 8
 0 avail
@@ -136,21 +136,6 @@ Floor Plan layout: A4
 $3,200.75 - $3,230.75 /mo*
 17 months$2,990 Base Rent
 
-E1
-
-View unit
-#711
-Available Nov 12
-
-Studio
-1 bath
-575 sq. ft.
-
-Floor Plan layout: E1
-
-$1,940.75 - $1,970.75 /mo*
-18 months$1,730 Base Rent
-
 B3
 
 View unit
@@ -217,15 +202,6 @@ Site Map
 === PLAN https://alexanwaterloo.com/floorplans/e1/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Pet Policy
@@ -268,10 +244,10 @@ E1
 Studio
 1 bath
 575 sq. ft.
-Only 3 left!
-$1,940.75 - $2,060.75 /mo*
+Only 2 left!
+$1,955.75 - $2,060.75 /mo*
 18 months
-$1,730 - $1,820 Base Rent
+$1,745 - $1,820 Base Rent
 PDF
 Book a Tour
 Check Availability
@@ -378,14 +354,6 @@ Message
 Submit
 Thank you, {first_name}!
 We got your message! Thanks for reaching out. You'll hear from us soon.
-#711
-Building 1
-Floor 7
-575 sq. ft.
-$1,940.75 - $1,970.75 /mo*
-18 months
-$1,730 Base Rent
-Available Nov 12
 #2411
 Building 1
 Floor 24
@@ -497,15 +465,6 @@ Contact Us
 === PLAN https://alexanwaterloo.com/floorplans/a2/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Pet Policy
@@ -762,15 +721,6 @@ Contact Us
 === PLAN https://alexanwaterloo.com/floorplans/a3/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Pet Policy
@@ -1034,15 +984,6 @@ Contact Us
 === PLAN https://alexanwaterloo.com/floorplans/a4/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Pet Policy
@@ -1298,15 +1239,6 @@ Contact Us
 === PLAN https://alexanwaterloo.com/floorplans/b2/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Pet Policy
@@ -1562,15 +1494,6 @@ Contact Us
 === PLAN https://alexanwaterloo.com/floorplans/b3/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Pet Policy
@@ -1827,15 +1750,6 @@ Contact Us
 === PLAN https://alexanwaterloo.com/floorplans/b0/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Pet Policy
@@ -2091,15 +2005,6 @@ Contact Us
 === PLAN https://alexanwaterloo.com/floorplans/ph2/
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Your Privacy Choices
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use.
-To learn more about our privacy practices review our
-Privacy Policy
-. P
-lease review your choices.
-Accept All
-Customize Settings
-Reject All
 Skip to main content
 ×
 Pet Policy

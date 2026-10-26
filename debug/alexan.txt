@@ -1,11 +1,9 @@
 === LIST https://alexanwaterloo.com/floorplans/
 Your Privacy Choices
 
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use. To learn more about our privacy practices review our Privacy Policy. Please review your choices.
+We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use. To learn more about our privacy practices review our Privacy Policy.
 
-Accept All
-Customize Settings
-Reject All
+I understand
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
 Skip to main content
@@ -765,7 +763,7 @@ A3
 746 sq. ft.
 Only 2 left!
 $2,973.75 - $3,028.75 /mo*
-17 months
+16 months
 $2,763 - $2,788 Base Rent
 PDF
 Book a Tour
@@ -878,7 +876,7 @@ Building 1
 Floor 12
 746 sq. ft.
 $2,973.75 - $3,003.75 /mo*
-17 months
+16 months
 $2,763 Base Rent
 Available Now
 #1005

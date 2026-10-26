@@ -404,8 +404,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -464,6 +462,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -515,10 +515,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -828,8 +830,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -888,6 +888,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -939,10 +941,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -1225,8 +1229,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -1285,6 +1287,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -1336,10 +1340,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -1650,8 +1656,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -1710,6 +1714,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -1761,10 +1767,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -2061,8 +2069,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -2121,6 +2127,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -2172,10 +2180,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -2485,8 +2495,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -2545,6 +2553,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -2596,10 +2606,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -2876,8 +2888,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -2936,6 +2946,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -2987,10 +2999,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -3294,8 +3308,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -3354,6 +3366,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -3405,10 +3419,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -3721,8 +3737,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -3781,6 +3795,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -3832,10 +3848,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -4118,8 +4136,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -4178,6 +4194,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -4229,10 +4247,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -4556,8 +4576,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -4616,6 +4634,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -4667,10 +4687,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -4946,8 +4968,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -5006,6 +5026,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -5057,10 +5079,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -5336,8 +5360,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -5396,6 +5418,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -5447,10 +5471,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -5746,8 +5772,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -5806,6 +5830,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -5857,10 +5883,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -6136,8 +6164,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -6196,6 +6222,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -6247,10 +6275,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -6540,8 +6570,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -6600,6 +6628,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -6651,10 +6681,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -6985,8 +7017,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -7045,6 +7075,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -7096,10 +7128,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -7376,8 +7410,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -7436,6 +7468,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -7487,10 +7521,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -7774,8 +7810,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -7834,6 +7868,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -7885,10 +7921,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -8172,8 +8210,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -8232,6 +8268,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -8283,10 +8321,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -8563,8 +8603,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -8623,6 +8661,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -8674,10 +8714,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -8964,8 +9006,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Mon
-26
 Tue
 27
 Wed
@@ -9024,6 +9064,8 @@ Mon
 23
 Tue
 24
+Wed
+25
 October
 Sun
 Mon
@@ -9075,10 +9117,12 @@ Sat
 6
 7
 Choose a Time
-Monday, October 26, 2026
-10:30 am
-12:00 pm
-4:30 pm
+Tuesday, October 27, 2026
+10:00 am
+11:30 am
+1:00 pm
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back

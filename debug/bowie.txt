@@ -696,19 +696,19 @@ Lease Now
 #2610
 Floor 26
 534 sq. ft.
-Starting at $2,063
+Starting at $2,070
 Available Nov 04
 View on Map
 Lease Now
 #1311
 534 sq. ft.
-Starting at $2,063
+Starting at $2,070
 Available Nov 13
 Lease Now
 #2111
 Floor 21
 534 sq. ft.
-Starting at $2,228
+Starting at $2,237
 Available Nov 16
 View on Map
 Lease Now
@@ -1221,7 +1221,7 @@ Lease Now
 #1203
 Floor 12
 1148 sq. ft.
-Starting at $3,966
+Starting at $3,949
 Available Nov 28
 View on Map
 Lease Now
@@ -1551,7 +1551,7 @@ Book a Tour
 Check Availability
 #2115
 1168 sq. ft.
-Starting at $3,920
+Starting at $3,943
 Available Now
 View Virtual Tour
 Lease Now

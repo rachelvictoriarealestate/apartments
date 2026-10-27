@@ -181,8 +181,8 @@ Available Now
 
 Floorplan layout: A13
 
-$5,137.52 - $5,262.52 /mo*
-16 months$4,880 Base Rent
+$4,957.52 - $5,082.52 /mo*
+16 months$4,700 Base Rent
 
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 
@@ -404,8 +404,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -464,6 +462,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -515,12 +515,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -653,9 +654,9 @@ A1
 1 bed
 1 bath
 735 sq. ft.
-$3,497.52 - $4,327.52 /mo*
+$3,497.52 - $4,277.52 /mo*
 18 months
-$3,240 - $3,945 Base Rent
+$3,240 - $3,895 Base Rent
 2D
 3D
 Book a Tour
@@ -757,9 +758,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 #3703
 Floor 37
 701 sq. ft.
-$4,202.52 - $4,327.52 /mo*
+$4,120.52 - $4,245.52 /mo*
 16 months
-$3,945 Base Rent
+$3,863 Base Rent
 Available Now
 #3105
 Floor 31
@@ -830,8 +831,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -890,6 +889,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -941,12 +942,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -1229,8 +1231,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -1289,6 +1289,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -1340,12 +1342,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -1478,9 +1481,9 @@ A3
 1 bed
 1 bath
 774 sq. ft.
-$3,992.52 - $4,792.52 /mo*
+$3,992.52 - $4,700.52 /mo*
 18 months
-$3,735 - $4,410 Base Rent
+$3,735 - $4,318 Base Rent
 2D
 3D
 Virtual Tour
@@ -1583,16 +1586,16 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 #3511
 Floor 35
 774 sq. ft.
-$4,667.52 - $4,792.52 /mo*
+$4,575.52 - $4,700.52 /mo*
 16 months
-$4,410 Base Rent
+$4,318 Base Rent
 Available Now
 #3611
 Floor 36
 774 sq. ft.
-$4,617.52 - $4,742.52 /mo*
+$4,526.52 - $4,651.52 /mo*
 16 months
-$4,360 Base Rent
+$4,269 Base Rent
 Available Now
 #1911
 Floor 19
@@ -1656,8 +1659,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -1716,6 +1717,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -1767,12 +1770,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -2069,8 +2073,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -2129,6 +2131,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -2180,12 +2184,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -2495,8 +2500,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -2555,6 +2558,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -2606,12 +2611,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -2888,8 +2894,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -2948,6 +2952,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -2999,12 +3005,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -3308,8 +3315,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -3368,6 +3373,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -3419,12 +3426,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -3737,8 +3745,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -3797,6 +3803,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -3848,12 +3856,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -3987,9 +3996,9 @@ A12
 1.5 bath
 1103 sq. ft.
 Only 2 left!
-$6,057.52 - $6,332.52 /mo*
+$5,877.52 - $6,152.52 /mo*
 16 months
-$5,800 - $5,950 Base Rent
+$5,620 - $5,770 Base Rent
 2D
 3D
 Book a Tour
@@ -4091,16 +4100,16 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 #3910
 Floor 39
 1103 sq. ft.
-$6,207.52 - $6,332.52 /mo*
+$6,027.52 - $6,152.52 /mo*
 16 months
-$5,950 Base Rent
+$5,770 Base Rent
 Available Now
 #3610
 Floor 36
 1103 sq. ft.
-$6,057.52 - $6,182.52 /mo*
+$5,877.52 - $6,002.52 /mo*
 16 months
-$5,800 Base Rent
+$5,620 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -4136,8 +4145,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -4196,6 +4203,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -4247,12 +4256,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -4385,9 +4395,9 @@ A13
 1 bed
 1.5 bath
 1049 sq. ft.
-$5,137.52 - $6,057.52 /mo*
+$4,957.52 - $5,877.52 /mo*
 16 months
-$4,880 - $5,675 Base Rent
+$4,700 - $5,495 Base Rent
 2D
 3D
 Book a Tour
@@ -4489,58 +4499,58 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 #2408
 Floor 24
 1049 sq. ft.
-$5,282.52 - $5,407.52 /mo*
+$5,102.52 - $5,227.52 /mo*
 16 months
-$5,025 Base Rent
+$4,845 Base Rent
 Available Now
 #3308
 Floor 33
 1049 sq. ft.
-$5,682.52 - $5,807.52 /mo*
+$5,502.52 - $5,627.52 /mo*
 16 months
-$5,425 Base Rent
+$5,245 Base Rent
 Available Now
 #3508
 Floor 35
 1049 sq. ft.
-$5,932.52 - $6,057.52 /mo*
+$5,752.52 - $5,877.52 /mo*
 16 months
-$5,675 Base Rent
+$5,495 Base Rent
 Available Now
 #2008
 Floor 20
 1049 sq. ft.
-$5,197.52 - $5,322.52 /mo*
+$5,017.52 - $5,142.52 /mo*
 16 months
-$4,940 Base Rent
+$4,760 Base Rent
 Available Now
 #2208
 Floor 22
 1049 sq. ft.
-$5,232.52 - $5,357.52 /mo*
+$5,052.52 - $5,177.52 /mo*
 16 months
-$4,975 Base Rent
+$4,795 Base Rent
 Available Now
 #1908
 Floor 19
 1049 sq. ft.
-$5,262.52 - $5,387.52 /mo*
+$5,082.52 - $5,207.52 /mo*
 16 months
-$5,005 Base Rent
+$4,825 Base Rent
 Available Now
 #1408
 Floor 14
 1049 sq. ft.
-$5,137.52 - $5,262.52 /mo*
+$4,957.52 - $5,082.52 /mo*
 16 months
-$4,880 Base Rent
+$4,700 Base Rent
 Available Now
 #2708
 Floor 27
 1049 sq. ft.
-$5,432.52 - $5,557.52 /mo*
+$5,252.52 - $5,377.52 /mo*
 14 months
-$5,175 Base Rent
+$4,995 Base Rent
 Available Dec 15
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -4576,8 +4586,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -4636,6 +4644,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -4687,12 +4697,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -4968,8 +4979,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -5028,6 +5037,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -5079,12 +5090,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -5360,8 +5372,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -5420,6 +5430,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -5471,12 +5483,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -5772,8 +5785,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -5832,6 +5843,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -5883,12 +5896,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -6164,8 +6178,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -6224,6 +6236,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -6275,12 +6289,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -6570,8 +6585,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -6630,6 +6643,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -6681,12 +6696,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -7017,8 +7033,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -7077,6 +7091,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -7128,12 +7144,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -7410,8 +7427,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -7470,6 +7485,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -7521,12 +7538,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -7810,8 +7828,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -7870,6 +7886,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -7921,12 +7939,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -8210,8 +8229,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -8270,6 +8287,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -8321,12 +8340,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -8603,8 +8623,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -8663,6 +8681,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -8714,12 +8734,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -9006,8 +9027,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Tue
-27
 Wed
 28
 Thu
@@ -9066,6 +9085,8 @@ Tue
 24
 Wed
 25
+Thu
+26
 October
 Sun
 Mon
@@ -9117,12 +9138,13 @@ Sat
 6
 7
 Choose a Time
-Tuesday, October 27, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
-4:00 pm
+Wednesday, October 28, 2026
+9:00 am
+10:30 am
+12:00 pm
+1:30 pm
+3:00 pm
+4:30 pm
 Next
 Select Your Tour
 Back

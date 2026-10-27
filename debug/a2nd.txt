@@ -29,7 +29,7 @@ AMLI On 2ND Apartments
 
 AMLI on 2ND
 
-(227)
+(222)
 
 421 W. 3rd St.
 Austin, TX 78701
@@ -42,9 +42,9 @@ Call
 
 Total Monthly Price Starting at
 
-$2,751.49
+$2,762.49
 
-(Base Rent $2,689)
+(Base Rent $2,700)
 
 Schedule a Tour
 Floor Plans & Pricing
@@ -82,9 +82,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,751.49/mo.
+$2,762.49/mo.
 
-(Base Rent $2,689)
+(Base Rent $2,700)
 
 Get Pricing
 
@@ -114,9 +114,9 @@ Available
 
 Total Monthly Price Starting at
 
-$2,867.49/mo.
+$2,881.49/mo.
 
-(Base Rent $2,805)
+(Base Rent $2,819)
 
 Get Pricing
 
@@ -146,9 +146,9 @@ Now
 
 Total Monthly Price Starting at
 
-$3,072.49/mo.
+$3,086.49/mo.
 
-(Base Rent $3,010)
+(Base Rent $3,024)
 
 Get Pricing
 
@@ -178,9 +178,9 @@ Available
 
 Total Monthly Price Starting at
 
-$4,015.49/mo.
+$4,030.49/mo.
 
-(Base Rent $3,953)
+(Base Rent $3,968)
 
 Get Pricing
 
@@ -236,9 +236,9 @@ Now
 
 Total Monthly Price Starting at
 
-$5,003.49/mo.
+$5,066.49/mo.
 
-(Base Rent $4,941)
+(Base Rent $5,004)
 
 Get Pricing
 

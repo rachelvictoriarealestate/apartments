@@ -369,8 +369,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -478,10 +476,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -737,8 +732,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -846,10 +839,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -1113,8 +1103,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -1222,10 +1210,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -1498,8 +1483,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -1607,10 +1590,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -1875,8 +1855,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -1984,10 +1962,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -2251,8 +2226,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -2360,10 +2333,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -2627,8 +2597,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -2736,10 +2704,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -3019,8 +2984,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -3128,10 +3091,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -3396,8 +3356,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -3505,10 +3463,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -3772,8 +3727,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -3881,10 +3834,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -4140,8 +4090,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -4249,10 +4197,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -4508,8 +4453,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -4617,10 +4560,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -4729,9 +4669,9 @@ B2
 2 bath
 1096 sq. ft.
 Only 1 left!
-$4,763 /mo*
+$4,538 /mo*
 16 months
-$4,600 Base Rent
+$4,375 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -4839,9 +4779,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 30
 1096 sq. ft.
-$4,763 /mo*
+$4,538 /mo*
 16 months
-$4,600 Base Rent
+$4,375 Base Rent
 Available Dec 03
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -4876,8 +4816,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -4985,10 +4923,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -5097,9 +5032,9 @@ B3A
 2 bath
 1190 sq. ft.
 Only 1 left!
-$4,443 /mo*
+$4,218 /mo*
 13 months
-$4,280 Base Rent
+$4,055 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -5208,9 +5143,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 25
 1190 sq. ft.
-$4,443 /mo*
+$4,218 /mo*
 13 months
-$4,280 Base Rent
+$4,055 Base Rent
 Available Nov 05
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -5245,8 +5180,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -5354,10 +5287,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next
@@ -5466,9 +5396,9 @@ B3B
 2 bath
 1210 sq. ft.
 Only 1 left!
-$4,444 /mo*
+$4,217 /mo*
 16 months
-$4,281 Base Rent
+$4,054 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -5577,9 +5507,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 22
 1210 sq. ft.
-$4,444 /mo*
+$4,217 /mo*
 16 months
-$4,281 Base Rent
+$4,054 Base Rent
 Available Dec 27
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -5614,8 +5544,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 October 2026
-Wed
-28
 Thu
 29
 Fri
@@ -5723,10 +5651,7 @@ Sat
 6
 7
 Choose a Time
-Wednesday, October 28, 2026
-10:00 am
-10:30 am
-11:00 am
+Thursday, October 29, 2026
 11:30 am
 12:00 pm
 Next

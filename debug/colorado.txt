@@ -99,8 +99,14 @@ Studio
 1 Bathroom 
 551 Sq. Ft.
 STARTING FROM
-$2,455/month
-ONLY 1 LEFT
+$2,180/month
+ONLY 2 LEFT
+UNIT
+2011
+STARTING FROM
+$2,180 /month
+AVAILABLE
+December 30th, 2026
 UNIT
 2711
 STARTING FROM
@@ -114,6 +120,25 @@ SCHEDULE A TOUR
 Units
 Move-In Date
 Available on December 14th, 2026
+UNIT
+2011
+STARTING FROM
+$2,180 /month
+AVAILABLE
+December 30th, 2026
+SIZE
+551 Sq. Ft.
+BEDS
+Studio
+BATHS
+1
+Open Floor Plan Unit Special
+Open Property Sightmap
+Open Floor Plan Unit Video
+Open Floor Plan Image
+Open Floor Plan Unit Virtual Tour
+APPLY NOW
+VIEW UNIT TOUR
 UNIT
 2711
 STARTING FROM

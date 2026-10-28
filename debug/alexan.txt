@@ -1,9 +1,11 @@
 === LIST https://alexanwaterloo.com/floorplans/
 Your Privacy Choices
 
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use. To learn more about our privacy practices review our Privacy Policy.
+We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use. To learn more about our privacy practices review our Privacy Policy. Please review your choices.
 
-I understand
+Accept All
+Customize Settings
+Reject All
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
 Skip to main content
@@ -47,7 +49,7 @@ Floor
 --
 Floor
 6
-0 avail
+1 avail
 Floor
 7
 3 avail
@@ -119,50 +121,20 @@ Floor
 --
 *TOTAL MONTHLY PRICE reflects our commitment to transparency and includes BASE RENT, all MANDATORY MONTHLY FEES, and any optional services you choose. It excludes variable or usage-based fees and required charges due at or before move-in or at move-out.
 
-A4
+B0
 
 View unit
-#710
-Available Now
-
-1 bed
-1.5 bath
-1039 sq. ft.
-
-Floor Plan layout: A4
-
-$3,200.75 - $3,230.75 /mo*
-17 months$2,990 Base Rent
-
-B3
-
-View unit
-#712
-Available Dec 25
+#608
+Available Jan 12
 
 2 bed
-2.5 bath
-1250 sq. ft.
+2 bath
+1315 sq. ft.
 
-Floor Plan layout: B3
+Floor Plan layout: B0
 
-$3,321.75 - $3,351.75 /mo*
-18 months$3,111 Base Rent
-
-A2
-
-View unit
-#707
-Available Dec 30
-
-1 bed
-1 bath
-741 sq. ft.
-
-Floor Plan layout: A2
-
-$2,963.75 - $2,993.75 /mo*
-15 months$2,753 Base Rent
+$3,397.75 - $3,427.75 /mo*
+18 months$3,187 Base Rent
 
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 
@@ -172,9 +144,82 @@ Everything, Clearly Outlined
 
 This guide walks through potential move-in and monthly costs beyond rent, helping you understand the full picture before you move forward.
 
-Designed for modern luxury.
-Find Your Home
-Explore Austin
+Monthly
+Monthly
+Name	Amount	Frequency / Due At	Requirement
+ADA Parking (Reserved) 
+	$150.00	Monthly	Optional
+Amenity Fee 
+	$95.00 - $125.00	Monthly	Required
+Boiler Management Fee 
+	$16.75	Monthly	Required
+Climate Controlled Storage 
+	$65.00	Monthly	Optional
+Compact Parking 
+	$125.00	Monthly	Optional
+Compact Storage (Large) 
+	$115.00	Monthly	Optional
+Compact Storage (Medium) 
+	$50.00	Monthly	Optional
+Compact Storage (Small) 
+	$30.00	Monthly	Optional
+DWP 
+	$15.00	Monthly	Required
+EV Parking 
+	$250.00	Monthly	Optional
+Electric 
+	Varies	Monthly	Required
+Governmental Services Admin Fee	$3.00	Monthly	Required
+Internet	$70.00	Monthly	Required
+Pest Control Admin Fee	$3.00	Monthly	Required
+Pest Control Service	$5.00	Monthly	Required
+Pet Rent 
+	$29.00	Monthly	Optional
+Premium Parking 
+	$175.00	Monthly	Optional
+Standard Parking 
+	$150.00	Monthly	Optional
+Stormwater Admin Fee 
+	$3.00	Monthly	Required
+Tandem Parking 
+	$200.00	Monthly	Optional
+Water/Sewer	Usage Based	Monthly	Required
+Application
+Application
+Name	Amount	Frequency / Due At	Requirement
+Administrative Fee	$300.00	One-Time / Application	Required
+Application Fee 
+	$65.00	One-Time / Application	Required
+Move In
+Move In
+Name	Amount	Frequency / Due At	Requirement
+Pet Fee (Nonrefundable) 
+	$500.00	One-Time / Move-In	Optional
+Security Deposit 
+	$500.00 - $1,000.00	One-Time / Move-In	Required
+Move Out
+Move Out
+Name	Amount	Frequency / Due At	Requirement
+Move-Out Expense 
+	Varies	One-Time / Move-Out	Required
+Situational
+Situational
+Name	Amount	Frequency / Due At	Requirement
+Additional Access Devices 
+	$25.00 - $150.00	Per Occurrence	Situational
+Annual Pet Screening 
+	$30.00	Per Occurrence	Situational
+Early Termination (% of Rent)	200.00% of Base Rent	Per Occurrence	Situational
+Insufficient Notice Penalty (% of Rent)	85.00% of Base Rent	Per Occurrence	Situational
+Late Rent Fee (% of Rent)	10.00% of Base Rent	Per Occurrence	Situational
+Lease Violation Fee 
+	Varies	Per Occurrence	Situational
+Non-Sufficient Funds Fee	$30.00	Per Occurrence	Situational
+Transfer Fee 
+	$500.00 - $2,000.00	Per Occurrence	Situational
+Date of Issuance: 10/27/2026
+Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
+ Download PDF
 Alexan Waterloo
 700 East 11th Street
 Austin, TX 78701
@@ -243,9 +288,9 @@ Studio
 1 bath
 575 sq. ft.
 Only 2 left!
-$2,008.75 - $2,113.75 /mo*
+$2,062.75 - $2,167.75 /mo*
 18 months
-$1,798 - $1,873 Base Rent
+$1,852 - $1,927 Base Rent
 PDF
 Book a Tour
 Check Availability
@@ -356,17 +401,17 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 24
 575 sq. ft.
-$2,083.75 - $2,113.75 /mo*
+$2,137.75 - $2,167.75 /mo*
 18 months
-$1,873 Base Rent
+$1,927 Base Rent
 Available Dec 16
 #2311
 Building 1
 Floor 23
 575 sq. ft.
-$2,008.75 - $2,038.75 /mo*
+$2,062.75 - $2,092.75 /mo*
 18 months
-$1,798 Base Rent
+$1,852 Base Rent
 Available Dec 25
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1280,9 +1325,9 @@ B2
 2 bath
 1174 sq. ft.
 Only 1 left!
-$3,071.75 - $3,101.75 /mo*
+$3,122.75 - $3,152.75 /mo*
 18 months
-$2,861 Base Rent
+$2,912 Base Rent
 PDF
 Book a Tour
 Check Availability
@@ -1393,9 +1438,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 12
 1174 sq. ft.
-$3,071.75 - $3,101.75 /mo*
+$3,122.75 - $3,152.75 /mo*
 18 months
-$2,861 Base Rent
+$2,912 Base Rent
 Available Dec 31
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1535,9 +1580,9 @@ B3
 2.5 bath
 1250 sq. ft.
 Only 1 left!
-$3,321.75 - $3,351.75 /mo*
+$3,372.75 - $3,402.75 /mo*
 18 months
-$3,111 Base Rent
+$3,162 Base Rent
 Virtual Tour
 PDF
 Book a Tour
@@ -1649,9 +1694,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 7
 1250 sq. ft.
-$3,321.75 - $3,351.75 /mo*
+$3,372.75 - $3,402.75 /mo*
 18 months
-$3,111 Base Rent
+$3,162 Base Rent
 Available Dec 25
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1790,10 +1835,10 @@ B0
 2 bed
 2 bath
 1315 sq. ft.
-Only 1 left!
-$3,346.75 - $3,376.75 /mo*
+Only 2 left!
+$3,397.75 - $3,427.75 /mo*
 18 months
-$3,136 Base Rent
+$3,187 Base Rent
 PDF
 Book a Tour
 Check Availability
@@ -1904,10 +1949,18 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 10
 1315 sq. ft.
-$3,346.75 - $3,376.75 /mo*
+$3,397.75 - $3,427.75 /mo*
 18 months
-$3,136 Base Rent
+$3,187 Base Rent
 Available Now
+#608
+Building 1
+Floor 6
+1315 sq. ft.
+$3,397.75 - $3,427.75 /mo*
+18 months
+$3,187 Base Rent
+Available Jan 12
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
 Designed for modern luxury.

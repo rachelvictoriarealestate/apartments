@@ -39,7 +39,7 @@ Floor
 0 avail
 Floor
 11
-1 avail
+2 avail
 Floor
 12
 4 avail
@@ -102,7 +102,7 @@ Floor
 0 avail
 Floor
 32
-0 avail
+1 avail
 Floor
 33
 0 avail
@@ -115,6 +115,20 @@ Floor
 Floor
 R
 0 avail
+
+B6
+
+View unit
+#1105
+Available Nov 25
+
+2 bed
+2 bath
+1369 sq. ft.
+
+Floorplan layout: B6
+
+Starting at $4,064
 
 A3
 
@@ -136,6 +150,9 @@ Community Fee Guide
 
 Whether you're a current resident or an interested prospect, we want to make it easy to understand what your rent includes and what may constitute additional fees. To help with this, we've created a fee list below so you can quickly see what fees may apply in addition to your base rent.
 
+A place to call home.
+Floorplans
+Book a Tour
 The Bowie
 311 Bowie Street
 Austin, TX 78703
@@ -726,8 +743,82 @@ Lease Now
 #2610
 Floor 26
 534 sq. ft.
-Starting at $2,026
+Starting at $2,040
 Available Dec 05
+View on Map
+Lease Now
+Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
+A place to call home.
+Floorplans
+Book a Tour
+The Bowie
+311 Bowie Street
+Austin, TX 78703
+Call us at
+(512) 643-8239
+Pet Policy
+Home
+Amenities
+Floorplans
+Neighborhood
+Gallery
+Residents
+Contact
+© Copyright 2026 The Bowie. All Rights Reserved.
+Privacy Policy
+Disclosures & Licenses
+Site Map
+.st0{fill:#4A4A4A;}
+This site uses cookies to improve your browsing experience. By using our site you agree to our use of cookies.
+I Agree
+How We Use Your Data
+Contact Us
+
+=== PLAN https://liveatbowie.com/floorplans/b6/
+Skip to main content
+×
+Pet Policy
+We welcome all your furry friends at The Bowie. Some pet restrictions apply. Call us for more information!
+.cls-1{fill:#fff;}
+Home
+Amenities
+Floorplans
+Neighborhood
+Gallery
+Residents
+Contact
+Find Your Home
+Book a Tour
+Home
+Amenities
+Floorplans
+Neighborhood
+Gallery
+Residents
+Contact
+Find Your Home
+311 Bowie Street
+|
+Austin, TX 78703
+Call us at
+(512) 643-8239
+Book a Tour
+Find Your Home
+Studio, 1, 2, & 3-Bedroom Floor Plans in Austin
+« Back
+« Back
+B6
+2 bed
+2 bath
+1369 sq. ft.
+Starting at $4,064
+Book a Tour
+Check Availability
+#1105
+Floor 11
+1369 sq. ft.
+Starting at $4,064
+Available Nov 25
 View on Map
 Lease Now
 Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
@@ -810,6 +901,13 @@ Floor 35
 692 sq. ft.
 Starting at $2,707
 Available Nov 03
+View on Map
+Lease Now
+#3201
+Floor 32
+692 sq. ft.
+Starting at $2,720
+Available Nov 09
 View on Map
 Lease Now
 Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.

@@ -1,4 +1,4 @@
-=== LIST https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans?xdtid=f21fd1fb-08de-4ede-a8c2-be60b56f05f0#/
+=== LIST https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans?xdtid=be01b158-7a06-4a97-a7dd-d3481bf6eefe#/
 ___
 MENU
 RESIDENT PORTAL
@@ -42,6 +42,24 @@ Max Price
 More Filters
 add
 
+E1
+
+Studio
+1 Bath
+523 Sq.Ft
+
+Total Rent + Mandatory Fees
+$1,550
+
+Base Rent
+$1,376
+
+All prices are based on 12 month lease term
+
+Estimated price does not include non-optional fees.
+
+VIEW 4 APARTMENTS
+
 A1 Affordable
 
 1 Bed
@@ -59,24 +77,6 @@ All prices are based on 12 month lease term
 Estimated price does not include non-optional fees.
 
 VIEW 1 APARTMENT
-
-E1
-
-Studio
-1 Bath
-523 Sq.Ft
-
-Total Rent + Mandatory Fees
-$1,594
-
-Base Rent
-$1,420
-
-All prices are based on 12 month lease term
-
-Estimated price does not include non-optional fees.
-
-VIEW 4 APARTMENTS
 
 B3 Affordable
 
@@ -121,10 +121,10 @@ A4
 765 Sq.Ft
 
 Total Rent + Mandatory Fees
-$2,488
+$2,522
 
 Base Rent
-$2,314
+$2,348
 
 All prices are based on 12 month lease term
 
@@ -139,10 +139,10 @@ A3
 845 Sq.Ft
 
 Total Rent + Mandatory Fees
-$2,597
+$2,631
 
 Base Rent
-$2,423
+$2,457
 
 All prices are based on 12 month lease term
 
@@ -157,10 +157,10 @@ B2
 1,053 Sq.Ft
 
 Total Rent + Mandatory Fees
-$3,171
+$3,263
 
 Base Rent
-$2,997
+$3,089
 
 All prices are based on 12 month lease term
 
@@ -176,7 +176,7 @@ Studio
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 E2
 
@@ -186,7 +186,7 @@ Studio
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 E2 Affordable
 
@@ -196,7 +196,7 @@ Studio
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 E3
 
@@ -206,7 +206,7 @@ Studio
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 E3 Affordable
 
@@ -216,7 +216,7 @@ Studio
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 A1
 
@@ -226,7 +226,7 @@ A1
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 B3
 
@@ -236,7 +236,7 @@ B3
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 A2 Affordable
 
@@ -246,7 +246,7 @@ A2 Affordable
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 A4 Affordable
 
@@ -256,7 +256,7 @@ A4 Affordable
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 A5 Affordable
 
@@ -266,7 +266,7 @@ A5 Affordable
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 A6 Affordable
 
@@ -276,7 +276,7 @@ A6 Affordable
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 A6
 
@@ -286,7 +286,7 @@ A6
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 B1 Affordable
 
@@ -296,7 +296,7 @@ B1 Affordable
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 B1
 
@@ -306,7 +306,7 @@ B1
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 A7
 
@@ -316,7 +316,7 @@ A7
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 B4 Affordable
 
@@ -326,7 +326,7 @@ B4 Affordable
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 B4
 
@@ -336,7 +336,7 @@ B4
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 B2 Affordable
 
@@ -346,7 +346,7 @@ B2 Affordable
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 B5 Affordable
 
@@ -356,7 +356,7 @@ B5 Affordable
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 B5
 
@@ -366,7 +366,7 @@ B5
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 B6 Affordable
 
@@ -376,7 +376,7 @@ B6 Affordable
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 
 B6
 
@@ -386,7 +386,7 @@ B6
 
 All prices are based on varying lease terms
 
-Please Call 737-406-0772
+Please Call 737-406-1707
 Collapse Floor Plans
 
 Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Base rent is based on monthly frequency. Additional fees may apply, such as but not limited to package delivery, trash, water, amenities, etc. Deposits vary. Please see a representative for details.
@@ -415,7 +415,7 @@ CORAZON
 
 1000 East 5th Street Austin, TX 78702
 
-737-406-0772
+737-406-1707
 
 Email Us
 

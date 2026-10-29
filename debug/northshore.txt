@@ -163,8 +163,8 @@ Available Now
 
 Floorplan layout: 1L
 
-$3,030 /mo*
-14 months$2,939 Base Rent
+$2,933 /mo*
+14 months$2,842 Base Rent
 
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 
@@ -259,7 +259,7 @@ Utility - Vacant Cost Recovery
 	Usage-Based (Utilities)	Per Occurrence	Per Occurrence	Situational
 Utility - Vacant Processing Fee 
 	$50.00	Per Occurrence	Per Occurrence	Situational
-Date of Issuance: 10/28/2026
+Date of Issuance: 10/29/2026
 All fees paid to property unless indicated by ⮂ symbol. Unless a fee is explicitly identified as refundable, all fees are non-refundable. Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
 Price varies based on floor plan type/size. ↩
 Price varies based on amount of coverage. Estimated cost is $18.75 ^Fee does not apply to affordable units. ↩
@@ -723,9 +723,9 @@ Virtual Tour
 1 bath
 615 sq. ft.
 Only 2 left!
-$2,889 - $3,011 /mo*
+$2,796 - $2,914 /mo*
 14 months
-$2,798 - $2,920 Base Rent
+$2,705 - $2,823 Base Rent
 2D
 3D
 Virtual Tour
@@ -736,17 +736,17 @@ Open Scheduler
 Building 1
 Floor 8
 615 sq. ft.
-$2,889 /mo*
+$2,796 /mo*
 14 months
-$2,798 Base Rent
+$2,705 Base Rent
 Available Now
 #0829
 Building 1
 Floor 8
 615 sq. ft.
-$3,011 /mo*
+$2,914 /mo*
 13 months
-$2,920 Base Rent
+$2,823 Base Rent
 Available Dec 14
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -986,9 +986,9 @@ Virtual Tour
 1 bed
 1 bath
 652 - 730 sq. ft.
-$3,158 - $3,436 /mo*
+$3,065 - $3,339 /mo*
 14 months
-$3,067 - $3,345 Base Rent
+$2,974 - $3,248 Base Rent
 Virtual Tour
 Schedule A Tour
 Check Availability
@@ -997,33 +997,33 @@ Open Scheduler
 Building 1
 Floor 10
 730 sq. ft.
-$3,268 /mo*
+$3,175 /mo*
 14 months
-$3,177 Base Rent
+$3,084 Base Rent
 Available Now
 #1138
 Building 1
 Floor 11
 652 sq. ft.
-$3,158 /mo*
+$3,065 /mo*
 14 months
-$3,067 Base Rent
+$2,974 Base Rent
 Available Now
 #1238
 Building 1
 Floor 12
 652 sq. ft.
-$3,436 /mo*
+$3,339 /mo*
 14 months
-$3,345 Base Rent
+$3,248 Base Rent
 Available Nov 16
 #0828
 Building 1
 Floor 8
 749 sq. ft.
-$3,186 /mo*
+$3,089 /mo*
 13 months
-$3,095 Base Rent
+$2,998 Base Rent
 Available Dec 02
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -1141,9 +1141,9 @@ Virtual Tour
 1 bath
 764 sq. ft.
 Only 3 left!
-$2,830 - $3,110 /mo*
+$2,733 - $3,001 /mo*
 14 months
-$2,739 - $3,019 Base Rent
+$2,642 - $2,910 Base Rent
 2D
 3D
 Virtual Tour
@@ -1154,25 +1154,25 @@ Open Scheduler
 Building 1
 Floor 10
 764 sq. ft.
-$2,965 /mo*
+$2,872 /mo*
 14 months
-$2,874 Base Rent
+$2,781 Base Rent
 Available Now
 #0823
 Building 1
 Floor 8
 764 sq. ft.
-$3,110 /mo*
+$3,001 /mo*
 14 months
-$3,019 Base Rent
+$2,910 Base Rent
 Available Now
 #0423
 Building 1
 Floor 4
 764 sq. ft.
-$2,830 /mo*
+$2,733 /mo*
 13 months
-$2,739 Base Rent
+$2,642 Base Rent
 Available Dec 07
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -1290,9 +1290,9 @@ Virtual Tour
 1 bath
 771 sq. ft.
 Only 2 left!
-$3,401 - $3,501 /mo*
+$3,304 - $3,404 /mo*
 14 months
-$3,310 - $3,410 Base Rent
+$3,213 - $3,313 Base Rent
 2D
 3D
 Virtual Tour
@@ -1303,17 +1303,17 @@ Open Scheduler
 Building 1
 Floor 10
 790 sq. ft.
-$3,401 /mo*
+$3,304 /mo*
 14 months
-$3,310 Base Rent
+$3,213 Base Rent
 Available Now
 #1140
 Building 1
 Floor 11
 771 sq. ft.
-$3,501 /mo*
+$3,404 /mo*
 14 months
-$3,410 Base Rent
+$3,313 Base Rent
 Available Nov 09
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -1431,9 +1431,9 @@ Virtual Tour
 1 bath
 839 sq. ft.
 Only 1 left!
-$3,030 /mo*
+$2,933 /mo*
 14 months
-$2,939 Base Rent
+$2,842 Base Rent
 2D
 3D
 Virtual Tour
@@ -1444,9 +1444,9 @@ Open Scheduler
 Building 1
 Floor 3
 839 sq. ft.
-$3,030 /mo*
+$2,933 /mo*
 14 months
-$2,939 Base Rent
+$2,842 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -1563,29 +1563,21 @@ Virtual Tour
 1 bed
 1 bath
 895 - 956 sq. ft.
-Only 2 left!
-$3,489 - $3,534 /mo*
-14 months
-$3,398 - $3,443 Base Rent
+Only 1 left!
+$3,437 /mo*
+13 months
+$3,346 Base Rent
 Virtual Tour
 Schedule A Tour
 Check Availability
 Open Scheduler
-#1410
-Building 1
-Floor 14
-925 sq. ft.
-$3,489 /mo*
-14 months
-$3,398 Base Rent
-Available Nov 25
 #2610
 Building 1
 Floor 26
 895 sq. ft.
-$3,534 /mo*
+$3,437 /mo*
 13 months
-$3,443 Base Rent
+$3,346 Base Rent
 Available Dec 19
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -1703,9 +1695,9 @@ Virtual Tour
 1 bath
 958 sq. ft.
 Only 1 left!
-$3,486 /mo*
+$3,393 /mo*
 14 months
-$3,395 Base Rent
+$3,302 Base Rent
 2D
 3D
 Schedule A Tour
@@ -1715,9 +1707,9 @@ Open Scheduler
 Building 1
 Floor 9
 958 sq. ft.
-$3,486 /mo*
+$3,393 /mo*
 14 months
-$3,395 Base Rent
+$3,302 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -1835,9 +1827,9 @@ Virtual Tour
 1 bath
 973 sq. ft.
 Only 1 left!
-$3,145 /mo*
+$3,048 /mo*
 13 months
-$3,054 Base Rent
+$2,957 Base Rent
 Virtual Tour
 Schedule A Tour
 Check Availability
@@ -1846,9 +1838,9 @@ Open Scheduler
 Building 1
 Floor 4
 973 sq. ft.
-$3,145 /mo*
+$3,048 /mo*
 13 months
-$3,054 Base Rent
+$2,957 Base Rent
 Available Dec 13
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -2230,9 +2222,9 @@ Virtual Tour
 2 bath
 1536 sq. ft.
 Only 1 left!
-$5,626 /mo*
+$5,629 /mo*
 14 months
-$5,535 Base Rent
+$5,538 Base Rent
 Virtual Tour
 Schedule A Tour
 Check Availability
@@ -2241,9 +2233,9 @@ Open Scheduler
 Building 1
 Floor 28
 1536 sq. ft.
-$5,626 /mo*
+$5,629 /mo*
 14 months
-$5,535 Base Rent
+$5,538 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.

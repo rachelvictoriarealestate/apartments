@@ -241,7 +241,7 @@ Virtual Tours
 
 A4b
 
-5 AVAILABLE UNITS
+4 AVAILABLE UNITS
 
 Bed
 
@@ -629,7 +629,7 @@ D7aTX
 
 Townhome
 
-0 AVAILABLE UNITS
+1 AVAILABLE UNIT
 
 Bed
 
@@ -643,7 +643,17 @@ SQFT
 
 1621
 
-Contact Office
+Available
+
+1/10/2027
+
+Total Monthly Price Starting at
+
+$4,782.50/mo.
+
+(Base Rent $4,780)
+
+Get Pricing
 
 Square footage & measurements are approximate, and floor plan details may vary.
 

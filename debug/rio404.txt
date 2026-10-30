@@ -20,10 +20,10 @@ Floor
 0 avail
 Floor
 1
-2 avail
+3 avail
 Floor
 2
-0 avail
+1 avail
 Floor
 3
 1 avail
@@ -61,6 +61,21 @@ Floor Plan layout: Travis
 
 $2,502 /mo*
 15 months$2,376 Base Rent
+
+Stephen F. Austin
+
+View unit
+#104
+Available Jan 20
+
+2 bed
+2.5 bath
+1427 sq. ft.
+
+Floor Plan layout: Stephen F. Austin
+
+$3,843 /mo*
+15 months$3,717 Base Rent
 
 *Total Monthly Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 
@@ -138,10 +153,10 @@ Travis
 1 bed
 1 bath
 771 sq. ft.
-Only 1 left!
-$2,502 /mo*
+Only 2 left!
+$2,456 - $2,502 /mo*
 15 months
-$2,376 Base Rent
+$2,330 - $2,376 Base Rent
 2D
 3D
 Virtual Tour
@@ -155,6 +170,14 @@ $2,502 /mo*
 15 months
 $2,376 Base Rent
 Available Now
+#217
+Building 1
+Floor 2
+771 sq. ft.
+$2,456 /mo*
+15 months
+$2,330 Base Rent
+Available Jan 18
 *Total Monthly Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
 The lifestyle you've been waiting for.
@@ -296,9 +319,9 @@ Chavez
 2 bath
 926 sq. ft.
 Only 1 left!
-$2,932 /mo*
+$2,922 /mo*
 15 months
-$2,806 Base Rent
+$2,796 Base Rent
 2D
 3D
 Book a Tour
@@ -307,9 +330,9 @@ Check Availability
 Building 1
 Floor 3
 926 sq. ft.
-$2,932 /mo*
+$2,922 /mo*
 15 months
-$2,806 Base Rent
+$2,796 Base Rent
 Available Now
 *Total Monthly Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -389,6 +412,89 @@ $3,493 /mo*
 15 months
 $3,367 Base Rent
 Available Now
+*Total Monthly Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
+Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
+The lifestyle you've been waiting for.
+Find Your Home
+Book a Tour
+Pet Policy
+Our Address
+404 Rio Grande St
+Austin, TX 78701
+Call us at
+833-866-8768
+Email Us
+Site Map
+Home
+Amenities
+Floor Plans
+Neighborhood
+Gallery
+Residents
+FAQs
+Virtual Tours
+Contact
+Legal
+© 2026 404 Rio Grande.
+All Rights Reserved.
+Privacy Policy
+Web Accessibility
+Site Map
+Close
+
+=== PLAN https://404riogrande.com/floorplans/stephen-f-austin/
+Skip to main content
+×
+Pet Policy
+404 Rio Grande is a pet friendly community! We have a 2 pet max with a combined weight of 100lbs. Breed restrictions apply.
+- Pet Deposit: $200 per pet
+- Monthly Pet Rent: $20 per pet
+- One-Time Pet Fee: $400 per household
+Book a Tour
+Call us at
+833-866-8768
+Apply Now
+Home
+Amenities
+Floor Plans
+Neighborhood
+Gallery
+Residents
+FAQs
+Virtual Tours
+Contact
+Apply Now
+Book a Tour
+404 Rio Grande St
+Austin, TX 78701
+FLOOR PLANS
+« Back
+« Back
+Stephen F. Austin
+2 bed
+2.5 bath
+1427 sq. ft.
+Only 1 left!
+$3,843 /mo*
+15 months
+$3,717 Base Rent
+2D
+3D
+Floor 1
+Floor 1
+Floor 2
+Floor 1
+Floor 2
+Book a Tour
+Check Availability
+#104
+Building 1
+Floor 1
+1427 sq. ft.
+$3,843 /mo*
+15 months
+$3,717 Base Rent
+Available Jan 20
 *Total Monthly Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
 The lifestyle you've been waiting for.

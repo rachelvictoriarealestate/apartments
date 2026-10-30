@@ -48,7 +48,7 @@ Floor
 1 avail
 Floor
 14
-1 avail
+0 avail
 Floor
 15
 3 avail
@@ -66,7 +66,7 @@ Floor
 2 avail
 Floor
 20
-3 avail
+2 avail
 Floor
 21
 3 avail
@@ -885,29 +885,22 @@ A1
 1 bed
 1 bath
 692 sq. ft.
-Starting at $2,496
+Starting at $2,880
 Virtual Tour
 Book a Tour
 Check Availability
-#1401
-Floor 14
+#3201
+Floor 32
 692 sq. ft.
-Starting at $2,496
-Available Now
+Starting at $2,880
+Available Dec 05
 View on Map
 Lease Now
 #3501
 Floor 35
 692 sq. ft.
-Starting at $2,707
-Available Nov 03
-View on Map
-Lease Now
-#3201
-Floor 32
-692 sq. ft.
-Starting at $2,720
-Available Nov 09
+Starting at $2,903
+Available Dec 05
 View on Map
 Lease Now
 Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
@@ -1645,13 +1638,6 @@ A6
 Starting at $3,100
 Book a Tour
 Check Availability
-#3002
-Floor 30
-896 sq. ft.
-Starting at $3,248
-Available Nov 09
-View on Map
-Lease Now
 #1202
 Floor 12
 896 sq. ft.
@@ -1664,6 +1650,13 @@ Floor 21
 896 sq. ft.
 Starting at $3,250
 Available Nov 28
+View on Map
+Lease Now
+#3002
+Floor 30
+896 sq. ft.
+Starting at $3,441
+Available Dec 05
 View on Map
 Lease Now
 Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
@@ -1730,21 +1723,14 @@ B2b
 2 bed
 2 bath
 1168 sq. ft.
-Starting at $3,815
+Starting at $3,939
 Book a Tour
 Check Availability
 #1915
 Floor 19
 1168 sq. ft.
-Starting at $3,944
-Available Nov 09
-View on Map
-Lease Now
-#2015
-Floor 20
-1168 sq. ft.
-Starting at $3,815
-Available Nov 28
+Starting at $4,179
+Available Dec 05
 View on Map
 Lease Now
 #2115

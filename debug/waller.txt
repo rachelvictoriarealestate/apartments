@@ -148,6 +148,19 @@ $1,815
 December 7th, 2026
 Calculate my costs
 
+Unit 2811
+
+1
+
+13 mo
+
+$2,040
+
+$1,835
+
+Now
+Calculate my costs
+
 Unit 2011
 
 1
@@ -173,7 +186,7 @@ $1,890
 
 December 7th, 2026
 Calculate my costs
-Show 9 available
+Show 10 available
 
 T-05
 
@@ -309,6 +322,19 @@ $2,175
 January 15th, 2027
 Calculate my costs
 
+Unit 1303
+
+1
+
+13 mo
+
+$2,460
+
+$2,255
+
+November 9th, 2026
+Calculate my costs
+
 Unit 1503
 
 1
@@ -347,7 +373,7 @@ $2,410
 
 Now
 Calculate my costs
-Show 4 available
+Show 5 available
 
 T-10
 
@@ -576,6 +602,19 @@ $2,400
 January 15th, 2027
 Calculate my costs
 
+Unit 1012
+
+1
+
+13 mo
+
+$2,705
+
+$2,500
+
+December 28th, 2026
+Calculate my costs
+
 Unit 2012
 
 1
@@ -601,6 +640,7 @@ $2,630
 
 December 11th, 2026
 Calculate my costs
+Show 4 available
 
 T-13
 
@@ -647,9 +687,9 @@ T-04
 692 sq. ft.
 
 Total from
-$2,655
+$2,640
 
-Base rent from $2,450
+Base rent from $2,435
 
 Unit | Building
 
@@ -660,6 +700,19 @@ Total
 Base Rent
 
 Available
+
+Unit 904
+
+1
+
+13 mo
+
+$2,640
+
+$2,435
+
+January 27th, 2027
+Calculate my costs
 
 Unit 1004
 
@@ -699,6 +752,7 @@ $2,600
 
 December 1st, 2026
 Calculate my costs
+Show 4 available
 
 T-06
 
@@ -749,18 +803,18 @@ $2,575
 January 2nd, 2027
 Calculate my costs
 
-T-08
+T-01
 
-2 bed
+1 bed
 ·
-2 bath
+1 bath
 ·
-999 sq. ft.
+910 sq. ft.
 
 Total from
-$3,465
+$3,490
 
-Base rent from $3,260
+Base rent from $3,285
 
 Unit | Building
 
@@ -772,18 +826,41 @@ Base Rent
 
 Available
 
-Unit 1108
+Unit 1601
 
 1
 
 13 mo
 
-$3,465
+$3,490
 
-$3,260
+$3,285
 
-Now
+November 3rd, 2026
 Calculate my costs
+
+T-08
+
+2 bed
+·
+2 bath
+·
+999 sq. ft.
+
+Total from
+$3,545
+
+Base rent from $3,340
+
+Unit | Building
+
+Lease
+
+Total
+
+Base Rent
+
+Available
 
 Unit 1908
 
@@ -837,19 +914,6 @@ $3,380
 Now
 Calculate my costs
 
-Unit 2508
-
-1
-
-13 mo
-
-$3,605
-
-$3,400
-
-Now
-Calculate my costs
-
 Unit 2608
 
 1
@@ -875,7 +939,20 @@ $3,435
 
 Now
 Calculate my costs
-Show 8 available
+
+Unit 2908
+
+1
+
+13 mo
+
+$3,645
+
+$3,440
+
+Now
+Calculate my costs
+Show 7 available
 
 T-15
 
@@ -1051,6 +1128,19 @@ $4,490
 January 15th, 2027
 Calculate my costs
 
+Unit 714
+
+1
+
+13 mo
+
+$4,795
+
+$4,590
+
+November 6th, 2026
+Calculate my costs
+
 Unit 1314
 
 1
@@ -1089,7 +1179,7 @@ $4,770
 
 November 16th, 2026
 Calculate my costs
-Show 4 available
+Show 5 available
 
 PH-04
 
@@ -1135,10 +1225,15 @@ Visit property website
 
 Costs and pricing
 
-You’re seeing total monthly leasing prices which include base rent, all mandatory monthly costs and any user-selected optional add-ons. Excludes variable or usage-based costs and required charges due at or prior to move-in or at move-out.
+You’re seeing total monthly leasing price which includes base rent, all mandatory monthly costs and any user-selected optional add-ons. Excludes variable or usage-based costs and required charges due at or prior to move-in or at move-out.
 
-For more information on pricing, see policies, disclosures, licenses, and costs.
+For more information, see pricing and costs.
 
+Host your home and earn with Airbnb
+
+This community joined the Airbnb-friendly program to make it easier for renters to earn extra money from hosting on Airbnb when they're away.
+
+Learn more
 Map
 Experience a culture hub, world-class dining, and unparalleled nightlife in Austin's Downtown/Warehouse District. Find your next apartment in Texas's capital city.
 Explore Downtown Austin
@@ -1153,6 +1248,89 @@ What is Total Monthly Leasing Price (TMLP)?
 Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional add-ons. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out…
 
 Read more
+Cost table
+
+Use this table to understand what your initial and monthly costs will be in addition to your total monthly rent cost.
+
+Essentials
+Move-in basics
+Personalized add-ons
+Situational
+
+Essentials
+
+These required fees are charged one time or recurring during the lease term.
+
+Fee type	Amount	Due	
+Utility - Gas1	Usage-Based (Utilities) per unit	Monthly	
+
+Utility - Water/Sewer2	Usage-Based (Utilities) per unit	Monthly	
+
+Utility - Stormwater/Drainage3	Usage-Based (Utilities) per unit	Monthly	
+
+Utility - Electric4	Usage-Based (Utilities) per unit	Monthly	
+
+Pest Control Services	$5.00 per unit	Monthly	
+
+Package Services	$25.00 per unit	Monthly	
+
+Trash Services - Doorstep	$30.00 per unit	Monthly	
+
+Internet Services	$75.00 per unit	Monthly	
+
+Utility - Stormwater/Drainage Admin Fee	$2.56 per unit	Monthly	
+
+Pest Control Administrative Fee	$2.00 per unit	Monthly	
+
+Trash Services - Hauling5	Varies per unit	Monthly	
+
+Concierge Services	$65.00 per unit	Monthly	
+
+Renters Liability Insurance - Third Party6
+Paid to third party
+	Varies per leaseholder	Monthly	
+
+Municipality Fee7	Varies per unit	Monthly	
+
+All fees paid to property unless indicated by
+symbol
+
+1
+Utility apportionment is submetered water/gas/electric. Estimated cost is $8.14.
+2
+Utility apportionment is submetered water/gas/electric. Estimated cost is $28.53.
+3
+Utility apportionment is allocation: divided eq per unit. Estimated cost is $3.20.
+4
+Utility apportionment is submetered water/gas/electric. Estimated cost is $18.94.
+5
+Price varies based on service frequency. 56 Utility apportionment is allocation: divided eq per unit. Estimated cost is $51.68.
+6
+Price varies based on amount of coverage. Estimated cost is $18.75.
+7
+Price varies based on location. Estimated cost is $10.09.
+8
+Price varies based on floor plan type/size.
+9
+Utility apportionment is submetered water/gas/electric.
+10
+Price varies based on amount of coverage.
+11
+Price varies based on date and/or time.
+12
+Price varies based on rentable item type.
+13
+Price varies based on number of pets.
+14
+Price varies based on event type.
+15
+Price varies based on rent amount.
+16
+Price varies based on rent amount.
+17
+Price varies based on event type.
+18
+Price varies based on device type.
 Contact us
 
 Please use the form below to get in touch with us. Provide as much detail as possible about what you're looking for, and one of our experienced agents will contact you shortly to discuss your needs. We’re here to assist you every step of the way!

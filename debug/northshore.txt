@@ -259,7 +259,7 @@ Utility - Vacant Cost Recovery
 	Usage-Based (Utilities)	Per Occurrence	Per Occurrence	Situational
 Utility - Vacant Processing Fee 
 	$50.00	Per Occurrence	Per Occurrence	Situational
-Date of Issuance: 10/29/2026
+Date of Issuance: 10/30/2026
 All fees paid to property unless indicated by ⮂ symbol. Unless a fee is explicitly identified as refundable, all fees are non-refundable. Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
 Price varies based on floor plan type/size. ↩
 Price varies based on amount of coverage. Estimated cost is $18.75 ^Fee does not apply to affordable units. ↩
@@ -1141,9 +1141,9 @@ Virtual Tour
 1 bath
 764 sq. ft.
 Only 3 left!
-$2,733 - $3,001 /mo*
+$2,733 - $2,986 /mo*
 14 months
-$2,642 - $2,910 Base Rent
+$2,642 - $2,895 Base Rent
 2D
 3D
 Virtual Tour
@@ -1162,9 +1162,9 @@ Available Now
 Building 1
 Floor 8
 764 sq. ft.
-$3,001 /mo*
+$2,986 /mo*
 14 months
-$2,910 Base Rent
+$2,895 Base Rent
 Available Now
 #0423
 Building 1

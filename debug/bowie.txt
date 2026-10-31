@@ -743,7 +743,7 @@ Lease Now
 #2610
 Floor 26
 534 sq. ft.
-Starting at $2,040
+Starting at $2,026
 Available Dec 05
 View on Map
 Lease Now
@@ -885,21 +885,21 @@ A1
 1 bed
 1 bath
 692 sq. ft.
-Starting at $2,880
+Starting at $2,709
 Virtual Tour
 Book a Tour
 Check Availability
 #3201
 Floor 32
 692 sq. ft.
-Starting at $2,880
+Starting at $2,728
 Available Dec 05
 View on Map
 Lease Now
 #3501
 Floor 35
 692 sq. ft.
-Starting at $2,903
+Starting at $2,709
 Available Dec 05
 View on Map
 Lease Now
@@ -1391,7 +1391,7 @@ Lease Now
 #1203
 Floor 12
 1148 sq. ft.
-Starting at $3,949
+Starting at $3,966
 Available Nov 28
 View on Map
 Lease Now
@@ -1655,7 +1655,7 @@ Lease Now
 #3002
 Floor 30
 896 sq. ft.
-Starting at $3,441
+Starting at $3,260
 Available Dec 05
 View on Map
 Lease Now
@@ -1729,7 +1729,7 @@ Check Availability
 #1915
 Floor 19
 1168 sq. ft.
-Starting at $4,179
+Starting at $3,966
 Available Dec 05
 View on Map
 Lease Now

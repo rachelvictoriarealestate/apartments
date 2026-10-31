@@ -75,7 +75,7 @@ Floor
 0 avail
 Floor
 15
-3 avail
+2 avail
 Floor
 16
 1 avail
@@ -96,7 +96,7 @@ Floor
 0 avail
 Floor
 22
-2 avail
+3 avail
 Floor
 23
 0 avail
@@ -120,7 +120,7 @@ Floor
 2 avail
 Floor
 30
-3 avail
+2 avail
 *TOTAL MONTHLY PRICE reflects our commitment to transparency and includes BASE RENT, all MANDATORY MONTHLY FEES, and any optional services you choose. It excludes variable or usage-based fees and required charges due at or before move-in or at move-out.
 
 S1
@@ -135,8 +135,8 @@ Studio
 
 Floor Plan layout: S1
 
-$1,871 /mo*
-15 months$1,708 Base Rent
+$1,772 /mo*
+16 months$1,609 Base Rent
 
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 
@@ -208,7 +208,7 @@ Lease Violation Fee
 Non-Sufficient Funds Fee	$30.00	Per Occurrence	Situational
 Transfer Fee 
 	$500.00 - $2,000.00	Per Occurrence	Situational
-Date of Issuance: 10/29/2026
+Date of Issuance: 10/30/2026
 Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
  Download PDF
 The Quincy
@@ -286,9 +286,9 @@ Studio
 1 bath
 382 sq. ft.
 Only 1 left!
-$1,871 /mo*
-15 months
-$1,708 Base Rent
+$1,772 /mo*
+16 months
+$1,609 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -396,9 +396,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 12
 382 sq. ft.
-$1,871 /mo*
-15 months
-$1,708 Base Rent
+$1,772 /mo*
+16 months
+$1,609 Base Rent
 Available Nov 26
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -489,6 +489,8 @@ Sat
 28
 Sun
 29
+Mon
+30
 November
 Sun
 Mon
@@ -648,9 +650,9 @@ Studio
 1 bath
 415 sq. ft.
 Only 2 left!
-$1,879 - $1,931 /mo*
+$1,854 - $1,879 /mo*
 16 months
-$1,716 - $1,768 Base Rent
+$1,691 - $1,716 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -758,9 +760,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 18
 415 sq. ft.
-$1,931 /mo*
+$1,854 /mo*
 16 months
-$1,768 Base Rent
+$1,691 Base Rent
 Available Nov 01
 #2008
 Building 1
@@ -859,6 +861,8 @@ Sat
 28
 Sun
 29
+Mon
+30
 November
 Sun
 Mon
@@ -1017,10 +1021,10 @@ S4
 Studio
 1 bath
 519 sq. ft.
-Only 2 left!
-$2,273 - $2,770 /mo*
+Only 3 left!
+$2,196 - $2,704 /mo*
 16 months
-$2,110 - $2,607 Base Rent
+$2,033 - $2,541 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -1128,18 +1132,26 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 16
 415 sq. ft.
-$2,273 /mo*
+$2,200 /mo*
 16 months
-$2,110 Base Rent
+$2,037 Base Rent
 Available Nov 01
 #3003
 Building 1
 Floor 30
 519 sq. ft.
-$2,770 /mo*
+$2,704 /mo*
 16 months
-$2,607 Base Rent
+$2,541 Base Rent
 Available Nov 01
+#2503
+Building 1
+Floor 25
+519 sq. ft.
+$2,196 /mo*
+16 months
+$2,033 Base Rent
+Available Dec 24
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
 Where bold luxury meets inner grit.
@@ -1229,6 +1241,8 @@ Sat
 28
 Sun
 29
+Mon
+30
 November
 Sun
 Mon
@@ -1387,10 +1401,10 @@ S3
 Studio
 1 bath
 551 sq. ft.
-Only 3 left!
-$2,026 - $2,213 /mo*
+Only 2 left!
+$2,078 - $2,111 /mo*
 16 months
-$1,863 - $2,050 Base Rent
+$1,915 - $1,948 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -1495,29 +1509,21 @@ Message
 Submit
 Thank you, {first_name}!
 We got your message! Thanks for reaching out. You'll hear from us soon.
-#1509
-Building 1
-Floor 15
-551 sq. ft.
-$2,026 /mo*
-15 months
-$1,863 Base Rent
-Available Nov 30
 #2609
 Building 1
 Floor 26
 551 sq. ft.
-$2,213 /mo*
+$2,111 /mo*
 16 months
-$2,050 Base Rent
+$1,948 Base Rent
 Available Dec 31
 #2509
 Building 1
 Floor 25
 551 sq. ft.
-$2,181 /mo*
+$2,078 /mo*
 15 months
-$2,018 Base Rent
+$1,915 Base Rent
 Available Jan 03
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1608,6 +1614,8 @@ Sat
 28
 Sun
 29
+Mon
+30
 November
 Sun
 Mon
@@ -1767,9 +1775,9 @@ A1A
 1 bath
 621 sq. ft.
 Only 1 left!
-$2,160 /mo*
+$2,058 /mo*
 15 months
-$1,997 Base Rent
+$1,895 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -1878,9 +1886,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 28
 621 sq. ft.
-$2,160 /mo*
+$2,058 /mo*
 15 months
-$1,997 Base Rent
+$1,895 Base Rent
 Available Jan 13
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1971,6 +1979,8 @@ Sat
 28
 Sun
 29
+Mon
+30
 November
 Sun
 Mon
@@ -2130,9 +2140,9 @@ A2C
 1 bath
 756 sq. ft.
 Only 2 left!
-$2,964 - $2,979 /mo*
+$3,106 - $3,121 /mo*
 16 months
-$2,801 - $2,816 Base Rent
+$2,943 - $2,958 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -2240,17 +2250,17 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 15
 756 sq. ft.
-$2,964 /mo*
+$3,106 /mo*
 16 months
-$2,801 Base Rent
+$2,943 Base Rent
 Available Nov 13
 #1718
 Building 1
 Floor 17
 756 sq. ft.
-$2,979 /mo*
+$3,121 /mo*
 16 months
-$2,816 Base Rent
+$2,958 Base Rent
 Available Nov 19
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -2341,6 +2351,8 @@ Sat
 28
 Sun
 29
+Mon
+30
 November
 Sun
 Mon
@@ -2499,10 +2511,10 @@ A3C
 1 bed
 1 bath
 770 sq. ft.
-Only 2 left!
-$3,388 - $3,650 /mo*
+Only 3 left!
+$3,187 - $3,650 /mo*
 16 months
-$3,225 - $3,487 Base Rent
+$3,024 - $3,487 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -2606,6 +2618,14 @@ Message
 Submit
 Thank you, {first_name}!
 We got your message! Thanks for reaching out. You'll hear from us soon.
+#2214
+Building 1
+Floor 22
+770 sq. ft.
+$3,187 /mo*
+16 months
+$3,024 Base Rent
+Available Dec 17
 #2913
 Building 1
 Floor 29
@@ -2711,6 +2731,8 @@ Sat
 28
 Sun
 29
+Mon
+30
 November
 Sun
 Mon
@@ -3097,6 +3119,8 @@ Sat
 28
 Sun
 29
+Mon
+30
 November
 Sun
 Mon
@@ -3460,6 +3484,8 @@ Sat
 28
 Sun
 29
+Mon
+30
 November
 Sun
 Mon
@@ -3830,6 +3856,8 @@ Sat
 28
 Sun
 29
+Mon
+30
 November
 Sun
 Mon
@@ -4192,6 +4220,8 @@ Sat
 28
 Sun
 29
+Mon
+30
 November
 Sun
 Mon
@@ -4554,731 +4584,8 @@ Sat
 28
 Sun
 29
-November
-Sun
 Mon
-Tue
-Wed
-Thu
-Fri
-Sat
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
 30
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-Choose a Time
-Monday, November 2, 2026
-12:00 pm
-Next
-Select Your Tour
-Back
-Next
--
--
-Tell Us About Yourself
-An error occurred while submitting your form.
-Please refresh the page and try again, or
-contact us
-directly to schedule a tour.
-First Name
-*
-Your first name is required.
-Last Name
-*
-Your last name is required.
-Email
-*
-Your email is required.
-Phone
-*
-Your phone is required.
-Message
-Schedule Your Tour
-Scheduling
--- dynamic title --
--- dynamic text --
-Your Tour Information
--
--
--
--
--
-Add to Your Calendar
-Add to Google Calendar
-Add to Apple iCal
-Add to Outlook
-About Our Tours
-Guided Tours
-Guided Tours
-An introduction, thoughtfully arranged at The Quincy.
-
-Your private tour is a one-on-one experience, guided at your pace and attuned to what matters most to you. Move through each space with intention, take in the details, and experience how living here unfolds.
-
-A first look—distinct, considered, and entirely your own.
-Select Your Tour
-We don’t have any tour times open at the moment.
-Send us a message and we’ll help you schedule a time.
-Contact Us
-Schedule a Tour
-×
-
-=== PLAN https://quincyatx.com/floorplans/b2/
-Press Alt+1 for screen-reader mode, Alt+0 to cancel
-Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Skip to main content
-×
-Office Hours
-Monday - Wednesday - Friday
-9:00 AM - 6:00 PM
-Tuesday - Thursday
-9:00 AM - 7:00 PM
-Saturday
-10:00 AM - 5:00 PM
-Sunday
-12:00 PM - 5:00 PM
-.cls-1{fill:#fff;}
-Amenities
-Floor Plans
-Penthouses
-Neighborhood
-Gallery
-Residents
-Retail
-Contact
-Pet Friendly
-Apply Now
-Schedule a Tour
-Virtual Tours
-Amenities
-Floor Plans
-Penthouses
-Neighborhood
-Gallery
-Residents
-Retail
-Contact
-Pet Friendly
-Apply Now
-91 Red River St.
-|
-Austin, TX 78701
-Call us at
-+1 855-223-5330
-Virtual Tours
-Schedule a Tour
-Apply Now
-Floor Plans
-« Back
-« Back
-B2
-2 bed
-2 bath
-1096 sq. ft.
-Only 1 left!
-$4,332 /mo*
-16 months
-$4,169 Base Rent
-PDF
-Schedule a Tour
-Check Availability
-First Name
-Last Name
-Email
-Phone
-Desired Move-In Date
-October
-2026
-Sun
-Mon
-Tue
-Wed
-Thu
-Fri
-Sat
-27
-28
-29
-30
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-1
-2
-3
-4
-5
-6
-7
-Today
-Clear
-Close
-How Did You Hear About Us?
-How Did You Hear About Us?
-Anyone Home Concierge
-ApartmentList
-Billboard
-Birdeye
-Broker
-Business View Ad
-Collateral
-College Pads
-Corporate Website
-CoStar
-Craigslist
-e-Blast
-Listings
-Local Line Roll Over
-Maintenance
-Modern Luxury
-Outreach
-Peek
-Property Website
-QR Code
-Referral - Company
-Referral - Locator
-Referral - Prior Resident
-Referral - Resident
-Referral - Sister Property
-RentPath
-Search Engine Marketing
-Signage
-Social Media
-Texas Medical Times Ad
-Transfer
-Walk In/Drive By
-Yelp
-Zillow
-Zumper
-Message
-Submit
-Thank you, {first_name}!
-We got your message! Thanks for reaching out. You'll hear from us soon.
-#3001
-Building 1
-Floor 30
-1096 sq. ft.
-$4,332 /mo*
-16 months
-$4,169 Base Rent
-Available Dec 03
-*Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
-Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
-Where bold luxury meets inner grit.
-Schedule a Tour
-Lease Now
-The Quincy
-91 Red River St.
-Austin, TX 78701
-Call us at
-+1 855-223-5330
-View Office Hours
-Amenities
-Floor Plans
-Penthouses
-Neighborhood
-Gallery
-Residents
-Retail
-Contact
-Pet Friendly
-© Copyright 2026 The Quincy. All Rights Reserved.
-Privacy Policy
-Site Map
-About Our Tours
-Choose a Tour Type
-Guided Tours
-Select Your Tour
-Guided Tours
-30 minutes
-91 Red River St.
-Austin, TX 78701
-Select a Date
-November 2026
-Mon
-2
-Tue
-3
-Wed
-4
-Thu
-5
-Fri
-6
-Sat
-7
-Sun
-8
-Mon
-9
-Tue
-10
-Wed
-11
-Thu
-12
-Fri
-13
-Sat
-14
-Sun
-15
-Mon
-16
-Tue
-17
-Wed
-18
-Thu
-19
-Fri
-20
-Sat
-21
-Sun
-22
-Mon
-23
-Tue
-24
-Wed
-25
-Thu
-26
-Fri
-27
-Sat
-28
-Sun
-29
-November
-Sun
-Mon
-Tue
-Wed
-Thu
-Fri
-Sat
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-Choose a Time
-Monday, November 2, 2026
-12:00 pm
-Next
-Select Your Tour
-Back
-Next
--
--
-Tell Us About Yourself
-An error occurred while submitting your form.
-Please refresh the page and try again, or
-contact us
-directly to schedule a tour.
-First Name
-*
-Your first name is required.
-Last Name
-*
-Your last name is required.
-Email
-*
-Your email is required.
-Phone
-*
-Your phone is required.
-Message
-Schedule Your Tour
-Scheduling
--- dynamic title --
--- dynamic text --
-Your Tour Information
--
--
--
--
--
-Add to Your Calendar
-Add to Google Calendar
-Add to Apple iCal
-Add to Outlook
-About Our Tours
-Guided Tours
-Guided Tours
-An introduction, thoughtfully arranged at The Quincy.
-
-Your private tour is a one-on-one experience, guided at your pace and attuned to what matters most to you. Move through each space with intention, take in the details, and experience how living here unfolds.
-
-A first look—distinct, considered, and entirely your own.
-Select Your Tour
-We don’t have any tour times open at the moment.
-Send us a message and we’ll help you schedule a time.
-Contact Us
-Schedule a Tour
-×
-
-=== PLAN https://quincyatx.com/floorplans/b3a/
-Press Alt+1 for screen-reader mode, Alt+0 to cancel
-Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
-Skip to main content
-×
-Office Hours
-Monday - Wednesday - Friday
-9:00 AM - 6:00 PM
-Tuesday - Thursday
-9:00 AM - 7:00 PM
-Saturday
-10:00 AM - 5:00 PM
-Sunday
-12:00 PM - 5:00 PM
-.cls-1{fill:#fff;}
-Amenities
-Floor Plans
-Penthouses
-Neighborhood
-Gallery
-Residents
-Retail
-Contact
-Pet Friendly
-Apply Now
-Schedule a Tour
-Virtual Tours
-Amenities
-Floor Plans
-Penthouses
-Neighborhood
-Gallery
-Residents
-Retail
-Contact
-Pet Friendly
-Apply Now
-91 Red River St.
-|
-Austin, TX 78701
-Call us at
-+1 855-223-5330
-Virtual Tours
-Schedule a Tour
-Apply Now
-Floor Plans
-« Back
-« Back
-B3A
-2 bed
-2 bath
-1190 sq. ft.
-Only 1 left!
-$4,012 /mo*
-13 months
-$3,849 Base Rent
-Virtual Tour
-PDF
-Schedule a Tour
-Check Availability
-First Name
-Last Name
-Email
-Phone
-Desired Move-In Date
-October
-2026
-Sun
-Mon
-Tue
-Wed
-Thu
-Fri
-Sat
-27
-28
-29
-30
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-1
-2
-3
-4
-5
-6
-7
-Today
-Clear
-Close
-How Did You Hear About Us?
-How Did You Hear About Us?
-Anyone Home Concierge
-ApartmentList
-Billboard
-Birdeye
-Broker
-Business View Ad
-Collateral
-College Pads
-Corporate Website
-CoStar
-Craigslist
-e-Blast
-Listings
-Local Line Roll Over
-Maintenance
-Modern Luxury
-Outreach
-Peek
-Property Website
-QR Code
-Referral - Company
-Referral - Locator
-Referral - Prior Resident
-Referral - Resident
-Referral - Sister Property
-RentPath
-Search Engine Marketing
-Signage
-Social Media
-Texas Medical Times Ad
-Transfer
-Walk In/Drive By
-Yelp
-Zillow
-Zumper
-Message
-Submit
-Thank you, {first_name}!
-We got your message! Thanks for reaching out. You'll hear from us soon.
-#2516
-Building 1
-Floor 25
-1190 sq. ft.
-$4,012 /mo*
-13 months
-$3,849 Base Rent
-Available Nov 05
-*Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
-Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
-Where bold luxury meets inner grit.
-Schedule a Tour
-Lease Now
-The Quincy
-91 Red River St.
-Austin, TX 78701
-Call us at
-+1 855-223-5330
-View Office Hours
-Amenities
-Floor Plans
-Penthouses
-Neighborhood
-Gallery
-Residents
-Retail
-Contact
-Pet Friendly
-© Copyright 2026 The Quincy. All Rights Reserved.
-Privacy Policy
-Site Map
-About Our Tours
-Choose a Tour Type
-Guided Tours
-Select Your Tour
-Guided Tours
-30 minutes
-91 Red River St.
-Austin, TX 78701
-Select a Date
-November 2026
-Mon
-2
-Tue
-3
-Wed
-4
-Thu
-5
-Fri
-6
-Sat
-7
-Sun
-8
-Mon
-9
-Tue
-10
-Wed
-11
-Thu
-12
-Fri
-13
-Sat
-14
-Sun
-15
-Mon
-16
-Tue
-17
-Wed
-18
-Thu
-19
-Fri
-20
-Sat
-21
-Sun
-22
-Mon
-23
-Tue
-24
-Wed
-25
-Thu
-26
-Fri
-27
-Sat
-28
-Sun
-29
 November
 Sun
 Mon
@@ -5438,9 +4745,9 @@ B3B
 2 bath
 1210 sq. ft.
 Only 1 left!
-$4,009 /mo*
+$3,812 /mo*
 16 months
-$3,846 Base Rent
+$3,649 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -5549,9 +4856,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 22
 1210 sq. ft.
-$4,009 /mo*
+$3,812 /mo*
 16 months
-$3,846 Base Rent
+$3,649 Base Rent
 Available Dec 27
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -5642,6 +4949,8 @@ Sat
 28
 Sun
 29
+Mon
+30
 November
 Sun
 Mon

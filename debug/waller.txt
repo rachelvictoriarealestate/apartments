@@ -260,6 +260,19 @@ $1,980
 December 24th, 2026
 Calculate my costs
 
+Unit 2409
+
+1
+
+13 mo
+
+$2,305
+
+$2,100
+
+Now
+Calculate my costs
+
 Unit 2509
 
 1
@@ -269,19 +282,6 @@ Unit 2509
 $2,330
 
 $2,125
-
-Now
-Calculate my costs
-
-Unit 2609
-
-1
-
-13 mo
-
-$2,340
-
-$2,135
 
 Now
 Calculate my costs
@@ -1220,7 +1220,7 @@ Apply now
 Contact leasing office
 Office hours
 Today
-10:00am - 6:00pm
+10:00am - 5:00pm
 Visit property website
 
 Costs and pricing

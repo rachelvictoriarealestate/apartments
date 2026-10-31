@@ -40,9 +40,9 @@ Studio - 3 Bedrooms
 
 Total Monthly Price Starting at
 
-$1,889.50
+$1,839.50
 
-(Base Rent $1,887)
+(Base Rent $1,837)
 
 Schedule a Tour
 Floor Plans & Pricing
@@ -61,7 +61,7 @@ Virtual Tours
 
 E2
 
-1 AVAILABLE UNIT
+2 AVAILABLE UNITS
 
 Bed
 
@@ -81,9 +81,9 @@ Now
 
 Total Monthly Price Starting at
 
-$1,889.50/mo.
+$1,839.50/mo.
 
-(Base Rent $1,887)
+(Base Rent $1,837)
 
 Get Pricing
 
@@ -161,7 +161,7 @@ SQFT
 
 Available
 
-10/31/2026
+Now
 
 Total Monthly Price Starting at
 
@@ -553,7 +553,7 @@ SQFT
 
 Available
 
-10/31/2026
+Now
 
 Total Monthly Price Starting at
 

@@ -42,9 +42,9 @@ Call
 
 Total Monthly Price Starting at
 
-$2,781.50
+$2,805.50
 
-(Base Rent $2,779)
+(Base Rent $2,803)
 
 Schedule a Tour
 Floor Plans & Pricing
@@ -84,9 +84,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,781.50/mo.
+$2,805.50/mo.
 
-(Base Rent $2,779)
+(Base Rent $2,803)
 
 Get Pricing
 
@@ -118,9 +118,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,855.50/mo.
+$2,879.50/mo.
 
-(Base Rent $2,853)
+(Base Rent $2,877)
 
 Get Pricing
 
@@ -186,9 +186,9 @@ Now
 
 Total Monthly Price Starting at
 
-$3,299.50/mo.
+$3,326.50/mo.
 
-(Base Rent $3,297)
+(Base Rent $3,324)
 
 Get Pricing
 

@@ -348,19 +348,6 @@ $2,260
 Now
 Calculate my costs
 
-Unit 2403
-
-1
-
-13 mo
-
-$2,555
-
-$2,350
-
-December 7th, 2026
-Calculate my costs
-
 Unit 3003
 
 1
@@ -373,7 +360,7 @@ $2,410
 
 Now
 Calculate my costs
-Show 5 available
+Show 4 available
 
 T-10
 
@@ -914,19 +901,6 @@ $3,380
 Now
 Calculate my costs
 
-Unit 2608
-
-1
-
-13 mo
-
-$3,615
-
-$3,410
-
-Now
-Calculate my costs
-
 Unit 3008
 
 1
@@ -952,7 +926,7 @@ $3,440
 
 Now
 Calculate my costs
-Show 7 available
+Show 6 available
 
 T-15
 
@@ -1220,8 +1194,7 @@ Apply now
 Contact leasing office
 Office hours
 Today
-10:00am - 5:00pm
-Visit property website
+1:00pm - 5:00pm
 
 Costs and pricing
 
@@ -1336,6 +1309,7 @@ Contact us
 Please use the form below to get in touch with us. Provide as much detail as possible about what you're looking for, and one of our experienced agents will contact you shortly to discuss your needs. We’re here to assist you every step of the way!
 
 (512) 254-0291
+Visit property website
 First name
 Last name
 Phone Number

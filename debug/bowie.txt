@@ -54,7 +54,7 @@ Floor
 3 avail
 Floor
 16
-2 avail
+3 avail
 Floor
 17
 0 avail
@@ -63,7 +63,7 @@ Floor
 0 avail
 Floor
 19
-2 avail
+3 avail
 Floor
 20
 2 avail
@@ -90,7 +90,7 @@ Floor
 1 avail
 Floor
 28
-4 avail
+3 avail
 Floor
 29
 1 avail
@@ -296,17 +296,17 @@ A5b
 Starting at $3,092
 Book a Tour
 Check Availability
-#2106
-Floor 21
-872 sq. ft.
-Starting at $3,248
-Available Nov 14
-View on Map
-Lease Now
 #1606
 Floor 16
 872 sq. ft.
 Starting at $3,092
+Available Dec 05
+View on Map
+Lease Now
+#2106
+Floor 21
+872 sq. ft.
+Starting at $3,404
 Available Dec 05
 View on Map
 Lease Now
@@ -465,13 +465,6 @@ Starting at $4,324
 Available Nov 14
 View on Map
 Lease Now
-#2213
-Floor 22
-1305 sq. ft.
-Starting at $4,324
-Available Nov 15
-View on Map
-Lease Now
 #2413
 Floor 24
 1305 sq. ft.
@@ -484,6 +477,13 @@ Floor 26
 1305 sq. ft.
 Starting at $4,194
 Available Nov 21
+View on Map
+Lease Now
+#2213
+Floor 22
+1305 sq. ft.
+Starting at $4,525
+Available Dec 05
 View on Map
 Lease Now
 Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
@@ -697,20 +697,13 @@ S2
 Studio
 1 bath
 534 sq. ft.
-Starting at $2,020
+Starting at $2,026
 Book a Tour
 Check Availability
 #1311
 534 sq. ft.
 Starting at $2,070
 Available Nov 13
-Lease Now
-#2011
-Floor 20
-534 sq. ft.
-Starting at $2,020
-Available Nov 14
-View on Map
 Lease Now
 #2210
 Floor 22
@@ -746,6 +739,13 @@ Floor 24
 534 sq. ft.
 Starting at $2,214
 Available Nov 28
+View on Map
+Lease Now
+#2011
+Floor 20
+534 sq. ft.
+Starting at $2,119
+Available Dec 05
 View on Map
 Lease Now
 #2610
@@ -1143,13 +1143,13 @@ B6b
 2 bed
 2 bath
 1269 sq. ft.
-Starting at $4,274
+Starting at $4,118
 Book a Tour
 Check Availability
 #1605
 Floor 16
 1269 sq. ft.
-Starting at $4,274
+Starting at $4,118
 Available Nov 28
 View on Map
 Lease Now
@@ -1220,13 +1220,6 @@ A5
 Starting at $2,981
 Book a Tour
 Check Availability
-#2805
-Floor 28
-872 sq. ft.
-Starting at $3,233
-Available Nov 13
-View on Map
-Lease Now
 #2505
 Floor 25
 872 sq. ft.
@@ -1379,20 +1372,13 @@ B4
 2 bed
 2 bath
 1206 sq. ft.
-Starting at $4,018
+Starting at $3,999
 Book a Tour
 Check Availability
-#3009
-Floor 30
-1206 sq. ft.
-Starting at $4,300
-Available Nov 15
-View on Map
-Lease Now
 #2909
 Floor 29
 1206 sq. ft.
-Starting at $4,018
+Starting at $3,999
 Available Nov 21
 View on Map
 Lease Now

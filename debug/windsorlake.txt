@@ -67,7 +67,7 @@ Avail. Now
 $2,450.14
 /mo
 $2,319 Base Rent
-10 Mo.
+9 Mo.
 Special
 2602
 B5
@@ -75,10 +75,10 @@ B5
 2 Bath
 1,588 ft2
 Avail. Now
-$4,817.14
+$4,827.14
 /mo
-$4,686 Base Rent
-10 Mo.
+$4,696 Base Rent
+9 Mo.
 Special
 2202
 B5
@@ -86,10 +86,10 @@ B5
 2 Bath
 1,588 ft2
 Avail. Now
-$4,777.14
+$4,787.14
 /mo
-$4,646 Base Rent
-10 Mo.
+$4,656 Base Rent
+9 Mo.
 Special
 2903
 PH1
@@ -97,10 +97,10 @@ PH1
 2 Bath
 1,460 ft2
 Avail. Now
-$4,937.14
+$4,947.14
 /mo
-$4,806 Base Rent
-10 Mo.
+$4,816 Base Rent
+9 Mo.
 Special
 1009
 A9
@@ -111,7 +111,7 @@ Avail. Now
 $2,995.14
 /mo
 $2,864 Base Rent
-10 Mo.
+9 Mo.
 Special
 2605
 B4
@@ -119,10 +119,10 @@ B4
 2 Bath
 1,527 ft2
 Avail. Now
-$4,642.14
+$4,652.14
 /mo
-$4,511 Base Rent
-10 Mo.
+$4,521 Base Rent
+9 Mo.
 Special
 0204
 A3
@@ -480,7 +480,7 @@ Required
 No
 Costs overview footnotes
 
-Date: November 1, 2026
+Date: November 2, 2026
 
 All pricing set forth above is current, but is subject to change at any time prior to submitting your application. You may be required to pay a security deposit and/or a credit risk premium, the amount of which may vary based on your credit and lease/mortgage history (and other criteria), but will not exceed any legal maximum. Some charges may not apply to affordable housing units. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application.
 

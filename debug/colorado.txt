@@ -478,6 +478,15 @@ Open Floor Plan Unit Virtual Tour
 Schedule A Tour
 Apply Now
 VIEW UNIT TOUR
+A7
+1 Bed
+1 Bath
+1,009 Sq. Ft.
+Waitlist
+STARTING FROM
+$4,305
+/month
+Join Waitlist
 A4
 1 Bed
 1 Bath
@@ -494,15 +503,6 @@ A6
 Waitlist
 STARTING FROM
 $4,130
-/month
-Join Waitlist
-A7
-1 Bed
-1 Bath
-1,009 Sq. Ft.
-Waitlist
-STARTING FROM
-$4,305
 /month
 Join Waitlist
 More Floor Plans
@@ -851,15 +851,15 @@ STARTING FROM
 $15,815
 /month
 Join Waitlist
-B6
+B8
 2 Beds
 2.5 Baths
-1,515 Sq. Ft.
-Move-in Nov 5, 2026
+1,899 Sq. Ft.
+Waitlist
 STARTING FROM
-$6,420
+$9,809
 /month
-View Floor Plan
+Join Waitlist
 More Floor Plans
 
 A NEW STANDARD OF ELEGANCE
@@ -1028,13 +1028,13 @@ STARTING FROM
 $15,815
 /month
 Join Waitlist
-B7
+B5
 2 Beds
 2 Baths
-1,607 Sq. Ft.
+1,503 Sq. Ft.
 Available now
 STARTING FROM
-$7,980
+$7,850
 /month
 Only 2 units left
 View Floor Plan

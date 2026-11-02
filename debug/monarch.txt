@@ -59,16 +59,16 @@ Avail. Now
 $4,273.14
 /mo
 $3,935 Base Rent
-14 Mo.
+15 Mo.
 1810
 A1D
 1 Bed
 1 Bath
 888 ft2
 Avail. Now
-$3,389.14
+$3,393.14
 /mo
-$3,051 Base Rent
+$3,055 Base Rent
 15 Mo.
 1208
 B1R
@@ -96,9 +96,9 @@ A1D
 1 Bath
 888 ft2
 Avail. Jan 21
-$3,263.14
+$3,261.14
 /mo
-$2,925 Base Rent
+$2,923 Base Rent
 15 Mo.
 902
 A1D
@@ -106,9 +106,9 @@ A1D
 1 Bath
 888 ft2
 Avail. Feb 01
-$3,008.14
+$3,006.14
 /mo
-$2,670 Base Rent
+$2,668 Base Rent
 15 Mo.
 Floor:
 1
@@ -473,7 +473,7 @@ Required
 No
 Costs overview footnotes
 
-Date: November 1, 2026
+Date: November 2, 2026
 
 All pricing set forth above is current, but is subject to change at any time prior to submitting your application. You may be required to pay a security deposit and/or a credit risk premium, the amount of which may vary based on your credit and lease/mortgage history (and other criteria), but will not exceed any legal maximum. Some charges may not apply to affordable housing units. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application.
 

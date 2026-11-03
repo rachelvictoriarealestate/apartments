@@ -823,7 +823,7 @@ $3,490
 
 $3,285
 
-November 3rd, 2026
+Now
 Calculate my costs
 
 T-08
@@ -987,6 +987,19 @@ $4,200
 December 8th, 2026
 Calculate my costs
 
+Unit 802A
+
+1
+
+13 mo
+
+$4,405
+
+$4,200
+
+Now
+Calculate my costs
+
 Unit 1302
 
 1
@@ -1051,7 +1064,7 @@ $4,385
 
 December 28th, 2026
 Calculate my costs
-Show 6 available
+Show 7 available
 
 T-14
 

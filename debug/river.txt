@@ -182,7 +182,7 @@ Available Now
 Floorplan layout: A13
 
 $4,957.52 - $5,082.52 /mo*
-16 months$4,700 Base Rent
+15 months$4,700 Base Rent
 
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 
@@ -289,7 +289,7 @@ Utility - Vacant Cost Recovery
 	Usage-Based (Utilities)	Per Occurrence	Per Occurrence	Situational
 Utility - Vacant Processing Fee 
 	$50.00	Per Occurrence	Per Occurrence	Situational
-Date of Issuance: 11/2/2026
+Date of Issuance: 11/3/2026
 All fees paid to property unless indicated by ⮂ symbol. Unless a fee is explicitly identified as refundable, all fees are non-refundable. Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
 Price varies based on floor plan type/size. ↩
 Price varies based on floor plan type/size ^Fee does not apply to affordable units. ↩
@@ -521,8 +521,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -581,6 +579,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -632,11 +632,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -874,21 +871,21 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 37
 701 sq. ft.
 $4,120.52 - $4,245.52 /mo*
-16 months
+18 months
 $3,863 Base Rent
 Available Now
 #3105
 Floor 31
 701 sq. ft.
 $3,852.52 - $3,977.52 /mo*
-16 months
+15 months
 $3,595 Base Rent
 Available Now
 #3803
 Floor 38
 701 sq. ft.
 $4,152.52 - $4,277.52 /mo*
-16 months
+15 months
 $3,895 Base Rent
 Available Now
 #2005
@@ -946,8 +943,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -1006,6 +1001,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -1057,11 +1054,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -1344,8 +1338,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -1404,6 +1396,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -1455,11 +1449,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -1698,14 +1689,14 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 35
 774 sq. ft.
 $4,575.52 - $4,700.52 /mo*
-16 months
+18 months
 $4,318 Base Rent
 Available Now
 #3611
 Floor 36
 774 sq. ft.
 $4,526.52 - $4,651.52 /mo*
-16 months
+18 months
 $4,269 Base Rent
 Available Now
 #1911
@@ -1777,8 +1768,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -1837,6 +1826,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -1888,11 +1879,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -2026,7 +2014,7 @@ A4
 1 bath
 914 sq. ft.
 $4,243.52 - $4,868.52 /mo*
-16 months
+18 months
 $3,986 - $4,486 Base Rent
 2D
 3D
@@ -2131,7 +2119,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 38
 914 sq. ft.
 $4,743.52 - $4,868.52 /mo*
-16 months
+18 months
 $4,486 Base Rent
 Available Now
 #2812
@@ -2196,8 +2184,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -2256,6 +2242,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -2307,11 +2295,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -2595,8 +2580,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -2655,6 +2638,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -2706,11 +2691,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -2948,14 +2930,14 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 35
 892 sq. ft.
 $4,638.52 - $4,763.52 /mo*
-16 months
+18 months
 $4,381 Base Rent
 Available Now
 #3614
 Floor 36
 892 sq. ft.
 $4,588.52 - $4,713.52 /mo*
-16 months
+18 months
 $4,331 Base Rent
 Available Now
 #2614
@@ -3027,8 +3009,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -3087,6 +3067,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -3138,11 +3120,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -3419,8 +3398,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -3479,6 +3456,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -3530,11 +3509,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -3668,7 +3644,7 @@ A9
 1 bath
 929 sq. ft.
 $5,013.52 - $5,413.52 /mo*
-16 months
+18 months
 $4,756 - $5,031 Base Rent
 2D
 3D
@@ -3773,14 +3749,14 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 21
 929 sq. ft.
 $5,138.52 - $5,263.52 /mo*
-16 months
+18 months
 $4,881 Base Rent
 Available Now
 #2701
 Floor 27
 929 sq. ft.
 $5,288.52 - $5,413.52 /mo*
-16 months
+18 months
 $5,031 Base Rent
 Available Now
 #1601
@@ -3838,8 +3814,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -3898,6 +3872,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -3949,11 +3925,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -4194,7 +4167,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 19
 1095 sq. ft.
 $5,313.52 - $5,438.52 /mo*
-16 months
+18 months
 $5,056 Base Rent
 Available Now
 #3110
@@ -4273,8 +4246,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -4333,6 +4304,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -4384,11 +4357,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -4523,7 +4493,7 @@ A12
 1103 sq. ft.
 Only 2 left!
 $5,877.52 - $6,152.52 /mo*
-16 months
+18 months
 $5,620 - $5,770 Base Rent
 2D
 3D
@@ -4627,14 +4597,14 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 39
 1103 sq. ft.
 $6,027.52 - $6,152.52 /mo*
-16 months
+18 months
 $5,770 Base Rent
 Available Now
 #3610
 Floor 36
 1103 sq. ft.
 $5,877.52 - $6,002.52 /mo*
-16 months
+18 months
 $5,620 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -4671,8 +4641,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -4731,6 +4699,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -4782,11 +4752,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -4920,7 +4887,7 @@ A13
 1.5 bath
 1049 sq. ft.
 $4,957.52 - $5,877.52 /mo*
-16 months
+18 months
 $4,700 - $5,495 Base Rent
 2D
 3D
@@ -5024,49 +4991,49 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 24
 1049 sq. ft.
 $5,102.52 - $5,227.52 /mo*
-16 months
+18 months
 $4,845 Base Rent
 Available Now
 #3308
 Floor 33
 1049 sq. ft.
 $5,502.52 - $5,627.52 /mo*
-16 months
+18 months
 $5,245 Base Rent
 Available Now
 #3508
 Floor 35
 1049 sq. ft.
 $5,752.52 - $5,877.52 /mo*
-16 months
+18 months
 $5,495 Base Rent
 Available Now
 #2008
 Floor 20
 1049 sq. ft.
 $5,017.52 - $5,142.52 /mo*
-16 months
+18 months
 $4,760 Base Rent
 Available Now
 #2208
 Floor 22
 1049 sq. ft.
 $5,052.52 - $5,177.52 /mo*
-16 months
+18 months
 $4,795 Base Rent
 Available Now
 #1908
 Floor 19
 1049 sq. ft.
 $5,082.52 - $5,207.52 /mo*
-16 months
+15 months
 $4,825 Base Rent
 Available Now
 #1408
 Floor 14
 1049 sq. ft.
 $4,957.52 - $5,082.52 /mo*
-16 months
+15 months
 $4,700 Base Rent
 Available Now
 #2708
@@ -5110,8 +5077,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -5170,6 +5135,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -5221,11 +5188,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -5515,8 +5479,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -5575,6 +5537,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -5626,11 +5590,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -5764,9 +5725,9 @@ B2
 2 bath
 1257 sq. ft.
 Only 1 left!
-$6,375.52 - $6,500.52 /mo*
-16 months
-$6,118 Base Rent
+$6,511.52 - $6,636.52 /mo*
+18 months
+$6,254 Base Rent
 2D
 3D
 Book a Tour
@@ -5868,9 +5829,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 #1715
 Floor 17
 1257 sq. ft.
-$6,375.52 - $6,500.52 /mo*
-16 months
-$6,118 Base Rent
+$6,511.52 - $6,636.52 /mo*
+18 months
+$6,254 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -5906,8 +5867,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -5966,6 +5925,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -6017,11 +5978,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -6154,9 +6112,9 @@ B4
 2 bed
 2 bath
 1405 sq. ft.
-$7,740.52 - $8,015.52 /mo*
-16 months
-$7,483 - $7,633 Base Rent
+$7,754.52 - $8,185.52 /mo*
+18 months
+$7,497 - $7,803 Base Rent
 2D
 3D
 Book a Tour
@@ -6258,30 +6216,30 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 #3701
 Floor 37
 1405 sq. ft.
-$7,840.52 - $7,965.52 /mo*
-16 months
-$7,583 Base Rent
+$7,854.52 - $7,979.52 /mo*
+18 months
+$7,597 Base Rent
 Available Now
 #3601
 Floor 36
 1405 sq. ft.
-$7,740.52 - $7,865.52 /mo*
-16 months
-$7,483 Base Rent
+$7,754.52 - $7,879.52 /mo*
+18 months
+$7,497 Base Rent
 Available Now
 #3801
 Floor 38
 1405 sq. ft.
-$7,790.52 - $7,915.52 /mo*
-16 months
-$7,533 Base Rent
+$7,804.52 - $7,929.52 /mo*
+18 months
+$7,547 Base Rent
 Available Now
 #3901
 Floor 39
 1405 sq. ft.
-$7,890.52 - $8,015.52 /mo*
-16 months
-$7,633 Base Rent
+$8,060.52 - $8,185.52 /mo*
+18 months
+$7,803 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -6317,8 +6275,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -6377,6 +6333,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -6428,11 +6386,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -6566,9 +6521,9 @@ B5
 2 bath
 1539 sq. ft.
 Only 1 left!
-$9,427.52 - $9,552.52 /mo*
-16 months
-$9,170 Base Rent
+$9,444.52 - $9,569.52 /mo*
+18 months
+$9,187 Base Rent
 2D
 3D
 Book a Tour
@@ -6670,9 +6625,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 #1916
 Floor 19
 1539 sq. ft.
-$9,427.52 - $9,552.52 /mo*
-16 months
-$9,170 Base Rent
+$9,444.52 - $9,569.52 /mo*
+18 months
+$9,187 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
@@ -6708,8 +6663,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -6768,6 +6721,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -6819,11 +6774,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -7062,7 +7014,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 37
 1552 sq. ft.
 $9,545.52 - $9,670.52 /mo*
-16 months
+15 months
 $9,288 Base Rent
 Available Now
 #3811
@@ -7113,8 +7065,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -7173,6 +7123,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -7224,11 +7176,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -7362,7 +7311,7 @@ C1
 3 bath
 1724 sq. ft.
 $8,126.52 - $9,136.52 /mo*
-16 months
+15 months
 $7,869 - $8,754 Base Rent
 2D
 3D
@@ -7466,42 +7415,42 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 28
 1724 sq. ft.
 $8,461.52 - $8,586.52 /mo*
-16 months
+15 months
 $8,204 Base Rent
 Available Now
 #3715
 Floor 37
 1724 sq. ft.
 $8,961.52 - $9,086.52 /mo*
-16 months
+15 months
 $8,704 Base Rent
 Available Now
 #3915
 Floor 39
 1724 sq. ft.
 $9,011.52 - $9,136.52 /mo*
-16 months
+15 months
 $8,754 Base Rent
 Available Now
 #3815
 Floor 38
 1724 sq. ft.
 $8,911.52 - $9,036.52 /mo*
-16 months
+15 months
 $8,654 Base Rent
 Available Now
 #2615
 Floor 26
 1724 sq. ft.
 $8,411.52 - $8,536.52 /mo*
-16 months
+15 months
 $8,154 Base Rent
 Available Now
 #2715
 Floor 27
 1724 sq. ft.
 $8,176.52 - $8,301.52 /mo*
-16 months
+15 months
 $7,919 Base Rent
 Available Now
 #2515
@@ -7559,8 +7508,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -7619,6 +7566,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -7670,11 +7619,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -7810,7 +7756,7 @@ Penthouse
 1574 sq. ft.
 Only 1 left!
 $10,247.52 - $10,372.52 /mo*
-16 months
+15 months
 $9,990 Base Rent
 2D
 3D
@@ -7914,7 +7860,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 41
 1574 sq. ft.
 $10,247.52 - $10,372.52 /mo*
-16 months
+15 months
 $9,990 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -7951,8 +7897,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -8011,6 +7955,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -8062,11 +8008,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -8202,7 +8145,7 @@ Penthouse
 1945 sq. ft.
 Only 2 left!
 $13,067.52 - $13,242.52 /mo*
-16 months
+15 months
 $12,810 - $12,860 Base Rent
 2D
 3D
@@ -8306,7 +8249,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 42
 1945 sq. ft.
 $13,117.52 - $13,242.52 /mo*
-16 months
+15 months
 $12,860 Base Rent
 Available Now
 #4001
@@ -8350,8 +8293,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -8410,6 +8351,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -8461,11 +8404,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -8705,7 +8645,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 40
 2409 sq. ft.
 $16,367.52 - $16,492.52 /mo*
-16 months
+15 months
 $16,110 Base Rent
 Available Now
 #4206
@@ -8749,8 +8689,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -8809,6 +8747,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -8860,11 +8800,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -9000,7 +8937,7 @@ Penthouse
 2618 sq. ft.
 Only 1 left!
 $16,663.52 - $16,788.52 /mo*
-16 months
+15 months
 $16,406 Base Rent
 2D
 3D
@@ -9104,7 +9041,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 40
 2618 sq. ft.
 $16,663.52 - $16,788.52 /mo*
-16 months
+15 months
 $16,406 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -9141,8 +9078,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -9201,6 +9136,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -9252,11 +9189,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back
@@ -9392,7 +9326,7 @@ Penthouse
 2711 sq. ft.
 Only 1 left!
 $19,613.52 - $19,738.52 /mo*
-16 months
+15 months
 $19,356 Base Rent
 2D
 3D
@@ -9506,7 +9440,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 43
 2711 sq. ft.
 $19,613.52 - $19,738.52 /mo*
-16 months
+15 months
 $19,356 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -9543,8 +9477,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Tue
-3
 Wed
 4
 Thu
@@ -9603,6 +9535,8 @@ Tue
 1
 Wed
 2
+Thu
+3
 November
 Sun
 Mon
@@ -9654,11 +9588,8 @@ Sat
 11
 12
 Choose a Time
-Tuesday, November 3, 2026
-10:00 am
-11:30 am
-1:00 pm
-2:30 pm
+Wednesday, November 4, 2026
+9:00 am
 Next
 Select Your Tour
 Back

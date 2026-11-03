@@ -102,7 +102,7 @@ Floor
 0 avail
 Floor
 32
-1 avail
+0 avail
 Floor
 33
 0 avail
@@ -111,7 +111,7 @@ Floor
 1 avail
 Floor
 35
-1 avail
+0 avail
 Floor
 R
 0 avail
@@ -293,20 +293,20 @@ A5b
 1 bed
 1 bath
 872 sq. ft.
-Starting at $3,092
+Starting at $3,072
 Book a Tour
 Check Availability
 #1606
 Floor 16
 872 sq. ft.
-Starting at $3,092
+Starting at $3,072
 Available Dec 05
 View on Map
 Lease Now
 #2106
 Floor 21
 872 sq. ft.
-Starting at $3,404
+Starting at $3,260
 Available Dec 05
 View on Map
 Lease Now
@@ -382,6 +382,13 @@ Floor 23
 1121 sq. ft.
 Starting at $3,779
 Available Nov 13
+View on Map
+Lease Now
+#2414
+Floor 24
+1121 sq. ft.
+Starting at $3,949
+Available Nov 28
 View on Map
 Lease Now
 Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
@@ -482,7 +489,7 @@ Lease Now
 #2213
 Floor 22
 1305 sq. ft.
-Starting at $4,525
+Starting at $4,351
 Available Dec 05
 View on Map
 Lease Now
@@ -697,7 +704,7 @@ S2
 Studio
 1 bath
 534 sq. ft.
-Starting at $2,026
+Starting at $1,976
 Book a Tour
 Check Availability
 #1311
@@ -744,7 +751,7 @@ Lease Now
 #2011
 Floor 20
 534 sq. ft.
-Starting at $2,119
+Starting at $1,976
 Available Dec 05
 View on Map
 Lease Now
@@ -827,88 +834,6 @@ Floor 11
 1369 sq. ft.
 Starting at $4,064
 Available Nov 25
-View on Map
-Lease Now
-Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
-A place to call home.
-Floorplans
-Book a Tour
-The Bowie
-311 Bowie Street
-Austin, TX 78703
-Call us at
-(512) 643-8239
-Pet Policy
-Home
-Amenities
-Floorplans
-Neighborhood
-Gallery
-Residents
-Contact
-© Copyright 2026 The Bowie. All Rights Reserved.
-Privacy Policy
-Disclosures & Licenses
-Site Map
-.st0{fill:#4A4A4A;}
-This site uses cookies to improve your browsing experience. By using our site you agree to our use of cookies.
-I Agree
-How We Use Your Data
-Contact Us
-
-=== PLAN https://liveatbowie.com/floorplans/a1/
-Skip to main content
-×
-Pet Policy
-We welcome all your furry friends at The Bowie. Some pet restrictions apply. Call us for more information!
-.cls-1{fill:#fff;}
-Home
-Amenities
-Floorplans
-Neighborhood
-Gallery
-Residents
-Contact
-Find Your Home
-Book a Tour
-Home
-Amenities
-Floorplans
-Neighborhood
-Gallery
-Residents
-Contact
-Find Your Home
-311 Bowie Street
-|
-Austin, TX 78703
-Call us at
-(512) 643-8239
-Book a Tour
-Find Your Home
-Studio, 1, 2, & 3-Bedroom Floor Plans in Austin
-« Back
-« Back
-A1
-1 bed
-1 bath
-692 sq. ft.
-Starting at $2,709
-Virtual Tour
-Book a Tour
-Check Availability
-#3201
-Floor 32
-692 sq. ft.
-Starting at $2,728
-Available Dec 05
-View on Map
-Lease Now
-#3501
-Floor 35
-692 sq. ft.
-Starting at $2,709
-Available Dec 05
 View on Map
 Lease Now
 Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
@@ -1143,13 +1068,13 @@ B6b
 2 bed
 2 bath
 1269 sq. ft.
-Starting at $4,118
+Starting at $4,100
 Book a Tour
 Check Availability
 #1605
 Floor 16
 1269 sq. ft.
-Starting at $4,118
+Starting at $4,100
 Available Nov 28
 View on Map
 Lease Now
@@ -1220,11 +1145,25 @@ A5
 Starting at $2,981
 Book a Tour
 Check Availability
+#2405
+Floor 24
+872 sq. ft.
+Starting at $3,250
+Available Nov 18
+View on Map
+Lease Now
 #2505
 Floor 25
 872 sq. ft.
 Starting at $3,235
 Available Nov 21
+View on Map
+Lease Now
+#2605
+Floor 26
+872 sq. ft.
+Starting at $3,085
+Available Nov 25
 View on Map
 Lease Now
 #1506
@@ -1298,7 +1237,7 @@ A2
 1 bed
 1 bath
 703 sq. ft.
-Starting at $2,685
+Starting at $2,636
 Book a Tour
 Check Availability
 #2615
@@ -1306,6 +1245,13 @@ Floor 26
 703 sq. ft.
 Starting at $2,685
 Available Nov 28
+View on Map
+Lease Now
+#2016
+Floor 20
+703 sq. ft.
+Starting at $2,636
+Available Nov 29
 View on Map
 Lease Now
 Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
@@ -1380,6 +1326,13 @@ Floor 29
 1206 sq. ft.
 Starting at $3,999
 Available Nov 21
+View on Map
+Lease Now
+#2709
+Floor 27
+1206 sq. ft.
+Starting at $4,170
+Available Nov 28
 View on Map
 Lease Now
 #2309
@@ -1713,6 +1666,13 @@ A6
 Starting at $3,100
 Book a Tour
 Check Availability
+#3302
+Floor 33
+896 sq. ft.
+Starting at $3,266
+Available Nov 13
+View on Map
+Lease Now
 #1202
 Floor 12
 896 sq. ft.
@@ -1730,8 +1690,15 @@ Lease Now
 #3002
 Floor 30
 896 sq. ft.
-Starting at $3,260
+Starting at $3,238
 Available Dec 05
+View on Map
+Lease Now
+#1402
+Floor 14
+896 sq. ft.
+Starting at $3,143
+Available Dec 12
 View on Map
 Lease Now
 Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
@@ -1804,7 +1771,7 @@ Check Availability
 #1915
 Floor 19
 1168 sq. ft.
-Starting at $3,966
+Starting at $3,949
 Available Dec 05
 View on Map
 Lease Now

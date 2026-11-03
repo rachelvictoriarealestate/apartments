@@ -29,7 +29,7 @@ AMLI On 2ND Apartments
 
 AMLI on 2ND
 
-(222)
+(223)
 
 421 W. 3rd St.
 Austin, TX 78701
@@ -42,9 +42,9 @@ Call
 
 Total Monthly Price Starting at
 
-$2,769.49
+$2,780.49
 
-(Base Rent $2,707)
+(Base Rent $2,718)
 
 Schedule a Tour
 Floor Plans & Pricing
@@ -82,9 +82,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,769.49/mo.
+$2,780.49/mo.
 
-(Base Rent $2,707)
+(Base Rent $2,718)
 
 Get Pricing
 
@@ -114,9 +114,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,895.49/mo.
+$2,909.49/mo.
 
-(Base Rent $2,833)
+(Base Rent $2,847)
 
 Get Pricing
 
@@ -178,9 +178,9 @@ Available
 
 Total Monthly Price Starting at
 
-$4,045.49/mo.
+$4,061.49/mo.
 
-(Base Rent $3,983)
+(Base Rent $3,999)
 
 Get Pricing
 
@@ -214,6 +214,38 @@ Get the most out of city living in our 2-bed, 2-bath luxury apartments, outfitte
 
 Virtual Tours
 
+Nelson
+
+1 AVAILABLE UNIT
+
+Bed
+
+2
+
+Bath
+
+2
+
+SQFT
+
+1187
+
+Available
+
+1/5/2027
+
+Total Monthly Price Starting at
+
+$4,654.49/mo.
+
+(Base Rent $4,592)
+
+Get Pricing
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
 Vaughn
 
 2 AVAILABLE UNITS
@@ -236,33 +268,11 @@ Now
 
 Total Monthly Price Starting at
 
-$5,130.49/mo.
+$5,139.49/mo.
 
-(Base Rent $5,068)
+(Base Rent $5,077)
 
 Get Pricing
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
-Nelson
-
-0 AVAILABLE UNITS
-
-Bed
-
-2
-
-Bath
-
-2
-
-SQFT
-
-1187
-
-Contact Office
 
 Square footage & measurements are approximate, and floor plan details may vary.
 
@@ -329,7 +339,7 @@ Accessibility
 Website Terms & Conditions
 Leasing Promotion Terms & Conditions
 Privacy Policy
-Do Not Sell or Share My Personal Information
+Cookie Settings
 
 AMLI’s Upfront Standard
 

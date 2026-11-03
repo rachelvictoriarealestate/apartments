@@ -29,7 +29,7 @@ AMLI Downtown Apartments
 
 AMLI Downtown
 
-(184)
+(148)
 
 201 Lavaca St.
 Austin, TX 78701
@@ -118,9 +118,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,879.50/mo.
+$2,890.50/mo.
 
-(Base Rent $2,877)
+(Base Rent $2,888)
 
 Get Pricing
 
@@ -495,7 +495,7 @@ Accessibility
 Website Terms & Conditions
 Leasing Promotion Terms & Conditions
 Privacy Policy
-Do Not Sell or Share My Personal Information
+Cookie Settings
 
 AMLI’s Upfront Standard
 

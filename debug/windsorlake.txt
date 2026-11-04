@@ -53,7 +53,7 @@ Clear
 
 Total Monthly Leasing Price includes base rent, and both mandatory and optional customer-selected charges, but excludes variable, usage-based, annual and one-time charges. Final amounts depend on the completed application, lease term, and move-in date.
 
-9 Homes
+8 Homes
 28 Plans
 Sort by
 Available Date (Soonest)
@@ -64,9 +64,9 @@ A1A
 1 Bath
 667 ft2
 Avail. Now
-$2,450.14
+$2,465.14
 /mo
-$2,319 Base Rent
+$2,334 Base Rent
 9 Mo.
 Special
 2602
@@ -75,9 +75,9 @@ B5
 2 Bath
 1,588 ft2
 Avail. Now
-$4,818.14
+$4,812.14
 /mo
-$4,687 Base Rent
+$4,681 Base Rent
 9 Mo.
 Special
 2202
@@ -86,9 +86,9 @@ B5
 2 Bath
 1,588 ft2
 Avail. Now
-$4,778.14
+$4,772.14
 /mo
-$4,647 Base Rent
+$4,641 Base Rent
 9 Mo.
 Special
 2903
@@ -97,20 +97,9 @@ PH1
 2 Bath
 1,460 ft2
 Avail. Now
-$4,938.14
+$4,932.14
 /mo
-$4,807 Base Rent
-9 Mo.
-Special
-1009
-A9
-1 Bed
-1 Bath
-1,051 ft2
-Avail. Now
-$2,995.14
-/mo
-$2,864 Base Rent
+$4,801 Base Rent
 9 Mo.
 Special
 2605
@@ -119,9 +108,9 @@ B4
 2 Bath
 1,527 ft2
 Avail. Now
-$4,643.14
+$4,637.14
 /mo
-$4,512 Base Rent
+$4,506 Base Rent
 9 Mo.
 Special
 0204
@@ -130,9 +119,9 @@ A3
 1 Bath
 767 ft2
 Avail. Dec 10
-$2,179.14
+$2,143.14
 /mo
-$2,048 Base Rent
+$2,012 Base Rent
 9 Mo.
 Special
 1108
@@ -141,12 +130,21 @@ A3A
 1 Bath
 732 ft2
 Avail. Dec 29
-$2,222.14
+$2,227.14
 /mo
-$2,091 Base Rent
+$2,096 Base Rent
 15 Mo.
-1
-2
+Special
+1109
+A9
+1 Bed
+1 Bath
+1,051 ft2
+Avail. Dec 30
+$3,067.14
+/mo
+$2,936 Base Rent
+15 Mo.
 Floor:
 2
 
@@ -480,7 +478,7 @@ Required
 No
 Costs overview footnotes
 
-Date: November 3, 2026
+Date: November 4, 2026
 
 All pricing set forth above is current, but is subject to change at any time prior to submitting your application. You may be required to pay a security deposit and/or a credit risk premium, the amount of which may vary based on your credit and lease/mortgage history (and other criteria), but will not exceed any legal maximum. Some charges may not apply to affordable housing units. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application.
 

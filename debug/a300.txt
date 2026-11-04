@@ -477,7 +477,7 @@ Virtual Tours
 
 C4A
 
-2 AVAILABLE UNITS
+3 AVAILABLE UNITS
 
 Bed
 
@@ -529,7 +529,7 @@ SQFT
 
 Available
 
-11/4/2026
+Now
 
 Total Monthly Price Starting at
 
@@ -545,7 +545,7 @@ Virtual Tours
 
 C10
 
-2 AVAILABLE UNITS
+1 AVAILABLE UNIT
 
 Bed
 

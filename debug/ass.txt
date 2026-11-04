@@ -27,7 +27,7 @@ AMLI South Shore Apartments
 
 AMLI South Shore
 
-(497)
+(496)
 
 1620 E. Riverside Dr.
 Austin, TX 78741
@@ -177,7 +177,7 @@ Virtual Tours
 
 A3a
 
-3 AVAILABLE UNITS
+4 AVAILABLE UNITS
 
 Bed
 
@@ -197,9 +197,9 @@ Available
 
 Total Monthly Price Starting at
 
-$2,181.50/mo.
+$2,171.50/mo.
 
-(Base Rent $2,179)
+(Base Rent $2,169)
 
 Get Pricing
 

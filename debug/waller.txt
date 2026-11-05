@@ -67,7 +67,7 @@ $1,950
 
 $1,745
 
-November 7th, 2026
+Now
 Calculate my costs
 
 Unit 811
@@ -247,7 +247,7 @@ $2,010
 
 $1,805
 
-November 5th, 2026
+Now
 Calculate my costs
 
 T-09
@@ -259,9 +259,9 @@ T-09
 544 sq. ft.
 
 Total from
-$2,185
+$2,180
 
-Base rent from $1,980
+Base rent from $1,975
 
 Unit | Building
 
@@ -272,6 +272,19 @@ Total
 Base Rent
 
 Available
+
+Unit 809
+
+1
+
+13 mo
+
+$2,180
+
+$1,975
+
+January 5th, 2027
+Calculate my costs
 
 Unit 1209
 
@@ -311,6 +324,7 @@ $2,125
 
 Now
 Calculate my costs
+Show 4 available
 
 T-03
 
@@ -977,6 +991,19 @@ $3,425
 Now
 Calculate my costs
 
+Unit 2715
+
+1
+
+13 mo
+
+$3,785
+
+$3,580
+
+November 12th, 2026
+Calculate my costs
+
 T-02
 
 2 bed
@@ -1151,7 +1178,7 @@ $4,825
 
 $4,620
 
-November 5th, 2026
+Now
 Calculate my costs
 
 Unit 1714
@@ -1180,6 +1207,42 @@ $4,770
 November 16th, 2026
 Calculate my costs
 Show 5 available
+
+PH-05
+
+2 bed
+·
+2.5 bath
+·
+1907 sq. ft.
+
+Total from
+$7,530
+
+Base rent from $7,325
+
+Unit | Building
+
+Lease
+
+Total
+
+Base Rent
+
+Available
+
+Unit 3105
+
+1
+
+13 mo
+
+$7,530
+
+$7,325
+
+January 18th, 2027
+Calculate my costs
 
 PH-04
 
@@ -1221,6 +1284,7 @@ Contact leasing office
 Office hours
 Today
 10:00am - 6:00pm
+Visit property website
 
 Costs and pricing
 
@@ -1335,7 +1399,6 @@ Contact us
 Please use the form below to get in touch with us. Provide as much detail as possible about what you're looking for, and one of our experienced agents will contact you shortly to discuss your needs. We’re here to assist you every step of the way!
 
 (512) 254-0291
-Visit property website
 First name
 Last name
 Phone Number

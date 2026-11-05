@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:52:20.661Z",
+ "updated": "2026-11-05T11:51:17.375Z",
  "communities": [
   {
    "id": "alexan",
@@ -7,10 +7,11 @@
    "area": "Downtown · Waterloo Park",
    "priceType": "total",
    "url": "https://alexanwaterloo.com/floorplans/",
-   "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "status": "stale",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": "2026-11-04T11:52:20.661Z",
    "count": 7,
+   "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://alexanwaterloo.com/floorplans/\", waiting until \"domcontentloaded\"\n",
    "lat": 30.271046,
    "lng": -97.733819
   },
@@ -20,10 +21,11 @@
    "area": "Rainey Street",
    "priceType": "total",
    "url": "https://700river.com/floorplans/",
-   "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "status": "stale",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": "2026-11-04T11:52:20.661Z",
    "count": 82,
+   "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://700river.com/floorplans/\", waiting until \"domcontentloaded\"\n",
    "lat": 30.25791,
    "lng": -97.738547
   },
@@ -33,10 +35,11 @@
    "area": "Market District",
    "priceType": "from",
    "url": "https://liveatbowie.com/floorplans/",
-   "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "status": "stale",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": "2026-11-04T11:52:20.661Z",
    "count": 57,
+   "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://liveatbowie.com/floorplans/\", waiting until \"domcontentloaded\"\n",
    "lat": 30.269209,
    "lng": -97.753002
   },
@@ -46,10 +49,11 @@
    "area": "Rainey Street",
    "priceType": "total",
    "url": "https://quincyatx.com/floorplans/",
-   "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "status": "stale",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": "2026-11-04T11:52:20.661Z",
    "count": 24,
+   "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://quincyatx.com/floorplans/\", waiting until \"domcontentloaded\"\n",
    "lat": 30.260801,
    "lng": -97.738843
   },
@@ -60,7 +64,7 @@
    "priceType": "from",
    "url": "https://www.skylineatbartoncreek.com/floorplans",
    "status": "stale",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": "2026-10-13T17:00:00.000Z",
    "count": 9,
    "error": "Site blocks automated visitors",
@@ -74,7 +78,7 @@
    "priceType": "from",
    "url": "https://www.415colorado.com/floor-plans/",
    "status": "stale",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": "2026-10-29T11:36:14.130Z",
    "count": 14,
    "error": "",
@@ -88,8 +92,8 @@
    "priceType": "total",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-on-2nd/floorplans",
    "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
-   "lastGood": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
+   "lastGood": "2026-11-05T11:51:17.375Z",
    "count": 6,
    "lat": 30.266283,
    "lng": -97.748064
@@ -101,8 +105,8 @@
    "priceType": "total",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-300/floorplans",
    "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
-   "lastGood": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
+   "lastGood": "2026-11-05T11:51:17.375Z",
    "count": 9,
    "lat": 30.269694,
    "lng": -97.756218
@@ -114,8 +118,8 @@
    "priceType": "total",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-south-shore/floorplans",
    "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
-   "lastGood": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
+   "lastGood": "2026-11-05T11:51:17.375Z",
    "count": 12,
    "lat": 30.245262,
    "lng": -97.730132
@@ -127,8 +131,8 @@
    "priceType": "total",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-downtown/floorplans",
    "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
-   "lastGood": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
+   "lastGood": "2026-11-05T11:51:17.375Z",
    "count": 5,
    "lat": 30.265295,
    "lng": -97.746281
@@ -140,8 +144,8 @@
    "priceType": "total",
    "url": "https://www.gables.com/community/528470",
    "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
-   "lastGood": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
+   "lastGood": "2026-11-05T11:51:17.375Z",
    "count": 2,
    "lat": 30.268115,
    "lng": -97.754476
@@ -153,7 +157,7 @@
    "priceType": "from",
    "url": "https://www.hanoverbrazos.com/austin/hanover-brazos-street/conventional/",
    "status": "blocked",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": null,
    "count": 0,
    "error": "Site blocks automated visitors",
@@ -167,8 +171,8 @@
    "priceType": "total",
    "url": "https://www.theclarkaustin.com/floor-plans",
    "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
-   "lastGood": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
+   "lastGood": "2026-11-05T11:51:17.375Z",
    "count": 6,
    "lat": 30.271758,
    "lng": -97.760077
@@ -180,7 +184,7 @@
    "priceType": "total",
    "url": "https://www.greystar.com/properties/austin-tx/the-waller/floorplans",
    "status": "stale",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": "2026-10-28T11:35:03.216Z",
    "count": 15,
    "error": "",
@@ -193,10 +197,11 @@
    "area": "West Downtown",
    "priceType": "total",
    "url": "https://www.404riogrande.com/floorplans/",
-   "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "status": "stale",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": "2026-11-04T11:52:20.661Z",
    "count": 7,
+   "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.404riogrande.com/floorplans/\", waiting until \"domcontentloaded\"\n",
    "lat": 30.268678,
    "lng": -97.750944
   },
@@ -206,10 +211,11 @@
    "area": "West Downtown",
    "priceType": "total",
    "url": "https://www.ellewestave.com/floorplans/",
-   "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "status": "stale",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": "2026-11-04T11:52:20.661Z",
    "count": 12,
+   "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.ellewestave.com/floorplans/\", waiting until \"domcontentloaded\"\n",
    "lat": 30.268108,
    "lng": -97.751644
   },
@@ -219,10 +225,11 @@
    "area": "Downtown · Lakefront",
    "priceType": "total",
    "url": "https://www.northshoreaustin.com/floorplans/",
-   "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "status": "stale",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": "2026-11-04T11:52:20.661Z",
    "count": 22,
+   "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.northshoreaustin.com/floorplans/\", waiting until \"domcontentloaded\"\n",
    "lat": 30.265301,
    "lng": -97.749512
   },
@@ -233,7 +240,7 @@
    "priceType": "total",
    "url": "https://www.windsorcommunities.com/properties/the-monarch-by-windsor/floorplans/",
    "status": "stale",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": "2026-10-28T11:35:03.216Z",
    "count": 4,
    "error": "",
@@ -247,7 +254,7 @@
    "priceType": "total",
    "url": "https://www.windsorcommunities.com/properties/windsor-on-the-lake/floorplans/",
    "status": "stale",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
    "lastGood": "2026-10-28T11:35:03.216Z",
    "count": 8,
    "error": "",
@@ -261,8 +268,8 @@
    "priceType": "total",
    "url": "https://www.gables.com/community/1104750",
    "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
-   "lastGood": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
+   "lastGood": "2026-11-05T11:51:17.375Z",
    "count": 3,
    "lat": 30.267412,
    "lng": -97.74666
@@ -274,8 +281,8 @@
    "priceType": "total",
    "url": "https://www.gables.com/community/528448",
    "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
-   "lastGood": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
+   "lastGood": "2026-11-05T11:51:17.375Z",
    "count": 2,
    "lat": 30.267461,
    "lng": -97.754239
@@ -287,8 +294,8 @@
    "priceType": "total",
    "url": "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans",
    "status": "ok",
-   "checked": "2026-11-04T11:52:20.661Z",
-   "lastGood": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
+   "lastGood": "2026-11-05T11:51:17.375Z",
    "count": 6,
    "lat": 30.264495,
    "lng": -97.732564
@@ -301,7 +308,7 @@
    "url": "https://residencesatsaltillo.securecafe.com/onlineleasing/residences-at-saltillo/floorplans.aspx",
    "note": "2 beds seen from $2,286",
    "status": "manual",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
    "count": 0,
    "lat": 30.263284,
    "lng": -97.731753
@@ -314,7 +321,7 @@
    "url": "https://www.simpsonpropertygroup.com/apartments/austin-texas/skyhouse-austin-rainey-street-downtown/apartment-floor-plans",
    "note": "2 beds seen from $3,136",
    "status": "manual",
-   "checked": "2026-11-04T11:52:20.661Z",
+   "checked": "2026-11-05T11:51:17.375Z",
    "count": 0,
    "lat": 30.257295,
    "lng": -97.739221
@@ -3218,7 +3225,7 @@
    "base": 2718,
    "available": "now",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-on-2nd/floorplans",
-   "image": "https://images.prismic.io/amli-website/72f8a9673f499b1395596011dca1e69900635245_austin-2nd-benson.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/72f8a9673f499b1395596011dca1e69900635245_austin-2nd-benson.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3233,7 +3240,7 @@
    "base": 2847,
    "available": "now",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-on-2nd/floorplans",
-   "image": "https://images.prismic.io/amli-website/795d0e4d4ea758c2e0814af901213cd7caa97cfd_austin-2nd-holly.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/795d0e4d4ea758c2e0814af901213cd7caa97cfd_austin-2nd-holly.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3248,7 +3255,7 @@
    "base": 3024,
    "available": "now",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-on-2nd/floorplans",
-   "image": "https://images.prismic.io/amli-website/9fba5f93751ba8829ba0375c7c34211b9abedbab_austin-2nd-jennings.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/9fba5f93751ba8829ba0375c7c34211b9abedbab_austin-2nd-jennings.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3263,7 +3270,7 @@
    "base": 3999,
    "available": "2026-12-12",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-on-2nd/floorplans",
-   "image": "https://images.prismic.io/amli-website/efcfe6e9b5edf421fc3dcac9717e790e057d3814_austin-2nd-price.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/efcfe6e9b5edf421fc3dcac9717e790e057d3814_austin-2nd-price.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3278,7 +3285,7 @@
    "base": 4512,
    "available": "2027-01-05",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-on-2nd/floorplans",
-   "image": "https://images.prismic.io/amli-website/84962adcaa7858444806d8f968d68fc7daa04881_austin-2nd-nelson.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/84962adcaa7858444806d8f968d68fc7daa04881_austin-2nd-nelson.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3293,7 +3300,7 @@
    "base": 4989,
    "available": "now",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-on-2nd/floorplans",
-   "image": "https://images.prismic.io/amli-website/e618095b6e108c7b3a8c137e4e30b94aa3a9902a_austin-2nd-vaughn.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/e618095b6e108c7b3a8c137e4e30b94aa3a9902a_austin-2nd-vaughn.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3323,7 +3330,7 @@
    "base": 1992,
    "available": "2026-11-13",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-300/floorplans",
-   "image": "https://images.prismic.io/amli-website/10656acbd52e678c1844b254b597f551b5d4d2d5_austin-300-a2a.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/10656acbd52e678c1844b254b597f551b5d4d2d5_austin-300-a2a.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3338,7 +3345,7 @@
    "base": 2080,
    "available": "2027-02-06",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-300/floorplans",
-   "image": "https://images.prismic.io/amli-website/1966a94a78110cd84b5f6f00c8945fddfb76db77_austin-300-a4a.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/1966a94a78110cd84b5f6f00c8945fddfb76db77_austin-300-a4a.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3368,7 +3375,7 @@
    "base": 2613,
    "available": "2026-11-17",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-300/floorplans",
-   "image": "https://images.prismic.io/amli-website/d7b1edd1960a0e5ec1bd5b29df78d3fc52dfa420_austin-300-a5a.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/d7b1edd1960a0e5ec1bd5b29df78d3fc52dfa420_austin-300-a5a.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3383,7 +3390,7 @@
    "base": 2645,
    "available": "2026-11-20",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-300/floorplans",
-   "image": "https://images.prismic.io/amli-website/be2c8cfeab971400561db1d775d7992d639310fd_austin-300-a5d.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/be2c8cfeab971400561db1d775d7992d639310fd_austin-300-a5d.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3398,7 +3405,7 @@
    "base": 2529,
    "available": "now",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-300/floorplans",
-   "image": "https://images.prismic.io/amli-website/ea276523ef7c348d401aa3cef71d1a596d9e7359_austin-300-c4a.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/ea276523ef7c348d401aa3cef71d1a596d9e7359_austin-300-c4a.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3413,7 +3420,7 @@
    "base": 2722,
    "available": "now",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-300/floorplans",
-   "image": "https://images.prismic.io/amli-website/a8634769-caca-48c8-b1cd-2feceabed484_austin-300-C4.jpg?auto=compress%2Cformat&rect=0%2C0%2C650%2C490&w=750&fit=max",
+   "image": "https://images.prismic.io/amli-website/a8634769-caca-48c8-b1cd-2feceabed484_austin-300-C4.jpg?auto=compress%2Cformat&rect=0%2C0%2C650%2C490&w=224&fit=max",
    "special": ""
   },
   {
@@ -3533,7 +3540,7 @@
    "base": 2467,
    "available": "2026-11-26",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-south-shore/floorplans",
-   "image": "https://images.prismic.io/amli-website/a01eff51-125b-41ba-a903-3dbd73a72e44_Austin-SouthShore-A4cX.jpg?auto=compress%2Cformat&rect=0%2C0%2C650%2C490&w=750&fit=max",
+   "image": "https://images.prismic.io/amli-website/a01eff51-125b-41ba-a903-3dbd73a72e44_Austin-SouthShore-A4cX.jpg?auto=compress%2Cformat&rect=0%2C0%2C650%2C490&w=224&fit=max",
    "special": ""
   },
   {
@@ -3548,7 +3555,7 @@
    "base": 2544,
    "available": "now",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-south-shore/floorplans",
-   "image": "https://images.prismic.io/amli-website/92fb4d02-e1b0-4623-a77b-48aa20d8b244_Austin-SouthShore-A4aX.jpg?auto=compress%2Cformat&rect=0%2C0%2C650%2C490&w=750&fit=max",
+   "image": "https://images.prismic.io/amli-website/92fb4d02-e1b0-4623-a77b-48aa20d8b244_Austin-SouthShore-A4aX.jpg?auto=compress%2Cformat&rect=0%2C0%2C650%2C490&w=224&fit=max",
    "special": ""
   },
   {
@@ -3608,7 +3615,7 @@
    "base": 4782,
    "available": "2027-01-10",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-south-shore/floorplans",
-   "image": "https://images.prismic.io/amli-website/d0447c9e-d0c8-4d86-a92b-afe35ac49b2c_Austin-SouthShore-D7aTX.jpg?auto=compress%2Cformat&rect=0%2C0%2C650%2C490&w=750&fit=max",
+   "image": "https://images.prismic.io/amli-website/d0447c9e-d0c8-4d86-a92b-afe35ac49b2c_Austin-SouthShore-D7aTX.jpg?auto=compress%2Cformat&rect=0%2C0%2C650%2C490&w=224&fit=max",
    "special": ""
   },
   {
@@ -3623,7 +3630,7 @@
    "base": 2803,
    "available": "now",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-downtown/floorplans",
-   "image": "https://images.prismic.io/amli-website/243c9855845c2ce8b4c68bdbb406df8f5b30f1cf_austin-downtown-neches.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/243c9855845c2ce8b4c68bdbb406df8f5b30f1cf_austin-downtown-neches.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3638,7 +3645,7 @@
    "base": 2888,
    "available": "now",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-downtown/floorplans",
-   "image": "https://images.prismic.io/amli-website/62a7099f5a5698bd1ff0fd71eaa37bbbcf7a3442_austin-downtown-sanantonio.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/62a7099f5a5698bd1ff0fd71eaa37bbbcf7a3442_austin-downtown-sanantonio.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3653,7 +3660,7 @@
    "base": 3024,
    "available": "2026-11-18",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-downtown/floorplans",
-   "image": "https://images.prismic.io/amli-website/b8717381cbfff480dbcb9fc8b7da34b1f4cc2ef7_austin-downtown-whiteriver.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/b8717381cbfff480dbcb9fc8b7da34b1f4cc2ef7_austin-downtown-whiteriver.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3668,7 +3675,7 @@
    "base": 3324,
    "available": "now",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-downtown/floorplans",
-   "image": "https://images.prismic.io/amli-website/96c89b08b6c8055cb923b2ba5bf32a417b2725ab_austin-downtown-colorado.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/96c89b08b6c8055cb923b2ba5bf32a417b2725ab_austin-downtown-colorado.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3683,7 +3690,7 @@
    "base": 3410,
    "available": "2026-12-03",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-downtown/floorplans",
-   "image": "https://images.prismic.io/amli-website/703434ab0f90dadd984e77e40250b0ef2240ac83_austin-downtown-redriver.jpg?auto=compress%2Cformat&fit=max&w=750",
+   "image": "https://images.prismic.io/amli-website/703434ab0f90dadd984e77e40250b0ef2240ac83_austin-downtown-redriver.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3706,7 +3713,7 @@
    "baths": null,
    "sqft": null,
    "unit": null,
-   "price": 3341.75,
+   "price": 3394.75,
    "available": null,
    "url": "https://www.gables.com/community/528470",
    "image": null,
@@ -3734,9 +3741,9 @@
    "baths": 1,
    "sqft": 641,
    "unit": null,
-   "units": 4,
-   "price": 2263,
-   "base": 2149,
+   "units": 5,
+   "price": 2421,
+   "base": 2307,
    "available": "now",
    "url": "https://www.theclarkaustin.com/floor-plans",
    "image": null,
@@ -3750,8 +3757,8 @@
    "sqft": 823,
    "unit": null,
    "units": 1,
-   "price": 2694,
-   "base": 2580,
+   "price": 2696,
+   "base": 2582,
    "available": "now",
    "url": "https://www.theclarkaustin.com/floor-plans",
    "image": null,
@@ -3765,8 +3772,8 @@
    "sqft": 920,
    "unit": null,
    "units": 1,
-   "price": 2719,
-   "base": 2605,
+   "price": 2721,
+   "base": 2607,
    "available": "now",
    "url": "https://www.theclarkaustin.com/floor-plans",
    "image": null,
@@ -3780,8 +3787,8 @@
    "sqft": 932,
    "unit": null,
    "units": 1,
-   "price": 2744,
-   "base": 2630,
+   "price": 2746,
+   "base": 2632,
    "available": "2026-12-11",
    "url": "https://www.theclarkaustin.com/floor-plans",
    "image": null,
@@ -3795,8 +3802,8 @@
    "sqft": 1065,
    "unit": null,
    "units": 1,
-   "price": 3609,
-   "base": 3495,
+   "price": 3611,
+   "base": 3497,
    "available": "2026-11-27",
    "url": "https://www.theclarkaustin.com/floor-plans",
    "image": null,
@@ -4850,7 +4857,7 @@
    "baths": null,
    "sqft": null,
    "unit": null,
-   "price": 2109.21,
+   "price": 2104.21,
    "available": null,
    "url": "https://www.gables.com/community/1104750",
    "image": null,
@@ -4863,7 +4870,7 @@
    "baths": null,
    "sqft": null,
    "unit": null,
-   "price": 3040.21,
+   "price": 3034.21,
    "available": null,
    "url": "https://www.gables.com/community/1104750",
    "image": null,
@@ -4932,8 +4939,8 @@
    "sqft": 523,
    "unit": null,
    "units": 1,
-   "price": 1556,
-   "base": 1405,
+   "price": 1538,
+   "base": 1387,
    "lease": 12,
    "available": null,
    "url": "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans",
@@ -4948,8 +4955,8 @@
    "sqft": 730,
    "unit": null,
    "units": 4,
-   "price": 2108,
-   "base": 1934,
+   "price": 2165,
+   "base": 1991,
    "lease": 12,
    "available": null,
    "url": "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans",
@@ -4964,8 +4971,8 @@
    "sqft": 765,
    "unit": null,
    "units": 1,
-   "price": 2534,
-   "base": 2360,
+   "price": 2609,
+   "base": 2435,
    "lease": 12,
    "available": null,
    "url": "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans",
@@ -4980,8 +4987,8 @@
    "sqft": 845,
    "unit": null,
    "units": 1,
-   "price": 2642,
-   "base": 2468,
+   "price": 2717,
+   "base": 2543,
    "lease": 12,
    "available": null,
    "url": "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans",
@@ -4996,8 +5003,8 @@
    "sqft": 1053,
    "unit": null,
    "units": 1,
-   "price": 3455,
-   "base": 3281,
+   "price": 3690,
+   "base": 3516,
    "lease": 12,
    "available": null,
    "url": "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans",

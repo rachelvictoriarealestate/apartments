@@ -40,9 +40,9 @@ Studio - 3 Bedrooms
 
 Total Monthly Price Starting at
 
-$1,843.50
+$1,847.50
 
-(Base Rent $1,841)
+(Base Rent $1,845)
 
 Schedule a Tour
 Floor Plans & Pricing
@@ -81,9 +81,9 @@ Now
 
 Total Monthly Price Starting at
 
-$1,843.50/mo.
+$1,847.50/mo.
 
-(Base Rent $1,841)
+(Base Rent $1,845)
 
 Get Pricing
 
@@ -165,9 +165,9 @@ Now
 
 Total Monthly Price Starting at
 
-$1,978.50/mo.
+$1,971.50/mo.
 
-(Base Rent $1,976)
+(Base Rent $1,969)
 
 Get Pricing
 
@@ -193,7 +193,7 @@ SQFT
 
 Available
 
-11/6/2026
+Now
 
 Total Monthly Price Starting at
 
@@ -261,9 +261,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,341.50/mo.
+$2,346.50/mo.
 
-(Base Rent $2,339)
+(Base Rent $2,344)
 
 Get Pricing
 
@@ -525,9 +525,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,677.50/mo.
+$2,704.50/mo.
 
-(Base Rent $2,675)
+(Base Rent $2,702)
 
 Get Pricing
 
@@ -557,9 +557,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,981.50/mo.
+$2,996.50/mo.
 
-(Base Rent $2,979)
+(Base Rent $2,994)
 
 Get Pricing
 
@@ -589,9 +589,9 @@ Now
 
 Total Monthly Price Starting at
 
-$3,125.50/mo.
+$3,156.50/mo.
 
-(Base Rent $3,123)
+(Base Rent $3,154)
 
 Get Pricing
 
@@ -649,9 +649,9 @@ Available
 
 Total Monthly Price Starting at
 
-$4,784.50/mo.
+$4,785.50/mo.
 
-(Base Rent $4,782)
+(Base Rent $4,783)
 
 Get Pricing
 

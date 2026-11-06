@@ -474,7 +474,7 @@ $2,580
 
 $2,375
 
-November 6th, 2026
+Now
 Calculate my costs
 
 Unit 2710
@@ -566,19 +566,6 @@ $2,400
 January 15th, 2027
 Calculate my costs
 
-Unit 807
-
-1
-
-13 mo
-
-$2,605
-
-$2,400
-
-Now
-Calculate my costs
-
 Unit 2507
 
 1
@@ -591,7 +578,7 @@ $2,550
 
 November 25th, 2026
 Calculate my costs
-Show 5 available
+Show 4 available
 
 T-12
 
@@ -1089,7 +1076,7 @@ $4,500
 
 $4,295
 
-December 7th, 2026
+December 9th, 2026
 Calculate my costs
 
 Unit 2302
@@ -1165,7 +1152,7 @@ $4,795
 
 $4,590
 
-November 6th, 2026
+Now
 Calculate my costs
 
 Unit 1314

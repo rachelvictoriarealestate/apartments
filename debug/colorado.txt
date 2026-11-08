@@ -153,7 +153,7 @@ S1
 Studio
 1 Bath
 551 Sq. Ft.
-Move-in Dec 14, 2026
+Move-in Dec 30, 2026
 STARTING FROM
 $2,180
 /month
@@ -250,7 +250,7 @@ Studio
 ·
 551 Sq. Ft.
 ·
-Move-in Dec 14, 2026
+Move-in Dec 30, 2026
 Enlarge Floor Plan
 Apartment Map
 
@@ -262,21 +262,14 @@ $2,180
 Apply Now
 Schedule A Tour
 2011
-Best Price
 Move-in Dec 30, 2026
 STARTING FROM
 $2,180
 /month
 View Unit
-2711
-Move-in Dec 14, 2026
-STARTING FROM
-$2,455
-/month
-View Unit
-2 Units Available
-1–2 of 2
-2 Available from Dec 14, 2026
+1 Unit Available
+1 of 1
+1 Available from Dec 30, 2026
 Units
 MOVE-IN DATE
 SORT BY
@@ -285,8 +278,8 @@ Default Order
 Price: Low To High
 Price: High To Low
 Available: Soonest
-2 Units Available
-2 Available from Dec 14, 2026
+1 Unit Available
+1 Available from Dec 30, 2026
 UNIT
 2011
 STARTING FROM
@@ -294,26 +287,6 @@ $2,180
 /month
 AVAILABILITY
 Dec 30, 2026
-BEDS
-Studio
-BATHS
-1
-SIZE
-551 Sq. Ft.
-Open Floor Plan Unit Special
-Open Property Apartment Map
-Open Floor Plan Unit Video
-Open Floor Plan Unit Virtual Tour
-Schedule A Tour
-Apply Now
-VIEW UNIT TOUR
-UNIT
-2711
-STARTING FROM
-$2,455
-/month
-AVAILABILITY
-Dec 14, 2026
 BEDS
 Studio
 BATHS
@@ -1223,22 +1196,14 @@ $6,420
 Apply Now
 Schedule A Tour
 3818
-Best Price
 Available now
 STARTING FROM
 $6,420
 /month
 View Unit
-4118
-Move-in Nov 14, 2026
-STARTING FROM
-$6,480
-/month
-View Unit
-2 Units Available
-1–2 of 2
+1 Unit Available
+1 of 1
 1 Available now
-1 Available from Nov 14, 2026
 Units
 MOVE-IN DATE
 SORT BY
@@ -1247,9 +1212,8 @@ Default Order
 Price: Low To High
 Price: High To Low
 Available: Soonest
-2 Units Available
+1 Unit Available
 1 Available now
-1 Available from Nov 14, 2026
 UNIT
 3818
 STARTING FROM
@@ -1270,25 +1234,6 @@ Open Floor Plan Unit Virtual Tour
 Schedule A Tour
 Apply Now
 VIEW UNIT TOUR
-UNIT
-4118
-STARTING FROM
-$6,480
-/month
-AVAILABILITY
-Nov 14, 2026
-BEDS
-2
-BATHS
-2.5
-SIZE
-1,515 Sq. Ft.
-Open Floor Plan Unit Special
-Open Property Apartment Map
-Open Floor Plan Unit Video
-Open Floor Plan Unit Virtual Tour
-Schedule A Tour
-Apply Now
 PH1
 2 Beds
 2 Baths

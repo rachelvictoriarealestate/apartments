@@ -103,7 +103,7 @@ Floor
 1 avail
 Floor
 23
-1 avail
+2 avail
 Floor
 24
 3 avail
@@ -115,10 +115,10 @@ Floor
 4 avail
 Floor
 27
-4 avail
+3 avail
 Floor
 28
-4 avail
+3 avail
 Floor
 29
 1 avail
@@ -151,7 +151,7 @@ Floor
 5 avail
 Floor
 39
-4 avail
+5 avail
 Floor
 40
 3 avail
@@ -289,7 +289,7 @@ Utility - Vacant Cost Recovery
 	Usage-Based (Utilities)	Per Occurrence	Per Occurrence	Situational
 Utility - Vacant Processing Fee 
 	$50.00	Per Occurrence	Per Occurrence	Situational
-Date of Issuance: 11/7/2026
+Date of Issuance: 11/8/2026
 All fees paid to property unless indicated by ⮂ symbol. Unless a fee is explicitly identified as refundable, all fees are non-refundable. Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
 Price varies based on floor plan type/size. ↩
 Price varies based on floor plan type/size ^Fee does not apply to affordable units. ↩
@@ -579,6 +579,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -631,7 +633,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -999,6 +1003,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -1051,7 +1057,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -1385,6 +1393,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -1437,7 +1447,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -1813,6 +1825,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -1865,7 +1879,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -2134,7 +2150,7 @@ Floor 26
 $4,243.52 - $4,368.52 /mo*
 15 months
 $3,986 Base Rent
-Available Nov 07
+Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
 Write your
@@ -2227,6 +2243,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -2279,7 +2297,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -2412,10 +2432,10 @@ A5
 1 bed
 1 bath
 885 sq. ft.
-Only 2 left!
-$4,028.52 - $4,853.52 /mo*
-14 months
-$3,771 - $4,471 Base Rent
+Only 3 left!
+$4,028.52 - $4,903.52 /mo*
+18 months
+$3,771 - $4,521 Base Rent
 2D
 3D
 Virtual Tour
@@ -2515,6 +2535,13 @@ Message
 Submit
 Thank you, {first_name}!
 We got your message! Thanks for reaching out. You'll hear from us soon.
+#3906
+Floor 39
+885 sq. ft.
+$4,778.52 - $4,903.52 /mo*
+15 months
+$4,521 Base Rent
+Available Now
 #3706
 Floor 37
 885 sq. ft.
@@ -2621,6 +2648,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -2673,7 +2702,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -2942,13 +2973,6 @@ $4,138.52 - $4,263.52 /mo*
 15 months
 $3,881 Base Rent
 Available Now
-#2814
-Floor 28
-892 sq. ft.
-$4,288.52 - $4,413.52 /mo*
-15 months
-$4,031 Base Rent
-Available Nov 10
 #3014
 Floor 30
 892 sq. ft.
@@ -3048,6 +3072,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -3100,7 +3126,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -3435,6 +3463,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -3487,7 +3517,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -3849,6 +3881,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -3901,7 +3935,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -4279,6 +4315,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -4331,7 +4369,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -4679,6 +4719,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -4731,7 +4773,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -5113,6 +5157,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -5165,7 +5211,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -5513,6 +5561,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -5565,7 +5615,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -5899,6 +5951,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -5951,7 +6005,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -6305,6 +6361,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -6357,7 +6415,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -6691,6 +6751,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -6743,7 +6805,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -7091,6 +7155,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -7143,7 +7209,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -7539,6 +7607,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -7591,7 +7661,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -7926,6 +7998,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -7978,7 +8052,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -8320,6 +8396,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -8372,7 +8450,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -8714,6 +8794,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -8766,7 +8848,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -9101,6 +9185,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -9153,7 +9239,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back
@@ -9498,6 +9586,8 @@ Sun
 6
 Mon
 7
+Tue
+8
 November
 Sun
 Mon
@@ -9550,7 +9640,9 @@ Sat
 12
 Choose a Time
 Monday, November 9, 2026
-12:00 pm
+9:00 am
+1:30 pm
+4:30 pm
 Next
 Select Your Tour
 Back

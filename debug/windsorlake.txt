@@ -64,9 +64,9 @@ A1A
 1 Bath
 667 ft2
 Avail. Now
-$2,602.14
+$2,603.14
 /mo
-$2,471 Base Rent
+$2,472 Base Rent
 9 Mo.
 Special
 2602
@@ -478,7 +478,7 @@ Required
 No
 Costs overview footnotes
 
-Date: November 8, 2026
+Date: November 9, 2026
 
 All pricing set forth above is current, but is subject to change at any time prior to submitting your application. You may be required to pay a security deposit and/or a credit risk premium, the amount of which may vary based on your credit and lease/mortgage history (and other criteria), but will not exceed any legal maximum. Some charges may not apply to affordable housing units. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application.
 

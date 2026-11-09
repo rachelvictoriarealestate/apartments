@@ -289,7 +289,7 @@ Utility - Vacant Cost Recovery
 	Usage-Based (Utilities)	Per Occurrence	Per Occurrence	Situational
 Utility - Vacant Processing Fee 
 	$50.00	Per Occurrence	Per Occurrence	Situational
-Date of Issuance: 11/8/2026
+Date of Issuance: 11/9/2026
 All fees paid to property unless indicated by ⮂ symbol. Unless a fee is explicitly identified as refundable, all fees are non-refundable. Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
 Price varies based on floor plan type/size. ↩
 Price varies based on floor plan type/size ^Fee does not apply to affordable units. ↩
@@ -521,8 +521,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -581,6 +579,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -632,10 +632,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -945,8 +945,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -1005,6 +1003,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -1056,10 +1056,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -1335,8 +1335,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -1395,6 +1393,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -1446,10 +1446,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -1767,8 +1767,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -1827,6 +1825,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -1878,10 +1878,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -2185,8 +2185,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -2245,6 +2243,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -2296,10 +2296,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -2590,8 +2590,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -2650,6 +2648,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -2701,10 +2701,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -3014,8 +3014,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -3074,6 +3072,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -3125,10 +3125,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -3405,8 +3405,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -3465,6 +3463,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -3516,10 +3516,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -3823,8 +3823,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -3883,6 +3881,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -3934,10 +3934,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -4257,8 +4257,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -4317,6 +4315,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -4368,10 +4368,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -4661,8 +4661,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -4721,6 +4719,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -4772,10 +4772,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -5099,8 +5099,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -5159,6 +5157,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -5210,10 +5210,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -5346,10 +5346,10 @@ B1
 2 bed
 2 bath
 1169 sq. ft.
-Only 3 left!
-$5,340.52 - $5,865.52 /mo*
+Only 2 left!
+$5,440.52 - $5,865.52 /mo*
 18 months
-$5,083 - $5,483 Base Rent
+$5,183 - $5,483 Base Rent
 2D
 3D
 Book a Tour
@@ -5455,13 +5455,6 @@ $5,440.52 - $5,565.52 /mo*
 18 months
 $5,183 Base Rent
 Available Nov 23
-#2702
-Floor 27
-1169 sq. ft.
-$5,340.52 - $5,465.52 /mo*
-18 months
-$5,083 Base Rent
-Available Dec 03
 #3502
 Floor 35
 1169 sq. ft.
@@ -5503,8 +5496,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -5563,6 +5554,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -5614,10 +5607,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -5893,8 +5886,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -5953,6 +5944,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -6004,10 +5997,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -6303,8 +6296,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -6363,6 +6354,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -6414,10 +6407,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -6693,8 +6686,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -6753,6 +6744,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -6804,10 +6797,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -7097,8 +7090,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -7157,6 +7148,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -7208,10 +7201,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -7549,8 +7542,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -7609,6 +7600,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -7660,10 +7653,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -7940,8 +7933,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -8000,6 +7991,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -8051,10 +8044,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -8338,8 +8331,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -8398,6 +8389,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -8449,10 +8442,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -8736,8 +8729,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -8796,6 +8787,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -8847,10 +8840,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -9127,8 +9120,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -9187,6 +9178,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -9238,10 +9231,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back
@@ -9528,8 +9521,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Mon
-9
 Tue
 10
 Wed
@@ -9588,6 +9579,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -9639,10 +9632,10 @@ Sat
 11
 12
 Choose a Time
-Monday, November 9, 2026
-9:00 am
-1:30 pm
-4:30 pm
+Tuesday, November 10, 2026
+10:00 am
+2:30 pm
+4:00 pm
 Next
 Select Your Tour
 Back

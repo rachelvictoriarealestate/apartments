@@ -129,38 +129,6 @@ Square footage & measurements are approximate, and floor plan details may vary.
 
 Virtual Tours
 
-A4A
-
-1 AVAILABLE UNIT
-
-Bed
-
-1
-
-Bath
-
-1
-
-SQFT
-
-821
-
-Available
-
-2/6/2027
-
-Total Monthly Price Starting at
-
-$2,082.50/mo.
-
-(Base Rent $2,080)
-
-Get Pricing
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
 A3
 
 1 AVAILABLE UNIT
@@ -324,6 +292,28 @@ Bath
 SQFT
 
 650
+
+Contact Office
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
+A4A
+
+0 AVAILABLE UNITS
+
+Bed
+
+1
+
+Bath
+
+1
+
+SQFT
+
+821
 
 Contact Office
 
@@ -499,43 +489,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,524.50/mo.
+$2,565.50/mo.
 
-(Base Rent $2,522)
-
-Get Pricing
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
-C4
-
-1 AVAILABLE UNIT
-
-Bed
-
-2
-
-Bath
-
-2
-
-SQFT
-
-1043
-
-1099
-
-Available
-
-Now
-
-Total Monthly Price Starting at
-
-$2,714.50/mo.
-
-(Base Rent $2,712)
+(Base Rent $2,563)
 
 Get Pricing
 
@@ -565,9 +521,9 @@ Available
 
 Total Monthly Price Starting at
 
-$3,515.50/mo.
+$3,541.50/mo.
 
-(Base Rent $3,513)
+(Base Rent $3,539)
 
 Get Pricing
 
@@ -592,6 +548,30 @@ SQFT
 968
 
 972
+
+Contact Office
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
+C4
+
+0 AVAILABLE UNITS
+
+Bed
+
+2
+
+Bath
+
+2
+
+SQFT
+
+1043
+
+1099
 
 Contact Office
 

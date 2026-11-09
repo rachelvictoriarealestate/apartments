@@ -93,7 +93,7 @@ Floor
 3 avail
 Floor
 29
-1 avail
+0 avail
 Floor
 30
 2 avail
@@ -136,9 +136,6 @@ Community Fee Guide
 
 Whether you're a current resident or an interested prospect, we want to make it easy to understand what your rent includes and what may constitute additional fees. To help with this, we've created a fee list below so you can quickly see what fees may apply in addition to your base rent.
 
-A place to call home.
-Floorplans
-Book a Tour
 The Bowie
 311 Bowie Street
 Austin, TX 78703
@@ -468,7 +465,7 @@ Lease Now
 #2213
 Floor 22
 1305 sq. ft.
-Starting at $4,351
+Starting at $4,331
 Available Dec 05
 View on Map
 Lease Now
@@ -1291,16 +1288,9 @@ B4
 2 bed
 2 bath
 1206 sq. ft.
-Starting at $4,018
+Starting at $4,022
 Book a Tour
 Check Availability
-#2909
-Floor 29
-1206 sq. ft.
-Starting at $4,018
-Available Nov 21
-View on Map
-Lease Now
 #2709
 Floor 27
 1206 sq. ft.

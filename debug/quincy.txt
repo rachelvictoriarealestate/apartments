@@ -1,13 +1,11 @@
 === LIST https://quincyatx.com/floorplans/
-Your Privacy Choices
-
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use. To learn more about our privacy practices review our Privacy Policy. Please review your choices.
-
-Accept All
-Customize Settings
-Reject All
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
+Your Privacy Choices
+
+We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use. To learn more about our privacy practices review our Privacy Policy.
+
+I understand
 Skip to main content
 Don’t miss out on our special offer!
 
@@ -81,7 +79,7 @@ Floor
 0 avail
 Floor
 17
-2 avail
+1 avail
 Floor
 18
 1 avail
@@ -208,7 +206,7 @@ Lease Violation Fee
 Non-Sufficient Funds Fee	$30.00	Per Occurrence	Situational
 Transfer Fee 
 	$500.00 - $2,000.00	Per Occurrence	Situational
-Date of Issuance: 11/7/2026
+Date of Issuance: 11/8/2026
 Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
  Download PDF
 The Quincy
@@ -491,6 +489,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -543,8 +543,6 @@ Sat
 12
 Choose a Time
 Tuesday, November 10, 2026
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -653,10 +651,10 @@ S2
 Studio
 1 bath
 415 sq. ft.
-Only 3 left!
-$1,593 - $1,879 /mo*
-15 months
-$1,430 - $1,716 Base Rent
+Only 2 left!
+$1,661 - $1,879 /mo*
+16 months
+$1,498 - $1,716 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -776,14 +774,6 @@ $1,879 /mo*
 12 months
 $1,716 Base Rent
 Available Dec 10
-#1708
-Building 1
-Floor 17
-415 sq. ft.
-$1,593 /mo*
-15 months
-$1,430 Base Rent
-Available Jan 17
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
 Where bold luxury meets inner grit.
@@ -875,6 +865,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -927,8 +919,6 @@ Sat
 12
 Choose a Time
 Tuesday, November 10, 2026
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -1251,6 +1241,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -1303,8 +1295,6 @@ Sat
 12
 Choose a Time
 Tuesday, November 10, 2026
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -1628,6 +1618,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -1680,8 +1672,6 @@ Sat
 12
 Choose a Time
 Tuesday, November 10, 2026
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -2004,6 +1994,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -2056,8 +2048,6 @@ Sat
 12
 Choose a Time
 Tuesday, November 10, 2026
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -2388,6 +2378,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -2440,8 +2432,6 @@ Sat
 12
 Choose a Time
 Tuesday, November 10, 2026
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -2780,6 +2770,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -2832,8 +2824,6 @@ Sat
 12
 Choose a Time
 Tuesday, November 10, 2026
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -3157,6 +3147,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -3209,8 +3201,6 @@ Sat
 12
 Choose a Time
 Tuesday, November 10, 2026
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -3533,6 +3523,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -3585,8 +3577,6 @@ Sat
 12
 Choose a Time
 Tuesday, November 10, 2026
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -3901,6 +3891,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -3953,8 +3945,6 @@ Sat
 12
 Choose a Time
 Tuesday, November 10, 2026
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -4270,6 +4260,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -4322,8 +4314,6 @@ Sat
 12
 Choose a Time
 Tuesday, November 10, 2026
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm
@@ -4639,6 +4629,8 @@ Mon
 7
 Tue
 8
+Wed
+9
 November
 Sun
 Mon
@@ -4691,8 +4683,6 @@ Sat
 12
 Choose a Time
 Tuesday, November 10, 2026
-1:30 pm
-2:00 pm
 2:30 pm
 3:00 pm
 3:30 pm

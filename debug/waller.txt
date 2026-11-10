@@ -109,19 +109,6 @@ $1,755
 Now
 Calculate my costs
 
-Unit 2211
-
-1
-
-13 mo
-
-$1,980
-
-$1,775
-
-December 23rd, 2026
-Calculate my costs
-
 Unit 1311
 
 1
@@ -212,7 +199,7 @@ $1,890
 
 December 7th, 2026
 Calculate my costs
-Show 12 available
+Show 11 available
 
 T-05
 
@@ -299,19 +286,6 @@ $1,975
 January 5th, 2027
 Calculate my costs
 
-Unit 1209
-
-1
-
-13 mo
-
-$2,185
-
-$1,980
-
-December 24th, 2026
-Calculate my costs
-
 Unit 2409
 
 1
@@ -337,7 +311,6 @@ $2,125
 
 Now
 Calculate my costs
-Show 4 available
 
 T-10
 
@@ -490,6 +463,19 @@ $2,260
 Now
 Calculate my costs
 
+Unit 2403
+
+1
+
+13 mo
+
+$2,555
+
+$2,350
+
+December 7th, 2026
+Calculate my costs
+
 Unit 3003
 
 1
@@ -502,6 +488,7 @@ $2,410
 
 Now
 Calculate my costs
+Show 4 available
 
 T-07
 
@@ -525,19 +512,6 @@ Total
 Base Rent
 
 Available
-
-Unit 1007
-
-1
-
-13 mo
-
-$2,605
-
-$2,400
-
-December 4th, 2026
-Calculate my costs
 
 Unit 707
 
@@ -577,7 +551,6 @@ $2,550
 
 November 25th, 2026
 Calculate my costs
-Show 4 available
 
 T-12
 
@@ -977,19 +950,6 @@ $3,425
 Now
 Calculate my costs
 
-Unit 2715
-
-1
-
-13 mo
-
-$3,785
-
-$3,580
-
-November 12th, 2026
-Calculate my costs
-
 T-02
 
 2 bed
@@ -1270,6 +1230,7 @@ Contact leasing office
 Office hours
 Today
 10:00am - 6:00pm
+Visit property website
 
 Costs and pricing
 
@@ -1384,7 +1345,6 @@ Contact us
 Please use the form below to get in touch with us. Provide as much detail as possible about what you're looking for, and one of our experienced agents will contact you shortly to discuss your needs. We’re here to assist you every step of the way!
 
 (512) 254-0291
-Visit property website
 First name
 Last name
 Phone Number

@@ -367,28 +367,6 @@ Square footage & measurements are approximate, and floor plan details may vary.
 
 Virtual Tours
 
-A4B
-
-0 AVAILABLE UNITS
-
-Bed
-
-1
-
-Bath
-
-1
-
-SQFT
-
-831
-
-Contact Office
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
 A4CD
 
 Den/Office
@@ -406,6 +384,28 @@ Bath
 SQFT
 
 890
+
+Contact Office
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
+A4B
+
+0 AVAILABLE UNITS
+
+Bed
+
+1
+
+Bath
+
+1
+
+SQFT
+
+831
 
 Contact Office
 
@@ -489,9 +489,41 @@ Now
 
 Total Monthly Price Starting at
 
-$2,565.50/mo.
+$2,544.50/mo.
 
-(Base Rent $2,563)
+(Base Rent $2,542)
+
+Get Pricing
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
+C4B
+
+1 AVAILABLE UNIT
+
+Bed
+
+2
+
+Bath
+
+2
+
+SQFT
+
+1079
+
+Available
+
+1/15/2027
+
+Total Monthly Price Starting at
+
+$2,771.50/mo.
+
+(Base Rent $2,769)
 
 Get Pricing
 
@@ -521,9 +553,9 @@ Available
 
 Total Monthly Price Starting at
 
-$3,541.50/mo.
+$3,554.50/mo.
 
-(Base Rent $3,539)
+(Base Rent $3,552)
 
 Get Pricing
 
@@ -596,28 +628,6 @@ Bath
 SQFT
 
 1437
-
-Contact Office
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
-C4B
-
-0 AVAILABLE UNITS
-
-Bed
-
-2
-
-Bath
-
-2
-
-SQFT
-
-1079
 
 Contact Office
 
@@ -772,7 +782,7 @@ Accessibility
 Website Terms & Conditions
 Leasing Promotion Terms & Conditions
 Privacy Policy
-Cookie Settings
+Do Not Sell or Share My Personal Information
 
 AMLI’s Upfront Standard
 

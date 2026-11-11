@@ -128,6 +128,40 @@ Square footage & measurements are approximate, and floor plan details may vary.
 
 Virtual Tours
 
+Pecos
+
+1 AVAILABLE UNIT
+
+Bed
+
+1
+
+Bath
+
+1
+
+SQFT
+
+835
+
+901
+
+Available
+
+1/5/2027
+
+Total Monthly Price Starting at
+
+$2,914.50/mo.
+
+(Base Rent $2,912)
+
+Get Pricing
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
 White River
 
 4 AVAILABLE UNITS
@@ -155,6 +189,40 @@ Total Monthly Price Starting at
 $2,979.50/mo.
 
 (Base Rent $2,977)
+
+Get Pricing
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
+Colorado
+
+1 AVAILABLE UNIT
+
+Bed
+
+1
+
+Bath
+
+1
+
+SQFT
+
+967
+
+1005
+
+Available
+
+Now
+
+Total Monthly Price Starting at
+
+$3,275.50/mo.
+
+(Base Rent $3,273)
 
 Get Pricing
 
@@ -211,30 +279,6 @@ SQFT
 691
 
 705
-
-Contact Office
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
-Pecos
-
-0 AVAILABLE UNITS
-
-Bed
-
-1
-
-Bath
-
-1
-
-SQFT
-
-835
-
-901
 
 Contact Office
 
@@ -301,30 +345,6 @@ Bath
 SQFT
 
 991
-
-Contact Office
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
-Colorado
-
-0 AVAILABLE UNITS
-
-Bed
-
-1
-
-Bath
-
-1
-
-SQFT
-
-967
-
-1005
 
 Contact Office
 
@@ -485,7 +505,7 @@ Accessibility
 Website Terms & Conditions
 Leasing Promotion Terms & Conditions
 Privacy Policy
-Do Not Sell or Share My Personal Information
+Cookie Settings
 
 AMLI’s Upfront Standard
 

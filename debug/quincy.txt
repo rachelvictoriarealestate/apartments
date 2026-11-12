@@ -1,9 +1,11 @@
 === LIST https://quincyatx.com/floorplans/
 Your Privacy Choices
 
-We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use. To learn more about our privacy practices review our Privacy Policy.
+We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners. By using our website, you acknowledge and agree to our Terms of Use. To learn more about our privacy practices review our Privacy Policy. Please review your choices.
 
-I understand
+Accept All
+Customize Settings
+Reject All
 Press Alt+1 for screen-reader mode, Alt+0 to cancel
 Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
 Skip to main content
@@ -133,8 +135,8 @@ Studio
 
 Floor Plan layout: S1
 
-$1,670 /mo*
-16 months$1,507 Base Rent
+$1,761 /mo*
+16 months$1,598 Base Rent
 
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 
@@ -206,7 +208,7 @@ Lease Violation Fee
 Non-Sufficient Funds Fee	$30.00	Per Occurrence	Situational
 Transfer Fee 
 	$500.00 - $2,000.00	Per Occurrence	Situational
-Date of Issuance: 11/10/2026
+Date of Issuance: 11/11/2026
 Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
  Download PDF
 The Quincy
@@ -284,9 +286,9 @@ Studio
 1 bath
 382 sq. ft.
 Only 1 left!
-$1,670 /mo*
+$1,761 /mo*
 16 months
-$1,507 Base Rent
+$1,598 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -394,9 +396,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 12
 382 sq. ft.
-$1,670 /mo*
+$1,761 /mo*
 16 months
-$1,507 Base Rent
+$1,598 Base Rent
 Available Nov 26
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -483,6 +485,10 @@ Wed
 9
 Thu
 10
+Fri
+11
+Sat
+12
 November
 Sun
 Mon
@@ -535,9 +541,6 @@ Sat
 12
 Choose a Time
 Sunday, November 15, 2026
-2:00 pm
-2:30 pm
-3:00 pm
 3:30 pm
 Next
 Select Your Tour
@@ -844,6 +847,10 @@ Wed
 9
 Thu
 10
+Fri
+11
+Sat
+12
 November
 Sun
 Mon
@@ -896,9 +903,6 @@ Sat
 12
 Choose a Time
 Sunday, November 15, 2026
-2:00 pm
-2:30 pm
-3:00 pm
 3:30 pm
 Next
 Select Your Tour
@@ -1006,9 +1010,9 @@ Studio
 1 bath
 519 sq. ft.
 Only 3 left!
-$2,094 - $2,600 /mo*
+$2,185 - $2,693 /mo*
 16 months
-$1,931 - $2,437 Base Rent
+$2,022 - $2,530 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -1116,25 +1120,25 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 30
 519 sq. ft.
-$2,600 /mo*
+$2,693 /mo*
 16 months
-$2,437 Base Rent
+$2,530 Base Rent
 Available Nov 14
 #2503
 Building 1
 Floor 25
 519 sq. ft.
-$2,094 /mo*
+$2,185 /mo*
 16 months
-$1,931 Base Rent
+$2,022 Base Rent
 Available Dec 24
 #2603
 Building 1
 Floor 26
 519 sq. ft.
-$2,150 /mo*
+$2,242 /mo*
 15 months
-$1,987 Base Rent
+$2,079 Base Rent
 Available Jan 21
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1221,6 +1225,10 @@ Wed
 9
 Thu
 10
+Fri
+11
+Sat
+12
 November
 Sun
 Mon
@@ -1273,9 +1281,6 @@ Sat
 12
 Choose a Time
 Sunday, November 15, 2026
-2:00 pm
-2:30 pm
-3:00 pm
 3:30 pm
 Next
 Select Your Tour
@@ -1383,9 +1388,9 @@ Studio
 1 bath
 551 sq. ft.
 Only 2 left!
-$1,980 - $2,009 /mo*
+$2,072 - $2,100 /mo*
 16 months
-$1,817 - $1,846 Base Rent
+$1,909 - $1,937 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -1494,17 +1499,17 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 26
 551 sq. ft.
-$2,009 /mo*
+$2,100 /mo*
 16 months
-$1,846 Base Rent
+$1,937 Base Rent
 Available Dec 31
 #2509
 Building 1
 Floor 25
 551 sq. ft.
-$1,980 /mo*
+$2,072 /mo*
 16 months
-$1,817 Base Rent
+$1,909 Base Rent
 Available Jan 03
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1591,6 +1596,10 @@ Wed
 9
 Thu
 10
+Fri
+11
+Sat
+12
 November
 Sun
 Mon
@@ -1643,9 +1652,6 @@ Sat
 12
 Choose a Time
 Sunday, November 15, 2026
-2:00 pm
-2:30 pm
-3:00 pm
 3:30 pm
 Next
 Select Your Tour
@@ -1960,6 +1966,10 @@ Wed
 9
 Thu
 10
+Fri
+11
+Sat
+12
 November
 Sun
 Mon
@@ -2012,9 +2022,6 @@ Sat
 12
 Choose a Time
 Sunday, November 15, 2026
-2:00 pm
-2:30 pm
-3:00 pm
 3:30 pm
 Next
 Select Your Tour
@@ -2337,6 +2344,10 @@ Wed
 9
 Thu
 10
+Fri
+11
+Sat
+12
 November
 Sun
 Mon
@@ -2389,9 +2400,6 @@ Sat
 12
 Choose a Time
 Sunday, November 15, 2026
-2:00 pm
-2:30 pm
-3:00 pm
 3:30 pm
 Next
 Select Your Tour
@@ -2722,6 +2730,10 @@ Wed
 9
 Thu
 10
+Fri
+11
+Sat
+12
 November
 Sun
 Mon
@@ -2774,9 +2786,6 @@ Sat
 12
 Choose a Time
 Sunday, November 15, 2026
-2:00 pm
-2:30 pm
-3:00 pm
 3:30 pm
 Next
 Select Your Tour
@@ -3092,6 +3101,10 @@ Wed
 9
 Thu
 10
+Fri
+11
+Sat
+12
 November
 Sun
 Mon
@@ -3144,9 +3157,6 @@ Sat
 12
 Choose a Time
 Sunday, November 15, 2026
-2:00 pm
-2:30 pm
-3:00 pm
 3:30 pm
 Next
 Select Your Tour
@@ -3461,6 +3471,10 @@ Wed
 9
 Thu
 10
+Fri
+11
+Sat
+12
 November
 Sun
 Mon
@@ -3513,9 +3527,6 @@ Sat
 12
 Choose a Time
 Sunday, November 15, 2026
-2:00 pm
-2:30 pm
-3:00 pm
 3:30 pm
 Next
 Select Your Tour
@@ -3822,6 +3833,10 @@ Wed
 9
 Thu
 10
+Fri
+11
+Sat
+12
 November
 Sun
 Mon
@@ -3874,9 +3889,6 @@ Sat
 12
 Choose a Time
 Sunday, November 15, 2026
-2:00 pm
-2:30 pm
-3:00 pm
 3:30 pm
 Next
 Select Your Tour
@@ -4184,6 +4196,10 @@ Wed
 9
 Thu
 10
+Fri
+11
+Sat
+12
 November
 Sun
 Mon
@@ -4236,9 +4252,6 @@ Sat
 12
 Choose a Time
 Sunday, November 15, 2026
-2:00 pm
-2:30 pm
-3:00 pm
 3:30 pm
 Next
 Select Your Tour
@@ -4546,6 +4559,10 @@ Wed
 9
 Thu
 10
+Fri
+11
+Sat
+12
 November
 Sun
 Mon
@@ -4598,9 +4615,6 @@ Sat
 12
 Choose a Time
 Sunday, November 15, 2026
-2:00 pm
-2:30 pm
-3:00 pm
 3:30 pm
 Next
 Select Your Tour

@@ -112,7 +112,7 @@ Floor
 2 avail
 Floor
 26
-4 avail
+3 avail
 Floor
 27
 3 avail
@@ -133,7 +133,7 @@ Floor
 1 avail
 Floor
 33
-2 avail
+1 avail
 Floor
 34
 1 avail
@@ -289,7 +289,7 @@ Utility - Vacant Cost Recovery
 	Usage-Based (Utilities)	Per Occurrence	Per Occurrence	Situational
 Utility - Vacant Processing Fee 
 	$50.00	Per Occurrence	Per Occurrence	Situational
-Date of Issuance: 11/11/2026
+Date of Issuance: 11/12/2026
 All fees paid to property unless indicated by ⮂ symbol. Unless a fee is explicitly identified as refundable, all fees are non-refundable. Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
 Price varies based on floor plan type/size. ↩
 Price varies based on floor plan type/size ^Fee does not apply to affordable units. ↩
@@ -525,8 +525,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -585,6 +583,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -636,10 +636,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -887,9 +885,9 @@ Available Now
 #3105
 Floor 31
 701 sq. ft.
-$3,827.52 - $3,952.52 /mo*
+$3,815.52 - $3,940.52 /mo*
 15 months
-$3,570 Base Rent
+$3,558 Base Rent
 Available Now
 #3803
 Floor 38
@@ -953,8 +951,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -1013,6 +1009,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -1064,10 +1062,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -1347,8 +1343,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -1407,6 +1401,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -1458,10 +1454,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -1783,8 +1777,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -1843,6 +1835,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -1894,10 +1888,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -2198,8 +2190,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -2258,6 +2248,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -2309,10 +2301,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -2607,8 +2597,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -2667,6 +2655,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -2718,10 +2708,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -2973,13 +2961,6 @@ $4,588.52 - $4,713.52 /mo*
 15 months
 $4,331 Base Rent
 Available Now
-#2614
-Floor 26
-892 sq. ft.
-$4,138.52 - $4,263.52 /mo*
-15 months
-$3,881 Base Rent
-Available Now
 #3714
 Floor 37
 892 sq. ft.
@@ -3035,8 +3016,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -3095,6 +3074,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -3146,10 +3127,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -3287,9 +3266,9 @@ A7
 1 bath
 882 sq. ft.
 Only 2 left!
-$3,847.52 - $4,273.52 /mo*
-18 months
-$3,590 - $3,891 Base Rent
+$3,808.52 - $4,273.52 /mo*
+14 months
+$3,551 - $3,891 Base Rent
 2D
 3D
 Virtual Tour
@@ -3392,9 +3371,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 #1704
 Floor 17
 882 sq. ft.
-$3,847.52 - $3,972.52 /mo*
-18 months
-$3,590 Base Rent
+$3,808.52 - $3,933.52 /mo*
+14 months
+$3,551 Base Rent
 Available Dec 13
 #3304
 Floor 33
@@ -3437,8 +3416,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -3497,6 +3474,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -3548,10 +3527,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -3859,8 +3836,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -3919,6 +3894,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -3970,10 +3947,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -4297,8 +4272,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -4357,6 +4330,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -4408,10 +4383,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -4705,8 +4678,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -4765,6 +4736,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -4816,10 +4789,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -5064,13 +5035,6 @@ $5,102.52 - $5,227.52 /mo*
 15 months
 $4,845 Base Rent
 Available Now
-#3308
-Floor 33
-1049 sq. ft.
-$5,502.52 - $5,627.52 /mo*
-15 months
-$5,245 Base Rent
-Available Now
 #3508
 Floor 35
 1049 sq. ft.
@@ -5147,8 +5111,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -5207,6 +5169,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -5258,10 +5222,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -5548,8 +5510,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -5608,6 +5568,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -5659,10 +5621,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -5962,8 +5922,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -6022,6 +5980,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -6073,10 +6033,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -6356,8 +6314,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -6416,6 +6372,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -6467,10 +6425,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -6729,7 +6685,7 @@ Floor 39
 $9,595.52 - $9,720.52 /mo*
 15 months
 $9,338 Base Rent
-Available Nov 12
+Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
 Write your
@@ -6764,8 +6720,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -6824,6 +6778,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -6875,10 +6831,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -7171,7 +7125,7 @@ Floor 36
 $8,861.52 - $8,986.52 /mo*
 15 months
 $8,604 Base Rent
-Available Nov 12
+Available Now
 #2915
 Floor 29
 1724 sq. ft.
@@ -7220,8 +7174,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -7280,6 +7232,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -7331,10 +7285,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -7615,8 +7567,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -7675,6 +7625,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -7726,10 +7678,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -8010,8 +7960,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -8070,6 +8018,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -8121,10 +8071,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -8412,8 +8360,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -8472,6 +8418,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -8523,10 +8471,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -8807,8 +8753,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -8867,6 +8811,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -8918,10 +8864,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back
@@ -9212,8 +9156,6 @@ Guided Tours
 Austin, TX 78701
 Select a Date
 November 2026
-Thu
-12
 Fri
 13
 Sat
@@ -9272,6 +9214,8 @@ Thu
 10
 Fri
 11
+Sat
+12
 November
 Sun
 Mon
@@ -9323,10 +9267,8 @@ Sat
 11
 12
 Choose a Time
-Thursday, November 12, 2026
-11:30 am
-1:00 pm
-2:30 pm
+Friday, November 13, 2026
+12:00 pm
 Next
 Select Your Tour
 Back

@@ -299,19 +299,6 @@ $2,100
 Now
 Calculate my costs
 
-Unit 2509
-
-1
-
-13 mo
-
-$2,330
-
-$2,125
-
-Now
-Calculate my costs
-
 T-10
 
 1 bed
@@ -447,7 +434,7 @@ $2,460
 
 $2,255
 
-Now
+November 14th, 2026
 Calculate my costs
 
 Unit 1503
@@ -811,9 +798,9 @@ T-01
 910 sq. ft.
 
 Total from
-$3,490
+$3,430
 
-Base rent from $3,285
+Base rent from $3,225
 
 Unit | Building
 
@@ -824,6 +811,19 @@ Total
 Base Rent
 
 Available
+
+Unit 701A
+
+1
+
+13 mo
+
+$3,430
+
+$3,225
+
+Now
+Calculate my costs
 
 Unit 1601
 
@@ -926,42 +926,6 @@ $3,435
 Now
 Calculate my costs
 Show 5 available
-
-T-15
-
-2 bed
-·
-2 bath
-·
-1146 sq. ft.
-
-Total from
-$3,630
-
-Base rent from $3,425
-
-Unit | Building
-
-Lease
-
-Total
-
-Base Rent
-
-Available
-
-Unit 715
-
-1
-
-13 mo
-
-$3,630
-
-$3,425
-
-Now
-Calculate my costs
 
 T-02
 
@@ -1243,6 +1207,7 @@ Contact leasing office
 Office hours
 Today
 10:00am - 6:00pm
+Visit property website
 
 Costs and pricing
 
@@ -1357,7 +1322,6 @@ Contact us
 Please use the form below to get in touch with us. Provide as much detail as possible about what you're looking for, and one of our experienced agents will contact you shortly to discuss your needs. We’re here to assist you every step of the way!
 
 (512) 254-0291
-Visit property website
 First name
 Last name
 Phone Number

@@ -29,7 +29,7 @@ AMLI On 2ND Apartments
 
 AMLI on 2ND
 
-(224)
+(223)
 
 421 W. 3rd St.
 Austin, TX 78701
@@ -216,7 +216,7 @@ Virtual Tours
 
 Nelson
 
-1 AVAILABLE UNIT
+2 AVAILABLE UNITS
 
 Bed
 
@@ -236,9 +236,9 @@ Available
 
 Total Monthly Price Starting at
 
-$4,594.49/mo.
+$4,294.49/mo.
 
-(Base Rent $4,532)
+(Base Rent $4,232)
 
 Get Pricing
 

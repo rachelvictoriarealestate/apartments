@@ -1,10 +1,5 @@
 === LIST https://liveatbowie.com/floorplans/
 Skip to main content
-New Leasing Specials!
-
-1-month free on 1 and 2 BRs with 12-15-month lease terms, 10-weeks free on 3BRs with 12-15-month terms.
-
-*Restrictions Apply. Contact Us for More Details.
 Home
 Amenities
 Floorplans
@@ -93,7 +88,7 @@ Floor
 2 avail
 Floor
 29
-0 avail
+1 avail
 Floor
 30
 2 avail
@@ -442,7 +437,7 @@ Check Availability
 Floor 23
 1121 sq. ft.
 Starting at $3,779
-Available Nov 13
+Available Now
 View on Map
 Lease Now
 #2414
@@ -799,7 +794,7 @@ Check Availability
 #1311
 534 sq. ft.
 Starting at $2,070
-Available Nov 13
+Available Now
 Lease Now
 #2210
 Floor 22
@@ -854,7 +849,7 @@ Lease Now
 #2111
 Floor 21
 534 sq. ft.
-Starting at $2,408
+Starting at $2,206
 Available Dec 19
 View on Map
 Lease Now
@@ -994,14 +989,14 @@ B1
 2 bed
 2 bath
 1092 sq. ft.
-Starting at $3,613
+Starting at $3,562
 Virtual Tour
 Book a Tour
 Check Availability
 #3506
 1092 sq. ft.
 Starting at $3,899
-Available Nov 13
+Available Now
 Lease Now
 #2708
 Floor 27
@@ -1027,7 +1022,7 @@ Lease Now
 #1709
 Floor 17
 1092 sq. ft.
-Starting at $3,810
+Starting at $3,562
 Available Dec 19
 View on Map
 Lease Now
@@ -1447,7 +1442,7 @@ Check Availability
 Floor 15
 1148 sq. ft.
 Starting at $3,944
-Available Nov 13
+Available Now
 View on Map
 Lease Now
 #1203
@@ -1528,7 +1523,7 @@ Check Availability
 Floor 19
 842 sq. ft.
 Starting at $2,996
-Available Nov 13
+Available Now
 View on Map
 Lease Now
 #1208
@@ -1650,7 +1645,7 @@ Lease Now
 #2911
 Floor 29
 837 sq. ft.
-Starting at $3,229
+Starting at $2,996
 Available Dec 19
 View on Map
 Lease Now

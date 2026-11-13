@@ -286,19 +286,6 @@ $1,975
 January 5th, 2027
 Calculate my costs
 
-Unit 2409
-
-1
-
-13 mo
-
-$2,305
-
-$2,100
-
-Now
-Calculate my costs
-
 T-10
 
 1 bed
@@ -526,6 +513,19 @@ $2,400
 January 15th, 2027
 Calculate my costs
 
+Unit 807
+
+1
+
+13 mo
+
+$2,605
+
+$2,400
+
+Now
+Calculate my costs
+
 Unit 2507
 
 1
@@ -538,6 +538,7 @@ $2,550
 
 November 25th, 2026
 Calculate my costs
+Show 4 available
 
 T-12
 
@@ -651,6 +652,19 @@ $2,425
 January 20th, 2027
 Calculate my costs
 
+Unit 1806
+
+1
+
+13 mo
+
+$2,695
+
+$2,490
+
+December 28th, 2026
+Calculate my costs
+
 Unit 2006
 
 1
@@ -676,6 +690,7 @@ $2,575
 
 January 2nd, 2027
 Calculate my costs
+Show 4 available
 
 T-13
 
@@ -1314,8 +1329,10 @@ Price varies based on rent amount.
 16
 Price varies based on rent amount.
 17
-Price varies based on event type.
+Utility apportionment is submetered water/gas/electric.
 18
+Price varies based on event type.
+19
 Price varies based on device type.
 Contact us
 

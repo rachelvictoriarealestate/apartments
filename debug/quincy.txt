@@ -135,8 +135,8 @@ Studio
 
 Floor Plan layout: S1
 
-$1,761 /mo*
-16 months$1,598 Base Rent
+$1,858 /mo*
+16 months$1,695 Base Rent
 
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 
@@ -208,7 +208,7 @@ Lease Violation Fee
 Non-Sufficient Funds Fee	$30.00	Per Occurrence	Situational
 Transfer Fee 
 	$500.00 - $2,000.00	Per Occurrence	Situational
-Date of Issuance: 11/11/2026
+Date of Issuance: 11/12/2026
 Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
  Download PDF
 The Quincy
@@ -286,9 +286,9 @@ Studio
 1 bath
 382 sq. ft.
 Only 1 left!
-$1,761 /mo*
+$1,858 /mo*
 16 months
-$1,598 Base Rent
+$1,695 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -396,9 +396,9 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 12
 382 sq. ft.
-$1,761 /mo*
+$1,858 /mo*
 16 months
-$1,598 Base Rent
+$1,695 Base Rent
 Available Nov 26
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -489,6 +489,8 @@ Fri
 11
 Sat
 12
+Sun
+13
 November
 Sun
 Mon
@@ -851,6 +853,8 @@ Fri
 11
 Sat
 12
+Sun
+13
 November
 Sun
 Mon
@@ -1010,9 +1014,9 @@ Studio
 1 bath
 519 sq. ft.
 Only 3 left!
-$2,185 - $2,693 /mo*
+$2,281 - $2,791 /mo*
 16 months
-$2,022 - $2,530 Base Rent
+$2,118 - $2,628 Base Rent
 PDF
 Schedule a Tour
 Check Availability
@@ -1120,25 +1124,25 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 30
 519 sq. ft.
-$2,693 /mo*
+$2,791 /mo*
 16 months
-$2,530 Base Rent
+$2,628 Base Rent
 Available Nov 14
 #2503
 Building 1
 Floor 25
 519 sq. ft.
-$2,185 /mo*
+$2,281 /mo*
 16 months
-$2,022 Base Rent
+$2,118 Base Rent
 Available Dec 24
 #2603
 Building 1
 Floor 26
 519 sq. ft.
-$2,242 /mo*
+$2,339 /mo*
 15 months
-$2,079 Base Rent
+$2,176 Base Rent
 Available Jan 21
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1229,6 +1233,8 @@ Fri
 11
 Sat
 12
+Sun
+13
 November
 Sun
 Mon
@@ -1388,9 +1394,9 @@ Studio
 1 bath
 551 sq. ft.
 Only 2 left!
-$2,072 - $2,100 /mo*
+$2,169 - $2,196 /mo*
 16 months
-$1,909 - $1,937 Base Rent
+$2,006 - $2,033 Base Rent
 Virtual Tour
 PDF
 Schedule a Tour
@@ -1499,17 +1505,17 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Building 1
 Floor 26
 551 sq. ft.
-$2,100 /mo*
+$2,196 /mo*
 16 months
-$1,937 Base Rent
+$2,033 Base Rent
 Available Dec 31
 #2509
 Building 1
 Floor 25
 551 sq. ft.
-$2,072 /mo*
+$2,169 /mo*
 16 months
-$1,909 Base Rent
+$2,006 Base Rent
 Available Jan 03
 *Your TOTAL MONTHLY PRICE reflects our commitment to clarity and includes BASE RENT plus all MANDATORY MONTHLY FEES AND CHARGES. It does not include variable or usage-based fees, optional services, situational fees, or charges required at or before move-in or at move-out. These variable fees—such as utilities or third-party services—may change based on provider rates, resident usage, or other external factors. Base rent is informed by the local market. Security deposit amounts (if required) may be adjusted based on screening results. Residents are responsible for damages beyond ordinary wear and tear and may be required to maintain renters insurance or obtain a liability waiver, if offered. As part of our commitment to transparency, all required local tenant-rights disclosures will be provided during the application process. Our team is available to walk you through any details.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every home. Prices and availability are updated regularly. Contact a representative for details.
@@ -1600,6 +1606,8 @@ Fri
 11
 Sat
 12
+Sun
+13
 November
 Sun
 Mon
@@ -1872,7 +1880,7 @@ Floor 15
 $3,296 /mo*
 16 months
 $3,133 Base Rent
-Available Nov 13
+Available Now
 #1718
 Building 1
 Floor 17
@@ -1970,6 +1978,8 @@ Fri
 11
 Sat
 12
+Sun
+13
 November
 Sun
 Mon
@@ -2348,6 +2358,8 @@ Fri
 11
 Sat
 12
+Sun
+13
 November
 Sun
 Mon
@@ -2734,6 +2746,8 @@ Fri
 11
 Sat
 12
+Sun
+13
 November
 Sun
 Mon
@@ -3105,6 +3119,8 @@ Fri
 11
 Sat
 12
+Sun
+13
 November
 Sun
 Mon
@@ -3475,6 +3491,8 @@ Fri
 11
 Sat
 12
+Sun
+13
 November
 Sun
 Mon
@@ -3837,6 +3855,8 @@ Fri
 11
 Sat
 12
+Sun
+13
 November
 Sun
 Mon
@@ -4200,6 +4220,8 @@ Fri
 11
 Sat
 12
+Sun
+13
 November
 Sun
 Mon
@@ -4563,6 +4585,8 @@ Fri
 11
 Sat
 12
+Sun
+13
 November
 Sun
 Mon

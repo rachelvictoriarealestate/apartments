@@ -204,7 +204,43 @@ async function readGreystar(page, c, log) {
   const text = await pageText(page);
   log.push("=== LIST " + c.url + "\n" + text);
   const special = P.findSpecial(text);
+  // Greystar changed its layout in late Oct 2026 (unit rows under each plan); try that first.
+  const units = P.greystarUnits(text, today);
+  if (units.length) return units.map((p) => ({ plan: p.name, beds: p.beds, baths: p.baths, sqft: p.sqft, unit: p.unit, price: p.price, base: p.base, lease: p.lease, available: p.available, url: c.url, image: null, special }));
   return P.greystarPlans(text, today).map((p) => ({ plan: p.name, beds: p.beds, baths: p.baths, sqft: p.sqft, unit: p.unit, units: p.units, price: p.price, base: p.base, lease: p.lease, available: p.available, url: c.url, image: null, special }));
+}
+
+// MAA (maac.com): one page lists every available unit with total monthly price including fees.
+async function readMaa(page, c, log) {
+  await open(page, c.url);
+  for (let i = 0; i < 8; i++) {
+    const more = page.getByRole("button", { name: /load more|view more units|show more units/i }).first();
+    if (!(await more.isVisible().catch(() => false))) break;
+    await more.click().catch(() => {});
+    await sleep(1500);
+  }
+  const text = await pageText(page);
+  log.push("=== LIST " + c.url + "\n" + text);
+  const special = P.findSpecial(text);
+  return P.maaUnits(text, today).map((x) => ({ plan: x.plan, beds: x.beds, baths: x.baths, sqft: x.sqft, unit: x.unit, price: x.price, base: x.base, lease: 12, available: x.available, url: c.url, image: null, special }));
+}
+
+// UDR (udr.com): floorplan-level "Rent starting at" (base rent; fees not included).
+async function readUdr(page, c, log) {
+  await open(page, c.url);
+  const text = await pageText(page);
+  log.push("=== LIST " + c.url + "\n" + text);
+  const special = P.findSpecial(text);
+  return P.udrPlans(text, today).map((p) => ({ plan: p.name, beds: p.beds, baths: p.baths, sqft: p.sqft, unit: null, units: p.units, price: p.price, base: p.price, lease: 12, available: p.available, url: c.url, image: null, special }));
+}
+
+// Camden (camdenliving.com): floorplan-level "Starting Price".
+async function readCamden(page, c, log) {
+  await open(page, c.url);
+  const text = await pageText(page);
+  log.push("=== LIST " + c.url + "\n" + text);
+  const special = P.findSpecial(text);
+  return P.camdenPlans(text, today).map((p) => ({ plan: p.name, beds: p.beds, baths: p.baths, sqft: p.sqft, unit: null, units: p.units, price: p.price, base: p.price, lease: 12, available: p.available, url: c.url, image: null, special }));
 }
 
 async function readG5(page, c, log) {
@@ -226,7 +262,7 @@ async function readGeneric(page, c, log) {
   return [];
 }
 
-const READERS = { jonah: readJonah, rentcafe: readRentCafe, leaseleads: readLeaseLeads, amli: readAmli, repli360: readRepli, gables: readGables, windsor: readWindsor, greystar: readGreystar, g5: readG5, generic: readGeneric };
+const READERS = { jonah: readJonah, rentcafe: readRentCafe, leaseleads: readLeaseLeads, amli: readAmli, repli360: readRepli, gables: readGables, windsor: readWindsor, greystar: readGreystar, g5: readG5, maa: readMaa, udr: readUdr, camden: readCamden, generic: readGeneric };
 
 // ---------------- main ----------------
 

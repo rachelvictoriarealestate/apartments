@@ -195,10 +195,11 @@ export function gablesBeds(text) {
 }
 
 // ---------- Windsor Communities (Monarch, Windsor on the Lake) ----------
+// "Unit 911 B2F ..." (older) or "911 B2F ..." (since late Oct 2026):
 // "Unit 911 B2F 2 Bed 2 Bath 1,400 ft2 Avail. Now $3,984.14 /mo $3,646 Base Rent 14 Mo."
 export function windsorUnits(text, today) {
   const t = flat(text);
-  const re = /Unit\s+([\w-]{1,8})\s+([A-Z0-9][\w-]{0,8})\s+(Studio|\d)\s*(?:Bed)?s?\s+([\d.]+)\s*Baths?\s+([\d,]{3,6})\s*ft2\s+Avail\.?\s+(Now|[A-Z][a-z]{2}\.?\s+\d{1,2}(?:,?\s*\d{4})?)\s+\$([\d,]+(?:\.\d+)?)\s*\/\s*mo\s+\$([\d,]+(?:\.\d+)?)\s*Base\s+Rent\s+(\d{1,2})\s*Mo/gi;
+  const re = /(?:Unit\s+)?([\w-]{1,8})\s+([A-Z0-9][\w-]{0,8})\s+(Studio|\d)\s*(?:Bed)?s?\s+([\d.]+)\s*Baths?\s+([\d,]{3,6})\s*ft2\s+Avail\.?\s+(Now|[A-Z][a-z]{2}\.?\s+\d{1,2}(?:,?\s*\d{4})?)\s+\$([\d,]+(?:\.\d+)?)\s*\/\s*mo\s+\$([\d,]+(?:\.\d+)?)\s*Base\s+Rent\s+(\d{1,2})\s*Mo/gi;
   const out = [];
   const seen = new Set();
   for (const m of t.matchAll(re)) {
@@ -236,6 +237,72 @@ export function g5Plans(text) {
     if (seen.has(m[1])) continue;
     seen.add(m[1]);
     out.push({ name: m[1], beds: /studio/i.test(m[2]) ? 0 : +m[2].match(/\d/)[0], baths: +m[3], sqft: num(m[4]), price: num(m[5]), base: num(m[6]), units: +m[7] });
+  }
+  return out;
+}
+
+// ---------- Greystar, layout since late Oct 2026 (The Waller, The Preserve at Travis Creek) ----------
+// "A1 1 bed · 1 bath · 692 sq. ft. Total from $1,473 Base rent from $1,412 Unit | Building Lease Total Base Rent Available
+//  Unit 3232 32 14 mo $1,473 $1,412 Now Calculate my costs Unit 3110 ..."
+export function greystarUnits(text, today) {
+  const t = flat(text);
+  const head = /([A-Z][\w-]{0,8})\s+(Studio|\d)\s*(?:bed|beds)?\s*·\s*([\d.]+)\s*baths?\s*·\s*([\d,]{3,5})\s*sq\.?\s*ft\.?\s+Total from/gi;
+  const heads = [...t.matchAll(head)];
+  const out = [];
+  const seen = new Set();
+  heads.forEach((h, i) => {
+    const block = t.slice(h.index, i + 1 < heads.length ? heads[i + 1].index : t.length);
+    const re = /Unit\s+([\w-]{1,10})\s+\S+\s+(\d{1,2})\s*mo\s+\$([\d,]+(?:\.\d+)?)\s+\$([\d,]+(?:\.\d+)?)\s+(Now|Today|Tomorrow|[A-Z][a-z]+\.?\s+\d{1,2}(?:st|nd|rd|th)?,?\s*\d{4}|\d{1,2}\/\d{1,2}\/\d{4})/gi;
+    for (const m of block.matchAll(re)) {
+      if (seen.has(m[1])) continue;
+      seen.add(m[1]);
+      out.push({ name: h[1], beds: /studio/i.test(h[2]) ? 0 : +h[2], baths: +h[3], sqft: num(h[4]), unit: m[1], lease: +m[2], price: num(m[3]), base: num(m[4]), available: /tomorrow/i.test(m[5]) ? "now" : parseDate(m[5], today) });
+    }
+  });
+  return out;
+}
+
+// ---------- MAA (maac.com; MAA Barton Creek, South Lamar, Sunset Valley, ...) ----------
+// "Unit #II 371 Monthly price from $2,240 including fees Details Base Rent: $2,200 2 Beds 2 Baths 966 Sq. Ft. Available Nov. 14, 2026"
+// "Unit #4030 Monthly price from $1,670 including fees Details Base Rent: $1,630 Studio 1 Bath 703 Sq. Ft. Available Dec. 31, 2026"
+export function maaUnits(text, today) {
+  const t = flat(text);
+  const re = /Unit\s+#\s?([\w ]{1,10}?)\s+(?:Special Offer\s+)?Monthly price from\s+\$([\d,]+(?:\.\d+)?)\s+including fees\s+Details\s+Base Rent:\s*\$([\d,]+(?:\.\d+)?)\s+(Studio|\d)\s*(?:Beds?)?\s+([\d.]+)\s*Baths?\s+([\d,]{3,5})\s*Sq\.?\s*Ft\.?\s+(?:High-Speed WiFi\s+)?Available\s+(Now|Today|[A-Z][a-z]{2,8}\.?\s+\d{1,2},?\s*\d{4})/gi;
+  const out = [];
+  const seen = new Set();
+  for (const m of t.matchAll(re)) {
+    const unit = m[1].trim();
+    if (seen.has(unit)) continue;
+    seen.add(unit);
+    const beds = /studio/i.test(m[4]) ? 0 : +m[4];
+    const sqft = num(m[6]);
+    out.push({ unit, price: num(m[2]), base: num(m[3]), beds, baths: +m[5], sqft, plan: `${beds ? beds + " Bed" : "Studio"} ${sqft} sf`, available: parseDate(m[7], today) });
+  }
+  return out;
+}
+
+// ---------- UDR (Barton Creek Landing; floorplan level) ----------
+// "Mesquite 1 Bed | 1 Bath | 738 Sq. Ft. 39 recent views DETAILS Rent starting at: $1,572 Available Date: 11/21/2026 VIEW AVAILABLE APARTMENTS (1)"
+export function udrPlans(text, today) {
+  const t = flat(text).split(/Currently Unavailable Floor Plans/i)[0];
+  const re = /([A-Z][\w'-]{1,20})\s+(Studio|\d)\s*(?:Beds?)?\s*\|\s*([\d.]+)\s*Baths?\s*\|\s*([\d,]{3,5})\s*Sq\.?\s*Ft\.?[\s\S]{0,80}?Rent starting at:\s*\$([\d,]+)\s+Available Date:\s*(Now|\d{1,2}\/\d{1,2}\/\d{4})\s+VIEW AVAILABLE APARTMENTS\s*\((\d+)\)/gi;
+  const out = [];
+  for (const m of t.matchAll(re)) out.push({ name: m[1], beds: /studio/i.test(m[2]) ? 0 : +m[2], baths: +m[3], sqft: num(m[4]), price: num(m[5]), available: parseDate(m[6], today), units: +m[7] });
+  return out;
+}
+
+// ---------- Camden (camdenliving.com; floorplan level) ----------
+// "1A 1 Bed 1 Bath 740 SqFt Available Tomorrow Starting Price $1,519 See Inside"
+// "1B 1 Bed 1 Bath 775 SqFt Last 1 Available! 1/8/2027 Starting Price $1,639"
+export function camdenPlans(text, today) {
+  const t = flat(text);
+  const re = /\b([A-Z0-9][\w-]{0,8})\s+(Studio|\d)\s*(?:Beds?)?\s+([\d.]+)\s*Baths?\s+([\d,]{3,5})\s*SqFt\s+(?:Last\s+(\d+)\s+Available!|Available)\s+(Now|Today|Tomorrow|\d{1,2}\/\d{1,2}\/\d{4})\s+Starting Price\s+\$([\d,]+)/gi;
+  const out = [];
+  const seen = new Set();
+  for (const m of t.matchAll(re)) {
+    if (seen.has(m[1])) continue;
+    seen.add(m[1]);
+    out.push({ name: m[1], beds: /studio/i.test(m[2]) ? 0 : +m[2], baths: +m[3], sqft: num(m[4]), units: m[5] ? +m[5] : null, available: /tomorrow/i.test(m[6]) ? "now" : parseDate(m[6], today), price: num(m[7]) });
   }
   return out;
 }

@@ -1,0 +1,56 @@
+{
+  "slug": "anna-belle",
+  "name": "Anna Belle",
+  "title": "Your South Austin apartment search",
+  "intro": "Studios and 1-bedrooms in South Austin, most within about 15 minutes of your office on MoPac, within your $1,500 budget. Every community here offers in-unit washers and dryers, and prices refresh every morning from each building's own website. Save the ones you like and send them to me, and I'll confirm pricing and set up tours.",
+  "filters": {
+    "beds": [0, 1],
+    "max": 1500,
+    "movein": "2027-02-13"
+  },
+  "communities": [
+    "maaskyway",
+    "maabc",
+    "bcl",
+    "maaslamar",
+    "windsorsl",
+    "camdengr",
+    "preservetc",
+    "maasv",
+    "maawo"
+  ],
+  "manual": [
+    "skyline",
+    "retreatbc",
+    "cliffsbc"
+  ],
+  "picks": [
+    {
+      "c": "maaskyway",
+      "plan": "1 Bed 650 sf",
+      "note": "Just a few minutes from your office, in Barton Hills near the Barton Creek Greenbelt trails."
+    },
+    {
+      "c": "preservetc",
+      "plan": "A1",
+      "note": "Set on a large wooded preserve off Southwest Parkway with its own hike-and-bike trails."
+    },
+    {
+      "c": "maasv",
+      "plan": "1 Bed 650 sf",
+      "note": "Shaded by old oak trees in Sunset Valley, with easy shopping nearby and a quick drive up MoPac."
+    },
+    {
+      "c": "maawo",
+      "plan": "1 Bed 844 sf",
+      "note": "The most space for the money on this list, near the Veloway and Wildflower Center. A bit farther out, about 15–20 minutes to work."
+    }
+  ],
+  "flags": {
+    "maawo": "About 15–20 minutes' drive to MoPac & Barton Skyway.",
+    "bcl": "Advertised rent only. Required fees aren't included, so this may land over $1,500.",
+    "camdengr": "Advertised rent only. Required fees aren't included, so this may land over $1,500.",
+    "retreatbc": "Advertised rent only. Required fees aren't included; I check this one by hand.",
+    "cliffsbc": "Advertised rent only. I'll confirm the unit has a washer and dryer included."
+  }
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:39:05.934Z",
+ "updated": "2026-11-14T17:46:44.758Z",
  "communities": [
   {
    "id": "alexan",
@@ -439,8 +439,10 @@
    "area": "Barton Hills · South Lamar",
    "priceType": "from",
    "url": "https://www.retreatatbartoncreek.com/",
-   "note": "Site blocks automated visitors; studios and 1 beds seen around $1,250–$1,450 (Nov 2026)",
-   "status": "pending",
+   "note": "Studios and 1 beds seen around $1,250–$1,450 (Nov 2026)",
+   "status": "manual",
+   "checked": "2026-11-14T17:46:44.758Z",
+   "count": 0,
    "lat": 30.238456,
    "lng": -97.789728
   },
@@ -450,8 +452,10 @@
    "area": "Barton Creek · Bee Caves Rd",
    "priceType": "from",
    "url": "https://www.cliffsatbartoncreek.com/",
-   "note": "Site blocks automated visitors; 1 beds listed from about $1,330 (Nov 2026)",
-   "status": "pending",
+   "note": "1 beds seen from about $1,330 (Nov 2026)",
+   "status": "manual",
+   "checked": "2026-11-14T17:46:44.758Z",
+   "count": 0,
    "lat": 30.258501,
    "lng": -97.802065
   }

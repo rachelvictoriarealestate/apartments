@@ -118,5 +118,60 @@
   "address": "51 Rainey St, Austin, TX",
   "lat": 30.257295,
   "lng": -97.739221
+ },
+ "maabc": {
+  "address": "2001 S Mopac Expy, Austin, TX",
+  "lat": 30.258123,
+  "lng": -97.796117
+ },
+ "maaskyway": {
+  "address": "2901 Barton Skyway, Austin, TX",
+  "lat": 30.258731,
+  "lng": -97.789486
+ },
+ "maaslamar": {
+  "address": "1500 S Lamar Blvd, Austin, TX",
+  "lat": 30.252576,
+  "lng": -97.764258
+ },
+ "maasv": {
+  "address": "5800 Brodie Ln, Austin, TX",
+  "lat": 30.21626,
+  "lng": -97.828841
+ },
+ "maawo": {
+  "address": "8801 La Cresada Dr, Austin, TX",
+  "lat": 30.206123,
+  "lng": -97.864593
+ },
+ "bcl": {
+  "address": "2800 Bartons Bluff Ln, Austin, TX",
+  "lat": 30.256355,
+  "lng": -97.795923
+ },
+ "windsorsl": {
+  "address": "809 S Lamar Blvd, Austin, TX",
+  "lat": 30.256864,
+  "lng": -97.760193
+ },
+ "preservetc": {
+  "address": "5604 Southwest Pkwy, Austin, TX",
+  "lat": 30.247069,
+  "lng": -97.846258
+ },
+ "camdengr": {
+  "address": "4424 Gaines Ranch Loop, Austin, TX",
+  "lat": 30.2452,
+  "lng": -97.818716
+ },
+ "retreatbc": {
+  "address": "3816 S Lamar Blvd, Austin, TX",
+  "lat": 30.238456,
+  "lng": -97.789728
+ },
+ "cliffsbc": {
+  "address": "3050 Tamarron Blvd, Austin, TX",
+  "lat": 30.258501,
+  "lng": -97.802065
  }
 }

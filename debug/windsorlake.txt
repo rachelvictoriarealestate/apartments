@@ -64,9 +64,9 @@ A1A
 1 Bath
 667 ft2
 Avail. Now
-$2,587.14
+$2,589.14
 /mo
-$2,456 Base Rent
+$2,458 Base Rent
 9 Mo.
 Special
 2602
@@ -75,9 +75,9 @@ B5
 2 Bath
 1,588 ft2
 Avail. Now
-$4,765.14
+$4,762.14
 /mo
-$4,634 Base Rent
+$4,631 Base Rent
 9 Mo.
 Special
 2202
@@ -86,9 +86,9 @@ B5
 2 Bath
 1,588 ft2
 Avail. Now
-$4,725.14
+$4,722.14
 /mo
-$4,594 Base Rent
+$4,591 Base Rent
 9 Mo.
 Special
 2903
@@ -97,9 +97,9 @@ PH1
 2 Bath
 1,460 ft2
 Avail. Now
-$4,885.14
+$4,882.14
 /mo
-$4,754 Base Rent
+$4,751 Base Rent
 9 Mo.
 Special
 2605
@@ -108,9 +108,9 @@ B4
 2 Bath
 1,527 ft2
 Avail. Now
-$4,590.14
+$4,587.14
 /mo
-$4,459 Base Rent
+$4,456 Base Rent
 9 Mo.
 Special
 0703
@@ -119,9 +119,9 @@ A1
 1 Bath
 718 ft2
 Avail. Dec 09
-$2,527.14
+$2,533.14
 /mo
-$2,396 Base Rent
+$2,402 Base Rent
 9 Mo.
 Special
 0204
@@ -130,9 +130,9 @@ A3
 1 Bath
 767 ft2
 Avail. Dec 10
-$2,242.14
+$2,248.14
 /mo
-$2,111 Base Rent
+$2,117 Base Rent
 9 Mo.
 Special
 1109
@@ -141,9 +141,9 @@ A9
 1 Bath
 1,051 ft2
 Avail. Dec 30
-$3,155.14
+$3,162.14
 /mo
-$3,024 Base Rent
+$3,031 Base Rent
 15 Mo.
 Floor:
 2

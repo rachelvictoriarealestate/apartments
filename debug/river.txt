@@ -85,7 +85,7 @@ Floor
 3 avail
 Floor
 17
-2 avail
+1 avail
 Floor
 18
 3 avail
@@ -139,7 +139,7 @@ Floor
 1 avail
 Floor
 35
-4 avail
+5 avail
 Floor
 36
 6 avail
@@ -182,7 +182,7 @@ Available Now
 Floorplan layout: A13
 
 $4,957.52 - $5,082.52 /mo*
-15 months$4,700 Base Rent
+18 months$4,700 Base Rent
 
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 
@@ -289,7 +289,7 @@ Utility - Vacant Cost Recovery
 	Usage-Based (Utilities)	Per Occurrence	Per Occurrence	Situational
 Utility - Vacant Processing Fee 
 	$50.00	Per Occurrence	Per Occurrence	Situational
-Date of Issuance: 11/13/2026
+Date of Issuance: 11/14/2026
 All fees paid to property unless indicated by ⮂ symbol. Unless a fee is explicitly identified as refundable, all fees are non-refundable. Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
 Price varies based on floor plan type/size. ↩
 Price varies based on floor plan type/size ^Fee does not apply to affordable units. ↩
@@ -377,7 +377,7 @@ Studio
 464 sq. ft.
 Only 2 left!
 $2,773.52 - $3,053.52 /mo*
-15 months
+18 months
 $2,516 - $2,671 Base Rent
 2D
 3D
@@ -481,14 +481,14 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 19
 464 sq. ft.
 $2,928.52 - $3,053.52 /mo*
-15 months
+18 months
 $2,671 Base Rent
 Available Now
 #1613
 Floor 16
 464 sq. ft.
 $2,773.52 - $2,898.52 /mo*
-15 months
+18 months
 $2,516 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -581,6 +581,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -879,21 +881,21 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 37
 701 sq. ft.
 $4,120.52 - $4,245.52 /mo*
-15 months
+18 months
 $3,863 Base Rent
 Available Now
 #3105
 Floor 31
 701 sq. ft.
-$3,802.52 - $3,927.52 /mo*
-15 months
-$3,545 Base Rent
+$3,852.52 - $3,977.52 /mo*
+18 months
+$3,595 Base Rent
 Available Now
 #3803
 Floor 38
 701 sq. ft.
 $4,152.52 - $4,277.52 /mo*
-15 months
+18 months
 $3,895 Base Rent
 Available Now
 #2005
@@ -1007,6 +1009,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -1399,6 +1403,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -1698,21 +1704,21 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 35
 774 sq. ft.
 $4,575.52 - $4,700.52 /mo*
-15 months
+18 months
 $4,318 Base Rent
 Available Now
 #3611
 Floor 36
 774 sq. ft.
 $4,526.52 - $4,651.52 /mo*
-15 months
+18 months
 $4,269 Base Rent
 Available Now
 #1911
 Floor 19
 774 sq. ft.
 $4,097.52 - $4,222.52 /mo*
-15 months
+18 months
 $3,840 Base Rent
 Available Now
 #3211
@@ -1733,14 +1739,14 @@ Available Nov 30
 Floor 18
 774 sq. ft.
 $4,012.52 - $4,137.52 /mo*
-14 months
+17 months
 $3,755 Base Rent
 Available Dec 12
 #3111
 Floor 31
 774 sq. ft.
 $4,367.52 - $4,492.52 /mo*
-13 months
+18 months
 $4,110 Base Rent
 Available Jan 12
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -1833,6 +1839,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -2027,7 +2035,7 @@ A4
 1 bath
 914 sq. ft.
 $4,153.52 - $4,868.52 /mo*
-15 months
+18 months
 $3,896 - $4,486 Base Rent
 2D
 3D
@@ -2132,30 +2140,37 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 38
 914 sq. ft.
 $4,743.52 - $4,868.52 /mo*
-15 months
+18 months
 $4,486 Base Rent
 Available Now
 #2812
 Floor 28
 914 sq. ft.
 $4,293.52 - $4,418.52 /mo*
-15 months
+18 months
 $4,036 Base Rent
 Available Now
 #2312
 Floor 23
 914 sq. ft.
 $4,243.52 - $4,368.52 /mo*
-15 months
+18 months
 $3,986 Base Rent
 Available Now
 #2612
 Floor 26
 914 sq. ft.
 $4,243.52 - $4,368.52 /mo*
-15 months
+18 months
 $3,986 Base Rent
 Available Now
+#3512
+Floor 35
+914 sq. ft.
+$4,743.52 - $4,868.52 /mo*
+17 months
+$4,486 Base Rent
+Available Dec 15
 #1712
 Floor 17
 914 sq. ft.
@@ -2253,6 +2268,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -2553,21 +2570,21 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 39
 885 sq. ft.
 $4,778.52 - $4,903.52 /mo*
-15 months
+18 months
 $4,521 Base Rent
 Available Now
 #3706
 Floor 37
 885 sq. ft.
 $4,728.52 - $4,853.52 /mo*
-14 months
+18 months
 $4,471 Base Rent
 Available Jan 03
 #2406
 Floor 24
 885 sq. ft.
 $4,028.52 - $4,153.52 /mo*
-13 months
+18 months
 $3,771 Base Rent
 Available Jan 07
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -2660,6 +2677,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -2854,7 +2873,7 @@ A6
 1 bath
 892 sq. ft.
 $4,138.52 - $4,813.52 /mo*
-15 months
+18 months
 $3,881 - $4,431 Base Rent
 2D
 3D
@@ -2958,35 +2977,35 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 35
 892 sq. ft.
 $4,638.52 - $4,763.52 /mo*
-15 months
+18 months
 $4,381 Base Rent
 Available Now
 #3614
 Floor 36
 892 sq. ft.
 $4,588.52 - $4,713.52 /mo*
-15 months
+18 months
 $4,331 Base Rent
 Available Now
 #3714
 Floor 37
 892 sq. ft.
 $4,688.52 - $4,813.52 /mo*
-15 months
+18 months
 $4,431 Base Rent
 Available Now
 #2314
 Floor 23
 892 sq. ft.
 $4,138.52 - $4,263.52 /mo*
-15 months
+18 months
 $3,881 Base Rent
 Available Now
 #3014
 Floor 30
 892 sq. ft.
 $4,338.52 - $4,463.52 /mo*
-14 months
+17 months
 $4,081 Base Rent
 Available Dec 16
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -3079,6 +3098,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -3272,10 +3293,10 @@ A7
 1 bed
 1 bath
 882 sq. ft.
-Only 2 left!
-$3,808.52 - $4,273.52 /mo*
-14 months
-$3,551 - $3,891 Base Rent
+Only 1 left!
+$4,148.52 - $4,273.52 /mo*
+18 months
+$3,891 Base Rent
 2D
 3D
 Virtual Tour
@@ -3375,18 +3396,11 @@ Message
 Submit
 Thank you, {first_name}!
 We got your message! Thanks for reaching out. You'll hear from us soon.
-#1704
-Floor 17
-882 sq. ft.
-$3,808.52 - $3,933.52 /mo*
-14 months
-$3,551 Base Rent
-Available Dec 13
 #3304
 Floor 33
 882 sq. ft.
 $4,148.52 - $4,273.52 /mo*
-13 months
+18 months
 $3,891 Base Rent
 Available Jan 09
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -3479,6 +3493,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -3673,7 +3689,7 @@ A9
 1 bath
 929 sq. ft.
 $5,013.52 - $5,413.52 /mo*
-15 months
+18 months
 $4,756 - $5,031 Base Rent
 2D
 3D
@@ -3778,35 +3794,35 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 21
 929 sq. ft.
 $5,138.52 - $5,263.52 /mo*
-15 months
+18 months
 $4,881 Base Rent
 Available Now
 #2701
 Floor 27
 929 sq. ft.
 $5,288.52 - $5,413.52 /mo*
-15 months
+18 months
 $5,031 Base Rent
 Available Now
 #1601
 Floor 16
 929 sq. ft.
 $5,013.52 - $5,138.52 /mo*
-15 months
+18 months
 $4,756 Base Rent
 Available Now
 #1801
 Floor 18
 929 sq. ft.
 $5,033.52 - $5,158.52 /mo*
-15 months
+18 months
 $4,776 Base Rent
 Available Now
 #2801
 Floor 28
 929 sq. ft.
 $5,238.52 - $5,363.52 /mo*
-14 months
+17 months
 $4,981 Base Rent
 Available Dec 17
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -3899,6 +3915,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -4093,7 +4111,7 @@ A11
 1 bath
 1095 sq. ft.
 $4,923.52 - $5,708.52 /mo*
-15 months
+18 months
 $4,666 - $5,326 Base Rent
 2D
 3D
@@ -4200,49 +4218,49 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 19
 1095 sq. ft.
 $5,313.52 - $5,438.52 /mo*
-15 months
+18 months
 $5,056 Base Rent
 Available Now
 #3110
 Floor 31
 1095 sq. ft.
 $5,583.52 - $5,708.52 /mo*
-15 months
+18 months
 $5,326 Base Rent
 Available Now
 #2110
 Floor 21
 1095 sq. ft.
 $5,333.52 - $5,458.52 /mo*
-15 months
+18 months
 $5,076 Base Rent
 Available Now
 #2510
 Floor 25
 1095 sq. ft.
 $5,433.52 - $5,558.52 /mo*
-15 months
+18 months
 $5,176 Base Rent
 Available Now
 #1510
 Floor 15
 1095 sq. ft.
 $4,923.52 - $5,048.52 /mo*
-14 months
+17 months
 $4,666 Base Rent
 Available Dec 07
 #2410
 Floor 24
 1095 sq. ft.
 $5,333.52 - $5,458.52 /mo*
-14 months
+17 months
 $5,076 Base Rent
 Available Dec 07
 #2010
 Floor 20
 1095 sq. ft.
 $5,248.52 - $5,373.52 /mo*
-13 months
+18 months
 $4,991 Base Rent
 Available Jan 05
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -4335,6 +4353,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -4530,7 +4550,7 @@ A12
 1103 sq. ft.
 Only 3 left!
 $5,627.52 - $6,152.52 /mo*
-15 months
+18 months
 $5,370 - $5,770 Base Rent
 2D
 3D
@@ -4634,21 +4654,21 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 39
 1103 sq. ft.
 $6,027.52 - $6,152.52 /mo*
-15 months
+18 months
 $5,770 Base Rent
 Available Now
 #3610
 Floor 36
 1103 sq. ft.
 $5,877.52 - $6,002.52 /mo*
-15 months
+18 months
 $5,620 Base Rent
 Available Now
 #3410
 Floor 34
 1103 sq. ft.
 $5,627.52 - $5,752.52 /mo*
-14 months
+17 months
 $5,370 Base Rent
 Available Jan 01
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -4741,6 +4761,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -4935,7 +4957,7 @@ A13
 1.5 bath
 1049 sq. ft.
 $4,957.52 - $5,877.52 /mo*
-15 months
+18 months
 $4,700 - $5,495 Base Rent
 2D
 3D
@@ -5039,49 +5061,49 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 24
 1049 sq. ft.
 $5,102.52 - $5,227.52 /mo*
-15 months
+18 months
 $4,845 Base Rent
 Available Now
 #3508
 Floor 35
 1049 sq. ft.
 $5,752.52 - $5,877.52 /mo*
-15 months
+18 months
 $5,495 Base Rent
 Available Now
 #2008
 Floor 20
 1049 sq. ft.
 $5,017.52 - $5,142.52 /mo*
-15 months
+18 months
 $4,760 Base Rent
 Available Now
 #2208
 Floor 22
 1049 sq. ft.
 $5,052.52 - $5,177.52 /mo*
-15 months
+18 months
 $4,795 Base Rent
 Available Now
 #1908
 Floor 19
 1049 sq. ft.
 $5,082.52 - $5,207.52 /mo*
-15 months
+18 months
 $4,825 Base Rent
 Available Now
 #1408
 Floor 14
 1049 sq. ft.
 $4,957.52 - $5,082.52 /mo*
-15 months
+18 months
 $4,700 Base Rent
 Available Now
 #2708
 Floor 27
 1049 sq. ft.
 $5,252.52 - $5,377.52 /mo*
-14 months
+17 months
 $4,995 Base Rent
 Available Dec 15
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -5174,6 +5196,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -5480,7 +5504,7 @@ Available Nov 23
 Floor 35
 1169 sq. ft.
 $5,740.52 - $5,865.52 /mo*
-13 months
+18 months
 $5,483 Base Rent
 Available Jan 29
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -5573,6 +5597,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -5768,7 +5794,7 @@ B4
 1405 sq. ft.
 Only 3 left!
 $7,740.52 - $7,965.52 /mo*
-15 months
+18 months
 $7,483 - $7,583 Base Rent
 2D
 3D
@@ -5872,21 +5898,21 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 37
 1405 sq. ft.
 $7,840.52 - $7,965.52 /mo*
-15 months
+18 months
 $7,583 Base Rent
 Available Now
 #3601
 Floor 36
 1405 sq. ft.
 $7,740.52 - $7,865.52 /mo*
-15 months
+18 months
 $7,483 Base Rent
 Available Now
 #3801
 Floor 38
 1405 sq. ft.
 $7,790.52 - $7,915.52 /mo*
-15 months
+18 months
 $7,533 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -5979,6 +6005,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -6174,7 +6202,7 @@ B5
 1539 sq. ft.
 Only 1 left!
 $9,427.52 - $9,552.52 /mo*
-15 months
+18 months
 $9,170 Base Rent
 2D
 3D
@@ -6278,7 +6306,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 19
 1539 sq. ft.
 $9,427.52 - $9,552.52 /mo*
-15 months
+18 months
 $9,170 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -6371,6 +6399,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -6566,7 +6596,7 @@ B6
 1552 sq. ft.
 Only 3 left!
 $9,495.52 - $9,720.52 /mo*
-15 months
+18 months
 $9,238 - $9,338 Base Rent
 2D
 3D
@@ -6670,21 +6700,21 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 37
 1552 sq. ft.
 $9,545.52 - $9,670.52 /mo*
-15 months
+18 months
 $9,288 Base Rent
 Available Now
 #3811
 Floor 38
 1552 sq. ft.
 $9,495.52 - $9,620.52 /mo*
-15 months
+18 months
 $9,238 Base Rent
 Available Now
 #3911
 Floor 39
 1552 sq. ft.
 $9,595.52 - $9,720.52 /mo*
-15 months
+18 months
 $9,338 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -6777,6 +6807,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -6971,7 +7003,7 @@ C1
 3 bath
 1724 sq. ft.
 $8,126.52 - $9,136.52 /mo*
-15 months
+18 months
 $7,869 - $8,754 Base Rent
 2D
 3D
@@ -7075,56 +7107,56 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 28
 1724 sq. ft.
 $8,461.52 - $8,586.52 /mo*
-15 months
+18 months
 $8,204 Base Rent
 Available Now
 #3715
 Floor 37
 1724 sq. ft.
 $8,961.52 - $9,086.52 /mo*
-15 months
+18 months
 $8,704 Base Rent
 Available Now
 #3915
 Floor 39
 1724 sq. ft.
 $9,011.52 - $9,136.52 /mo*
-15 months
+18 months
 $8,754 Base Rent
 Available Now
 #3815
 Floor 38
 1724 sq. ft.
 $8,911.52 - $9,036.52 /mo*
-15 months
+18 months
 $8,654 Base Rent
 Available Now
 #2615
 Floor 26
 1724 sq. ft.
 $8,411.52 - $8,536.52 /mo*
-15 months
+18 months
 $8,154 Base Rent
 Available Now
 #2715
 Floor 27
 1724 sq. ft.
 $8,176.52 - $8,301.52 /mo*
-15 months
+18 months
 $7,919 Base Rent
 Available Now
 #2515
 Floor 25
 1724 sq. ft.
 $8,126.52 - $8,251.52 /mo*
-15 months
+18 months
 $7,869 Base Rent
 Available Now
 #3615
 Floor 36
 1724 sq. ft.
 $8,861.52 - $8,986.52 /mo*
-15 months
+18 months
 $8,604 Base Rent
 Available Now
 #2915
@@ -7231,6 +7263,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -7427,7 +7461,7 @@ Penthouse
 1574 sq. ft.
 Only 1 left!
 $10,247.52 - $10,372.52 /mo*
-15 months
+18 months
 $9,990 Base Rent
 2D
 3D
@@ -7531,7 +7565,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 41
 1574 sq. ft.
 $10,247.52 - $10,372.52 /mo*
-15 months
+18 months
 $9,990 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -7624,6 +7658,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -7820,7 +7856,7 @@ Penthouse
 1945 sq. ft.
 Only 1 left!
 $13,067.52 - $13,192.52 /mo*
-13 months
+18 months
 $12,810 Base Rent
 2D
 3D
@@ -7924,7 +7960,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 40
 1945 sq. ft.
 $13,067.52 - $13,192.52 /mo*
-13 months
+18 months
 $12,810 Base Rent
 Available Jan 21
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -8017,6 +8053,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -8317,7 +8355,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 40
 2409 sq. ft.
 $16,367.52 - $16,492.52 /mo*
-15 months
+18 months
 $16,110 Base Rent
 Available Now
 #4206
@@ -8417,6 +8455,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -8613,7 +8653,7 @@ Penthouse
 2618 sq. ft.
 Only 1 left!
 $16,663.52 - $16,788.52 /mo*
-15 months
+18 months
 $16,406 Base Rent
 2D
 3D
@@ -8717,7 +8757,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 40
 2618 sq. ft.
 $16,663.52 - $16,788.52 /mo*
-15 months
+18 months
 $16,406 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -8810,6 +8850,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon
@@ -9006,7 +9048,7 @@ Penthouse
 2711 sq. ft.
 Only 1 left!
 $19,613.52 - $19,738.52 /mo*
-15 months
+18 months
 $19,356 Base Rent
 2D
 3D
@@ -9120,7 +9162,7 @@ We got your message! Thanks for reaching out. You'll hear from us soon.
 Floor 43
 2711 sq. ft.
 $19,613.52 - $19,738.52 /mo*
-15 months
+18 months
 $19,356 Base Rent
 Available Now
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
@@ -9213,6 +9255,8 @@ Sat
 12
 Sun
 13
+Mon
+14
 November
 Sun
 Mon

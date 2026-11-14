@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T11:49:26.035Z",
+ "updated": "2026-11-14T11:30:20.026Z",
  "communities": [
   {
    "id": "alexan",
@@ -8,8 +8,8 @@
    "priceType": "total",
    "url": "https://alexanwaterloo.com/floorplans/",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
    "count": 12,
    "lat": 30.271046,
    "lng": -97.733819
@@ -21,8 +21,8 @@
    "priceType": "total",
    "url": "https://700river.com/floorplans/",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
    "count": 78,
    "lat": 30.25791,
    "lng": -97.738547
@@ -34,9 +34,9 @@
    "priceType": "from",
    "url": "https://liveatbowie.com/floorplans/",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
-   "count": 63,
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
+   "count": 61,
    "lat": 30.269209,
    "lng": -97.753002
   },
@@ -47,8 +47,8 @@
    "priceType": "total",
    "url": "https://quincyatx.com/floorplans/",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
    "count": 23,
    "lat": 30.260801,
    "lng": -97.738843
@@ -60,7 +60,7 @@
    "priceType": "from",
    "url": "https://www.skylineatbartoncreek.com/floorplans",
    "status": "stale",
-   "checked": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
    "lastGood": "2026-10-13T17:00:00.000Z",
    "count": 9,
    "error": "Site blocks automated visitors",
@@ -74,7 +74,7 @@
    "priceType": "from",
    "url": "https://www.415colorado.com/floor-plans/",
    "status": "stale",
-   "checked": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
    "lastGood": "2026-10-29T11:36:14.130Z",
    "count": 14,
    "error": "",
@@ -88,8 +88,8 @@
    "priceType": "total",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-on-2nd/floorplans",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
    "count": 6,
    "lat": 30.266283,
    "lng": -97.748064
@@ -101,9 +101,9 @@
    "priceType": "total",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-300/floorplans",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
-   "count": 8,
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
+   "count": 7,
    "lat": 30.269694,
    "lng": -97.756218
   },
@@ -114,8 +114,8 @@
    "priceType": "total",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-south-shore/floorplans",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
    "count": 12,
    "lat": 30.245262,
    "lng": -97.730132
@@ -127,8 +127,8 @@
    "priceType": "total",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-downtown/floorplans",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
    "count": 6,
    "lat": 30.265295,
    "lng": -97.746281
@@ -140,8 +140,8 @@
    "priceType": "total",
    "url": "https://www.gables.com/community/528470",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
    "count": 2,
    "lat": 30.268115,
    "lng": -97.754476
@@ -153,7 +153,7 @@
    "priceType": "from",
    "url": "https://www.hanoverbrazos.com/austin/hanover-brazos-street/conventional/",
    "status": "blocked",
-   "checked": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
    "lastGood": null,
    "count": 0,
    "error": "Site blocks automated visitors",
@@ -167,9 +167,9 @@
    "priceType": "total",
    "url": "https://www.theclarkaustin.com/floor-plans",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
-   "count": 4,
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
+   "count": 3,
    "lat": 30.271758,
    "lng": -97.760077
   },
@@ -180,7 +180,7 @@
    "priceType": "total",
    "url": "https://www.greystar.com/properties/austin-tx/the-waller/floorplans",
    "status": "stale",
-   "checked": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
    "lastGood": "2026-10-28T11:35:03.216Z",
    "count": 15,
    "error": "",
@@ -194,8 +194,8 @@
    "priceType": "total",
    "url": "https://www.404riogrande.com/floorplans/",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
    "count": 5,
    "lat": 30.268678,
    "lng": -97.750944
@@ -207,8 +207,8 @@
    "priceType": "total",
    "url": "https://www.ellewestave.com/floorplans/",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
    "count": 12,
    "lat": 30.268108,
    "lng": -97.751644
@@ -220,9 +220,9 @@
    "priceType": "total",
    "url": "https://www.northshoreaustin.com/floorplans/",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
-   "count": 12,
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
+   "count": 10,
    "lat": 30.265301,
    "lng": -97.749512
   },
@@ -233,7 +233,7 @@
    "priceType": "total",
    "url": "https://www.windsorcommunities.com/properties/the-monarch-by-windsor/floorplans/",
    "status": "stale",
-   "checked": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
    "lastGood": "2026-10-28T11:35:03.216Z",
    "count": 4,
    "error": "",
@@ -247,7 +247,7 @@
    "priceType": "total",
    "url": "https://www.windsorcommunities.com/properties/windsor-on-the-lake/floorplans/",
    "status": "stale",
-   "checked": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
    "lastGood": "2026-10-28T11:35:03.216Z",
    "count": 8,
    "error": "",
@@ -261,8 +261,8 @@
    "priceType": "total",
    "url": "https://www.gables.com/community/1104750",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
    "count": 3,
    "lat": 30.267412,
    "lng": -97.74666
@@ -274,8 +274,8 @@
    "priceType": "total",
    "url": "https://www.gables.com/community/528448",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
    "count": 2,
    "lat": 30.267461,
    "lng": -97.754239
@@ -287,8 +287,8 @@
    "priceType": "total",
    "url": "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans",
    "status": "ok",
-   "checked": "2026-11-13T11:49:26.035Z",
-   "lastGood": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
+   "lastGood": "2026-11-14T11:30:20.026Z",
    "count": 6,
    "lat": 30.264495,
    "lng": -97.732564
@@ -301,7 +301,7 @@
    "url": "https://residencesatsaltillo.securecafe.com/onlineleasing/residences-at-saltillo/floorplans.aspx",
    "note": "2 beds seen from $2,286",
    "status": "manual",
-   "checked": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
    "count": 0,
    "lat": 30.263284,
    "lng": -97.731753
@@ -314,7 +314,7 @@
    "url": "https://www.simpsonpropertygroup.com/apartments/austin-texas/skyhouse-austin-rainey-street-downtown/apartment-floor-plans",
    "note": "2 beds seen from $3,136",
    "status": "manual",
-   "checked": "2026-11-13T11:49:26.035Z",
+   "checked": "2026-11-14T11:30:20.026Z",
    "count": 0,
    "lat": 30.257295,
    "lng": -97.739221
@@ -331,8 +331,8 @@
    "special": "",
    "unit": "2411",
    "sqft": 575,
-   "price": 2778.75,
-   "base": 2568,
+   "price": 2853.75,
+   "base": 2643,
    "lease": 18,
    "available": "2026-12-16"
   },
@@ -346,8 +346,8 @@
    "special": "",
    "unit": "1511",
    "sqft": 575,
-   "price": 2688.75,
-   "base": 2478,
+   "price": 2763.75,
+   "base": 2553,
    "lease": 18,
    "available": "2027-01-20"
   },
@@ -389,27 +389,12 @@
    "url": "https://alexanwaterloo.com/floorplans/a3/",
    "image": "https://alexanwaterloo.com/assets/images/a3_single1.svg",
    "special": "",
-   "unit": "1209",
-   "sqft": 746,
-   "price": 2905.75,
-   "base": 2695,
-   "lease": 16,
-   "available": "now"
-  },
-  {
-   "c": "alexan",
-   "plan": "A3",
-   "beds": 1,
-   "baths": 1,
-   "url": "https://alexanwaterloo.com/floorplans/a3/",
-   "image": "https://alexanwaterloo.com/assets/images/a3_single1.svg",
-   "special": "",
    "unit": "1005",
    "sqft": 746,
    "price": 2930.75,
    "base": 2720,
    "lease": 16,
-   "available": "2026-11-14"
+   "available": "now"
   },
   {
    "c": "alexan",
@@ -421,8 +406,8 @@
    "special": "",
    "unit": "710",
    "sqft": 1039,
-   "price": 3227.75,
-   "base": 3017,
+   "price": 3126.75,
+   "base": 2916,
    "lease": 16,
    "available": "now"
   },
@@ -436,8 +421,8 @@
    "special": "",
    "unit": "1101",
    "sqft": 1249,
-   "price": 3565.75,
-   "base": 3355,
+   "price": 3464.75,
+   "base": 3254,
    "lease": 16,
    "available": "2026-11-24"
   },
@@ -449,12 +434,14 @@
    "url": "https://alexanwaterloo.com/floorplans/b2/",
    "image": "https://alexanwaterloo.com/assets/images/b2_single1.svg",
    "special": "",
-   "unit": "1813",
+   "unit": null,
    "sqft": 1174,
    "price": 3479.75,
+   "priceHigh": 3509.75,
    "base": 3269,
    "lease": 18,
-   "available": "2027-02-10"
+   "available": null,
+   "units": 1
   },
   {
    "c": "alexan",
@@ -470,6 +457,21 @@
    "base": 3094,
    "lease": 18,
    "available": "2027-01-23"
+  },
+  {
+   "c": "alexan",
+   "plan": "B4",
+   "beds": 2,
+   "baths": 2,
+   "url": "https://alexanwaterloo.com/floorplans/b4/",
+   "image": "https://alexanwaterloo.com/assets/images/b4_single1.svg",
+   "special": "",
+   "unit": "1104",
+   "sqft": 1268,
+   "price": 3389.75,
+   "base": 3179,
+   "lease": 18,
+   "available": "2027-01-27"
   },
   {
    "c": "alexan",
@@ -513,7 +515,7 @@
    "sqft": 464,
    "price": 2928.52,
    "base": 2671,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -528,7 +530,7 @@
    "sqft": 464,
    "price": 2773.52,
    "base": 2516,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -543,7 +545,7 @@
    "sqft": 701,
    "price": 4120.52,
    "base": 3863,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -556,9 +558,9 @@
    "special": "",
    "unit": "3105",
    "sqft": 701,
-   "price": 3802.52,
-   "base": 3545,
-   "lease": 15,
+   "price": 3852.52,
+   "base": 3595,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -573,7 +575,7 @@
    "sqft": 701,
    "price": 4152.52,
    "base": 3895,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -648,7 +650,7 @@
    "sqft": 774,
    "price": 4575.52,
    "base": 4318,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -663,7 +665,7 @@
    "sqft": 774,
    "price": 4526.52,
    "base": 4269,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -678,7 +680,7 @@
    "sqft": 774,
    "price": 4097.52,
    "base": 3840,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -723,7 +725,7 @@
    "sqft": 774,
    "price": 4012.52,
    "base": 3755,
-   "lease": 14,
+   "lease": 17,
    "available": "2026-12-12"
   },
   {
@@ -738,7 +740,7 @@
    "sqft": 774,
    "price": 4367.52,
    "base": 4110,
-   "lease": 13,
+   "lease": 18,
    "available": "2027-01-12"
   },
   {
@@ -753,7 +755,7 @@
    "sqft": 914,
    "price": 4743.52,
    "base": 4486,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -768,7 +770,7 @@
    "sqft": 914,
    "price": 4293.52,
    "base": 4036,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -783,7 +785,7 @@
    "sqft": 914,
    "price": 4243.52,
    "base": 3986,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -798,8 +800,23 @@
    "sqft": 914,
    "price": 4243.52,
    "base": 3986,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
+  },
+  {
+   "c": "river",
+   "plan": "A4",
+   "beds": 1,
+   "baths": 1,
+   "url": "https://700river.com/floorplans/a4/",
+   "image": "https://700river.com/assets/images/a4.svg",
+   "special": "",
+   "unit": "3512",
+   "sqft": 914,
+   "price": 4743.52,
+   "base": 4486,
+   "lease": 17,
+   "available": "2026-12-15"
   },
   {
    "c": "river",
@@ -828,7 +845,7 @@
    "sqft": 885,
    "price": 4778.52,
    "base": 4521,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -843,7 +860,7 @@
    "sqft": 885,
    "price": 4728.52,
    "base": 4471,
-   "lease": 14,
+   "lease": 18,
    "available": "2027-01-03"
   },
   {
@@ -858,7 +875,7 @@
    "sqft": 885,
    "price": 4028.52,
    "base": 3771,
-   "lease": 13,
+   "lease": 18,
    "available": "2027-01-07"
   },
   {
@@ -873,7 +890,7 @@
    "sqft": 892,
    "price": 4638.52,
    "base": 4381,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -888,7 +905,7 @@
    "sqft": 892,
    "price": 4588.52,
    "base": 4331,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -903,7 +920,7 @@
    "sqft": 892,
    "price": 4688.52,
    "base": 4431,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -918,7 +935,7 @@
    "sqft": 892,
    "price": 4138.52,
    "base": 3881,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -933,23 +950,8 @@
    "sqft": 892,
    "price": 4338.52,
    "base": 4081,
-   "lease": 14,
+   "lease": 17,
    "available": "2026-12-16"
-  },
-  {
-   "c": "river",
-   "plan": "A7",
-   "beds": 1,
-   "baths": 1,
-   "url": "https://700river.com/floorplans/a7/",
-   "image": "https://700river.com/assets/images/a7.svg",
-   "special": "",
-   "unit": "1704",
-   "sqft": 882,
-   "price": 3808.52,
-   "base": 3551,
-   "lease": 14,
-   "available": "2026-12-13"
   },
   {
    "c": "river",
@@ -963,7 +965,7 @@
    "sqft": 882,
    "price": 4148.52,
    "base": 3891,
-   "lease": 13,
+   "lease": 18,
    "available": "2027-01-09"
   },
   {
@@ -978,7 +980,7 @@
    "sqft": 929,
    "price": 5138.52,
    "base": 4881,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -993,7 +995,7 @@
    "sqft": 929,
    "price": 5288.52,
    "base": 5031,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1008,7 +1010,7 @@
    "sqft": 929,
    "price": 5013.52,
    "base": 4756,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1023,7 +1025,7 @@
    "sqft": 929,
    "price": 5033.52,
    "base": 4776,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1038,7 +1040,7 @@
    "sqft": 929,
    "price": 5238.52,
    "base": 4981,
-   "lease": 14,
+   "lease": 17,
    "available": "2026-12-17"
   },
   {
@@ -1053,7 +1055,7 @@
    "sqft": 1095,
    "price": 5313.52,
    "base": 5056,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1068,7 +1070,7 @@
    "sqft": 1095,
    "price": 5583.52,
    "base": 5326,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1083,7 +1085,7 @@
    "sqft": 1095,
    "price": 5333.52,
    "base": 5076,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1098,7 +1100,7 @@
    "sqft": 1095,
    "price": 5433.52,
    "base": 5176,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1113,7 +1115,7 @@
    "sqft": 1095,
    "price": 4923.52,
    "base": 4666,
-   "lease": 14,
+   "lease": 17,
    "available": "2026-12-07"
   },
   {
@@ -1128,7 +1130,7 @@
    "sqft": 1095,
    "price": 5333.52,
    "base": 5076,
-   "lease": 14,
+   "lease": 17,
    "available": "2026-12-07"
   },
   {
@@ -1143,7 +1145,7 @@
    "sqft": 1095,
    "price": 5248.52,
    "base": 4991,
-   "lease": 13,
+   "lease": 18,
    "available": "2027-01-05"
   },
   {
@@ -1158,7 +1160,7 @@
    "sqft": 1103,
    "price": 6027.52,
    "base": 5770,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1173,7 +1175,7 @@
    "sqft": 1103,
    "price": 5877.52,
    "base": 5620,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1188,7 +1190,7 @@
    "sqft": 1103,
    "price": 5627.52,
    "base": 5370,
-   "lease": 14,
+   "lease": 17,
    "available": "2027-01-01"
   },
   {
@@ -1203,7 +1205,7 @@
    "sqft": 1049,
    "price": 5102.52,
    "base": 4845,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1218,7 +1220,7 @@
    "sqft": 1049,
    "price": 5752.52,
    "base": 5495,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1233,7 +1235,7 @@
    "sqft": 1049,
    "price": 5017.52,
    "base": 4760,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1248,7 +1250,7 @@
    "sqft": 1049,
    "price": 5052.52,
    "base": 4795,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1263,7 +1265,7 @@
    "sqft": 1049,
    "price": 5082.52,
    "base": 4825,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1278,7 +1280,7 @@
    "sqft": 1049,
    "price": 4957.52,
    "base": 4700,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1293,7 +1295,7 @@
    "sqft": 1049,
    "price": 5252.52,
    "base": 4995,
-   "lease": 14,
+   "lease": 17,
    "available": "2026-12-15"
   },
   {
@@ -1323,7 +1325,7 @@
    "sqft": 1169,
    "price": 5740.52,
    "base": 5483,
-   "lease": 13,
+   "lease": 18,
    "available": "2027-01-29"
   },
   {
@@ -1338,7 +1340,7 @@
    "sqft": 1405,
    "price": 7840.52,
    "base": 7583,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1353,7 +1355,7 @@
    "sqft": 1405,
    "price": 7740.52,
    "base": 7483,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1368,7 +1370,7 @@
    "sqft": 1405,
    "price": 7790.52,
    "base": 7533,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1383,7 +1385,7 @@
    "sqft": 1539,
    "price": 9427.52,
    "base": 9170,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1398,7 +1400,7 @@
    "sqft": 1552,
    "price": 9545.52,
    "base": 9288,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1413,7 +1415,7 @@
    "sqft": 1552,
    "price": 9495.52,
    "base": 9238,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1428,7 +1430,7 @@
    "sqft": 1552,
    "price": 9595.52,
    "base": 9338,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1443,7 +1445,7 @@
    "sqft": 1724,
    "price": 8461.52,
    "base": 8204,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1458,7 +1460,7 @@
    "sqft": 1724,
    "price": 8961.52,
    "base": 8704,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1473,7 +1475,7 @@
    "sqft": 1724,
    "price": 9011.52,
    "base": 8754,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1488,7 +1490,7 @@
    "sqft": 1724,
    "price": 8911.52,
    "base": 8654,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1503,7 +1505,7 @@
    "sqft": 1724,
    "price": 8411.52,
    "base": 8154,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1518,7 +1520,7 @@
    "sqft": 1724,
    "price": 8176.52,
    "base": 7919,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1533,7 +1535,7 @@
    "sqft": 1724,
    "price": 8126.52,
    "base": 7869,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1548,7 +1550,7 @@
    "sqft": 1724,
    "price": 8861.52,
    "base": 8604,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1593,7 +1595,7 @@
    "sqft": 1574,
    "price": 10247.52,
    "base": 9990,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1608,7 +1610,7 @@
    "sqft": 1945,
    "price": 13067.52,
    "base": 12810,
-   "lease": 13,
+   "lease": 18,
    "available": "2027-01-21"
   },
   {
@@ -1623,7 +1625,7 @@
    "sqft": 2409,
    "price": 16367.52,
    "base": 16110,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1653,7 +1655,7 @@
    "sqft": 2618,
    "price": 16663.52,
    "base": 16406,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1668,7 +1670,7 @@
    "sqft": 2711,
    "price": 19613.52,
    "base": 19356,
-   "lease": 15,
+   "lease": 18,
    "available": "now"
   },
   {
@@ -1684,7 +1686,7 @@
    "price": 9800,
    "base": null,
    "lease": null,
-   "available": "2026-11-13"
+   "available": "now"
   },
   {
    "c": "bowie",
@@ -1700,36 +1702,6 @@
    "base": null,
    "lease": null,
    "available": "2026-12-05"
-  },
-  {
-   "c": "bowie",
-   "plan": "A5b",
-   "beds": 1,
-   "baths": 1,
-   "url": "https://liveatbowie.com/floorplans/a5b/",
-   "image": "https://liveatbowie.com/assets/images/a5b_single11.svg",
-   "special": "",
-   "unit": "2106",
-   "sqft": 872,
-   "price": 3260,
-   "base": null,
-   "lease": null,
-   "available": "2026-12-05"
-  },
-  {
-   "c": "bowie",
-   "plan": "C1",
-   "beds": 3,
-   "baths": 3,
-   "url": "https://liveatbowie.com/floorplans/c1/",
-   "image": "https://liveatbowie.com/assets/images/c1_single11.svg",
-   "special": "",
-   "unit": "3304",
-   "sqft": 2312,
-   "price": 9160,
-   "base": null,
-   "lease": null,
-   "available": "2026-12-19"
   },
   {
    "c": "bowie",
@@ -1849,7 +1821,7 @@
    "price": 4234,
    "base": null,
    "lease": null,
-   "available": "2026-11-14"
+   "available": "now"
   },
   {
    "c": "bowie",
@@ -2101,7 +2073,7 @@
    "special": "",
    "unit": "2708",
    "sqft": 1092,
-   "price": 3903,
+   "price": 3953,
    "base": null,
    "lease": null,
    "available": "2026-11-21"
@@ -2116,7 +2088,7 @@
    "special": "",
    "unit": "2808",
    "sqft": 1092,
-   "price": 3888,
+   "price": 3938,
    "base": null,
    "lease": null,
    "available": "2026-11-21"
@@ -2131,7 +2103,7 @@
    "special": "",
    "unit": "1309",
    "sqft": 1092,
-   "price": 3613,
+   "price": 3663,
    "base": null,
    "lease": null,
    "available": "2026-11-28"
@@ -2146,7 +2118,7 @@
    "special": "",
    "unit": "1709",
    "sqft": 1092,
-   "price": 3562,
+   "price": 3613,
    "base": null,
    "lease": null,
    "available": "2026-12-19"
@@ -2626,8 +2598,8 @@
    "special": "8 weeks free",
    "unit": "1208",
    "sqft": 382,
-   "price": 1858,
-   "base": 1695,
+   "price": 1921,
+   "base": 1758,
    "lease": 16,
    "available": "2026-11-26"
   },
@@ -2656,10 +2628,10 @@
    "special": "8 weeks free",
    "unit": "3003",
    "sqft": 519,
-   "price": 2791,
-   "base": 2628,
+   "price": 2855,
+   "base": 2692,
    "lease": 16,
-   "available": "2026-11-14"
+   "available": "now"
   },
   {
    "c": "quincy",
@@ -2671,8 +2643,8 @@
    "special": "8 weeks free",
    "unit": "2503",
    "sqft": 519,
-   "price": 2281,
-   "base": 2118,
+   "price": 2345,
+   "base": 2182,
    "lease": 16,
    "available": "2026-12-24"
   },
@@ -2686,8 +2658,8 @@
    "special": "8 weeks free",
    "unit": "2603",
    "sqft": 519,
-   "price": 2339,
-   "base": 2176,
+   "price": 2402,
+   "base": 2239,
    "lease": 15,
    "available": "2027-01-21"
   },
@@ -2701,8 +2673,8 @@
    "special": "8 weeks free",
    "unit": "2609",
    "sqft": 551,
-   "price": 2196,
-   "base": 2033,
+   "price": 2259,
+   "base": 2096,
    "lease": 16,
    "available": "2026-12-31"
   },
@@ -2716,8 +2688,8 @@
    "special": "8 weeks free",
    "unit": "2509",
    "sqft": 551,
-   "price": 2169,
-   "base": 2006,
+   "price": 2232,
+   "base": 2069,
    "lease": 16,
    "available": "2027-01-03"
   },
@@ -3363,10 +3335,10 @@
    "baths": 2,
    "sqft": 1187,
    "unit": null,
-   "units": 2,
+   "units": 3,
    "price": 4294.49,
    "base": 4232,
-   "available": "2027-01-05",
+   "available": "2026-12-18",
    "url": "https://www.amli.com/apartments/austin/2nd-street-district-apartments/amli-on-2nd/floorplans",
    "image": "https://images.prismic.io/amli-website/84962adcaa7858444806d8f968d68fc7daa04881_austin-2nd-nelson.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
@@ -3399,21 +3371,6 @@
    "available": "2027-01-05",
    "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-300/floorplans",
    "image": null,
-   "special": ""
-  },
-  {
-   "c": "a300",
-   "plan": "A2A",
-   "beds": 1,
-   "baths": 1,
-   "sqft": 676,
-   "unit": null,
-   "units": 1,
-   "price": 1994.5,
-   "base": 1992,
-   "available": "now",
-   "url": "https://www.amli.com/apartments/austin/downtown-austin-apartments/amli-300/floorplans",
-   "image": "https://images.prismic.io/amli-website/10656acbd52e678c1844b254b597f551b5d4d2d5_austin-300-a2a.jpg?auto=compress%2Cformat&fit=max&w=224",
    "special": ""
   },
   {
@@ -3783,7 +3740,7 @@
    "baths": null,
    "sqft": null,
    "unit": null,
-   "price": 2202.75,
+   "price": 2198.75,
    "available": null,
    "url": "https://www.gables.com/community/528470",
    "image": null,
@@ -3809,10 +3766,10 @@
    "baths": 1,
    "sqft": 555,
    "unit": null,
-   "units": 1,
+   "units": 2,
    "price": 1816,
    "base": 1702,
-   "available": "2027-02-06",
+   "available": "now",
    "url": "https://www.theclarkaustin.com/floor-plans",
    "image": null,
    "special": "Income-restricted"
@@ -3824,9 +3781,9 @@
    "baths": 1,
    "sqft": 641,
    "unit": null,
-   "units": 5,
-   "price": 2587,
-   "base": 2473,
+   "units": 6,
+   "price": 2594,
+   "base": 2480,
    "available": "now",
    "url": "https://www.theclarkaustin.com/floor-plans",
    "image": null,
@@ -3840,23 +3797,8 @@
    "sqft": 823,
    "unit": null,
    "units": 1,
-   "price": 2762,
-   "base": 2648,
-   "available": "now",
-   "url": "https://www.theclarkaustin.com/floor-plans",
-   "image": null,
-   "special": ""
-  },
-  {
-   "c": "clark",
-   "plan": "1J",
-   "beds": 1,
-   "baths": 1,
-   "sqft": 920,
-   "unit": null,
-   "units": 1,
-   "price": 2787,
-   "base": 2673,
+   "price": 2769,
+   "base": 2655,
    "available": "now",
    "url": "https://www.theclarkaustin.com/floor-plans",
    "image": null,
@@ -4153,7 +4095,7 @@
    "beds": 1,
    "baths": 1,
    "url": "https://404riogrande.com/floorplans/rio-grande/",
-   "image": "https://bat.bing.com/action/0?ti=17090169&Ver=2&mid=4652f8b1-b291-473d-8563-ae18a6d1e71f&bo=1&sid=d724d2f0df5a11f1956e59766fb6323e&vid=d7255df0df5a11f1aced932e9699c039&vids=0&msclkid=N&uach=pv%3D10.0&pi=0&lg=en-US&sw=1366&sh=900&sc=24&nwd=1&tl=Rio%20Grande%20%7C%201%20or%202%20bedroom%20apartments%20in%20Austin%20%7C%20404%20Rio%20Grande&p=https%3A%2F%2F404riogrande.com%2Ffloorplans%2Frio-grande%2F&r=&lt=1661&evt=pageLoad&sv=2&cdb=AQAS&rn=141891",
+   "image": "https://bat.bing.com/action/0?ti=17090169&Ver=2&mid=29f7b190-d9da-495d-a3ea-5f8509a5d3ef&bo=1&sid=5119ea90e02111f1a645bdfa07f74162&vid=511a0b30e02111f1abed31d792dd14c3&vids=0&msclkid=N&uach=pv%3D10.0&pi=0&lg=en-US&sw=1366&sh=900&sc=24&nwd=1&tl=Rio%20Grande%20%7C%201%20or%202%20bedroom%20apartments%20in%20Austin%20%7C%20404%20Rio%20Grande&p=https%3A%2F%2F404riogrande.com%2Ffloorplans%2Frio-grande%2F&r=&lt=861&evt=pageLoad&sv=2&cdb=AQAS&rn=350452",
    "special": "",
    "unit": "316",
    "sqft": 860,
@@ -4187,8 +4129,8 @@
    "special": "",
    "unit": "2310",
    "sqft": 674,
-   "price": 1813,
-   "base": 1668,
+   "price": 1809,
+   "base": 1664,
    "lease": 13,
    "available": "now"
   },
@@ -4217,8 +4159,8 @@
    "special": "",
    "unit": "4106",
    "sqft": 729,
-   "price": 1969,
-   "base": 1824,
+   "price": 1964,
+   "base": 1819,
    "lease": 13,
    "available": "now"
   },
@@ -4232,8 +4174,8 @@
    "special": "",
    "unit": "2106",
    "sqft": 750,
-   "price": 1847,
-   "base": 1702,
+   "price": 1842,
+   "base": 1697,
    "lease": 13,
    "available": "now"
   },
@@ -4367,24 +4309,24 @@
    "special": "10 Weeks Free",
    "unit": "0839",
    "sqft": 531,
-   "price": 2490,
-   "base": 2399,
+   "price": 2237,
+   "base": 2146,
    "lease": 12,
    "available": "2027-01-10"
   },
   {
    "c": "northshore",
-   "plan": "1A - Smart Housing",
-   "beds": 0,
+   "plan": "1D",
+   "beds": 1,
    "baths": 1,
-   "url": "https://northshoreaustin.com/floorplans/1a-smart-housing/",
-   "image": null,
+   "url": "https://northshoreaustin.com/floorplans/1d/",
+   "image": "https://northshoreaustin.com/assets/images/1d_single1.svg",
    "special": "10 Weeks Free",
-   "unit": "1231",
-   "sqft": 504,
-   "price": 1915,
-   "base": 1824,
-   "lease": 12,
+   "unit": "0835",
+   "sqft": 615,
+   "price": 2846,
+   "base": 2755,
+   "lease": 13,
    "available": "now"
   },
   {
@@ -4397,9 +4339,9 @@
    "special": "10 Weeks Free",
    "unit": "0829",
    "sqft": 615,
-   "price": 2966,
-   "base": 2875,
-   "lease": 12,
+   "price": 3072,
+   "base": 2981,
+   "lease": 14,
    "available": "2026-12-14"
   },
   {
@@ -4412,9 +4354,9 @@
    "special": "10 Weeks Free",
    "unit": "1034",
    "sqft": 730,
-   "price": 3225,
-   "base": 3134,
-   "lease": 13,
+   "price": 3377,
+   "base": 3286,
+   "lease": 10,
    "available": "now"
   },
   {
@@ -4427,9 +4369,9 @@
    "special": "10 Weeks Free",
    "unit": "1238",
    "sqft": 652,
-   "price": 3391,
-   "base": 3300,
-   "lease": 13,
+   "price": 3547,
+   "base": 3456,
+   "lease": 10,
    "available": "2026-11-18"
   },
   {
@@ -4442,25 +4384,10 @@
    "special": "10 Weeks Free",
    "unit": "0828",
    "sqft": 749,
-   "price": 3141,
-   "base": 3050,
-   "lease": 12,
+   "price": 3247,
+   "base": 3156,
+   "lease": 14,
    "available": "2026-12-02"
-  },
-  {
-   "c": "northshore",
-   "plan": "1F",
-   "beds": 1,
-   "baths": 1,
-   "url": "https://northshoreaustin.com/floorplans/1f/",
-   "image": "https://northshoreaustin.com/assets/images/1f_single1.svg",
-   "special": "10 Weeks Free",
-   "unit": "0423",
-   "sqft": 764,
-   "price": 2785,
-   "base": 2694,
-   "lease": 12,
-   "available": "2026-12-07"
   },
   {
    "c": "northshore",
@@ -4472,9 +4399,9 @@
    "special": "10 Weeks Free",
    "unit": "1140",
    "sqft": 771,
-   "price": 3456,
-   "base": 3365,
-   "lease": 13,
+   "price": 3612,
+   "base": 3521,
+   "lease": 10,
    "available": "now"
   },
   {
@@ -4487,8 +4414,8 @@
    "special": "10 Weeks Free",
    "unit": "1611",
    "sqft": 829,
-   "price": 3335,
-   "base": 3244,
+   "price": 3434,
+   "base": 3343,
    "lease": 14,
    "available": "2027-02-02"
   },
@@ -4502,9 +4429,9 @@
    "special": "10 Weeks Free",
    "unit": "0317",
    "sqft": 839,
-   "price": 2972,
-   "base": 2881,
-   "lease": 13,
+   "price": 3121,
+   "base": 3030,
+   "lease": 10,
    "available": "now"
   },
   {
@@ -4517,25 +4444,10 @@
    "special": "10 Weeks Free",
    "unit": "1420",
    "sqft": 1048,
-   "price": 4129,
-   "base": 4038,
-   "lease": 14,
+   "price": 4269,
+   "base": 4178,
+   "lease": 13,
    "available": "now"
-  },
-  {
-   "c": "northshore",
-   "plan": "2B",
-   "beds": 2,
-   "baths": 2,
-   "url": "https://northshoreaustin.com/floorplans/2b/",
-   "image": "https://northshoreaustin.com/assets/images/2b_single1.svg",
-   "special": "10 Weeks Free",
-   "unit": "0719",
-   "sqft": 1117,
-   "price": 4418,
-   "base": 4327,
-   "lease": 14,
-   "available": "2026-12-04"
   },
   {
    "c": "monarch",
@@ -4763,7 +4675,7 @@
    "baths": null,
    "sqft": null,
    "unit": null,
-   "price": 2719.75,
+   "price": 2819.75,
    "available": null,
    "url": "https://www.gables.com/community/528448",
    "image": null,
@@ -4776,7 +4688,7 @@
    "baths": null,
    "sqft": null,
    "unit": null,
-   "price": 4987.75,
+   "price": 4886.75,
    "available": null,
    "url": "https://www.gables.com/community/528448",
    "image": null,
@@ -4838,8 +4750,8 @@
    "sqft": 765,
    "unit": null,
    "units": 1,
-   "price": 2545,
-   "base": 2371,
+   "price": 2522,
+   "base": 2348,
    "lease": 12,
    "available": null,
    "url": "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans",
@@ -4853,9 +4765,9 @@
    "baths": 1,
    "sqft": 845,
    "unit": null,
-   "units": 1,
-   "price": 2654,
-   "base": 2480,
+   "units": 2,
+   "price": 2346,
+   "base": 2172,
    "lease": 12,
    "available": null,
    "url": "https://www.corazonatxapartments.com/apartments/tx/austin/floor-plans",

@@ -82,7 +82,7 @@ $1,483
 
 $1,422
 
-November 15th, 2026
+Now
 Calculate my costs
 
 Unit 0537
@@ -297,9 +297,9 @@ Unit 2112
 
 15 mo
 
-$1,662
+$1,657
 
-$1,601
+$1,596
 
 Now
 Calculate my costs
@@ -905,7 +905,7 @@ Apply now
 Contact leasing office
 Office hours
 Today
-10:00am - 5:00pm
+Closed
 Visit property website
 
 Costs and pricing

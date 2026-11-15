@@ -108,20 +108,6 @@ $1,639
 
 See Inside
 See More
-1C
-1 Bed
-1 Bath
-861 SqFt
-Last 1 Available!
-
-12/26/2026
-
-Starting Price
-
-$1,709
-
-See Inside
-See More
 2B
 2 Beds
 2 Baths
@@ -136,6 +122,34 @@ $1,729
 
 See Inside
 See More
+1C
+1 Bed
+1 Bath
+861 SqFt
+Last 1 Available!
+
+12/26/2026
+
+Starting Price
+
+$1,749
+
+See Inside
+See More
+2A
+2 Beds
+2 Baths
+1,011 SqFt
+Available
+
+Tomorrow
+
+Starting Price
+
+$1,769
+
+See Inside
+See More
 Home Office Space!
 1B Den
 1 Bed
@@ -147,21 +161,7 @@ Only 2 Available!
 
 Starting Price
 
-$1,779
-
-See Inside
-See More
-2A
-2 Beds
-2 Baths
-1,011 SqFt
-Available
-
-12/26/2026
-
-Starting Price
-
-$1,839
+$1,809
 
 See Inside
 See More
@@ -175,7 +175,7 @@ Tomorrow
 
 Starting Price
 
-$2,349
+$2,339
 
 See Inside
 See More
@@ -243,16 +243,12 @@ Location
 4424 Gaines Ranch Loop Austin, TX 78735
 
 Map Us
-Call or Text Us
+Call Us
 Live Agent Available
 
 (512) 859-5395
 
 Office Hours
-
-Open
-
-Until 5:00PM
 
 Connect with us!
 Have questions?

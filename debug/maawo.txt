@@ -95,14 +95,14 @@ All Filters
 Unit #030333
 Special Offer
 Monthly price from
-$2,151
+$2,146
 including fees
 Details
-Base Rent: $2,133
+Base Rent: $2,128
 3 Beds
 2 Baths
 1,286 Sq. Ft.
-Available Nov. 15, 2026
+Available Nov. 16, 2026
 Third Floor
 Amenities
 Fireplace
@@ -113,14 +113,14 @@ Apply Now
 Rent Calc
 Unit #272714
 Monthly price from
-$1,826
+$1,821
 including fees
 Details
-Base Rent: $1,808
+Base Rent: $1,803
 2 Beds
 2 Baths
 1,045 Sq. Ft.
-Available Nov. 15, 2026
+Available Nov. 16, 2026
 First Floor
 Amenities
 Premium Flooring
@@ -139,7 +139,7 @@ Base Rent: $1,198
 1 Bed
 1 Bath
 800 Sq. Ft.
-Available Nov. 15, 2026
+Available Nov. 16, 2026
 Second Floor
 Amenities
 Washer and Dryer
@@ -156,7 +156,7 @@ Base Rent: $1,188
 1 Bed
 1 Bath
 800 Sq. Ft.
-Available Nov. 15, 2026
+Available Nov. 16, 2026
 Third Floor
 Amenities
 Washer and Dryer
@@ -172,7 +172,7 @@ Base Rent: $1,163
 1 Bed
 1 Bath
 844 Sq. Ft.
-Available Nov. 15, 2026
+Available Nov. 16, 2026
 Amenities
 Second Floor
 Washer and Dryer
@@ -180,10 +180,10 @@ Apply Now
 Rent Calc
 Unit #101024
 Monthly price from
-$1,641
+$1,636
 including fees
 Details
-Base Rent: $1,623
+Base Rent: $1,618
 2 Beds
 2 Baths
 1,045 Sq. Ft.
@@ -197,10 +197,10 @@ Rent Calc
 Unit #030322
 Special Offer
 Monthly price from
-$1,631
+$1,626
 including fees
 Details
-Base Rent: $1,613
+Base Rent: $1,608
 2 Beds
 2 Baths
 1,045 Sq. Ft.
@@ -262,10 +262,10 @@ Apply Now
 Rent Calc
 Unit #030312
 Monthly price from
-$1,676
+$1,671
 including fees
 Details
-Base Rent: $1,658
+Base Rent: $1,653
 2 Beds
 2 Baths
 1,045 Sq. Ft.
@@ -316,10 +316,10 @@ Apply Now
 Rent Calc
 Unit #111133
 Monthly price from
-$1,516
+$1,511
 including fees
 Details
-Base Rent: $1,498
+Base Rent: $1,493
 2 Beds
 2 Baths
 980 Sq. Ft.
@@ -332,10 +332,10 @@ Apply Now
 Rent Calc
 Unit #262613
 Monthly price from
-$1,781
+$1,776
 including fees
 Details
-Base Rent: $1,763
+Base Rent: $1,758
 2 Beds
 2 Baths
 980 Sq. Ft.
@@ -401,10 +401,10 @@ Apply Now
 Rent Calc
 Unit #090913
 Monthly price from
-$1,656
+$1,651
 including fees
 Details
-Base Rent: $1,638
+Base Rent: $1,633
 2 Beds
 2 Baths
 980 Sq. Ft.
@@ -417,10 +417,10 @@ Apply Now
 Rent Calc
 Unit #060613
 Monthly price from
-$1,571
+$1,566
 including fees
 Details
-Base Rent: $1,553
+Base Rent: $1,548
 1 Bed
 1 Bath
 899 Sq. Ft.
@@ -435,10 +435,10 @@ Apply Now
 Rent Calc
 Unit #040436
 Monthly price from
-$1,321
+$1,316
 including fees
 Details
-Base Rent: $1,303
+Base Rent: $1,298
 1 Bed
 1 Bath
 844 Sq. Ft.
@@ -452,10 +452,10 @@ Apply Now
 Rent Calc
 Unit #282827
 Monthly price from
-$1,361
+$1,356
 including fees
 Details
-Base Rent: $1,343
+Base Rent: $1,338
 1 Bed
 1 Bath
 800 Sq. Ft.
@@ -470,10 +470,10 @@ Apply Now
 Rent Calc
 Unit #222228
 Monthly price from
-$1,361
+$1,356
 including fees
 Details
-Base Rent: $1,343
+Base Rent: $1,338
 1 Bed
 1 Bath
 800 Sq. Ft.
@@ -488,10 +488,10 @@ Apply Now
 Rent Calc
 Unit #232325
 Monthly price from
-$1,581
+$1,576
 including fees
 Details
-Base Rent: $1,563
+Base Rent: $1,558
 2 Beds
 2 Baths
 1,140 Sq. Ft.
@@ -505,10 +505,10 @@ Apply Now
 Rent Calc
 Unit #030336
 Monthly price from
-$1,321
+$1,316
 including fees
 Details
-Base Rent: $1,303
+Base Rent: $1,298
 1 Bed
 1 Bath
 844 Sq. Ft.
@@ -522,10 +522,10 @@ Apply Now
 Rent Calc
 Unit #202012
 Monthly price from
-$1,331
+$1,326
 including fees
 Details
-Base Rent: $1,313
+Base Rent: $1,308
 1 Bed
 1 Bath
 844 Sq. Ft.
@@ -539,10 +539,10 @@ Apply Now
 Rent Calc
 Unit #101034
 Monthly price from
-$1,506
+$1,501
 including fees
 Details
-Base Rent: $1,488
+Base Rent: $1,483
 2 Beds
 2 Baths
 1,045 Sq. Ft.
@@ -554,10 +554,10 @@ Apply Now
 Rent Calc
 Unit #101025
 Monthly price from
-$1,226
+$1,221
 including fees
 Details
-Base Rent: $1,208
+Base Rent: $1,203
 1 Bed
 1 Bath
 844 Sq. Ft.
@@ -705,7 +705,7 @@ UNIVERSITY HILLS
 MAA East Austin
 
 Monthly price from
-$856 - $2,411 including fees
+$856 - $2,306 including fees
 Studio–2 bd
 6600 Ed Bluestein, Austin, TX 78723
 Quick View

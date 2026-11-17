@@ -176,6 +176,19 @@ $1,503
 November 25th, 2026
 Calculate my costs
 
+Unit 2112
+
+21
+
+15 mo
+
+$1,571
+
+$1,510
+
+Now
+Calculate my costs
+
 Unit 3512
 
 35
@@ -185,19 +198,6 @@ Unit 3512
 $1,576
 
 $1,515
-
-Now
-Calculate my costs
-
-Unit 2112
-
-21
-
-15 mo
-
-$1,577
-
-$1,516
 
 Now
 Calculate my costs
@@ -698,6 +698,19 @@ $1,899
 December 12th, 2026
 Calculate my costs
 
+Unit 2922
+
+29
+
+12 mo
+
+$1,960
+
+$1,899
+
+February 10th, 2027
+Calculate my costs
+
 Unit 1432
 
 14
@@ -708,7 +721,7 @@ $1,985
 
 $1,924
 
-November 17th, 2026
+Now
 Calculate my costs
 
 Unit 1131
@@ -788,7 +801,7 @@ $2,154
 
 January 15th, 2027
 Calculate my costs
-Show 9 available
+Show 10 available
 
 C1
 
@@ -905,7 +918,8 @@ Apply now
 Contact leasing office
 Office hours
 Today
-9:00am - 6:00pm
+10:00am - 6:00pm
+Visit property website
 
 Costs and pricing
 
@@ -1024,7 +1038,6 @@ Contact us
 Please use the form below to get in touch with us. Provide as much detail as possible about what you're looking for, and one of our experienced agents will contact you shortly to discuss your needs. We’re here to assist you every step of the way!
 
 (512) 399-4745
-Visit property website
 First name
 Last name
 Phone Number

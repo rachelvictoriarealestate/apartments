@@ -27,7 +27,7 @@ AMLI South Shore Apartments
 
 AMLI South Shore
 
-(498)
+(499)
 
 1620 E. Riverside Dr.
 Austin, TX 78741
@@ -40,9 +40,9 @@ Studio - 3 Bedrooms
 
 Total Monthly Price Starting at
 
-$1,855.50
+$1,854.50
 
-(Base Rent $1,853)
+(Base Rent $1,852)
 
 Schedule a Tour
 Floor Plans & Pricing
@@ -81,9 +81,9 @@ Now
 
 Total Monthly Price Starting at
 
-$1,855.50/mo.
+$1,854.50/mo.
 
-(Base Rent $1,853)
+(Base Rent $1,852)
 
 Get Pricing
 
@@ -165,9 +165,9 @@ Now
 
 Total Monthly Price Starting at
 
-$1,937.50/mo.
+$1,936.50/mo.
 
-(Base Rent $1,935)
+(Base Rent $1,934)
 
 Get Pricing
 
@@ -177,7 +177,7 @@ Virtual Tours
 
 A3a
 
-4 AVAILABLE UNITS
+5 AVAILABLE UNITS
 
 Bed
 
@@ -197,9 +197,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,132.50/mo.
+$2,130.50/mo.
 
-(Base Rent $2,130)
+(Base Rent $2,128)
 
 Get Pricing
 
@@ -261,9 +261,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,356.50/mo.
+$2,354.50/mo.
 
-(Base Rent $2,354)
+(Base Rent $2,352)
 
 Get Pricing
 
@@ -303,6 +303,38 @@ Square footage & measurements are approximate, and floor plan details may vary.
 
 Virtual Tours
 
+A4ax
+
+3 AVAILABLE UNITS
+
+Bed
+
+1
+
+Bath
+
+1
+
+SQFT
+
+823
+
+Available
+
+Now
+
+Total Monthly Price Starting at
+
+$2,544.50/mo.
+
+(Base Rent $2,542)
+
+Get Pricing
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
 A4cX
 
 1 AVAILABLE UNIT
@@ -328,38 +360,6 @@ Total Monthly Price Starting at
 $2,544.50/mo.
 
 (Base Rent $2,542)
-
-Get Pricing
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
-A4ax
-
-3 AVAILABLE UNITS
-
-Bed
-
-1
-
-Bath
-
-1
-
-SQFT
-
-823
-
-Available
-
-Now
-
-Total Monthly Price Starting at
-
-$2,546.50/mo.
-
-(Base Rent $2,544)
 
 Get Pricing
 
@@ -557,9 +557,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,966.50/mo.
+$2,981.50/mo.
 
-(Base Rent $2,964)
+(Base Rent $2,979)
 
 Get Pricing
 
@@ -649,9 +649,9 @@ Available
 
 Total Monthly Price Starting at
 
-$4,787.50/mo.
+$4,788.50/mo.
 
-(Base Rent $4,785)
+(Base Rent $4,786)
 
 Get Pricing
 
@@ -810,7 +810,7 @@ Accessibility
 Website Terms & Conditions
 Leasing Promotion Terms & Conditions
 Privacy Policy
-Do Not Sell or Share My Personal Information
+Cookie Settings
 
 AMLI’s Upfront Standard
 

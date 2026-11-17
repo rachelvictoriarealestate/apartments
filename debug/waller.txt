@@ -286,18 +286,44 @@ $1,960
 January 18th, 2027
 Calculate my costs
 
+Unit 609
+
+1
+
+13 mo
+
+$2,180
+
+$1,975
+
+February 15th, 2027
+Calculate my costs
+
+Unit 1709
+
+1
+
+13 mo
+
+$2,250
+
+$2,045
+
+Now
+Calculate my costs
+
 T-10
 
 1 bed
 ·
 1 bath
 ·
-562 sq. ft.
+510 sq. ft.
 
 Total from
-$2,430
+$2,380
 
-Base rent from $2,225
+Base rent from $2,175
 
 Unit | Building
 
@@ -308,6 +334,19 @@ Total
 Base Rent
 
 Available
+
+Unit 510
+
+1
+
+13 mo
+
+$2,380
+
+$2,175
+
+February 15th, 2027
+Calculate my costs
 
 Unit 1010
 
@@ -386,7 +425,7 @@ $2,385
 
 Now
 Calculate my costs
-Show 6 available
+Show 7 available
 
 T-03
 
@@ -799,9 +838,9 @@ T-01
 910 sq. ft.
 
 Total from
-$3,430
+$3,380
 
-Base rent from $3,225
+Base rent from $3,175
 
 Unit | Building
 
@@ -812,6 +851,19 @@ Total
 Base Rent
 
 Available
+
+Unit 601A
+
+1
+
+13 mo
+
+$3,380
+
+$3,175
+
+February 15th, 2027
+Calculate my costs
 
 Unit 701A
 
@@ -848,9 +900,9 @@ T-08
 999 sq. ft.
 
 Total from
-$3,545
+$3,430
 
-Base rent from $3,340
+Base rent from $3,225
 
 Unit | Building
 
@@ -861,6 +913,19 @@ Total
 Base Rent
 
 Available
+
+Unit 608
+
+1
+
+13 mo
+
+$3,430
+
+$3,225
+
+February 15th, 2027
+Calculate my costs
 
 Unit 1908
 
@@ -926,20 +991,20 @@ $3,435
 
 Now
 Calculate my costs
-Show 5 available
+Show 6 available
 
-T-02
+T-15
 
 2 bed
 ·
 2 bath
 ·
-1198 sq. ft.
+1146 sq. ft.
 
 Total from
-$4,405
+$3,630
 
-Base rent from $4,200
+Base rent from $3,425
 
 Unit | Building
 
@@ -950,6 +1015,55 @@ Total
 Base Rent
 
 Available
+
+Unit 615
+
+1
+
+13 mo
+
+$3,630
+
+$3,425
+
+February 15th, 2027
+Calculate my costs
+
+T-02
+
+2 bed
+·
+2 bath
+·
+1198 sq. ft.
+
+Total from
+$4,355
+
+Base rent from $4,150
+
+Unit | Building
+
+Lease
+
+Total
+
+Base Rent
+
+Available
+
+Unit 602A
+
+1
+
+13 mo
+
+$4,355
+
+$4,150
+
+February 15th, 2027
+Calculate my costs
 
 Unit 702A
 
@@ -1041,7 +1155,7 @@ $4,385
 
 December 28th, 2026
 Calculate my costs
-Show 7 available
+Show 8 available
 
 T-14
 
@@ -1208,6 +1322,7 @@ Contact leasing office
 Office hours
 Today
 10:00am - 6:00pm
+Visit property website
 
 Costs and pricing
 
@@ -1290,7 +1405,7 @@ Utility apportionment is allocation: divided eq per unit. Estimated cost is $3.2
 4
 Utility apportionment is submetered water/gas/electric. Estimated cost is $18.94.
 5
-Price varies based on service frequency. 56 Utility apportionment is allocation: divided eq per unit. Estimated cost is $51.68.
+Price varies based on service frequency. Utility apportionment is allocation: divided eq per unit. Estimated cost is $51.68.
 6
 Price varies based on amount of coverage. Estimated cost is $18.75.
 7
@@ -1324,7 +1439,6 @@ Contact us
 Please use the form below to get in touch with us. Provide as much detail as possible about what you're looking for, and one of our experienced agents will contact you shortly to discuss your needs. We’re here to assist you every step of the way!
 
 (512) 254-0291
-Visit property website
 First name
 Last name
 Phone Number

@@ -42,9 +42,9 @@ Call
 
 Total Monthly Price Starting at
 
-$2,942.49
+$2,948.49
 
-(Base Rent $2,880)
+(Base Rent $2,886)
 
 Schedule a Tour
 Floor Plans & Pricing
@@ -82,9 +82,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,942.49/mo.
+$2,948.49/mo.
 
-(Base Rent $2,880)
+(Base Rent $2,886)
 
 Get Pricing
 
@@ -114,9 +114,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,966.49/mo.
+$2,985.49/mo.
 
-(Base Rent $2,904)
+(Base Rent $2,923)
 
 Get Pricing
 
@@ -178,9 +178,9 @@ Available
 
 Total Monthly Price Starting at
 
-$4,099.49/mo.
+$4,105.49/mo.
 
-(Base Rent $4,037)
+(Base Rent $4,043)
 
 Get Pricing
 
@@ -236,9 +236,9 @@ Available
 
 Total Monthly Price Starting at
 
-$4,294.49/mo.
+$4,277.49/mo.
 
-(Base Rent $4,232)
+(Base Rent $4,215)
 
 Get Pricing
 
@@ -268,9 +268,9 @@ Now
 
 Total Monthly Price Starting at
 
-$5,047.49/mo.
+$5,043.49/mo.
 
-(Base Rent $4,985)
+(Base Rent $4,981)
 
 Get Pricing
 
@@ -339,7 +339,7 @@ Accessibility
 Website Terms & Conditions
 Leasing Promotion Terms & Conditions
 Privacy Policy
-Do Not Sell or Share My Personal Information
+Cookie Settings
 
 AMLI’s Upfront Standard
 

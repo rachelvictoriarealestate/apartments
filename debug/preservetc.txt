@@ -72,19 +72,6 @@ $1,406
 Now
 Calculate my costs
 
-Unit 0633
-
-6
-
-12 mo
-
-$1,499
-
-$1,438
-
-January 13th, 2027
-Calculate my costs
-
 Unit 3926
 
 39
@@ -121,7 +108,7 @@ $1,519
 
 $1,458
 
-November 18th, 2026
+Now
 Calculate my costs
 
 Unit 3537
@@ -182,9 +169,9 @@ Unit 2112
 
 15 mo
 
-$1,571
+$1,566
 
-$1,510
+$1,505
 
 Now
 Calculate my costs
@@ -253,7 +240,7 @@ $1,658
 
 January 31st, 2027
 Calculate my costs
-Show 15 available
+Show 14 available
 
 A2
 
@@ -918,8 +905,7 @@ Apply now
 Contact leasing office
 Office hours
 Today
-10:00am - 6:00pm
-Visit property website
+9:00am - 6:00pm
 
 Costs and pricing
 
@@ -1038,6 +1024,7 @@ Contact us
 Please use the form below to get in touch with us. Provide as much detail as possible about what you're looking for, and one of our experienced agents will contact you shortly to discuss your needs. We’re here to assist you every step of the way!
 
 (512) 399-4745
+Visit property website
 First name
 Last name
 Phone Number

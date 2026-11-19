@@ -480,15 +480,6 @@ Open Floor Plan Unit Virtual Tour
 Schedule A Tour
 Apply Now
 VIEW UNIT TOUR
-A4
-1 Bed
-1 Bath
-990 Sq. Ft.
-Waitlist
-STARTING FROM
-$4,119
-/month
-Join Waitlist
 A6
 1 Bed
 1 Bath
@@ -505,6 +496,15 @@ A7
 Waitlist
 STARTING FROM
 $4,305
+/month
+Join Waitlist
+A4
+1 Bed
+1 Bath
+990 Sq. Ft.
+Waitlist
+STARTING FROM
+$4,119
 /month
 Join Waitlist
 More Floor Plans

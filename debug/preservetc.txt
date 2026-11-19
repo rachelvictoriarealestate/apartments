@@ -33,7 +33,11 @@ Floor plans
 
 Floor plans are artist’s rendering. Dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home.
 
-You’re seeing Total Monthly Leasing Prices, which include base rent and mandatory monthly costs.
+You’re seeing Total Monthly Leasing Prices, which include base rent and mandatory monthly costs. Explore each listing for a detailed breakdown.
+All
+1 bedroom
+2 bedrooms
+3+ bedrooms
 All filters
 
 A3
@@ -70,7 +74,8 @@ $1,467
 $1,406
 
 Now
-Calculate my costs
+View details
+, Unit 3526
 
 Unit 3926
 
@@ -83,7 +88,8 @@ $1,509
 $1,448
 
 January 10th, 2027
-Calculate my costs
+View details
+, Unit 3926
 
 Unit 1236
 
@@ -96,7 +102,8 @@ $1,519
 $1,458
 
 Now
-Calculate my costs
+View details
+, Unit 1236
 
 Unit 1933
 
@@ -109,7 +116,8 @@ $1,519
 $1,458
 
 Now
-Calculate my costs
+View details
+, Unit 1933
 
 Unit 3537
 
@@ -122,7 +130,8 @@ $1,519
 $1,458
 
 November 27th, 2026
-Calculate my costs
+View details
+, Unit 3537
 
 Unit 3912
 
@@ -135,7 +144,8 @@ $1,530
 $1,469
 
 Now
-Calculate my costs
+View details
+, Unit 3912
 
 Unit 0113
 
@@ -148,7 +158,8 @@ $1,564
 $1,503
 
 Now
-Calculate my costs
+View details
+, Unit 0113
 
 Unit 1637
 
@@ -161,20 +172,22 @@ $1,564
 $1,503
 
 November 25th, 2026
-Calculate my costs
+View details
+, Unit 1637
 
 Unit 2112
 
 21
 
-15 mo
+14 mo
 
-$1,566
+$1,564
 
-$1,505
+$1,503
 
 Now
-Calculate my costs
+View details
+, Unit 2112
 
 Unit 3512
 
@@ -187,7 +200,8 @@ $1,576
 $1,515
 
 Now
-Calculate my costs
+View details
+, Unit 3512
 
 Unit 1616
 
@@ -200,7 +214,8 @@ $1,619
 $1,558
 
 December 6th, 2026
-Calculate my costs
+View details
+, Unit 1616
 
 Unit 1617
 
@@ -213,7 +228,8 @@ $1,619
 $1,558
 
 December 20th, 2026
-Calculate my costs
+View details
+, Unit 1617
 
 Unit 2116
 
@@ -226,7 +242,8 @@ $1,671
 $1,610
 
 Now
-Calculate my costs
+View details
+, Unit 2116
 
 Unit 1917
 
@@ -239,7 +256,8 @@ $1,719
 $1,658
 
 January 31st, 2027
-Calculate my costs
+View details
+, Unit 1917
 Show 14 available
 
 A2
@@ -276,7 +294,8 @@ $1,469
 $1,408
 
 January 17th, 2027
-Calculate my costs
+View details
+, Unit 3021
 
 Unit 0234
 
@@ -289,7 +308,8 @@ $1,481
 $1,420
 
 Now
-Calculate my costs
+View details
+, Unit 0234
 
 Unit 0224
 
@@ -302,7 +322,8 @@ $1,494
 $1,433
 
 January 27th, 2027
-Calculate my costs
+View details
+, Unit 0224
 
 Unit 2531
 
@@ -315,7 +336,8 @@ $1,509
 $1,448
 
 January 27th, 2027
-Calculate my costs
+View details
+, Unit 2531
 
 Unit 2211
 
@@ -328,7 +350,8 @@ $1,535
 $1,474
 
 Now
-Calculate my costs
+View details
+, Unit 2211
 
 Unit 4014
 
@@ -341,7 +364,22 @@ $1,564
 $1,503
 
 January 16th, 2027
-Calculate my costs
+View details
+, Unit 4014
+
+Unit 2512
+
+25
+
+12 mo
+
+$1,579
+
+$1,518
+
+December 28th, 2026
+View details
+, Unit 2512
 
 Unit 4012
 
@@ -353,9 +391,10 @@ $1,699
 
 $1,638
 
-November 19th, 2026
-Calculate my costs
-Show 7 available
+Now
+View details
+, Unit 4012
+Show 8 available
 
 A1
 
@@ -391,7 +430,8 @@ $1,473
 $1,412
 
 Now
-Calculate my costs
+View details
+, Unit 3232
 
 Unit 1322
 
@@ -404,7 +444,8 @@ $1,483
 $1,422
 
 Now
-Calculate my costs
+View details
+, Unit 1322
 
 Unit 0537
 
@@ -417,7 +458,8 @@ $1,511
 $1,450
 
 Now
-Calculate my costs
+View details
+, Unit 0537
 
 Unit 3213
 
@@ -430,7 +472,8 @@ $1,551
 $1,490
 
 Now
-Calculate my costs
+View details
+, Unit 3213
 
 Unit 0513
 
@@ -443,7 +486,8 @@ $1,575
 $1,514
 
 January 10th, 2027
-Calculate my costs
+View details
+, Unit 0513
 
 Unit 1317
 
@@ -456,7 +500,8 @@ $1,703
 $1,642
 
 January 24th, 2027
-Calculate my costs
+View details
+, Unit 1317
 Show 6 available
 
 B2
@@ -468,9 +513,9 @@ B2
 1062 sq. ft.
 
 Total from
-$1,838
+$1,755
 
-Base rent from $1,777
+Base rent from $1,694
 
 Unit | Building
 
@@ -488,12 +533,13 @@ Unit 0125
 
 13 mo
 
-$1,838
+$1,755
 
-$1,777
+$1,694
 
 Now
-Calculate my costs
+View details
+, Unit 0125
 
 Unit 3928
 
@@ -501,12 +547,13 @@ Unit 3928
 
 13 mo
 
-$1,845
+$1,761
 
-$1,784
+$1,700
 
 January 28th, 2027
-Calculate my costs
+View details
+, Unit 3928
 
 Unit 1928
 
@@ -514,12 +561,13 @@ Unit 1928
 
 13 mo
 
-$1,852
+$1,769
 
-$1,791
+$1,708
 
 Now
-Calculate my costs
+View details
+, Unit 1928
 
 Unit 0131
 
@@ -527,12 +575,13 @@ Unit 0131
 
 12 mo
 
-$1,855
+$1,771
 
-$1,794
+$1,710
 
 January 10th, 2027
-Calculate my costs
+View details
+, Unit 0131
 
 Unit 1635
 
@@ -540,12 +589,13 @@ Unit 1635
 
 12 mo
 
-$1,905
+$1,821
 
-$1,844
+$1,760
 
 January 16th, 2027
-Calculate my costs
+View details
+, Unit 1635
 
 Unit 1914
 
@@ -553,12 +603,13 @@ Unit 1914
 
 13 mo
 
-$1,921
+$1,839
 
-$1,860
+$1,778
 
 Now
-Calculate my costs
+View details
+, Unit 1914
 
 Unit 1215
 
@@ -566,12 +617,13 @@ Unit 1215
 
 12 mo
 
-$1,925
+$1,841
 
-$1,864
+$1,780
 
 December 10th, 2026
-Calculate my costs
+View details
+, Unit 1215
 
 Unit 1911
 
@@ -579,12 +631,13 @@ Unit 1911
 
 13 mo
 
-$1,933
+$1,850
 
-$1,872
+$1,789
 
 Now
-Calculate my costs
+View details
+, Unit 1911
 
 Unit 1618
 
@@ -592,12 +645,13 @@ Unit 1618
 
 12 mo
 
-$2,040
+$1,956
 
-$1,979
+$1,895
 
 January 10th, 2027
-Calculate my costs
+View details
+, Unit 1618
 Show 9 available
 
 A4
@@ -609,9 +663,9 @@ A4
 912 sq. ft.
 
 Total from
-$1,876
+$1,818
 
-Base rent from $1,815
+Base rent from $1,757
 
 Unit | Building
 
@@ -629,12 +683,13 @@ Unit 1311
 
 13 mo
 
-$1,876
+$1,818
 
-$1,815
+$1,757
 
 December 22nd, 2026
-Calculate my costs
+View details
+, Unit 1311
 
 B1
 
@@ -645,9 +700,9 @@ B1
 1054 sq. ft.
 
 Total from
-$1,931
+$1,848
 
-Base rent from $1,870
+Base rent from $1,787
 
 Unit | Building
 
@@ -665,12 +720,13 @@ Unit 2424
 
 13 mo
 
-$1,931
+$1,848
 
-$1,870
+$1,787
 
 Now
-Calculate my costs
+View details
+, Unit 2424
 
 Unit 0431
 
@@ -678,12 +734,13 @@ Unit 0431
 
 12 mo
 
-$1,960
+$1,876
 
-$1,899
+$1,815
 
 December 12th, 2026
-Calculate my costs
+View details
+, Unit 0431
 
 Unit 2922
 
@@ -691,12 +748,13 @@ Unit 2922
 
 12 mo
 
-$1,960
+$1,876
 
-$1,899
+$1,815
 
 February 10th, 2027
-Calculate my costs
+View details
+, Unit 2922
 
 Unit 1432
 
@@ -704,12 +762,13 @@ Unit 1432
 
 13 mo
 
-$1,985
+$1,901
 
-$1,924
+$1,840
 
 Now
-Calculate my costs
+View details
+, Unit 1432
 
 Unit 1131
 
@@ -717,12 +776,13 @@ Unit 1131
 
 12 mo
 
-$1,985
+$1,901
 
-$1,924
+$1,840
 
 January 20th, 2027
-Calculate my costs
+View details
+, Unit 1131
 
 Unit 0821
 
@@ -730,12 +790,13 @@ Unit 0821
 
 12 mo
 
-$1,995
+$1,911
 
-$1,934
+$1,850
 
 January 17th, 2027
-Calculate my costs
+View details
+, Unit 0821
 
 Unit 2923
 
@@ -743,12 +804,13 @@ Unit 2923
 
 12 mo
 
-$2,045
+$1,961
 
-$1,984
+$1,900
 
 January 10th, 2027
-Calculate my costs
+View details
+, Unit 2923
 
 Unit 1411
 
@@ -756,12 +818,13 @@ Unit 1411
 
 15 mo
 
-$2,075
+$1,991
 
-$2,014
+$1,930
 
 November 28th, 2026
-Calculate my costs
+View details
+, Unit 1411
 
 Unit 1412
 
@@ -769,12 +832,13 @@ Unit 1412
 
 12 mo
 
-$2,080
+$1,996
 
-$2,019
+$1,935
 
 December 5th, 2026
-Calculate my costs
+View details
+, Unit 1412
 
 Unit 2914
 
@@ -782,12 +846,13 @@ Unit 2914
 
 12 mo
 
-$2,215
+$2,131
 
-$2,154
+$2,070
 
 January 15th, 2027
-Calculate my costs
+View details
+, Unit 2914
 Show 10 available
 
 C1
@@ -824,7 +889,8 @@ $2,357
 $2,296
 
 January 30th, 2027
-Calculate my costs
+View details
+, Unit 0934
 
 B3
 
@@ -835,9 +901,9 @@ B3
 1165 sq. ft.
 
 Total from
-$2,456
+$2,403
 
-Base rent from $2,395
+Base rent from $2,342
 
 Unit | Building
 
@@ -855,12 +921,13 @@ Unit 2722
 
 12 mo
 
-$2,456
+$2,403
 
-$2,395
+$2,342
 
 January 13th, 2027
-Calculate my costs
+View details
+, Unit 2722
 
 Unit 0525
 
@@ -868,12 +935,13 @@ Unit 0525
 
 13 mo
 
-$2,461
+$2,408
 
-$2,400
+$2,347
 
 Now
-Calculate my costs
+View details
+, Unit 0525
 
 Unit 0323
 
@@ -881,12 +949,13 @@ Unit 0323
 
 13 mo
 
-$2,471
+$2,418
 
-$2,410
+$2,357
 
 Now
-Calculate my costs
+View details
+, Unit 0323
 
 Unit 2733
 
@@ -894,18 +963,19 @@ Unit 2733
 
 12 mo
 
-$2,516
+$2,463
 
-$2,455
+$2,402
 
 January 21st, 2027
-Calculate my costs
+View details
+, Unit 2733
 Show 4 available
 Apply now
 Contact leasing office
 Office hours
 Today
-9:00am - 6:00pm
+10:00am - 6:00pm
 
 Costs and pricing
 

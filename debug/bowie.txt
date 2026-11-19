@@ -31,7 +31,7 @@ Move In Date
 Floorplan
 Floor
 10
-1 avail
+2 avail
 Floor
 11
 1 avail
@@ -61,7 +61,7 @@ Floor
 3 avail
 Floor
 20
-3 avail
+4 avail
 Floor
 21
 2 avail
@@ -82,10 +82,10 @@ Floor
 4 avail
 Floor
 27
-2 avail
+4 avail
 Floor
 28
-2 avail
+3 avail
 Floor
 29
 1 avail
@@ -111,6 +111,20 @@ Floor
 R
 0 avail
 
+B8
+
+View unit
+#1004
+Available Nov 29
+
+2 bed
+2 bath
+1446 sq. ft.
+
+Floorplan layout: B8
+
+Starting at $4,717
+
 A4b
 
 View unit
@@ -131,9 +145,6 @@ Community Fee Guide
 
 Whether you're a current resident or an interested prospect, we want to make it easy to understand what your rent includes and what may constitute additional fees. To help with this, we've created a fee list below so you can quickly see what fees may apply in addition to your base rent.
 
-A place to call home.
-Floorplans
-Book a Tour
 The Bowie
 311 Bowie Street
 Austin, TX 78703
@@ -282,13 +293,13 @@ B8
 2 bed
 2 bath
 1446 sq. ft.
-Starting at $4,720
+Starting at $4,717
 Book a Tour
 Check Availability
 #1004
 Floor 10
 1446 sq. ft.
-Starting at $4,720
+Starting at $4,717
 Available Nov 29
 View on Map
 Lease Now
@@ -451,7 +462,7 @@ Lease Now
 #2414
 Floor 24
 1121 sq. ft.
-Starting at $3,966
+Starting at $3,963
 Available Nov 28
 View on Map
 Lease Now
@@ -528,6 +539,13 @@ Book a Tour
 Check Availability
 #3013
 Floor 30
+1305 sq. ft.
+Starting at $4,339
+Available Now
+View on Map
+Lease Now
+#2713
+Floor 27
 1305 sq. ft.
 Starting at $4,339
 Available Now
@@ -709,6 +727,13 @@ A7
 Starting at $3,067
 Book a Tour
 Check Availability
+#2013
+Floor 20
+938 sq. ft.
+Starting at $3,157
+Available Now
+View on Map
+Lease Now
 #1613
 Floor 16
 938 sq. ft.
@@ -1042,7 +1067,7 @@ Lease Now
 #1309
 Floor 13
 1092 sq. ft.
-Starting at $3,663
+Starting at $3,662
 Available Nov 28
 View on Map
 Lease Now
@@ -1311,7 +1336,7 @@ Check Availability
 #2709
 Floor 27
 1206 sq. ft.
-Starting at $4,189
+Starting at $4,184
 Available Nov 28
 View on Map
 Lease Now
@@ -1403,7 +1428,7 @@ Lease Now
 #1203
 Floor 12
 1148 sq. ft.
-Starting at $3,966
+Starting at $3,963
 Available Nov 28
 View on Map
 Lease Now
@@ -1478,6 +1503,13 @@ A4b
 Starting at $2,900
 Book a Tour
 Check Availability
+#2807
+Floor 28
+842 sq. ft.
+Starting at $3,172
+Available Now
+View on Map
+Lease Now
 #1908
 Floor 19
 842 sq. ft.

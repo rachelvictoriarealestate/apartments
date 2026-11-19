@@ -69,9 +69,9 @@ A4
 1 Bath
 726 ft2
 Avail. Now
-$2,193.89
+$2,192.89
 /mo
-$2,006 Base Rent
+$2,005 Base Rent
 15 Mo.
 267
 A2
@@ -79,9 +79,9 @@ A2
 1 Bath
 702 ft2
 Avail. Now
-$2,088.89
+$2,087.89
 /mo
-$1,901 Base Rent
+$1,900 Base Rent
 15 Mo.
 415
 A4
@@ -89,9 +89,9 @@ A4
 1 Bath
 726 ft2
 Avail. Now
-$2,203.89
+$2,202.89
 /mo
-$2,016 Base Rent
+$2,015 Base Rent
 15 Mo.
 238
 B10
@@ -99,9 +99,9 @@ B10
 2 Bath
 1,513 ft2
 Avail. Now
-$3,507.89
+$3,498.89
 /mo
-$3,320 Base Rent
+$3,311 Base Rent
 15 Mo.
 567
 A2
@@ -109,9 +109,9 @@ A2
 1 Bath
 702 ft2
 Avail. Now
-$2,168.89
+$2,167.89
 /mo
-$1,981 Base Rent
+$1,980 Base Rent
 15 Mo.
 537
 A10
@@ -119,9 +119,9 @@ A10
 1 Bath
 858 ft2
 Avail. Now
-$2,363.89
+$2,362.89
 /mo
-$2,176 Base Rent
+$2,175 Base Rent
 15 Mo.
 381
 A4
@@ -129,9 +129,9 @@ A4
 1 Bath
 726 ft2
 Avail. Now
-$2,118.89
+$2,117.89
 /mo
-$1,931 Base Rent
+$1,930 Base Rent
 15 Mo.
 Special
 454
@@ -140,9 +140,9 @@ B3
 2 Bath
 1,105 ft2
 Avail. Now
-$2,882.89
+$2,873.89
 /mo
-$2,695 Base Rent
+$2,686 Base Rent
 15 Mo.
 1
 2
@@ -528,7 +528,7 @@ Required
 No
 Costs overview footnotes
 
-Date: November 18, 2026
+Date: November 19, 2026
 
 All pricing set forth above is current, but is subject to change at any time prior to submitting your application. You may be required to pay a security deposit and/or a credit risk premium, the amount of which may vary based on your credit and lease/mortgage history (and other criteria), but will not exceed any legal maximum. Some charges may not apply to affordable housing units. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application.
 

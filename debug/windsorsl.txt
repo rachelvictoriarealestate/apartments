@@ -21,7 +21,7 @@ Windsor South Lamar offers a selection of floor plans to meet your everyday need
 VIEW GALLERY
 Limited-Time Special!
 
-Enjoy Up to $1,000 Off on Your First Full Month on 2 Bedrooms Homes!*
+Enjoy $1500 off for the First Full Month on select units!!*
 
 SCHEDULE A TOUR
 
@@ -59,31 +59,12 @@ Clear
 
 Total Monthly Leasing Price includes base rent, and both mandatory and optional customer-selected charges, but excludes variable, usage-based, annual and one-time charges. Final amounts depend on the completed application, lease term, and move-in date.
 
-19 Homes
+18 Homes
 28 Plans
 Sort by
 Available Date (Soonest)
+Special
 559
-A4
-1 Bed
-1 Bath
-726 ft2
-Avail. Now
-$2,192.89
-/mo
-$2,005 Base Rent
-15 Mo.
-267
-A2
-1 Bed
-1 Bath
-702 ft2
-Avail. Now
-$2,087.89
-/mo
-$1,900 Base Rent
-15 Mo.
-415
 A4
 1 Bed
 1 Bath
@@ -93,45 +74,59 @@ $2,202.89
 /mo
 $2,015 Base Rent
 15 Mo.
+Special
+267
+A2
+1 Bed
+1 Bath
+702 ft2
+Avail. Now
+$2,097.89
+/mo
+$1,910 Base Rent
+15 Mo.
+Special
+415
+A4
+1 Bed
+1 Bath
+726 ft2
+Avail. Now
+$2,212.89
+/mo
+$2,025 Base Rent
+15 Mo.
 238
 B10
 2 Bed
 2 Bath
 1,513 ft2
 Avail. Now
-$3,498.89
+$3,491.89
 /mo
-$3,311 Base Rent
+$3,304 Base Rent
 15 Mo.
+Special
 567
 A2
 1 Bed
 1 Bath
 702 ft2
 Avail. Now
-$2,167.89
+$2,177.89
 /mo
-$1,980 Base Rent
+$1,990 Base Rent
 15 Mo.
-537
-A10
-1 Bed
-1 Bath
-858 ft2
-Avail. Now
-$2,362.89
-/mo
-$2,175 Base Rent
-15 Mo.
+Special
 381
 A4
 1 Bed
 1 Bath
 726 ft2
 Avail. Now
-$2,117.89
+$2,127.89
 /mo
-$1,930 Base Rent
+$1,940 Base Rent
 15 Mo.
 Special
 454
@@ -140,9 +135,20 @@ B3
 2 Bath
 1,105 ft2
 Avail. Now
-$2,873.89
+$2,866.89
 /mo
-$2,686 Base Rent
+$2,679 Base Rent
+15 Mo.
+Special
+134
+B3
+2 Bed
+2 Bath
+1,080 ft2
+Avail. Now
+$2,901.89
+/mo
+$2,714 Base Rent
 15 Mo.
 1
 2
@@ -528,7 +534,7 @@ Required
 No
 Costs overview footnotes
 
-Date: November 19, 2026
+Date: November 20, 2026
 
 All pricing set forth above is current, but is subject to change at any time prior to submitting your application. You may be required to pay a security deposit and/or a credit risk premium, the amount of which may vary based on your credit and lease/mortgage history (and other criteria), but will not exceed any legal maximum. Some charges may not apply to affordable housing units. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application.
 

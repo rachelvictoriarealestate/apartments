@@ -33,7 +33,7 @@ Floor plans
 
 Floor plans are artist’s rendering. Dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home.
 
-You’re seeing Total Monthly Leasing Prices, which include base rent and mandatory monthly costs. Explore each listing for a detailed breakdown.
+You’re seeing Total Monthly Leasing Price, which includes base rent and mandatory monthly costs. Explore each listing for a detailed breakdown.
 All
 1 bedroom
 2 bedrooms
@@ -97,9 +97,9 @@ Unit 1236
 
 14 mo
 
-$1,519
+$1,514
 
-$1,458
+$1,453
 
 Now
 View details
@@ -555,6 +555,20 @@ January 28th, 2027
 View details
 , Unit 3928
 
+Unit 0625
+
+6
+
+13 mo
+
+$1,761
+
+$1,700
+
+November 24th, 2026
+View details
+, Unit 0625
+
 Unit 1928
 
 19
@@ -652,7 +666,7 @@ $1,895
 January 10th, 2027
 View details
 , Unit 1618
-Show 9 available
+Show 10 available
 
 A4
 
@@ -975,7 +989,7 @@ Apply now
 Contact leasing office
 Office hours
 Today
-10:00am - 6:00pm
+9:00am - 6:00pm
 
 Costs and pricing
 

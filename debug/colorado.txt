@@ -480,6 +480,15 @@ Open Floor Plan Unit Virtual Tour
 Schedule A Tour
 Apply Now
 VIEW UNIT TOUR
+A4
+1 Bed
+1 Bath
+990 Sq. Ft.
+Waitlist
+STARTING FROM
+$4,119
+/month
+Join Waitlist
 A6
 1 Bed
 1 Bath
@@ -496,15 +505,6 @@ A7
 Waitlist
 STARTING FROM
 $4,305
-/month
-Join Waitlist
-A4
-1 Bed
-1 Bath
-990 Sq. Ft.
-Waitlist
-STARTING FROM
-$4,119
 /month
 Join Waitlist
 More Floor Plans
@@ -581,7 +581,7 @@ B2
 ·
 1,255 Sq. Ft.
 ·
-Move-in Jan 29, 2027
+Move-in Jan 26, 2027
 Enlarge Floor Plan
 Apartment Map
 
@@ -593,14 +593,21 @@ $5,200
 Apply Now
 Schedule A Tour
 2521
+Best Price
 Move-in Jan 29, 2027
 STARTING FROM
 $5,200
 /month
 View Unit
-1 Unit Available
-1 of 1
-1 Available from Jan 29, 2027
+2921
+Move-in Jan 26, 2027
+STARTING FROM
+$5,425
+/month
+View Unit
+2 Units Available
+1–2 of 2
+2 Available from Jan 26, 2027
 Units
 MOVE-IN DATE
 SORT BY
@@ -609,8 +616,8 @@ Default Order
 Price: Low To High
 Price: High To Low
 Available: Soonest
-1 Unit Available
-1 Available from Jan 29, 2027
+2 Units Available
+2 Available from Jan 26, 2027
 UNIT
 2521
 STARTING FROM
@@ -618,6 +625,26 @@ $5,200
 /month
 AVAILABILITY
 Jan 29, 2027
+BEDS
+2
+BATHS
+2
+SIZE
+1,255 Sq. Ft.
+Open Floor Plan Unit Special
+Open Property Apartment Map
+Open Floor Plan Unit Video
+Open Floor Plan Unit Virtual Tour
+Schedule A Tour
+Apply Now
+VIEW UNIT TOUR
+UNIT
+2921
+STARTING FROM
+$5,425
+/month
+AVAILABILITY
+Jan 26, 2027
 BEDS
 2
 BATHS
@@ -1184,16 +1211,15 @@ STARTING FROM
 $15,815
 /month
 Join Waitlist
-B5
+B8
 2 Beds
-2 Baths
-1,503 Sq. Ft.
-Available now
+2.5 Baths
+1,899 Sq. Ft.
+Waitlist
 STARTING FROM
-$7,575
+$9,809
 /month
-Only 2 units left
-View Floor Plan
+Join Waitlist
 More Floor Plans
 
 A NEW STANDARD OF ELEGANCE

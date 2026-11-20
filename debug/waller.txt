@@ -709,86 +709,6 @@ View details
 , Unit 2312
 Show 4 available
 
-T-06
-
-1 bed
-·
-1 bath
-·
-661 sq. ft.
-
-Total from
-$2,630
-
-Base rent from $2,425
-
-Unit | Building
-
-Lease
-
-Total
-
-Base Rent
-
-Available
-
-Unit 806
-
-1
-
-13 mo
-
-$2,630
-
-$2,425
-
-January 20th, 2027
-View details
-, Unit 806
-
-Unit 1806
-
-1
-
-13 mo
-
-$2,695
-
-$2,490
-
-December 28th, 2026
-View details
-, Unit 1806
-
-Unit 2506
-
-1
-
-13 mo
-
-$2,780
-
-$2,575
-
-January 2nd, 2027
-View details
-, Unit 2506
-
-Unit 2906
-
-1
-
-13 mo
-
-$2,820
-
-$2,615
-
-January 24th, 2027
-View details
-, Unit 2906
-Show 4 available
-
 T-13
 
 1 bed
@@ -890,6 +810,71 @@ $2,600
 December 1st, 2026
 View details
 , Unit 2504
+
+T-06
+
+1 bed
+·
+1 bath
+·
+661 sq. ft.
+
+Total from
+$2,695
+
+Base rent from $2,490
+
+Unit | Building
+
+Lease
+
+Total
+
+Base Rent
+
+Available
+
+Unit 1806
+
+1
+
+13 mo
+
+$2,695
+
+$2,490
+
+December 28th, 2026
+View details
+, Unit 1806
+
+Unit 2506
+
+1
+
+13 mo
+
+$2,780
+
+$2,575
+
+January 2nd, 2027
+View details
+, Unit 2506
+
+Unit 2906
+
+1
+
+13 mo
+
+$2,820
+
+$2,615
+
+January 24th, 2027
+View details
+, Unit 2906
 
 T-01
 

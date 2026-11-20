@@ -165,9 +165,9 @@ Now
 
 Total Monthly Price Starting at
 
-$1,936.50/mo.
+$1,928.50/mo.
 
-(Base Rent $1,934)
+(Base Rent $1,926)
 
 Get Pricing
 
@@ -505,7 +505,7 @@ Virtual Tours
 
 C4
 
-2 AVAILABLE UNITS
+3 AVAILABLE UNITS
 
 Bed
 
@@ -557,9 +557,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,981.50/mo.
+$3,011.50/mo.
 
-(Base Rent $2,979)
+(Base Rent $3,009)
 
 Get Pricing
 
@@ -649,9 +649,9 @@ Available
 
 Total Monthly Price Starting at
 
-$4,788.50/mo.
+$4,789.50/mo.
 
-(Base Rent $4,786)
+(Base Rent $4,787)
 
 Get Pricing
 

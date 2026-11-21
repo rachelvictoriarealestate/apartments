@@ -61,7 +61,7 @@ Floor
 0 avail
 Floor
 8
-3 avail
+4 avail
 Floor
 9
 0 avail
@@ -181,6 +181,21 @@ Floorplan layout: 1E
 $3,296 /mo*
 12 months$3,140 Base Rent
 
+1D
+
+View unit
+#0829
+Available Dec 14
+
+1 bed
+1 bath
+615 sq. ft.
+
+Floorplan layout: 1D
+
+$3,110 /mo*
+14 months$2,954 Base Rent
+
 1I
 
 View unit
@@ -291,7 +306,7 @@ Utility - Vacant Cost Recovery
 	Usage-Based (Utilities)	Per Occurrence	Per Occurrence	Situational
 Utility - Vacant Processing Fee 
 	$50.00	Per Occurrence	Per Occurrence	Situational
-Date of Issuance: 11/20/2026
+Date of Issuance: 11/21/2026
 All fees paid to property unless indicated by ⮂ symbol. Unless a fee is explicitly identified as refundable, all fees are non-refundable. Standard Security Deposit subject to change based on screening results; total security deposit(s) will not exceed any legal maximum. Resident may be responsible for maintaining insurance pursuant to the Lease. Some fees may not apply to apartment homes subject to an affordable program. Resident is responsible for damages that exceed ordinary wear and tear. Some items may be taxed under applicable law. This form does not modify the lease. Additional fees may apply in specific situations as detailed in the application and/or lease agreement, which can be requested prior to the application process. All fees are subject to the terms of the application and/or lease. Residents may be responsible for activating and maintaining utility services, including but not limited to electricity, water, gas, and internet, as specified in the lease agreement.
 Price varies based on floor plan type/size. ↩
 Fee does not apply to affordable units. ↩
@@ -503,10 +518,10 @@ Virtual Tour
 1 bed
 1 bath
 615 sq. ft.
-Only 1 left!
-$2,997 /mo*
-13 months
-$2,841 Base Rent
+Only 2 left!
+$2,997 - $3,110 /mo*
+14 months
+$2,841 - $2,954 Base Rent
 2D
 3D
 Virtual Tour
@@ -521,6 +536,14 @@ $2,997 /mo*
 13 months
 $2,841 Base Rent
 Available Now
+#0829
+Building 1
+Floor 8
+615 sq. ft.
+$3,110 /mo*
+14 months
+$2,954 Base Rent
+Available Dec 14
 * Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional fees. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out. Security Deposit may change based on screening results, but total will not exceed legal maximums. Some items may be taxed under applicable law. Some fees may not apply to rental homes subject to an affordable program. All fees are subject to application and/or lease terms. Prices and availability subject to change. Resident is responsible for damages beyond ordinary wear and tear. Resident may need to maintain insurance and to activate and maintain utility services, including but not limited to electricity, water, gas, and internet, per the lease. Additional fees may apply as detailed in the application and/or lease agreement, which can be requested prior to applying.
 Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
 Luxury Downtown Austin Living

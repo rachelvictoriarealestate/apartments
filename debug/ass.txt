@@ -61,7 +61,7 @@ Virtual Tours
 
 E2
 
-2 AVAILABLE UNITS
+3 AVAILABLE UNITS
 
 Bed
 
@@ -601,7 +601,7 @@ Virtual Tours
 
 C6X
 
-0 AVAILABLE UNITS
+1 AVAILABLE UNIT
 
 Bed
 
@@ -615,7 +615,17 @@ SQFT
 
 1265
 
-Contact Office
+Available
+
+1/30/2027
+
+Total Monthly Price Starting at
+
+$4,280.50/mo.
+
+(Base Rent $4,278)
+
+Get Pricing
 
 Square footage & measurements are approximate, and floor plan details may vary.
 
@@ -810,7 +820,7 @@ Accessibility
 Website Terms & Conditions
 Leasing Promotion Terms & Conditions
 Privacy Policy
-Cookie Settings
+Do Not Sell or Share My Personal Information
 
 AMLI’s Upfront Standard
 

@@ -118,7 +118,7 @@ Last 1 Available!
 
 Starting Price
 
-$1,749
+$1,779
 
 See Inside
 See More
@@ -132,7 +132,7 @@ Tomorrow
 
 Starting Price
 
-$1,769
+$1,809
 
 See Inside
 See More
@@ -147,7 +147,7 @@ Only 2 Available!
 
 Starting Price
 
-$1,809
+$1,839
 
 See Inside
 See More
@@ -161,21 +161,7 @@ Tomorrow
 
 Starting Price
 
-$1,839
-
-See Inside
-See More
-2B3
-2 Beds
-2 Baths
-1,177 SqFt
-Only 2 Available!
-
-Tomorrow
-
-Starting Price
-
-$2,179
+$1,879
 
 See Inside
 See More
@@ -189,7 +175,21 @@ Tomorrow
 
 Starting Price
 
-$2,189
+$2,159
+
+See Inside
+See More
+2B3
+2 Beds
+2 Baths
+1,177 SqFt
+Only 2 Available!
+
+Tomorrow
+
+Starting Price
+
+$2,169
 
 See Inside
 See More
@@ -252,7 +252,7 @@ Office Hours
 
 Open
 
-Until 6:00PM
+Until 5:00PM
 
 Connect with us!
 Have questions?

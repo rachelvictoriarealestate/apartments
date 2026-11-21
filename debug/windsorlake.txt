@@ -64,9 +64,9 @@ A7
 1 Bath
 819 ft2
 Avail. Now
-$3,040.14
+$3,047.14
 /mo
-$2,909 Base Rent
+$2,916 Base Rent
 9 Mo.
 Special
 1203
@@ -75,9 +75,9 @@ A1A
 1 Bath
 667 ft2
 Avail. Now
-$2,545.14
+$2,552.14
 /mo
-$2,414 Base Rent
+$2,421 Base Rent
 9 Mo.
 Special
 2602
@@ -130,9 +130,9 @@ A2
 1 Bath
 708 ft2
 Avail. Nov 22
-$2,645.14
+$2,652.14
 /mo
-$2,514 Base Rent
+$2,521 Base Rent
 9 Mo.
 Special
 0703
@@ -141,9 +141,9 @@ A1
 1 Bath
 718 ft2
 Avail. Dec 09
-$2,526.14
+$2,520.14
 /mo
-$2,395 Base Rent
+$2,389 Base Rent
 9 Mo.
 1
 2
@@ -480,7 +480,7 @@ Required
 No
 Costs overview footnotes
 
-Date: November 20, 2026
+Date: November 21, 2026
 
 All pricing set forth above is current, but is subject to change at any time prior to submitting your application. You may be required to pay a security deposit and/or a credit risk premium, the amount of which may vary based on your credit and lease/mortgage history (and other criteria), but will not exceed any legal maximum. Some charges may not apply to affordable housing units. Contact us with any questions and/or request a copy of the lease and any applicable addenda before submitting your application.
 

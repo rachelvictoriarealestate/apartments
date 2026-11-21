@@ -676,16 +676,15 @@ STARTING FROM
 $15,815
 /month
 Join Waitlist
-B5
+B8
 2 Beds
-2 Baths
-1,503 Sq. Ft.
-Available now
+2.5 Baths
+1,899 Sq. Ft.
+Waitlist
 STARTING FROM
-$7,575
+$9,809
 /month
-Only 2 units left
-View Floor Plan
+Join Waitlist
 More Floor Plans
 
 A NEW STANDARD OF ELEGANCE
@@ -1211,15 +1210,16 @@ STARTING FROM
 $15,815
 /month
 Join Waitlist
-B8
+B5
 2 Beds
-2.5 Baths
-1,899 Sq. Ft.
-Waitlist
+2 Baths
+1,503 Sq. Ft.
+Available now
 STARTING FROM
-$9,809
+$7,575
 /month
-Join Waitlist
+Only 2 units left
+View Floor Plan
 More Floor Plans
 
 A NEW STANDARD OF ELEGANCE

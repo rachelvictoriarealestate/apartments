@@ -34,16 +34,16 @@ Floor
 2 avail
 Floor
 11
-1 avail
+2 avail
 Floor
 12
-4 avail
+5 avail
 Floor
 13
-3 avail
+4 avail
 Floor
 14
-3 avail
+4 avail
 Floor
 15
 6 avail
@@ -61,7 +61,7 @@ Floor
 3 avail
 Floor
 20
-4 avail
+6 avail
 Floor
 21
 2 avail
@@ -73,16 +73,16 @@ Floor
 1 avail
 Floor
 24
-5 avail
+6 avail
 Floor
 25
-1 avail
+2 avail
 Floor
 26
 4 avail
 Floor
 27
-4 avail
+5 avail
 Floor
 28
 3 avail
@@ -569,7 +569,7 @@ Lease Now
 Floor 26
 1305 sq. ft.
 Starting at $4,194
-Available Nov 21
+Available Now
 View on Map
 Lease Now
 #2213
@@ -1068,14 +1068,14 @@ Check Availability
 Floor 27
 1092 sq. ft.
 Starting at $3,953
-Available Nov 21
+Available Now
 View on Map
 Lease Now
 #2808
 Floor 28
 1092 sq. ft.
 Starting at $3,938
-Available Nov 21
+Available Now
 View on Map
 Lease Now
 #1309
@@ -1571,14 +1571,14 @@ Lease Now
 Floor 12
 842 sq. ft.
 Starting at $2,915
-Available Nov 21
+Available Now
 View on Map
 Lease Now
 #2008
 Floor 20
 842 sq. ft.
 Starting at $2,975
-Available Nov 21
+Available Now
 View on Map
 Lease Now
 #1508
@@ -1875,7 +1875,7 @@ Check Availability
 Floor 12
 896 sq. ft.
 Starting at $3,100
-Available Nov 21
+Available Now
 View on Map
 Lease Now
 #1402

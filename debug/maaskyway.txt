@@ -107,7 +107,7 @@ Base Rent: $1,558
 1 Bath
 790 Sq. Ft.
 High-Speed WiFi
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 Amenities
 Fireplace
 Redesigned Interior
@@ -124,7 +124,7 @@ Base Rent: $1,358
 1 Bath
 650 Sq. Ft.
 High-Speed WiFi
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 Amenities
 Select K/B upgrades
 Smart Home Technology
@@ -141,7 +141,7 @@ Base Rent: $1,558
 1 Bath
 790 Sq. Ft.
 High-Speed WiFi
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 Amenities
 Fireplace
 Redesigned Interior
@@ -158,7 +158,7 @@ Base Rent: $1,358
 1 Bath
 650 Sq. Ft.
 High-Speed WiFi
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 Amenities
 Redesigned Interior
 Smart Home Technology
@@ -175,7 +175,7 @@ Base Rent: $1,528
 1 Bath
 790 Sq. Ft.
 High-Speed WiFi
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 Amenities
 Smart Home Technology
 Redesigned Interior
@@ -303,10 +303,10 @@ Rent Calc
 Unit #151506
 Special Offer
 Monthly price from
-$1,666
+$1,661
 including fees
 Details
-Base Rent: $1,563
+Base Rent: $1,558
 2 Beds
 1 Bath
 790 Sq. Ft.

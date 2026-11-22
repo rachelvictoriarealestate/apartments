@@ -29,7 +29,7 @@ AMLI Downtown Apartments
 
 AMLI Downtown
 
-(148)
+(147)
 
 201 Lavaca St.
 Austin, TX 78701
@@ -196,40 +196,6 @@ Square footage & measurements are approximate, and floor plan details may vary.
 
 Virtual Tours
 
-Colorado
-
-1 AVAILABLE UNIT
-
-Bed
-
-1
-
-Bath
-
-1
-
-SQFT
-
-967
-
-1005
-
-Available
-
-Now
-
-Total Monthly Price Starting at
-
-$3,275.50/mo.
-
-(Base Rent $3,273)
-
-Get Pricing
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
 Red River
 
 1 AVAILABLE UNIT
@@ -345,6 +311,30 @@ Bath
 SQFT
 
 991
+
+Contact Office
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
+Colorado
+
+0 AVAILABLE UNITS
+
+Bed
+
+1
+
+Bath
+
+1
+
+SQFT
+
+967
+
+1005
 
 Contact Office
 
@@ -505,7 +495,7 @@ Accessibility
 Website Terms & Conditions
 Leasing Promotion Terms & Conditions
 Privacy Policy
-Do Not Sell or Share My Personal Information
+Cookie Settings
 
 AMLI’s Upfront Standard
 

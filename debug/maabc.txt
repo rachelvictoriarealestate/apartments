@@ -116,7 +116,7 @@ Base Rent: $2,395
 2 Beds
 2.5 Baths
 1,230 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 1st Floor
 Amenities
 Two Car Garage
@@ -134,7 +134,7 @@ Base Rent: $2,270
 2 Beds
 2.5 Baths
 1,230 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 1st Floor
 Amenities
 Two Car Garage
@@ -153,7 +153,7 @@ Base Rent: $2,670
 3 Beds
 3.5 Baths
 1,545 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 1st Floor
 Amenities
 Tandem Garage
@@ -171,7 +171,7 @@ Base Rent: $2,260
 2 Beds
 2.5 Baths
 1,253 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 1st Floor
 Amenities
 Tandem Garage
@@ -190,7 +190,7 @@ Base Rent: $2,125
 2 Beds
 2.5 Baths
 1,274 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 1st Floor
 Amenities
 Tandem Garage

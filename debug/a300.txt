@@ -131,38 +131,6 @@ Square footage & measurements are approximate, and floor plan details may vary.
 
 Virtual Tours
 
-A5A
-
-1 AVAILABLE UNIT
-
-Bed
-
-1
-
-Bath
-
-2
-
-SQFT
-
-953
-
-Available
-
-Now
-
-Total Monthly Price Starting at
-
-$2,615.50/mo.
-
-(Base Rent $2,613)
-
-Get Pricing
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
 A5D
 
 Den/Office
@@ -449,6 +417,28 @@ Contact Office
 
 Square footage & measurements are approximate, and floor plan details may vary.
 
+Virtual Tours
+
+A5A
+
+0 AVAILABLE UNITS
+
+Bed
+
+1
+
+Bath
+
+2
+
+SQFT
+
+953
+
+Contact Office
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
 2 Bedrooms
 
 Our 2-bedroom luxury apartment layouts features up to 3 bathrooms with office space and spacious walk-in closets.
@@ -457,7 +447,7 @@ Virtual Tours
 
 C4A
 
-2 AVAILABLE UNITS
+3 AVAILABLE UNITS
 
 Bed
 
@@ -479,9 +469,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,612.50/mo.
+$2,570.50/mo.
 
-(Base Rent $2,610)
+(Base Rent $2,568)
 
 Get Pricing
 
@@ -782,7 +772,7 @@ Accessibility
 Website Terms & Conditions
 Leasing Promotion Terms & Conditions
 Privacy Policy
-Do Not Sell or Share My Personal Information
+Cookie Settings
 
 AMLI’s Upfront Standard
 

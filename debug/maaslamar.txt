@@ -107,7 +107,7 @@ Base Rent: $2,420
 2 Beds
 2 Baths
 1,252 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 2nd Floor
 Amenities
 Double Vanity
@@ -125,7 +125,7 @@ Base Rent: $2,155
 2 Beds
 2 Baths
 966 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 2nd Floor
 Amenities
 Washer and Dryer
@@ -143,7 +143,7 @@ Base Rent: $1,550
 1 Bed
 1 Bath
 505 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 4th Floor
 Amenities
 City View
@@ -161,7 +161,7 @@ Base Rent: $1,410
 1 Bed
 1 Bath
 593 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 2nd Floor
 Amenities
 Medium Balcony
@@ -178,7 +178,7 @@ Base Rent: $1,765
 1 Bed
 1 Bath
 888 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 3rd Floor
 Amenities
 Built-in Bookshelves
@@ -197,7 +197,7 @@ Base Rent: $1,460
 1 Bed
 1 Bath
 593 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 2nd Floor
 Amenities
 Medium Balcony
@@ -215,7 +215,7 @@ Base Rent: $1,420
 1 Bed
 1 Bath
 505 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 2nd Floor
 Amenities
 Washer and Dryer
@@ -234,7 +234,7 @@ Base Rent: $2,390
 2 Beds
 2 Baths
 1,146 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 1st Floor
 Amenities
 Double Vanity
@@ -253,7 +253,7 @@ Base Rent: $2,005
 2 Beds
 2 Baths
 986 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 3rd Floor
 Amenities
 Medium Balcony
@@ -272,29 +272,12 @@ Base Rent: $2,460
 2 Beds
 2 Baths
 1,190 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 2nd Floor
 Amenities
 City View
 Washer and Dryer
 Double Vanity
-Show more
-Apply Now
-Rent Calc
-Unit #II 443
-Monthly price from
-$2,460
-including fees
-Details
-Base Rent: $2,420
-2 Beds
-2 Baths
-1,130 Sq. Ft.
-Available Nov. 21, 2026
-Amenities
-Washer and Dryer
-Double Vanity
-Medium Balcony
 Show more
 Apply Now
 Rent Calc
@@ -307,7 +290,7 @@ Base Rent: $1,555
 1 Bed
 1 Bath
 637 Sq. Ft.
-Available Nov. 21, 2026
+Available Nov. 22, 2026
 1st Floor
 Amenities
 Washer and Dryer
@@ -441,25 +424,6 @@ Amenities
 Pool View
 Washer and Dryer
 Large Balcony
-Show more
-Apply Now
-Rent Calc
-Unit #II 312
-Special Offer
-Monthly price from
-$1,635
-including fees
-Details
-Base Rent: $1,595
-1 Bed
-1 Bath
-637 Sq. Ft.
-Available Dec. 1, 2026
-2nd Floor
-Amenities
-Washer and Dryer
-Phase 2 1B
-Smart Home Technology
 Show more
 Apply Now
 Rent Calc
@@ -682,10 +646,10 @@ Apply Now
 Rent Calc
 Unit #2004
 Monthly price from
-$1,780
+$1,785
 including fees
 Details
-Base Rent: $1,740
+Base Rent: $1,745
 1 Bed
 1 Bath
 846 Sq. Ft.
@@ -700,10 +664,10 @@ Apply Now
 Rent Calc
 Unit #II 321
 Monthly price from
-$1,590
+$1,595
 including fees
 Details
-Base Rent: $1,550
+Base Rent: $1,555
 1 Bed
 1 Bath
 637 Sq. Ft.
@@ -736,10 +700,10 @@ Apply Now
 Rent Calc
 Unit #II 204
 Monthly price from
-$1,610
+$1,615
 including fees
 Details
-Base Rent: $1,570
+Base Rent: $1,575
 1 Bed
 1 Bath
 637 Sq. Ft.
@@ -791,10 +755,10 @@ Apply Now
 Rent Calc
 Unit #II 359
 Monthly price from
-$1,565
+$1,570
 including fees
 Details
-Base Rent: $1,525
+Base Rent: $1,530
 1 Bed
 1 Bath
 601 Sq. Ft.
@@ -881,10 +845,10 @@ Apply Now
 Rent Calc
 Unit #II 532
 Monthly price from
-$1,650
+$1,655
 including fees
 Details
-Base Rent: $1,610
+Base Rent: $1,615
 1 Bed
 1 Bath
 637 Sq. Ft.
@@ -899,10 +863,10 @@ Apply Now
 Rent Calc
 Unit #II 260
 Monthly price from
-$1,535
+$1,540
 including fees
 Details
-Base Rent: $1,495
+Base Rent: $1,500
 1 Bed
 1 Bath
 601 Sq. Ft.
@@ -989,10 +953,10 @@ Apply Now
 Rent Calc
 Unit #3010
 Monthly price from
-$1,685
+$1,690
 including fees
 Details
-Base Rent: $1,645
+Base Rent: $1,650
 1 Bed
 1 Bath
 713 Sq. Ft.
@@ -1007,10 +971,10 @@ Apply Now
 Rent Calc
 Unit #1056
 Monthly price from
-$1,470
+$1,475
 including fees
 Details
-Base Rent: $1,430
+Base Rent: $1,435
 1 Bed
 1 Bath
 586 Sq. Ft.

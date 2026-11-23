@@ -820,9 +820,9 @@ T-06
 661 sq. ft.
 
 Total from
-$2,695
+$2,780
 
-Base rent from $2,490
+Base rent from $2,575
 
 Unit | Building
 
@@ -833,20 +833,6 @@ Total
 Base Rent
 
 Available
-
-Unit 1806
-
-1
-
-13 mo
-
-$2,695
-
-$2,490
-
-December 28th, 2026
-View details
-, Unit 1806
 
 Unit 2506
 
@@ -1393,7 +1379,7 @@ Apply now
 Contact leasing office
 Office hours
 Today
-1:00pm - 5:00pm
+10:00am - 6:00pm
 
 Costs and pricing
 
@@ -1529,15 +1515,6 @@ Similar communities
 
 You’re seeing Total Monthly Leasing Price, which includes base rent and mandatory monthly costs. Explore each listing for a detailed breakdown.
 
-700 River
-700 River Street, Austin, TX 78701
-
-12 month lease from
-$2,774
-
-Base rent from $2,516
-
-Lux Living
 Ashton Austin
 101 Colorado St., Austin, TX 78701
 
@@ -1549,22 +1526,31 @@ Base rent from $2,985
 SEVEN Apartments
 615 W 7th St, Austin, TX 78701
 
-13 month lease from
-$2,404
+12 month lease from
+$2,602
 
-Base rent from $2,342
+Base rent from $2,540
 
-Northshore Apartments
-110 San Antonio Street, Austin, TX 78701
+700 River
+700 River Street, Austin, TX 78701
 
-Contact the community for more information on price and availability
+12 month lease from
+$2,774
 
+Base rent from $2,516
+
+Lux Living
 Railyard Apartments
 201 E. 4th Street, Austin, TX 78701
 
 Contact the community for more information on price and availability
 
 Renovated
+Northshore Apartments
+110 San Antonio Street, Austin, TX 78701
+
+Contact the community for more information on price and availability
+
 Pressler Apartments
 507 Pressler Street, Austin, TX 78703
 
@@ -1576,15 +1562,15 @@ Contact the community for more information on price and availability
 Contact the community for more information on price and availability
 
 Location
-Rivette Tower
-3901 Berkman Dr., Austin, TX 78723
+The Morgan
+1801 Wells Branch Pkwy, Austin, TX 78728
 
 12 month lease from
-$1,335
+$770
 
-Base rent from $1,219
+Base rent from $705
 
-New Listing
+Specials
 1 of 7
 Search Greystar Communities
 Find a rental

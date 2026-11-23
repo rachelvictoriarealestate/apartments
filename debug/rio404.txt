@@ -151,7 +151,7 @@ Utility - Recovery Fee
 	$50.00	Per Occurrence	Situational
 Violation of Animal Policies
 	$100 initial charge + $10/per day	Per Occurrence	Situational
-Date of Issuance: 11/22/2026
+Date of Issuance: 11/23/2026
 [Header Disclaimer Goes Here - Or Null]
  Download PDF
 

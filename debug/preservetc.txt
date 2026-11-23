@@ -233,9 +233,9 @@ Unit 1236
 
 15 mo
 
-$1,435
+$1,426
 
-$1,374
+$1,365
 
 Now
 View details
@@ -419,9 +419,9 @@ A1
 692 sq. ft.
 
 Total from
-$1,549
+$1,546
 
-Base rent from $1,488
+Base rent from $1,485
 
 Unit | Building
 
@@ -439,9 +439,9 @@ Unit 3232
 
 14 mo
 
-$1,549
+$1,546
 
-$1,488
+$1,485
 
 Now
 View details
@@ -1003,7 +1003,7 @@ Apply now
 Contact leasing office
 Office hours
 Today
-Closed
+9:00am - 6:00pm
 
 Costs and pricing
 
@@ -1141,15 +1141,6 @@ Similar communities
 
 You’re seeing Total Monthly Leasing Price, which includes base rent and mandatory monthly costs. Explore each listing for a detailed breakdown.
 
-Jovie Belterra
-167 Hargraves Dr, Austin, TX 78737
-
-12 month lease from
-$1,807
-
-Base rent from $1,699
-
-New Listing
 Anthem at Ledge Stone
 383 Rocky Ridge Trail, Austin, TX 78737
 
@@ -1166,10 +1157,13 @@ $1,497
 
 Base rent from $1,436
 
-Sonora Apartments & Homes
-8350 W US HWY 290, Austin, TX 78736
+Jovie Belterra
+167 Hargraves Dr, Austin, TX 78737
 
-Contact the community for more information on price and availability
+12 month lease from
+$1,807
+
+Base rent from $1,699
 
 New Listing
 Barton Creek Villas
@@ -1178,30 +1172,38 @@ Barton Creek Villas
 Contact the community for more information on price and availability
 
 Renovated
-Oltera in So East
-4404 E Oltorf St, Austin, TX 78741
+Sonora Apartments & Homes
+8350 W US HWY 290, Austin, TX 78736
+
+Contact the community for more information on price and availability
+
+New Listing
+Ashton Austin
+101 Colorado St., Austin, TX 78701
 
 12 month lease from
-$1,018
+$3,143
 
-Base rent from $870
+Base rent from $2,985
 
-The Vaughan
-12601 Innovar Circle, Austin, TX 78754
+Lakeshore Pearl
+2223 Waterloo City Ln, Austin, TX 78741
 
-14 month lease from
-$1,547
+12 month lease from
+$1,262
 
-Base rent from $1,491
+Base rent from $1,200
 
-422 at the Lake
-422 W. Riverside Dr., Austin, TX 78704
+Lux Living
+Foxtail by Banyan
+2611 E. Braker Lane, Austin, TX 78754
 
-14 month lease from
-$2,278
+12 month lease from
+$1,468
 
-Base rent from $2,158
+Base rent from $1,290
 
+New Listing
 1 of 7
 Search Greystar Communities
 Find a rental

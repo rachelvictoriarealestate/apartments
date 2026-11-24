@@ -40,9 +40,9 @@ Studio - 2 Bedrooms
 
 Total Monthly Price Starting at
 
-$2,139.50
+$2,570.50
 
-(Base Rent $2,137)
+(Base Rent $2,568)
 
 Schedule a Tour
 Floor Plans & Pricing
@@ -84,40 +84,6 @@ Square footage & measurements are approximate, and floor plan details may vary.
 1 Bedrooms
 
 We have a variety of 1-bedroom apartment floorplans to suit your lifestyle, including floor plans with with an office/den to work at home.
-
-Virtual Tours
-
-A3
-
-1 AVAILABLE UNIT
-
-Bed
-
-1
-
-Bath
-
-1
-
-SQFT
-
-768
-
-810
-
-Available
-
-1/5/2027
-
-Total Monthly Price Starting at
-
-$2,139.50/mo.
-
-(Base Rent $2,137)
-
-Get Pricing
-
-Square footage & measurements are approximate, and floor plan details may vary.
 
 Virtual Tours
 
@@ -284,6 +250,30 @@ Bath
 SQFT
 
 705
+
+Contact Office
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
+A3
+
+0 AVAILABLE UNITS
+
+Bed
+
+1
+
+Bath
+
+1
+
+SQFT
+
+768
+
+810
 
 Contact Office
 
@@ -491,9 +481,9 @@ Available
 
 Total Monthly Price Starting at
 
-$2,789.50/mo.
+$2,790.50/mo.
 
-(Base Rent $2,787)
+(Base Rent $2,788)
 
 Get Pricing
 
@@ -525,9 +515,9 @@ Available
 
 Total Monthly Price Starting at
 
-$2,953.50/mo.
+$2,954.50/mo.
 
-(Base Rent $2,951)
+(Base Rent $2,952)
 
 Get Pricing
 
@@ -557,9 +547,9 @@ Now
 
 Total Monthly Price Starting at
 
-$3,547.50/mo.
+$3,515.50/mo.
 
-(Base Rent $3,545)
+(Base Rent $3,513)
 
 Get Pricing
 

@@ -111,14 +111,21 @@ $2,510
 Apply Now
 Schedule A Tour
 2620
+Best Price
 Move-in Jan 14, 2027
 STARTING FROM
 $2,510
 /month
 View Unit
-1 Unit Available
-1 of 1
-1 Available from Jan 14, 2027
+4120
+Move-in Jan 30, 2027
+STARTING FROM
+$3,065
+/month
+View Unit
+2 Units Available
+1–2 of 2
+2 Available from Jan 14, 2027
 Units
 MOVE-IN DATE
 SORT BY
@@ -127,8 +134,8 @@ Default Order
 Price: Low To High
 Price: High To Low
 Available: Soonest
-1 Unit Available
-1 Available from Jan 14, 2027
+2 Units Available
+2 Available from Jan 14, 2027
 UNIT
 2620
 STARTING FROM
@@ -136,6 +143,26 @@ $2,510
 /month
 AVAILABILITY
 Jan 14, 2027
+BEDS
+Studio
+BATHS
+1
+SIZE
+554 Sq. Ft.
+Open Floor Plan Unit Special
+Open Property Apartment Map
+Open Floor Plan Unit Video
+Open Floor Plan Unit Virtual Tour
+Schedule A Tour
+Apply Now
+VIEW UNIT TOUR
+UNIT
+4120
+STARTING FROM
+$3,065
+/month
+AVAILABILITY
+Jan 30, 2027
 BEDS
 Studio
 BATHS
@@ -336,7 +363,7 @@ Move-in Jan 14, 2027
 STARTING FROM
 $2,510
 /month
-1 unit
+2 units
 View Floor Plan
 A1
 1 Bed
@@ -502,9 +529,161 @@ A7
 1 Bed
 1 Bath
 1,009 Sq. Ft.
+Move-in Feb 3, 2027
+STARTING FROM
+$4,775
+/month
+1 unit
+View Floor Plan
+More Floor Plans
+
+A NEW STANDARD OF ELEGANCE
+
+Pet Policy
+Residents Portal
+OFFICE HOURS
+Monday – Friday: 9:00 AM – 6:00 PM
+Saturday: 10:00 AM – 6:00 PM
+Sunday: 12:00 PM – 5:00 PM
+CONTACT US
+(737) 339-8970
+415 Colorado St, Austin, Texas, 78701
+MANAGED BY RPM LIVING
+OWNED, DEVELOPED, & MANAGED BY: STONELAKE CAPITAL PARTNERS
+© 2026 415 COLORADO
+PRIVACY POLICY
+DISCLAIMER
+TERMS
+DISCLOSURE AND LICENSING
+We value your privacy
+
+This site uses cookies and similar technologies for essential functionality, analytics, and advertising.
+
+ACCEPT ALL
+MANAGE PREFERENCES
+
+Some third-party technologies may operate outside these controls. Learn more in our Cookie Policy.
+
+Set your cookie preferences
+Essential
+
+Required for core site functionality. These technologies are always active and cannot be disabled through these controls.
+
+Analytics
+
+Helps us understand how visitors use this site so we can measure performance and improve the experience.
+
+Personalized Ads
+
+Allows advertising technologies to measure campaign performance and, where enabled, provide more relevant ads based on browsing activity and interests.
+
+ACCEPT ALL
+REJECT NON-ESSENTIAL
+SAVE PREFERENCES
+
+About these controls: Your preferences apply to technologies managed through this site’s consent controls. Some third-party technologies may operate independently and may not be controlled by these settings. Learn more in our Cookie Policy.
+
+=== PLAN https://www.415colorado.com/floor-plan/a7/
+Skip to main content
+Skip to footer
+
+Now Open! Contact Us To Schedule Your Private Tour & Receive Up To 8 Weeks Free! View Details
+
+Now Open! Contact Us To Schedule Your Private Tour & Receive Up To 8 Weeks Free!
+
+*Lease Terms & Restrictions Apply. Call For More Details.
+
+SCHEDULE YOUR PRIVATE TOUR
+SKYLINE LIVING
+IN AUSTIN, TX
+(737) 339-8970
+SCHEDULE A TOUR
+All Floor Plans
+/
+A7
+Save
+A7
+1 Bed
+·
+1 Bath
+·
+1,009 Sq. Ft.
+·
+Move-in Feb 3, 2027
+Enlarge Floor Plan
+Apartment Map
+
+Floor plans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Please see a representative for details.
+
+STARTING FROM
+$4,775
+/month
+Apply Now
+Schedule A Tour
+4019
+Move-in Feb 3, 2027
+STARTING FROM
+$4,775
+/month
+View Unit
+1 Unit Available
+1 of 1
+1 Available from Feb 3, 2027
+Units
+MOVE-IN DATE
+SORT BY
+Default Order
+Default Order
+Price: Low To High
+Price: High To Low
+Available: Soonest
+1 Unit Available
+1 Available from Feb 3, 2027
+UNIT
+4019
+STARTING FROM
+$4,775
+/month
+AVAILABILITY
+Feb 3, 2027
+BEDS
+1
+BATHS
+1
+SIZE
+1,009 Sq. Ft.
+Open Floor Plan Unit Special
+Open Property Apartment Map
+Open Floor Plan Unit Video
+Open Floor Plan Unit Virtual Tour
+Schedule A Tour
+Apply Now
+A4
+1 Bed
+1 Bath
+990 Sq. Ft.
 Waitlist
 STARTING FROM
-$4,305
+$4,119
+/month
+Join Waitlist
+A5
+1 Bed
+1 Bath
+994 Sq. Ft.
+Move-in Jan 19, 2027
+STARTING FROM
+$4,339
+/month
+1 unit
+View Floor Plan
+A6
+1 Bed
+1 Bath
+1,031 Sq. Ft.
+Waitlist
+STARTING FROM
+$4,130
 /month
 Join Waitlist
 More Floor Plans
@@ -676,16 +855,15 @@ STARTING FROM
 $15,815
 /month
 Join Waitlist
-B5
+B8
 2 Beds
-2 Baths
-1,503 Sq. Ft.
-Available now
+2.5 Baths
+1,899 Sq. Ft.
+Waitlist
 STARTING FROM
-$7,575
+$9,809
 /month
-Only 2 units left
-View Floor Plan
+Join Waitlist
 More Floor Plans
 
 A NEW STANDARD OF ELEGANCE
@@ -1032,13 +1210,13 @@ STARTING FROM
 $15,815
 /month
 Join Waitlist
-B5
+B7
 2 Beds
 2 Baths
-1,503 Sq. Ft.
+1,607 Sq. Ft.
 Available now
 STARTING FROM
-$7,575
+$7,830
 /month
 Only 2 units left
 View Floor Plan
@@ -1211,16 +1389,15 @@ STARTING FROM
 $15,815
 /month
 Join Waitlist
-B5
+B8
 2 Beds
-2 Baths
-1,503 Sq. Ft.
-Available now
+2.5 Baths
+1,899 Sq. Ft.
+Waitlist
 STARTING FROM
-$7,575
+$9,809
 /month
-Only 2 units left
-View Floor Plan
+Join Waitlist
 More Floor Plans
 
 A NEW STANDARD OF ELEGANCE

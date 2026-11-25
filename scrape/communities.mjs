@@ -42,4 +42,9 @@ export const COMMUNITIES = [
   { id: "camdengr",   name: "Camden Gaines Ranch", address: "4424 Gaines Ranch Loop, Austin, TX",  area: "Southwest Parkway · Gaines Ranch", reader: "camden", priceType: "from",  url: "https://www.camdenliving.com/apartments/austin-tx/camden-gaines-ranch" },
   { id: "retreatbc",  name: "Retreat at Barton Creek", address: "3816 S Lamar Blvd, Austin, TX",   area: "Barton Hills · South Lamar",    manual: true, priceType: "from", url: "https://www.retreatatbartoncreek.com/", note: "Studios and 1 beds seen around $1,250–$1,450 (Nov 2026)" },
   { id: "cliffsbc",   name: "Cliffs at Barton Creek", address: "3050 Tamarron Blvd, Austin, TX",   area: "Barton Creek · Bee Caves Rd",   manual: true, priceType: "from", url: "https://www.cliffsatbartoncreek.com/", note: "1 beds seen from about $1,330 (Nov 2026)" },
+  // Added Nov 25, 2026 (East Riverside, for Anna Belle)
+  { id: "urbaneast",  name: "Urban East", address: "6400 E Riverside Dr, Austin, TX",              area: "East Riverside",                  reader: "jonah",    priceType: "total", url: "https://urbaneastatx.com/floorplans/" },
+  { id: "crosstown",  name: "Crosstown", address: "6507 E Riverside Dr, Austin, TX",               area: "East Riverside",                  reader: "jonah",    priceType: "total", url: "https://crosstownatx.com/floorplans/" },
+  { id: "oscar",      name: "The Oscar", address: "6905 E Riverside Dr, Austin, TX",               area: "East Riverside",                  reader: "repli360", priceType: "total", url: "https://www.theoscaratx.com/floor-plans" },
+  { id: "metropolis", name: "Metropolis Apartments", address: "2200 S Pleasant Valley Rd, Austin, TX", area: "East Riverside · Pleasant Valley", reader: "generic", priceType: "from", url: "https://www.metropolisapartmentsaustin.com/floor-plans" },
 ];

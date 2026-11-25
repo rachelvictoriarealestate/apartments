@@ -1,10 +1,13 @@
 {
   "slug": "anna-belle",
   "name": "Anna Belle",
-  "title": "Your South Austin apartment search",
-  "intro": "Studios and 1-bedrooms in South Austin, most within about 15 minutes of your office on MoPac, within your $1,500 budget. Every community here offers in-unit washers and dryers, and prices refresh every morning from each building's own website. Save the ones you like and send them to me, and I'll confirm pricing and set up tours.",
+  "title": "Your South Austin & East Riverside apartment search",
+  "intro": "Studios and 1-bedrooms in South Austin, most within about 15 minutes of your office on MoPac, plus a few in East Riverside you asked about, all within your $1,500 budget. Almost every community here offers in-unit washers and dryers (I've noted the ones that don't), and prices refresh every morning from each building's own website. Save the ones you like and send them to me, and I'll confirm pricing and set up tours.",
   "filters": {
-    "beds": [0, 1],
+    "beds": [
+      0,
+      1
+    ],
     "max": 1500,
     "movein": "2027-02-13"
   },
@@ -17,12 +20,16 @@
     "camdengr",
     "preservetc",
     "maasv",
-    "maawo"
+    "maawo",
+    "urbaneast",
+    "crosstown",
+    "oscar"
   ],
   "manual": [
     "skyline",
     "retreatbc",
-    "cliffsbc"
+    "cliffsbc",
+    "metropolis"
   ],
   "picks": [
     {
@@ -51,6 +58,10 @@
     "bcl": "Advertised rent only. Required fees aren't included, so this may land over $1,500.",
     "camdengr": "Advertised rent only. Required fees aren't included, so this may land over $1,500.",
     "retreatbc": "Advertised rent only. Required fees aren't included; I check this one by hand.",
-    "cliffsbc": "Advertised rent only. I'll confirm the unit has a washer and dryer included."
+    "cliffsbc": "Advertised rent only. I'll confirm the unit has a washer and dryer included.",
+    "urbaneast": "East Riverside, about 20–25 minutes' drive to MoPac & Barton Skyway.",
+    "crosstown": "East Riverside, about 20–25 minutes to MoPac & Barton Skyway. Some homes here are income-restricted; I'll confirm which units you qualify for.",
+    "oscar": "Advertised rent only, required fees aren't included. Washer and dryer hookups only, not included.",
+    "metropolis": "Washer and dryer connections in select units only. I check this one by hand."
   }
 }

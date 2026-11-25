@@ -94,7 +94,7 @@ input[type=number]{width:120px}
 .sec{font-family:var(--display);font-weight:400;font-size:22px;margin:22px 0 8px}
 #picksSec .list,#manualSec .list{padding-bottom:0}
 .pnote{margin-top:8px;font-size:14px;background:var(--accent-soft);color:var(--ink);border-radius:8px;padding:6px 10px}
-.flag{margin-top:8px;font-size:13px;color:var(--special)}
+.flag{margin:0;padding:9px 14px;font-size:13.5px;line-height:1.4;font-weight:600;color:var(--special);background:color-mix(in srgb,var(--special) 10%,transparent);border-bottom:1px solid color-mix(in srgb,var(--special) 25%,transparent)}
 .empty{padding:32px 0;color:var(--muted);text-align:center}
 .tray{position:fixed;left:0;right:0;bottom:0;z-index:10;background:var(--surface);border-top:1px solid var(--line);box-shadow:0 -6px 20px rgba(0,0,0,.08);padding-bottom:env(safe-area-inset-bottom, 0px)}
 .tray .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:12px}
@@ -303,7 +303,8 @@ function renderClientExtras() {
     const id = c.id + "|by hand|";
     if (!ROWS.find((r) => r.id === id)) ROWS.push({ id, c: c.id, plan: "by hand", beds: null, baths: null, sqft: null, unit: null, price: 0, url: c.url, manual: true });
     COMM[c.id] = COMM[c.id] || c;
-    return `<article class="card" data-c="${esc(c.id)}"><div class="chead" style="grid-template-columns:1fr auto"><div class="cmain"><div class="comm">${esc(c.name)}</div><div class="area">${esc(c.area)}</div>${c.note ? `<div class="spec">${esc(c.note)}</div>` : ""}</div>${heartBtn(id)}</div><div class="cfoot"><a href="${esc(c.url)}" target="_blank" rel="noopener">See it on ${esc(c.name)}'s site ↗</a></div></article>`;
+    const mflag = CLIENT && CLIENT.flags && CLIENT.flags[c.id];
+    return `<article class="card" data-c="${esc(c.id)}">${mflag ? `<div class="flag" role="note">${esc(mflag)}</div>` : ""}<div class="chead" style="grid-template-columns:1fr auto"><div class="cmain"><div class="comm">${esc(c.name)}</div><div class="area">${esc(c.area)}</div>${c.note ? `<div class="spec">${esc(c.note)}</div>` : ""}</div>${heartBtn(id)}</div><div class="cfoot"><a href="${esc(c.url)}" target="_blank" rel="noopener">See it on ${esc(c.name)}'s site ↗</a></div></article>`;
   }).join("");
   updateTray();
 }
@@ -418,12 +419,12 @@ function card(g, pickNote) {
   const stale = c.status === "stale" && c.lastGood ? `<span class="tag stale">Prices from ${new Date(c.lastGood).toLocaleDateString("en-US", { month: "short", day: "numeric" })}</span>` : "";
   const showAll = expanded.has(g.key) || g.rows.length <= 3;
   const visible = showAll ? g.rows : g.rows.slice(0, 3);
-  return `<article class="card" data-c="${esc(g.c)}">
+  return `<article class="card" data-c="${esc(g.c)}">${flag ? `<div class="flag" role="note">${esc(flag)}</div>` : ""}
     <div class="chead">${thumb}
       <div class="cmain"><div class="comm">${esc(c.name)}</div><div class="area">${esc(c.area)}</div>
         <div class="spec"><span class="plan">${esc(g.plan)}</span>${[bedTxt(r0.beds), r0.baths != null ? r0.baths + " bath" : "", sq].filter(Boolean).join(" · ")}</div>
         <div class="tags">${special ? `<span class="tag">${esc(special)}</span>` : ""}${stale}</div>
-        ${pickNote ? `<div class="pnote">${esc(pickNote)}</div>` : ""}${flag ? `<div class="flag">${esc(flag)}</div>` : ""}</div>
+        ${pickNote ? `<div class="pnote">${esc(pickNote)}</div>` : ""}</div>
       <div class="from"><div class="p">${money(g.min)}</div><div class="l">${c.priceType === "total" ? "total monthly" : "starting at"}${g.rows.length > 1 ? `<br>${g.rows.length} options` : ""}</div></div>
     </div>
     <div class="units">${visible.map((r) => unitRow(r, c.priceType)).join("")}</div>

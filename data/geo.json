@@ -173,5 +173,25 @@
   "address": "3050 Tamarron Blvd, Austin, TX",
   "lat": 30.258501,
   "lng": -97.802065
+ },
+ "urbaneast": {
+  "address": "6400 E Riverside Dr, Austin, TX",
+  "lat": 30.224677,
+  "lng": -97.701733
+ },
+ "crosstown": {
+  "address": "6507 E Riverside Dr, Austin, TX",
+  "lat": 30.224213,
+  "lng": -97.701968
+ },
+ "oscar": {
+  "address": "6905 E Riverside Dr, Austin, TX",
+  "lat": 30.222337,
+  "lng": -97.697757
+ },
+ "metropolis": {
+  "address": "2200 S Pleasant Valley Rd, Austin, TX",
+  "lat": 30.231406,
+  "lng": -97.726033
  }
 }

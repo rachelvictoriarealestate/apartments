@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:00:51.999Z",
+ "updated": "2026-11-25T15:22:02.630Z",
  "communities": [
   {
    "id": "alexan",
@@ -459,6 +459,62 @@
    "count": 0,
    "lat": 30.258501,
    "lng": -97.802065
+  },
+  {
+   "id": "urbaneast",
+   "name": "Urban East",
+   "area": "East Riverside",
+   "priceType": "total",
+   "url": "https://urbaneastatx.com/floorplans/",
+   "status": "pending",
+   "checked": "2026-11-25T15:22:02.630Z",
+   "lastGood": null,
+   "count": 0,
+   "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://urbaneastatx.com/floorplans/\", waiting until \"domcontentloaded\"\n",
+   "lat": 30.224677,
+   "lng": -97.701733
+  },
+  {
+   "id": "crosstown",
+   "name": "Crosstown",
+   "area": "East Riverside",
+   "priceType": "total",
+   "url": "https://crosstownatx.com/floorplans/",
+   "status": "pending",
+   "checked": "2026-11-25T15:22:02.630Z",
+   "lastGood": null,
+   "count": 0,
+   "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://crosstownatx.com/floorplans/\", waiting until \"domcontentloaded\"\n",
+   "lat": 30.224213,
+   "lng": -97.701968
+  },
+  {
+   "id": "oscar",
+   "name": "The Oscar",
+   "area": "East Riverside",
+   "priceType": "total",
+   "url": "https://www.theoscaratx.com/floor-plans",
+   "status": "pending",
+   "checked": "2026-11-25T15:22:02.630Z",
+   "lastGood": null,
+   "count": 0,
+   "error": "",
+   "lat": 30.222337,
+   "lng": -97.697757
+  },
+  {
+   "id": "metropolis",
+   "name": "Metropolis Apartments",
+   "area": "East Riverside · Pleasant Valley",
+   "priceType": "from",
+   "url": "https://www.metropolisapartmentsaustin.com/floor-plans",
+   "status": "pending",
+   "checked": "2026-11-25T15:22:02.630Z",
+   "lastGood": null,
+   "count": 0,
+   "error": "",
+   "lat": 30.231406,
+   "lng": -97.726033
   }
  ],
  "listings": [

@@ -1,5 +1,806 @@
-ERROR: page.goto: Timeout 45000ms exceeded.
-Call log:
-  - navigating to "https://crosstownatx.com/floorplans/", waiting until "domcontentloaded"
+=== LIST https://www.greystar.com/properties/austin-tx/crosstown-apartments/floorplans
+Skip to main content
+Search
+(0)
+TX
+Austin
+Riverside East Riverside Oltorf
+Crosstown Apartments
+Crosstown Apartments
 
+6507 E. Riverside Dr., Austin, TX, 78741
 
+(737) 637-4136
+Favorite
+Resident portal
+Videos
+3D Tours
+Show all photos
+Building overview
+Discover a new way of living at Crosstown, located in the heart of the vibrant East Riverside district of Austin, TX. Our community represents the epitome of modern, comfortable living, perfectly blended with the excitement and convenience of East Austin's lifestyle. Crosstown's prime location puts you in the midst of the city's best, from leisurely strolls on the boardwalk at Lady Bird Lake to vibrant evenings on Rainey Street or exploring the historic charms of East Austin. Each of our apartments is a masterpiece of design, boasting stunningly crafted interiors and lifestyle-enhancing amenities that cater to your every need. Whether you're looking for a cozy studio, a spacious one-bedroom, or a luxurious two-bedroom apartment, Crosstown offers a variety of options to suit your personal style and preferences. As a pet-friendly community, we welcome your four-legged friends to join in the comfort and excitement. Living here means easy access to the best of Austin, including proximity to the airport, making travel a breeze. Embrace the energy of East Riverside, the serenity of nearby parks, and the convenience of urban living. Crosstown is not just an apartment community; it's a gateway to experiencing the best of Austin's east side living. Join us and take your lifestyle in an exciting new direction at Crosstown.
+Air Conditioning
+Fitness Center
+Controlled Access
+Patio/Balcony
+Pool
+Smoke Free
+Washer/Dryer
+Floor plans
+
+Floor plans are artist’s rendering. Dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home.
+
+You’re seeing Total Monthly Leasing Price, which includes base rent and mandatory monthly costs. Explore each listing for a detailed breakdown.
+All
+Studio
+1 bedroom
+2 bedrooms
+All filters
+
+E1
+
+Studio
+·
+1 bath
+·
+418 sq. ft.
+
+Total from
+$1,008
+
+Base rent from $955
+
+Unit | Building
+
+Lease
+
+Total
+
+Base Rent
+
+Available
+
+Unit 2206
+
+2
+
+12 mo
+
+$1,008
+
+$955
+
+January 16th, 2027
+View details
+, Unit 2206
+
+Unit 1438
+
+1
+
+12 mo
+
+$1,068
+
+$1,015
+
+February 16th, 2027
+View details
+, Unit 1438
+
+Unit 2111
+
+2
+
+12 mo
+
+$1,103
+
+$1,050
+
+Now
+View details
+, Unit 2111
+
+Unit 2209
+
+2
+
+12 mo
+
+$1,103
+
+$1,050
+
+Now
+View details
+, Unit 2209
+
+Unit 2309
+
+2
+
+12 mo
+
+$1,118
+
+$1,065
+
+Now
+View details
+, Unit 2309
+
+Unit 1127
+
+1
+
+12 mo
+
+$1,148
+
+$1,095
+
+Now
+View details
+, Unit 1127
+
+Unit 1529
+
+1
+
+12 mo
+
+$1,148
+
+$1,095
+
+Now
+View details
+, Unit 1529
+
+Unit 1138
+
+1
+
+12 mo
+
+$1,248
+
+$1,195
+
+December 8th, 2026
+View details
+, Unit 1138
+
+Unit 1106
+
+1
+
+12 mo
+
+$1,303
+
+$1,250
+
+January 2nd, 2027
+View details
+, Unit 1106
+
+Unit 1442
+
+1
+
+12 mo
+
+$1,308
+
+$1,255
+
+Now
+View details
+, Unit 1442
+
+Unit 1331
+
+1
+
+12 mo
+
+$1,333
+
+$1,280
+
+Now
+View details
+, Unit 1331
+
+Unit 1227
+
+1
+
+12 mo
+
+$1,333
+
+$1,280
+
+Now
+View details
+, Unit 1227
+
+Unit 1429
+
+1
+
+12 mo
+
+$1,333
+
+$1,280
+
+January 12th, 2027
+View details
+, Unit 1429
+Show 13 available
+
+A1
+
+1 bed
+·
+1 bath
+·
+555 sq. ft.
+
+Total from
+$1,428
+
+Base rent from $1,375
+
+Unit | Building
+
+Lease
+
+Total
+
+Base Rent
+
+Available
+
+Unit 1340
+
+1
+
+12 mo
+
+$1,428
+
+$1,375
+
+December 15th, 2026
+View details
+, Unit 1340
+
+Unit 1019
+
+1
+
+12 mo
+
+$1,458
+
+$1,405
+
+January 23rd, 2027
+View details
+, Unit 1019
+
+A2
+
+1 bed
+·
+1 bath
+·
+648 sq. ft.
+
+Total from
+$1,463
+
+Base rent from $1,410
+
+Unit | Building
+
+Lease
+
+Total
+
+Base Rent
+
+Available
+
+Unit 1346
+
+1
+
+12 mo
+
+$1,463
+
+$1,410
+
+Now
+View details
+, Unit 1346
+
+Unit 2107
+
+2
+
+12 mo
+
+$1,473
+
+$1,420
+
+December 1st, 2026
+View details
+, Unit 2107
+
+Unit 2207
+
+2
+
+12 mo
+
+$1,523
+
+$1,470
+
+December 26th, 2026
+View details
+, Unit 2207
+
+Unit 1215
+
+1
+
+12 mo
+
+$1,528
+
+$1,475
+
+January 16th, 2027
+View details
+, Unit 1215
+
+Unit 1015
+
+1
+
+12 mo
+
+$1,528
+
+$1,475
+
+January 26th, 2027
+View details
+, Unit 1015
+
+Unit 1411
+
+1
+
+12 mo
+
+$1,553
+
+$1,500
+
+January 30th, 2027
+View details
+, Unit 1411
+Show 6 available
+
+A3
+
+1 bed
+·
+1 bath
+·
+665 sq. ft.
+
+Total from
+$1,553
+
+Base rent from $1,500
+
+Unit | Building
+
+Lease
+
+Total
+
+Base Rent
+
+Available
+
+Unit 1101
+
+1
+
+12 mo
+
+$1,553
+
+$1,500
+
+January 9th, 2027
+View details
+, Unit 1101
+
+B1
+
+2 bed
+·
+2 bath
+·
+768 sq. ft.
+
+Total from
+$1,663
+
+Base rent from $1,610
+
+Unit | Building
+
+Lease
+
+Total
+
+Base Rent
+
+Available
+
+Unit 1237
+
+1
+
+12 mo
+
+$1,663
+
+$1,610
+
+Now
+View details
+, Unit 1237
+
+Unit 1337
+
+1
+
+12 mo
+
+$1,693
+
+$1,640
+
+Now
+View details
+, Unit 1337
+
+Unit 2002
+
+2
+
+12 mo
+
+$1,743
+
+$1,690
+
+December 18th, 2026
+View details
+, Unit 2002
+
+Unit 1113
+
+1
+
+12 mo
+
+$1,793
+
+$1,740
+
+Now
+View details
+, Unit 1113
+
+Unit 1323
+
+1
+
+12 mo
+
+$1,833
+
+$1,780
+
+January 8th, 2027
+View details
+, Unit 1323
+Show 5 available
+
+B2
+
+2 bed
+·
+2 bath
+·
+980 sq. ft.
+
+Total from
+$1,768
+
+Base rent from $1,715
+
+Unit | Building
+
+Lease
+
+Total
+
+Base Rent
+
+Available
+
+Unit 1444
+
+1
+
+12 mo
+
+$1,768
+
+$1,715
+
+Now
+View details
+, Unit 1444
+Apply now
+Contact leasing office
+Office hours
+Today
+9:00am - 6:00pm
+
+Costs and pricing
+
+You’re seeing total monthly leasing price which includes base rent, all mandatory monthly costs and any user-selected optional add-ons. Excludes variable or usage-based costs and required charges due at or prior to move-in or at move-out.
+
+For more information, see pricing and costs.
+
+Building amenities
+Apartment features
+Quartz countertops and tile backsplashes
+Community amenities
+Stainless steel Energy Star appliances
+Wood-Style Flooring
+Coworking area with conference room and privacy booths
+resort style pool courtyard
+Fitness Center with Yoga Studio
+Pickleball Court
+Bicycle Storage
+Coworking Space with Privacy Booths
+Map
+Greater Austin is a diverse area containing tech hubs and rich cultural hotspots with top-rated schools. Find your ideal apartment in the wide range of neighborhoods.
+Explore Greater Austin
+GS
+Keyboard shortcuts
+Map data ©2026 Google
+Terms
+Report a map error
+Pricing and costs
+What is Total Monthly Leasing Price (TMLP)?
+
+Total Monthly Leasing Price includes base rent, all monthly mandatory and any user-selected optional add-ons. Excludes variable, usage-based, and required charges due at or prior to move-in or at move-out…
+
+Read more
+Cost table
+
+Use this table to understand what your initial and monthly costs will be in addition to your total monthly rent cost.
+
+Essentials
+Move-in basics
+Personalized add-ons
+Situational
+
+Essentials
+
+These required fees are charged one time or recurring during the lease term.
+
+Fee type	Amount	Due	
+Utility - Gas1	Usage-Based (Utilities) per unit	Monthly	
+
+Utility - Stormwater/Drainage Admin Fee	$1.62 per unit	Monthly	
+
+Trash Administrative Fee	$3.00 per unit	Monthly	
+
+Utility - Gas Administrative Fee	$3.00 per unit	Monthly	
+
+Community Amenity Fee	$15.00 per unit	Monthly	
+
+Trash Services - Doorstep	$25.00 per unit	Monthly	
+
+Renters Liability Insurance - Third Party2
+Paid to third party
+	Varies per leaseholder	Monthly	
+
+Trash Services - Hauling3	Varies per unit	Monthly	
+
+Utility - Electric - Third Party4
+Paid to third party
+	Usage-Based (Utilities) per unit	Monthly	
+
+Utility - Water/Wastewater Submeter Admin Fee5	Usage-Based (Utilities) per unit	Monthly	
+
+Pest Control Services	$5.00 per unit	Monthly	
+
+Utility - Water/Sewer6	Usage-Based (Utilities) per unit	Monthly	
+
+All fees paid to property unless indicated by
+symbol
+
+1
+Utility apportionment is allocation: ratio occupancy formula. Estimated cost is $5.82.
+2
+Price varies based on amount of coverage. Estimated cost is $18.75.
+3
+Utility apportionment is allocation: sq footage of unit. Estimated cost is $23.01.
+4
+Estimated cost is $70.76.
+5
+Estimated cost is $2.31.
+6
+Utility apportionment is water use based on submetered cold water. Estimated cost is $45.68.
+7
+Price varies based on floor plan type/size.
+8
+Price varies based on rentable item size.
+9
+Price varies based on screening conditions.
+10
+Price varies based on floor plan type/size.
+11
+Price varies based on payment method.
+12
+Price varies based on device type.
+13
+Price varies based on type of non-compliance.
+Contact us
+
+Please use the form below to get in touch with us. Provide as much detail as possible about what you're looking for, and one of our experienced agents will contact you shortly to discuss your needs. We’re here to assist you every step of the way!
+
+(737) 637-4136
+Visit property website
+First name
+Last name
+Phone Number
+Email Address
+Move-in date
+Add MM/DD/YYYY format. For example, 02/21/2025
+Message (optional)
+I agree to receive marketing communications, including news, offers, and updates about properties, services, and events from Greystar and its affiliated companies, by email. I understand that I can withdraw my consent at any time by following the unsubscribe link in any email or by contacting Greystar directly. For more information, please see our Global Privacy Policy.
+Submit
+
+By clicking "Submit," you consent to receive email communications from Greystar solely in connection with your inquiry and the specific property you have expressed interest in. You confirm that the contact information provided is your own. Your information will be processed in accordance with our Global Privacy Policy. You may unsubscribe from these communications at any time by clicking the unsubscribe link or replying "unsubscribe" to any message.
+
+Similar communities
+
+Similar communities
+
+You’re seeing Total Monthly Leasing Price, which includes base rent and mandatory monthly costs. Explore each listing for a detailed breakdown.
+
+Alexan Rivercrest
+1301 Parker Lane, Austin, TX 78741
+
+12 month lease from
+$1,906
+
+Base rent from $1,740
+
+Brand New
+Waterloo Flats
+1300 S. Pleasant Valley Rd., Austin, TX 78741
+
+12 month lease from
+$864
+
+Base rent from $850
+
+Lakeshore Pearl
+2223 Waterloo City Ln, Austin, TX 78741
+
+12 month lease from
+$1,262
+
+Base rent from $1,200
+
+Lux Living
+Oltera in So East
+4404 E Oltorf St, Austin, TX 78741
+
+12 month lease from
+$992
+
+Base rent from $844
+
+Alexan Riverside
+1400 Royal Crest Drive, Austin, TX 78741
+
+12 month lease from
+$1,716
+
+Base rent from $1,595
+
+Move In Specials
+Azul Lakeshore Apartments
+1201 Lady Bird Lane, Austin, TX 78741
+
+12 month lease from
+$1,123
+
+Base rent from $1,075
+
+Zoey
+5700 E Riverside Dr., Austin, TX 78741
+
+14 month lease from
+$1,268
+
+Base rent from $1,163
+
+Urban East
+6400 E Riverside Dr., Austin, TX 78741
+
+Contact the community for more information on price and availability
+
+Move In Specials
+1 of 7
+Search Greystar Communities
+Find a rental
+Search for homes
+Homes to rent
+Location guides
+Renters resources
+Avoid rental scams
+Renters' resources
+Renters’ rights & resources
+Customer help
+Company
+Why rent with us
+Greystar Blog
+Careers at Greystar
+Business services
+Partners & regions
+Regions
+Product Specialties
+Legal & settings
+Privacy
+Terms & conditions
+Disclosures & licenses
+DMCA
+Customize Cookie Settings
+Website accessibility
+
+© 2026 Greystar Worldwide, LLC
+
+Also of Interest
+Apartments for Rent in East Austin, TX
+Apartments for Rent in Riverside / East Riverside - Oltorf, TX
+Apartments for Rent in Riverside East Riverside Oltorf, TX
+
+This website is for informational purposes only and does not constitute an offer, solicitation, or recommendation to sell or an offer to purchase any securities, investment products, or investment advisory services. This website and the information set forth herein are current as of May 25, 2025, and are not intended to provide investment recommendations or advice.
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Essential cookies are always activated since they are essential to provide basic functionalities of the websitePrivacy Policy
+Customize Settings Accept All Cookies

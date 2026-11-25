@@ -175,6 +175,25 @@ export function repliPlans(text, today) {
       base: num(m[9]),
     });
   }
+  if (out.length) return out;
+  // Base-rent-only layout (The Oscar, Nov 2026):
+  // "A1 ONE BEDROOMS | 1 BATH | 585 SQ.FT. | 2 UNITS AVAILABLE Starting $1,299 Available Now"
+  const re2 = /(?:^|\s)([0-9A-Z][\w]{0,5}(?:\s*-\s*AFFORDABLE)?)\s+(STUDIOS?|ONE BEDROOMS?|TWO BEDROOMS?|THREE BEDROOMS?)\s*\|\s*([\d.]+)\s*BATHS?\s*\|\s*([\d,]+)(?:\s*-\s*([\d,]+))?\s*SQ\.?\s*FT\.?\s*\|\s*(\d+)\s*UNITS?\s*AVAILABLE\s+Starting\s+\$([\d,]+(?:\.\d+)?)\s*\*?\s*(?:Available\s+(Now|[A-Z][a-z]+\.?\s+\d{1,2}(?:,?\s*\d{4})?|\d{1,2}\/\d{1,2}\/\d{2,4}))?/g;
+  for (const m of t.matchAll(re2)) {
+    const w = m[2].split(" ")[0].toUpperCase().replace(/^STUDIOS$/, "STUDIO");
+    out.push({
+      name: m[1].replace(/\s*-\s*AFFORDABLE/i, "").trim(),
+      affordable: /AFFORDABLE/i.test(m[1]),
+      beds: WORD_BEDS[w],
+      baths: +m[3],
+      sqft: num(m[4]),
+      sqftHigh: num(m[5]),
+      units: +m[6],
+      price: num(m[7]),
+      available: m[8] ? parseDate(m[8], today) : null,
+      base: num(m[7]),
+    });
+  }
   return out;
 }
 

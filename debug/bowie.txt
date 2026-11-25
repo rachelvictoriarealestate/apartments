@@ -43,7 +43,7 @@ Floor
 4 avail
 Floor
 14
-4 avail
+5 avail
 Floor
 15
 6 avail
@@ -73,7 +73,7 @@ Floor
 1 avail
 Floor
 24
-6 avail
+5 avail
 Floor
 25
 2 avail
@@ -131,9 +131,6 @@ Community Fee Guide
 
 Whether you're a current resident or an interested prospect, we want to make it easy to understand what your rent includes and what may constitute additional fees. To help with this, we've created a fee list below so you can quickly see what fees may apply in addition to your base rent.
 
-A place to call home.
-Floorplans
-Book a Tour
 The Bowie
 311 Bowie Street
 Austin, TX 78703
@@ -212,84 +209,6 @@ Floor 34
 2654 sq. ft.
 Starting at $9,800
 Available Now
-View on Map
-Lease Now
-Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
-A place to call home.
-Floorplans
-Book a Tour
-The Bowie
-311 Bowie Street
-Austin, TX 78703
-Call us at
-(512) 643-8239
-Pet Policy
-Home
-Amenities
-Floorplans
-Neighborhood
-Gallery
-Residents
-Contact
-© Copyright 2026 The Bowie. All Rights Reserved.
-Privacy Policy
-Disclosures & Licenses
-Site Map
-.st0{fill:#4A4A4A;}
-This site uses cookies to improve your browsing experience. By using our site you agree to our use of cookies.
-I Agree
-How We Use Your Data
-Contact Us
-
-=== PLAN https://liveatbowie.com/floorplans/b8/
-Skip to main content
-×
-Pet Policy
-We welcome all your furry friends at The Bowie. Some pet restrictions apply. Call us for more information!
-Call
-Call us at
-(512) 643-8239
-Tour
-.cls-1{fill:#fff;}
-Home
-Amenities
-Floorplans
-Neighborhood
-Gallery
-Residents
-Contact
-Find Your Home
-Book a Tour
-Home
-Amenities
-Floorplans
-Neighborhood
-Gallery
-Residents
-Contact
-Find Your Home
-311 Bowie Street
-|
-Austin, TX 78703
-Call us at
-(512) 643-8239
-Book a Tour
-Find Your Home
-Studio, 1, 2, & 3-Bedroom Floor Plans in Austin
-« Back
-« Back
-B8
-2 bed
-2 bath
-1446 sq. ft.
-Starting at $4,996
-Book a Tour
-Check Availability
-#2404
-Floor 24
-1446 sq. ft.
-Starting at $4,996
-Available Dec 26
 View on Map
 Lease Now
 Floorplans are artist’s rendering. All dimensions are approximate. Actual product and specifications may vary in dimension or detail. Not all features are available in every rental home. Prices and availability are subject to change. Please see a representative for details.
@@ -438,7 +357,7 @@ B2c
 2 bed
 2 bath
 1121 sq. ft.
-Starting at $3,783
+Starting at $3,800
 Book a Tour
 Check Availability
 #2414
@@ -451,7 +370,7 @@ Lease Now
 #2314
 Floor 23
 1121 sq. ft.
-Starting at $3,783
+Starting at $3,800
 Available Dec 14
 View on Map
 Lease Now
@@ -564,7 +483,7 @@ Lease Now
 #2713
 Floor 27
 1305 sq. ft.
-Starting at $4,346
+Starting at $4,366
 Available Dec 14
 View on Map
 Lease Now
@@ -1156,7 +1075,7 @@ Check Availability
 Floor 26
 872 sq. ft.
 Starting at $3,085
-Available Nov 25
+Available Now
 View on Map
 Lease Now
 #1506
@@ -1261,7 +1180,7 @@ Check Availability
 #2615
 Floor 26
 703 sq. ft.
-Starting at $2,687
+Starting at $2,686
 Available Nov 28
 View on Map
 Lease Now
@@ -1445,7 +1364,7 @@ Lease Now
 #1503
 Floor 15
 1148 sq. ft.
-Starting at $3,949
+Starting at $3,966
 Available Dec 14
 View on Map
 Lease Now
@@ -1532,7 +1451,7 @@ A4b
 1 bed
 1 bath
 842 sq. ft.
-Starting at $2,850
+Starting at $2,753
 Book a Tour
 Check Availability
 #2807
@@ -1545,7 +1464,7 @@ Lease Now
 #1508
 Floor 15
 842 sq. ft.
-Starting at $2,920
+Starting at $2,901
 Available Dec 02
 View on Map
 Lease Now
@@ -1573,14 +1492,14 @@ Lease Now
 #1408
 Floor 14
 842 sq. ft.
-Starting at $2,850
+Starting at $2,753
 Available Dec 14
 View on Map
 Lease Now
 #1908
 Floor 19
 842 sq. ft.
-Starting at $3,000
+Starting at $3,006
 Available Dec 14
 View on Map
 Lease Now
@@ -1659,13 +1578,20 @@ A3
 1 bed
 1 bath
 837 sq. ft.
-Starting at $2,844
+Starting at $2,842
 Book a Tour
 Check Availability
+#2711
+Floor 27
+837 sq. ft.
+Starting at $3,137
+Available Now
+View on Map
+Lease Now
 #1112
 Floor 11
 837 sq. ft.
-Starting at $2,844
+Starting at $2,842
 Available Nov 28
 View on Map
 Lease Now
@@ -1694,13 +1620,6 @@ Lease Now
 Floor 12
 837 sq. ft.
 Starting at $2,991
-Available Dec 26
-View on Map
-Lease Now
-#2711
-Floor 27
-837 sq. ft.
-Starting at $3,142
 Available Dec 26
 View on Map
 Lease Now
@@ -1860,6 +1779,20 @@ A6
 Starting at $2,940
 Book a Tour
 Check Availability
+#3302
+Floor 33
+896 sq. ft.
+Starting at $3,306
+Available Nov 30
+View on Map
+Lease Now
+#3202
+Floor 32
+896 sq. ft.
+Starting at $3,143
+Available Dec 03
+View on Map
+Lease Now
 #1402
 Floor 14
 896 sq. ft.

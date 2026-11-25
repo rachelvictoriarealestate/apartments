@@ -83,7 +83,7 @@ Closed
 Residents of MAA Barton Creek luxury apartments for rent in the Barton Hills neighborhood, southwest of Austin, enjoy incredible community amenities, including a gorgeous pool, grill area, fitness center, and dog park where all breeds are welcome. All apartments have smart home technology, an in-unit washer and dryer, and so much more. Just steps from home, you can explore the lush trails of Barton Creek Greenbelt or head to Zilker Park to enjoy festivals, live music, or a relaxing afternoon outdoors. Nearby restaurants make it easy to grab a great meal—Chinatown Westlake offers classic favorites, Rudy’s “Country Store” and Bar-B-Q serves up local barbecue staples, and Lou’s Barton Springs is a neighborhood favorite for casual drinks and bites. For shopping, Barton Creek Square provides everything from big-name stores to quick dining spots, while South Congress Avenue offers a lively mix of boutiques, vintage shops, and local cafes. Art and culture lovers will appreciate easy access to the Umlauf Sculpture Garden + Museum, Austin Nature & Science Center, Blanton Museum of Art, and The Long Center for the Performing Arts. And when it’s time for game day excitement, you’re just a short trip from Texas Longhorns games at the Darrell K Royal – Texas Memorial Stadium. Plus, the community is in the excellent Eanes school district, making it a great choice for families. Welcome home!
 
 Monthly price from
-$1,908 - $5,683
+$1,908 - $5,678
 including fees
 Bedrooms
 1 - 3 bd
@@ -116,7 +116,7 @@ Base Rent: $2,395
 2 Beds
 2.5 Baths
 1,230 Sq. Ft.
-Available Nov. 24, 2026
+Available Nov. 25, 2026
 1st Floor
 Amenities
 Two Car Garage
@@ -134,7 +134,7 @@ Base Rent: $2,270
 2 Beds
 2.5 Baths
 1,230 Sq. Ft.
-Available Nov. 24, 2026
+Available Nov. 25, 2026
 1st Floor
 Amenities
 Two Car Garage
@@ -146,32 +146,14 @@ Rent Calc
 Unit #2226
 Special Offer
 Monthly price from
-$2,683
+$2,678
 including fees
 Details
-Base Rent: $2,665
+Base Rent: $2,660
 3 Beds
 3.5 Baths
 1,545 Sq. Ft.
-Available Nov. 24, 2026
-1st Floor
-Amenities
-Tandem Garage
-Medium Balcony
-Gas Fireplace
-Show more
-Apply Now
-Rent Calc
-Unit #623
-Monthly price from
-$2,278
-including fees
-Details
-Base Rent: $2,260
-2 Beds
-2.5 Baths
-1,253 Sq. Ft.
-Available Nov. 24, 2026
+Available Nov. 25, 2026
 1st Floor
 Amenities
 Tandem Garage
@@ -190,30 +172,12 @@ Base Rent: $2,125
 2 Beds
 2.5 Baths
 1,274 Sq. Ft.
-Available Nov. 24, 2026
+Available Nov. 25, 2026
 1st Floor
 Amenities
 Tandem Garage
 Stainless Steel Appliances Upg
 Medium Balcony
-Show more
-Apply Now
-Rent Calc
-Unit #126
-Monthly price from
-$2,403
-including fees
-Details
-Base Rent: $2,385
-2 Beds
-2.5 Baths
-1,230 Sq. Ft.
-Available Dec. 8, 2026
-1st Floor
-Amenities
-Two Car Garage
-End Unit
-Gas Fireplace
 Show more
 Apply Now
 Rent Calc
@@ -237,10 +201,10 @@ Apply Now
 Rent Calc
 Unit #223
 Monthly price from
-$2,318
+$2,328
 including fees
 Details
-Base Rent: $2,300
+Base Rent: $2,310
 2 Beds
 2.5 Baths
 1,274 Sq. Ft.
@@ -255,10 +219,10 @@ Apply Now
 Rent Calc
 Unit #2031
 Monthly price from
-$2,058
+$2,053
 including fees
 Details
-Base Rent: $2,040
+Base Rent: $2,035
 1 Bed
 1 Bath
 837 Sq. Ft.
@@ -273,10 +237,10 @@ Apply Now
 Rent Calc
 Unit #222
 Monthly price from
-$2,943
+$2,953
 including fees
 Details
-Base Rent: $2,925
+Base Rent: $2,935
 3 Beds
 3.5 Baths
 1,545 Sq. Ft.
@@ -291,10 +255,10 @@ Apply Now
 Rent Calc
 Unit #2438
 Monthly price from
-$1,983
+$1,978
 including fees
 Details
-Base Rent: $1,965
+Base Rent: $1,960
 1 Bed
 1 Bath
 837 Sq. Ft.
@@ -309,10 +273,10 @@ Apply Now
 Rent Calc
 Unit #121
 Monthly price from
-$2,493
+$2,503
 including fees
 Details
-Base Rent: $2,475
+Base Rent: $2,485
 2 Beds
 2.5 Baths
 1,230 Sq. Ft.
@@ -322,6 +286,24 @@ Amenities
 Two Car Garage
 Stainless Steel Appliances Upg
 End Unit
+Show more
+Apply Now
+Rent Calc
+Unit #1929
+Monthly price from
+$1,918
+including fees
+Details
+Base Rent: $1,900
+1 Bed
+1 Bath
+837 Sq. Ft.
+Available Feb. 10, 2027
+1st Floor
+Amenities
+One Car Garage
+Medium Balcony
+Vinyl Flooring
 Show more
 Apply Now
 Rent Calc
@@ -414,7 +396,7 @@ DOWNTOWN AUSTIN | TRAVIS HEIGHTS | ZILKER PARK
 MAA South Lamar
 
 Monthly price from
-$1,450 - $5,090 including fees
+$1,450 - $5,075 including fees
 Studio–2 bd
 1500 South Lamar Blvd, Austin, TX 78704
 Quick View
@@ -426,7 +408,7 @@ BARTON HILLS | ZILKER PARK | ROLLINGWOOD
 MAA Barton Skyway
 
 Monthly price from
-$1,456 - $3,686 including fees
+$1,456 - $3,456 including fees
 1–2 bd
 2901 Barton Skyway, Austin, TX 78746
 Quick View
@@ -438,7 +420,7 @@ UNIVERSITY HILLS
 MAA East Austin
 
 Monthly price from
-$836 - $2,576 including fees
+$836 - $2,586 including fees
 Studio–2 bd
 6600 Ed Bluestein, Austin, TX 78723
 Quick View

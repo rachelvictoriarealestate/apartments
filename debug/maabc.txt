@@ -109,14 +109,14 @@ All Filters
 Unit #2524
 Special Offer
 Monthly price from
-$2,413
+$2,408
 including fees
 Details
-Base Rent: $2,395
+Base Rent: $2,390
 2 Beds
 2.5 Baths
 1,230 Sq. Ft.
-Available Nov. 25, 2026
+Available Nov. 26, 2026
 1st Floor
 Amenities
 Two Car Garage
@@ -127,14 +127,14 @@ Apply Now
 Rent Calc
 Unit #1425
 Monthly price from
-$2,288
+$2,283
 including fees
 Details
-Base Rent: $2,270
+Base Rent: $2,265
 2 Beds
 2.5 Baths
 1,230 Sq. Ft.
-Available Nov. 25, 2026
+Available Nov. 26, 2026
 1st Floor
 Amenities
 Two Car Garage
@@ -153,7 +153,7 @@ Base Rent: $2,660
 3 Beds
 3.5 Baths
 1,545 Sq. Ft.
-Available Nov. 25, 2026
+Available Nov. 26, 2026
 1st Floor
 Amenities
 Tandem Garage
@@ -165,14 +165,14 @@ Rent Calc
 Unit #2325
 Special Offer
 Monthly price from
-$2,143
+$2,138
 including fees
 Details
-Base Rent: $2,125
+Base Rent: $2,120
 2 Beds
 2.5 Baths
 1,274 Sq. Ft.
-Available Nov. 25, 2026
+Available Nov. 26, 2026
 1st Floor
 Amenities
 Tandem Garage
@@ -183,10 +183,10 @@ Apply Now
 Rent Calc
 Unit #1422
 Monthly price from
-$2,288
+$2,283
 including fees
 Details
-Base Rent: $2,270
+Base Rent: $2,265
 2 Beds
 2.5 Baths
 1,230 Sq. Ft.
@@ -219,10 +219,10 @@ Apply Now
 Rent Calc
 Unit #2031
 Monthly price from
-$2,053
+$2,058
 including fees
 Details
-Base Rent: $2,035
+Base Rent: $2,040
 1 Bed
 1 Bath
 837 Sq. Ft.
@@ -237,10 +237,10 @@ Apply Now
 Rent Calc
 Unit #222
 Monthly price from
-$2,953
+$2,948
 including fees
 Details
-Base Rent: $2,935
+Base Rent: $2,930
 3 Beds
 3.5 Baths
 1,545 Sq. Ft.
@@ -396,7 +396,7 @@ DOWNTOWN AUSTIN | TRAVIS HEIGHTS | ZILKER PARK
 MAA South Lamar
 
 Monthly price from
-$1,450 - $5,075 including fees
+$1,450 - $5,060 including fees
 Studio–2 bd
 1500 South Lamar Blvd, Austin, TX 78704
 Quick View
@@ -408,7 +408,7 @@ BARTON HILLS | ZILKER PARK | ROLLINGWOOD
 MAA Barton Skyway
 
 Monthly price from
-$1,456 - $3,456 including fees
+$1,456 - $4,091 including fees
 1–2 bd
 2901 Barton Skyway, Austin, TX 78746
 Quick View
@@ -420,7 +420,7 @@ UNIVERSITY HILLS
 MAA East Austin
 
 Monthly price from
-$836 - $2,586 including fees
+$836 - $2,596 including fees
 Studio–2 bd
 6600 Ed Bluestein, Austin, TX 78723
 Quick View

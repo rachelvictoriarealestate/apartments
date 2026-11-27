@@ -70,7 +70,7 @@ Gallery
 
 1 | 19
 Total Monthly Cost of Rental Starting From:
-$2,585.21 - $12,098.21*
+$2,591.21 - $12,120.21*
 
 Gables Republic Square brings together luxury apartment living and boutique hotel energy in the heart of Downtown Austin’s Warehouse District. Through its unique partnership with Hotel ZaZa Austin, residents enjoy a lifestyle that feels elevated, social, and distinctly Austin. Located directly across from Republic Square Park and near Lady Bird Lake, Whole Foods Market, live music venues, rooftop bars, and some of the city’s best restaurants, the community places you in the center of the action while still offering the convenience of a walkable neighborhood. Whether you are strolling the Republic Square Farmers Market with your furry sidekick, soaking in the excitement of SXSW, or enjoying a stress-free commute through Downtown Austin, Gables Republic Square makes everyday life feel connected to the city’s energy.
 
@@ -81,11 +81,11 @@ Homes Available:
 
 View All Floor Plans
 
-Total Monthly Cost of Rental Starting From: $2,585.21*
+Total Monthly Cost of Rental Starting From: $2,591.21*
 
 Studio
 
-Total Monthly Cost of Rental Starting From: $2,585.21*
+Total Monthly Cost of Rental Starting From: $2,591.21*
 
 1 Bedroom
 
@@ -93,7 +93,7 @@ Total Monthly Cost of Rental Starting From: $3,164.21*
 
 2 Bedroom
 
-Total Monthly Cost of Rental Starting From: $4,054.21*
+Total Monthly Cost of Rental Starting From: $4,043.21*
 
 3 Bedroom
 
@@ -108,76 +108,6 @@ More to Love
 Flexible Rental Payment Options
 Texas Real Estate Commission Information About Brokerage Services
 City of Austin Pre-Application Disclosure Form
-Transparent Pricing
-
-We believe in full transparency when it comes to pricing. Explore each fee category to see exactly what's included in your housing costs — no hidden charges, no surprises.
-
-Required One-Time Fees
-Required Recurring Fees
-Optional Recurring Fees
-Situational Fees
-Required One-Time Fees
-
-These fees are charged once prior to or at move-in and are not recurring. If applicable, they may include application fees, administrative fees, and deposits.
-
-Administrative Fee
-$400.00
-Application Deposit
-$1,000.00
-Application Fee
-$105.00
-Security Deposit
-Taken from Application Deposit
-Required Recurring Fees
-
-These fees are charged on a recurring basis and are required for all residents. They may include utilities, insurance, and service fees.
-
-Boiler Management Fee
-$16.75
-Electric
-Varies
-Gas
-Varies
-Liability Insurance
-Varies
-Pest Control
-$2.46
-Sewer
-Varies
-Stormwater
-Varies
-Trash
-Varies
-Utility Administration Fee
-Varies
-Valet Trash
-$32.00
-Water
-Varies
-Optional Recurring Fees
-
-These fees are charged on a recurring basis but are not required for all residents. They may include optional services, upgrades, or add-ons.
-
-Bike Storage
-$5.00
-Pet Rent
-$25.00 - $50.00
-Reserved Parking
-$200.00
-Storage Unit
-$100.00
-Unreserved Parking
-$150.00
-Situational Fees
-
-These fees apply only in specific situations and may vary.
-
-Pet Deposit
-$200.00 - $300.00
-Pet Fee
-$400.00 - $600.00
-*Quoted rent is per month for new move-ins to our community, based on the move-in date selected. Prices include base rent and all mandatory fees. Variable, user-selected optional fees or usage-based fees are not calculated in totals. Additional fees may apply in specific situations as detailed in the application and/or lease agreement. Some fees may not apply to apartment homes subject to an income-restricted housing program. All pricing and fees are subject to the terms of the application and/or lease.
-View All Fees
 A Day in the Life
 Every experience at one of our communities is unique. Click to follow these three residents throughout their day to see why they love calling a Gables community home.
 Meet Our Residents
@@ -192,6 +122,7 @@ LEED Building Design and Construction - Certified
 2023 ENERGY STAR Certified
 IREM Certified Sustainable Property
 2024 Elite 1% ORA Power Ranking
+1 | 7
 Ready to Make a Move?
 Check to see what will be available for your move-in date or contact us and one of our team members will be in touch soon!
 Call Us

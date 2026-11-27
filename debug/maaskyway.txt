@@ -107,7 +107,7 @@ Base Rent: $1,513
 1 Bath
 790 Sq. Ft.
 High-Speed WiFi
-Available Nov. 26, 2026
+Available Nov. 27, 2026
 Amenities
 Fireplace
 Redesigned Interior
@@ -124,7 +124,7 @@ Base Rent: $1,353
 1 Bath
 650 Sq. Ft.
 High-Speed WiFi
-Available Nov. 26, 2026
+Available Nov. 27, 2026
 Amenities
 Select K/B upgrades
 Smart Home Technology
@@ -141,7 +141,7 @@ Base Rent: $1,513
 1 Bath
 790 Sq. Ft.
 High-Speed WiFi
-Available Nov. 26, 2026
+Available Nov. 27, 2026
 Amenities
 Fireplace
 Redesigned Interior
@@ -158,7 +158,7 @@ Base Rent: $1,353
 1 Bath
 650 Sq. Ft.
 High-Speed WiFi
-Available Nov. 26, 2026
+Available Nov. 27, 2026
 Amenities
 Redesigned Interior
 Smart Home Technology
@@ -175,7 +175,7 @@ Base Rent: $1,483
 1 Bath
 790 Sq. Ft.
 High-Speed WiFi
-Available Nov. 26, 2026
+Available Nov. 27, 2026
 Amenities
 Smart Home Technology
 Redesigned Interior
@@ -192,7 +192,7 @@ Base Rent: $1,483
 1 Bath
 790 Sq. Ft.
 High-Speed WiFi
-Available Nov. 26, 2026
+Available Nov. 27, 2026
 Amenities
 Redesigned Interior
 Smart Home Technology
@@ -209,7 +209,7 @@ Base Rent: $1,353
 1 Bath
 650 Sq. Ft.
 High-Speed WiFi
-Available Nov. 26, 2026
+Available Nov. 27, 2026
 Amenities
 Redesigned Interior
 Smart Home Technology
@@ -578,7 +578,7 @@ UNIVERSITY HILLS
 MAA East Austin
 
 Monthly price from
-$836 - $2,596 including fees
+$831 - $2,596 including fees
 Studio–2 bd
 6600 Ed Bluestein, Austin, TX 78723
 Quick View

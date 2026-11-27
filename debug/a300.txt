@@ -40,9 +40,9 @@ Studio - 2 Bedrooms
 
 Total Monthly Price Starting at
 
-$2,570.50
+$2,563.50
 
-(Base Rent $2,568)
+(Base Rent $2,561)
 
 Schedule a Tour
 Floor Plans & Pricing
@@ -113,11 +113,33 @@ Now
 
 Total Monthly Price Starting at
 
-$2,596.50/mo.
+$2,608.50/mo.
 
-(Base Rent $2,594)
+(Base Rent $2,606)
 
 Get Pricing
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
+A2A
+
+0 AVAILABLE UNITS
+
+Bed
+
+1
+
+Bath
+
+1
+
+SQFT
+
+676
+
+Contact Office
 
 Square footage & measurements are approximate, and floor plan details may vary.
 
@@ -140,28 +162,6 @@ SQFT
 561
 
 691
-
-Contact Office
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
-A2A
-
-0 AVAILABLE UNITS
-
-Bed
-
-1
-
-Bath
-
-1
-
-SQFT
-
-676
 
 Contact Office
 
@@ -235,28 +235,6 @@ Square footage & measurements are approximate, and floor plan details may vary.
 
 Virtual Tours
 
-A3A
-
-0 AVAILABLE UNITS
-
-Bed
-
-1
-
-Bath
-
-1
-
-SQFT
-
-705
-
-Contact Office
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
 A3
 
 0 AVAILABLE UNITS
@@ -274,6 +252,28 @@ SQFT
 768
 
 810
+
+Contact Office
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
+A3A
+
+0 AVAILABLE UNITS
+
+Bed
+
+1
+
+Bath
+
+1
+
+SQFT
+
+705
 
 Contact Office
 
@@ -305,28 +305,6 @@ Square footage & measurements are approximate, and floor plan details may vary.
 
 Virtual Tours
 
-A4B
-
-0 AVAILABLE UNITS
-
-Bed
-
-1
-
-Bath
-
-1
-
-SQFT
-
-831
-
-Contact Office
-
-Square footage & measurements are approximate, and floor plan details may vary.
-
-Virtual Tours
-
 A4CD
 
 Den/Office
@@ -344,6 +322,28 @@ Bath
 SQFT
 
 890
+
+Contact Office
+
+Square footage & measurements are approximate, and floor plan details may vary.
+
+Virtual Tours
+
+A4B
+
+0 AVAILABLE UNITS
+
+Bed
+
+1
+
+Bath
+
+1
+
+SQFT
+
+831
 
 Contact Office
 
@@ -449,9 +449,9 @@ Now
 
 Total Monthly Price Starting at
 
-$2,570.50/mo.
+$2,563.50/mo.
 
-(Base Rent $2,568)
+(Base Rent $2,561)
 
 Get Pricing
 
@@ -481,9 +481,9 @@ Available
 
 Total Monthly Price Starting at
 
-$2,720.50/mo.
+$2,721.50/mo.
 
-(Base Rent $2,718)
+(Base Rent $2,719)
 
 Get Pricing
 
@@ -515,9 +515,9 @@ Available
 
 Total Monthly Price Starting at
 
-$2,954.50/mo.
+$2,955.50/mo.
 
-(Base Rent $2,952)
+(Base Rent $2,953)
 
 Get Pricing
 
@@ -547,9 +547,9 @@ Now
 
 Total Monthly Price Starting at
 
-$3,498.50/mo.
+$3,475.50/mo.
 
-(Base Rent $3,496)
+(Base Rent $3,473)
 
 Get Pricing
 
